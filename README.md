@@ -71,7 +71,7 @@ OpenITI (main folder)
 - `data`:
   - main data folder containing subfolders (Author > Book > Versions)
 - `README.md`: release notes
-- `OpenITI_metatda_2019_1_1`: metadata file
+- `OpenITI_metadata_2019_1_1`: metadata file
 
 
 
