@@ -13,12 +13,11 @@ Machine-readable metadata on the corpus is available in the &quot;OpenITI\_metad
 3. **author** : Name of the author (from versionURI)
 4. **book** : Book title (from versionURI)
 5. **id** : Book id, which originally comes from the collection the source is taken from (from versionURI)
-6. **status** : pri/sec — &quot;pri&quot; value can be used to select only unique titles from the corpus (i.e., excluding versions of the same title);
+6. **status** : pri/sec — &quot;pri&quot; value can be used to select only unique titles from the corpus (i.e., excluding versions of the same title)
 7. **length:** length in words
 8. **url:** link to the text on github
-9. **instantiation** : technical field
-10. **tags:** genre/subject tags aggregated from the metadata of original collections (partially unified)
-11. **localPath:** local path to the text in the OpenITI folder structure
+9. **tags:** genre/subject tags aggregated from the metadata of original collections (partially unified)
+10. **localPath:** local path to the text in the OpenITI folder structure
 
 ## General Description
 
@@ -70,7 +69,7 @@ For more information on OpenITI, see [https://maximromanov.github.io/OpenITI/](h
 OpenITI (main folder)
 
 - `data`:
-  - main data folder containing subfolders (Author \&gt; Book \&gt; Versions)
+  - main data folder containing subfolders (Author > Book > Versions)
 - `README.md`: release notes
 - `OpenITI_metatda_2019_1_1`: metadata file
 
