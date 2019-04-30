@@ -1,4 +1,4 @@
-# OpenITI, ver. 2019.1(1)<sup>1</sup>, Release Notes
+# OpenITI, ver. 2019.1(1)<sup>1</sup>—Release Notes
 
 _Open Islamicate Texts Initiative_ ( **OpenITI** , see [https://openiti.github.io/](https://openiti.github.io/)) is a multi-institutional effort to construct the first machine-actionable scholarly corpus of premodern Islamicate texts. Led by researchers at the Aga Khan University (AKU), University of Vienna (UV), Leipzig University (LU), and the Roshan Institute for Persian Studies at the University of Maryland (College Park) and an interdisciplinary advisory board of leading digital humanists and Islamic, Persian, and Arabic studies scholars, **OpenITI** aims to provide the essential textual infrastructure in Arabic, Persian and other Islamicate languages for new forms of textual analysis and digital scholarship. In the process, **OpenITI** will enable new synergies between Digital Humanities and the inter-related Islamicate fields of Islamic, Persian, and Arabic Studies. In addition to support from the researchers&#39; home institutions, it is supported by funding from the European Research Council and the Qatar National Library.
 
@@ -72,6 +72,7 @@ OpenITI (main folder)
 - `data`:
   - main data folder containing subfolders (Author \&gt; Book \&gt; Versions)
 - `README.md`: release notes
+- `OpenITI_metatda_2019_1_1`: metadata file
 
 
 
