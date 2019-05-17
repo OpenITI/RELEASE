@@ -10,12 +10,12 @@ Currently, **OpenITI** contains almost exclusively Arabic texts, which were firs
 
 Machine-readable metadata on the corpus is available in the &quot;OpenITI\_metadata\_2019\_1\_1&quot; file in TSV format, including the following columns:
 
-1. **versionUri** : a human-readable URI of the current version of the book including the date of the death of the author, author&#39;s name, book name, ID of the original source (online library) where the source comes from, and the collection to which the source belongs to in the OpenITI corpus. URIs were deliberately made human-readable to make it easier to work with the corpus. Examples of URIs and the description of URI formation principles can be found at [https://maximromanov.github.io/OpenITI/#cts-compliant-naming-pattern](https://maximromanov.github.io/OpenITI/#cts-compliant-naming-pattern).
-2. **date** : Date of death of the author (_hijrī_, from versionURI)
+1. **versionUri** : a human-readable URI of the current version of the book including the date of the death of the author, author’s name, book name, ID of the original source (online library) where the source comes from, and the language domain (e.g., **-ara1** is for Arabic, **-per1**—for Persian). URIs were deliberately made human-readable to make it easier to work with the corpus. Examples of URIs and the description of URI formation principles can be found at [https://maximromanov.github.io/OpenITI/#cts-compliant-naming-pattern](https://maximromanov.github.io/OpenITI/#cts-compliant-naming-pattern).
+2. **date** : Date of death of the author (*hijrī*, from versionURI)
 3. **author** : Name of the author (from versionURI)
 4. **book** : Book title (from versionURI)
 5. **id** : Book id, which originally comes from the collection the source is taken from (from versionURI)
-6. **status** : pri/sec — &quot;pri&quot; value can be used to select only unique titles from the corpus (i.e., excluding versions of the same title)
+6. **status** : pri/sec — “pri” value can be used to select only unique titles from the corpus (i.e., excluding versions of the same title)
 7. **length:** length in words
 8. **url:** link to the text on github
 9. **tags:** genre/subject tags aggregated from the metadata of original collections (partially unified)
@@ -23,7 +23,7 @@ Machine-readable metadata on the corpus is available in the &quot;OpenITI\_metad
 
 ## General Description
 
-The goal of the **OpenITI** is to build a machine-actionable corpus of premodern texts in Islamicate languages to encourage computational analysis of the Islamicate written tradition. Most of the Arabic texts have been collected from open-access online collections of premodern and modern Arabic texts such as [http://shamela.ws/](http://shamela.ws/) and [http://shiaonlinelibrary.com/](http://shiaonlinelibrary.com/) (These texts have Shamela+NUMBER and Shia+NUMBER; some texts come from _al-Jāmiʿ al-kabīr_, which has been published on an external HDD and is not available online (JK+NUMBER). Initial metadata from these collections is preserved at the beginning of each file. (The next release will include a number of Persian texts (primarily from the Ganjoor digital library, [https://ganjoor.net/](https://ganjoor.net/))).
+The goal of the **OpenITI** is to build a machine-actionable corpus of premodern texts in Islamicate languages to encourage computational analysis of the Islamicate written tradition. Most of the Arabic texts have been collected from open-access online collections of premodern and modern Arabic texts such as <http://shamela.ws/> and <http://shiaonlinelibrary.com/> (These texts have `Shamela+NUMBER` and `Shia+NUMBER`; some texts come from _al-Jāmiʿ al-kabīr_, which has been published on an external HDD and is not available online (`JK+NUMBER`). Initial metadata from these collections is preserved at the beginning of each file. (The next release will include a number of Persian texts, which are coming primarily from the Ganjoor digital library, <https://ganjoor.net/>).
 
 Currently uploaded texts have been automatically converted into the OpenITI mARkdown format—a flavor of markdown that was developed for tagging premodern Islamicate texts. All of our texts require further editing to properly tag their structure. A detailed description of the mARkdown scheme and the tagging workflow can be found in the **OpenITI mARkdown section** ([https://maximromanov.github.io/mARkdown/](https://maximromanov.github.io/mARkdown/)). When manual tagging is complete the texts will be converted into a CTS-compliant XML format.
 
@@ -40,7 +40,7 @@ In the long run we envision that the entire corpus will be converted into TEI XM
 ## Statistics on the corpus
 
 | **Category** | **Stats** |
-| --- | --- |
+| --- | ---:|
 | Number of titles (with all versions/editions) | 7,144 |
 | Number of unique titles | 4,288 |
 | Number of authors | 1,859 |
@@ -52,7 +52,7 @@ In the long run we envision that the entire corpus will be converted into TEI XM
 ### Lengths of texts
 
 |  | **Words** | **Pages (300 w/p)** |
-| --- | --- | --- |
+| --- | ---:| ---:|
 | _Min._ | 150 | 0 |
 | _1st Qu._ | 32,700 | 109 |
 | _Median_ | 105,300 | 351 |
@@ -64,7 +64,7 @@ In the long run we envision that the entire corpus will be converted into TEI XM
 
  ![alt text](https://github.com/OpenITI/2019.1/blob/master/chrono_img.png?raw=true)
 
-For more information on OpenITI, see [https://maximromanov.github.io/OpenITI/](https://maximromanov.github.io/OpenITI/). The current release is available at [https://github.com/OpenITI/2019.1](https://github.com/OpenITI/2019.1).
+For more information on OpenITI, see <https://maximromanov.github.io/OpenITI/>.
 
 **Folder structure:**
 
