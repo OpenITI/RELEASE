@@ -60,7 +60,7 @@ In the long run we envision that the entire corpus will be converted into TEI XM
 
 ### Chronological Distribution of Texts
 
- ![alt text](https://raw.githubusercontent.com/OpenITI/2019.1/master/chrono_img.png?token=AAQGNBGVDUKUG2JWZUZBVFK42GOOI)
+ ![alt text](https://github.com/OpenITI/2019.1/blob/master/chrono_img.png?raw=true)
 
 For more information on OpenITI, see [https://maximromanov.github.io/OpenITI/](https://maximromanov.github.io/OpenITI/). The current release is available at [https://github.com/OpenITI/2019.1](https://github.com/OpenITI/2019.1).
 
