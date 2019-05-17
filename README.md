@@ -1,8 +1,10 @@
-# OpenITI, ver. 2019.1(1)<sup>1</sup>—Release Notes
+# OpenITI, ver. 2019.1.1—Release Notes
 
-_Open Islamicate Texts Initiative_ (**OpenITI**, see [https://openiti.github.io/](https://openiti.github.io/)) is a multi-institutional effort to construct the first machine-actionable scholarly corpus of premodern Islamicate texts. Led by researchers at the Aga Khan University (AKU), University of Vienna (UV), Leipzig University (LU), and the Roshan Institute for Persian Studies at the University of Maryland (College Park) and an interdisciplinary advisory board of leading digital humanists and Islamic, Persian, and Arabic studies scholars, **OpenITI** aims to provide the essential textual infrastructure in Arabic, Persian and other Islamicate languages for new forms of textual analysis and digital scholarship. In the process, **OpenITI** will enable new synergies between Digital Humanities and the inter-related Islamicate fields of Islamic, Persian, and Arabic Studies. In addition to support from the researchers&#39; home institutions, it is supported by funding from the European Research Council and the Qatar National Library.
+**Note on Release Numbering**: Version **2019.1.1**—where **2019** is the year of the release, the first dotted number—**.1**—is the ordinal release number in 2019, and the second dotted number—**.1**—is the overall release number; the first dotted number will reset every year, while the second one will continue on increasing.
 
-Currently, **OpenITI** contains almost exclusively Arabic texts, which were first assembled into a corpus within the **OpenArabic** project, developed first at Tufts University (at _The Perseus Project_, 2013–2015) and then at Leipzig University (at the Alexander von Humboldt Chair for Digital Humanities, 2015–2017)—in both cases with the support and under the patronage of Prof. Gregory Crane. The much more limited number of Persian texts were compiled during 2015-2016 in the Persian Digital Library (PDL) pilot (see: [https://persdigumd.github.io/PDL/](https://persdigumd.github.io/PDL/)) at Roshan Institute for Persian Studies at the University of Maryland. These texts have not been made fully compatible with OpenITI mARkdown yet, but are available in the OpenITI repository in TEI-XML (these texts will be made fully available in next releases).
+*Open Islamicate Texts Initiative* (**OpenITI**, see <https://openiti.github.io/<) is a multi-institutional effort to construct the first machine-actionable scholarly corpus of premodern Islamicate texts. Led by researchers at the Aga Khan University (AKU), University of Vienna (UV), Leipzig University (LU), and the Roshan Institute for Persian Studies at the University of Maryland (College Park) and an interdisciplinary advisory board of leading digital humanists and Islamic, Persian, and Arabic studies scholars, **OpenITI** aims to provide the essential textual infrastructure in Arabic, Persian and other Islamicate languages for new forms of textual analysis and digital scholarship. In the process, **OpenITI** will enable new synergies between Digital Humanities and the inter-related Islamicate fields of Islamic, Persian, and Arabic Studies. In addition to support from the researchers’ home institutions, it is supported by funding from the European Research Council and the Qatar National Library. 
+
+Currently, **OpenITI** contains almost exclusively Arabic texts, which were first assembled into a corpus within the **OpenArabic** project, developed first at Tufts University (at *The Perseus Project*, 2013–2015) and then at Leipzig University (at the Alexander von Humboldt Chair for Digital Humanities, 2015–2017)—in both cases with the support and under the patronage of Prof. Gregory Crane. The much more limited number of Persian texts were compiled during 2015-2016 in the Persian Digital Library (PDL) pilot (see: <https://persdigumd.github.io/PDL/>) at Roshan Institute for Persian Studies at the University of Maryland. These texts have not been made fully compatible with OpenITI mARkdown yet and will be made fully available in next releases. 
 
 ## Corpus Metadata
 
@@ -72,8 +74,3 @@ OpenITI (main folder)
   - main data folder containing subfolders (Author > Book > Versions)
 - `README.md`: release notes
 - `OpenITI_metadata_2019_1_1`: metadata file
-
-
-
-#
-<sup>1</sup> Version **2019.1(1)**—where **2019** is the year of the release, **.1** is the ordinal release number in **2019** , and **(1)** is the overall release number; **.1** will reset every year, while **(1)** will continue on increasing.
