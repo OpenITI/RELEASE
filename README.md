@@ -66,6 +66,8 @@ In the long run we envision that the entire corpus will be converted into TEI XM
 
 For more information on OpenITI, see <https://maximromanov.github.io/OpenITI/>.
 
+Link to Zenodo: <https://zenodo.org/account/settings/github/repository/OpenITI/RELEASE>
+
 **Folder structure:**
 
 OpenITI (main folder)
