@@ -4,7 +4,7 @@
 
 **Co-PIs**: Matthew Thomas Miller (University of Maryland, College Park), Maxim G. Romanov (University of Vienna), Sarah Bowen Savant (Aga Khan University—ISMC, London).
 
-**Suggested Citation for this release:** Maxim Romanov, and Masoumeh Seydi. 2019. “OpenITI: A Machine-Readable Corpus of Islamicate Texts”. Zenodo. <doi:10.5281/zenodo.3082464>.
+**Suggested Citation for this release:** Maxim Romanov, and Masoumeh Seydi. 2019. “OpenITI: A Machine-Readable Corpus of Islamicate Texts”. Zenodo. [https://doi.org/10.5281/zenodo.3082464](doi:10.5281/zenodo.3082464).
 
 **\*** **Note on Release Numbering**: Version **2019.1.1**—where **2019** is the year of the release, the first dotted number—**.1**—is the ordinal release number in 2019, and the second dotted number—**.1**—is the overall release number; the first dotted number will reset every year, while the second one will continue on increasing.
 
