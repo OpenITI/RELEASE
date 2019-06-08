@@ -1,4 +1,5 @@
-# OpenITI, ver. 2019.1.1—Release Notes\*
+# OpenITI, ver. 2019.1.1—Release Notes\* [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3082464.svg)](https://doi.org/10.5281/zenodo.3082464)
+
 
 **Suggested Citation for this release:** Maxim Romanov, and Masoumeh Seydi. 2019. “OpenITI: A Machine-Readable Corpus of Islamicate Texts”. Zenodo. [doi:10.5281/zenodo.3082464](https://doi.org/10.5281/zenodo.3082464).
 
