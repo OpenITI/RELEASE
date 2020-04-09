@@ -1,9 +1,14 @@
-00#VERS#LENGTH###: 6660
+00#VERS#CLENGTH##: 26821
+00#VERS#LENGTH###: 6608
 00#VERS#URI######: 0429AbuMansurThacalibi.DurarHikm.Shamela0001399-ara1
 80#VERS#BASED####: permalink, permalink, permalink
 80#VERS#COLLATED#: permalink, permalink, permalink
-80#VERS#LINKS####: all@id, vol1@id, vol2@id, vol3@id, volX@id
-90#VERS#COMMENT##: a free running comment here; you can add as many
-    lines as you see fit; the main goal of this comment section is to have a
-    place to record valuable information, which is difficult to formalize
-    into the above given categories.
+80#VERS#LINKS####:
+    https://archive.org/details/elhilalymohamad_gmail_20180213_2010
+90#VERS#ANNOTATOR: Eric van Lit; Gowaart Van Den Bossche
+90#VERS#COMMENT##: Originally annotated by Eric, validated by Gowaart,
+    only minor changes. Sea readme file for some comments by Eric about
+    possible further subdivision. This particular edition not found on
+    worldcat.
+90#VERS#DATE#####: 2019-08-01
+90#VERS#ISSUES###: NO_MAJOR_ISSUES

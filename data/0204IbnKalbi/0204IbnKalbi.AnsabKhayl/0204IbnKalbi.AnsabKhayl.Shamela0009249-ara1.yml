@@ -1,9 +1,15 @@
-00#VERS#LENGTH###: 6278
+00#VERS#CLENGTH##: 25901
+00#VERS#LENGTH###: 6187
 00#VERS#URI######: 0204IbnKalbi.AnsabKhayl.Shamela0009249-ara1
-80#VERS#BASED####: permalink, permalink, permalink
-80#VERS#COLLATED#: permalink, permalink, permalink
-80#VERS#LINKS####: all@id, vol1@id, vol2@id, vol3@id, volX@id
-90#VERS#COMMENT##: a free running comment here; you can add as many
-    lines as you see fit; the main goal of this comment section is to have a
-    place to record valuable information, which is difficult to formalize
-    into the above given categories.
+80#VERS#BASED####: NOT_FOUND
+80#VERS#COLLATED#: NOT_FOUND
+80#VERS#LINKS####: https://www.almeshkat.net/book/5069
+90#VERS#ANNOTATOR: HRH
+90#VERS#COMMENT##: 1- The book is about the horses that belonged to
+    different people and information about these horses (like the poems that
+    describe them). Although the names in the book are for horses (not for
+    humans), I tagged them as ### $ since this is the only way to categorize
+    the text (moreover, the names might be important for literary studies).
+    2- I tagged the “إجازة” at the beginning of the book as editorial.
+90#VERS#DATE#####: 2019-11-04
+90#VERS#ISSUES###: NO_MAJOR_ISSUES

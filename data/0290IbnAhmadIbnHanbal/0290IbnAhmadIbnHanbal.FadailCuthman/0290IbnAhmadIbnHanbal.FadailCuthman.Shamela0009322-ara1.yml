@@ -1,9 +1,10 @@
-00#VERS#LENGTH###: 17126
+00#VERS#CLENGTH##: 64114
+00#VERS#LENGTH###: 17051
 00#VERS#URI######: 0290IbnAhmadIbnHanbal.FadailCuthman.Shamela0009322-ara1
-80#VERS#BASED####: permalink, permalink, permalink
-80#VERS#COLLATED#: permalink, permalink, permalink
-80#VERS#LINKS####: all@id, vol1@id, vol2@id, vol3@id, volX@id
-90#VERS#COMMENT##: a free running comment here; you can add as many
-    lines as you see fit; the main goal of this comment section is to have a
-    place to record valuable information, which is difficult to formalize
-    into the above given categories.
+80#VERS#BASED####: http://www.worldcat.org/oclc/756049237
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/756049237
+80#VERS#LINKS####: https://www.almeshkat.net/book/4249
+90#VERS#ANNOTATOR: HRH
+90#VERS#COMMENT##: NO MAJOR ISSUES
+90#VERS#DATE#####: 2019-07-28
+90#VERS#ISSUES###: NO_MAJOR_ISSUES

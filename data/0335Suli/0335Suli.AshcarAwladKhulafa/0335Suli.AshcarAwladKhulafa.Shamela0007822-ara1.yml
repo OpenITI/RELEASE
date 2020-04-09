@@ -1,9 +1,11 @@
-00#VERS#LENGTH###: 43650
+00#VERS#CLENGTH##: 176627
+00#VERS#LENGTH###: 43636
 00#VERS#URI######: 0335Suli.AshcarAwladKhulafa.Shamela0007822-ara1
-80#VERS#BASED####: permalink, permalink, permalink
-80#VERS#COLLATED#: permalink, permalink, permalink
-80#VERS#LINKS####: all@id, vol1@id, vol2@id, vol3@id, volX@id
-90#VERS#COMMENT##: a free running comment here; you can add as many
-    lines as you see fit; the main goal of this comment section is to have a
-    place to record valuable information, which is difficult to formalize
-    into the above given categories.
+80#VERS#BASED####: http://www.worldcat.org/oclc/929695720
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/929695720
+80#VERS#LINKS####:
+    https://ia802601.us.archive.org/33/items/waqaakakw/aakakw.pdf
+90#VERS#ANNOTATOR: HRH
+90#VERS#COMMENT##:
+90#VERS#DATE#####: 2019-12-12
+90#VERS#ISSUES###: HTML_TAGS

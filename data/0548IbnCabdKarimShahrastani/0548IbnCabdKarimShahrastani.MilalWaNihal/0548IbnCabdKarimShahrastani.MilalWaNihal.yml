@@ -1,19 +1,21 @@
 00#BOOK#URI######: 0548IbnCabdKarimShahrastani.MilalWaNihal
 10#BOOK#GENRES###: src@keyword, src@keyword, src@keyword
-10#BOOK#TITLEA#AR: Kitāb al-Muʾallif
-10#BOOK#TITLEB#AR: Risālaŧ al-Muʾallif
-20#BOOK#WROTE####: URIs from Althurayya, comma separated
-30#BOOK#WROTE##AH: YEAR-MON-DA (X+ for unknown)
-40#BOOK#ABRIDGED#: URI of a book from OpenITI, or [Author's Title]
-40#BOOK#COMMENTD#: URI of a book from OpenITI, or [Author's Title]
-40#BOOK#FOLLOWED#: URI of a book from OpenITI, or [Author's Title]
-40#BOOK#PRECEDED#: URI of a book from OpenITI, or [Author's Title]
-80#BOOK#EDITIONS#: permalink, permalink, permalink
-80#BOOK#LINKS####: permalink, permalink, permalink
+10#BOOK#TITLEA#AR: Kitāb al-Milal wa-al-Niḥal
+10#BOOK#TITLEB#AR: 
+20#BOOK#WROTE####: 
+30#BOOK#WROTE##AH: 0521-XX-XX
+40#BOOK#ABRIDGED#: 
+40#BOOK#COMMENTD#: 
+40#BOOK#FOLLOWED#: 
+40#BOOK#PRECEDED#: 
+80#BOOK#EDITIONS#: http://www.worldcat.org/oclc/961239676, http://www.worldcat.org/oclc/145083028
+80#BOOK#LINKS####: https://archive.org/details/FP147128, https://archive.org/details/WAQ114027
 80#BOOK#MSS######: permalink, permalink, permalink
-80#BOOK#STUDIES##: permalink, permalink, permalink
-80#BOOK#TRANSLAT#: permalink, permalink, permalink
-90#BOOK#COMMENT##: a free running comment here; you can add as many
-    lines as you see fit; the main goal of this comment section is to have a
-    place to record valuable information, which is difficult to formalize
-    into the above given categories.
+80#BOOK#STUDIES##: http://dx.doi.org/10.1163/1573-3912_islam_SIM_6769
+80#BOOK#TRANSLAT#: http://www.worldcat.org/oclc/611686162
+90#BOOK#COMMENT##: EI2: "There are numerous editions, including two semicritical ones. 
+    W. Cureton, 2 vols., London 1842-6; and Muḥammad Fatḥ Allāh Badrān, 2 vols., 
+    Cairo 1370-5/1951-5". 
+    Two digital versions are in OpenITI.
+    Shia + JK have the Kīlānī edition, but both lack all punctuation.
+    Shamela has the Wakīl edition. 

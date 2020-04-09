@@ -1,9 +1,13 @@
+00#VERS#CLENGTH##: 40629
 00#VERS#LENGTH###: 10528
 00#VERS#URI######: 0261Muslim.Munfaridat.JK000512-ara1
-80#VERS#BASED####: permalink, permalink, permalink
-80#VERS#COLLATED#: permalink, permalink, permalink
-80#VERS#LINKS####: all@id, vol1@id, vol2@id, vol3@id, volX@id
-90#VERS#COMMENT##: a free running comment here; you can add as many
-    lines as you see fit; the main goal of this comment section is to have a
-    place to record valuable information, which is difficult to formalize
-    into the above given categories.
+80#VERS#BASED####: http://www.worldcat.org/oclc/1044628806
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/1044628806
+80#VERS#LINKS####: https://www.almeshkat.net/book/1870
+90#VERS#ANNOTATOR: HRH
+90#VERS#COMMENT##: 1- Most page numbers appear a little before or after
+    the correct place. 2- There are a few numbers that don’t include any
+    name (they are only a description of a person) or include more than one
+    name. I tagged them with an asterisk (i.e. ### $ *).
+90#VERS#DATE#####: 2019-10-19
+90#VERS#ISSUES###: PAGINATION

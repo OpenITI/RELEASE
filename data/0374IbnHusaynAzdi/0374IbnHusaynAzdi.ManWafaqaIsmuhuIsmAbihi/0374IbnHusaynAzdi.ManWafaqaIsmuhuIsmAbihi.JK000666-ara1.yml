@@ -1,9 +1,16 @@
+00#VERS#CLENGTH##: 5128
 00#VERS#LENGTH###: 1347
 00#VERS#URI######: 0374IbnHusaynAzdi.ManWafaqaIsmuhuIsmAbihi.JK000666-ara1
-80#VERS#BASED####: permalink, permalink, permalink
-80#VERS#COLLATED#: permalink, permalink, permalink
-80#VERS#LINKS####: all@id, vol1@id, vol2@id, vol3@id, volX@id
-90#VERS#COMMENT##: a free running comment here; you can add as many
-    lines as you see fit; the main goal of this comment section is to have a
-    place to record valuable information, which is difficult to formalize
-    into the above given categories.
+80#VERS#BASED####: http://www.worldcat.org/oclc/949516840
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/949516840
+80#VERS#LINKS####:
+    https://ia803103.us.archive.org/26/items/a1159n/a1159n.pdf
+90#VERS#ANNOTATOR: HRH
+90#VERS#COMMENT##: 1- Some page numbers appear after their correct
+    places. 2- Another edition of the text (the Shamela version) that is
+    accessible on the internet can be found here:
+    https://ia801007.us.archive.org/19/items/a1524n/a1524n.pdf; and a
+    manuscript of the text is accessible here:
+    http://wadod.com/bookshelf/book/9
+90#VERS#DATE#####: 2020-01-01
+90#VERS#ISSUES###: PAGINATION

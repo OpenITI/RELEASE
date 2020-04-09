@@ -1,9 +1,15 @@
-00#VERS#LENGTH###: 487518
+00#VERS#CLENGTH##: 1798635
+00#VERS#LENGTH###: 480861
 00#VERS#URI######: 0256Bukhari.TarikhKabir.Shamela0000956-ara1
-80#VERS#BASED####: permalink, permalink, permalink
-80#VERS#COLLATED#: permalink, permalink, permalink
-80#VERS#LINKS####: all@id, vol1@id, vol2@id, vol3@id, volX@id
-90#VERS#COMMENT##: a free running comment here; you can add as many
-    lines as you see fit; the main goal of this comment section is to have a
-    place to record valuable information, which is difficult to formalize
-    into the above given categories.
+80#VERS#BASED####: http://www.worldcat.org/oclc/235985274
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/235985274
+80#VERS#LINKS####: https://archive.org/details/waq15291
+90#VERS#ANNOTATOR: HRH
+90#VERS#COMMENT##: These editorial sections are the note of the scribe:
+    PageV01P002; PageV02P394; PageV09P093. 2- A few analytical tags in
+    PageV01P004-7 that should be removed. 3- In some pages, a part of the
+    footnote is entered into the text (sometimes with the explanatory word
+    “(هامش *)” and sometimes without it).  4- PageV07P241-256 have not been
+    typed (according to the note of the typist).
+90#VERS#DATE#####: 2019-11-10
+90#VERS#ISSUES###: HTML_TAGS, PAGINATION, MISSING_PARTS

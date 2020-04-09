@@ -1,9 +1,19 @@
-00#VERS#LENGTH###: 531581
+00#VERS#CLENGTH##: 2182728
+00#VERS#LENGTH###: 539199
 00#VERS#URI######: 0314IbnActhamKufi.Futuh.Shia003675Vols-ara1
-80#VERS#BASED####: permalink, permalink, permalink
-80#VERS#COLLATED#: permalink, permalink, permalink
-80#VERS#LINKS####: all@id, vol1@id, vol2@id, vol3@id, volX@id
-90#VERS#COMMENT##: a free running comment here; you can add as many
-    lines as you see fit; the main goal of this comment section is to have a
-    place to record valuable information, which is difficult to formalize
-    into the above given categories.
+80#VERS#BASED####: http://www.worldcat.org/oclc/716122446
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/716122446
+80#VERS#LINKS####: https://archive.org/details/Kitabfotouh
+90#VERS#ANNOTATOR: HRH
+90#VERS#COMMENT##: 1- I think it’s better to keep the categorization of
+    the book and tag all the headers as second-level header. I tried to make
+    the categorization more precise by dividing the book according to the
+    names of the Caliphs and the major events; but I couldn’t (except a part
+    at the end of the last volume), since the succession of the subjects is
+    not clear. In most cases, the beginning and the end of the events are
+    not distinguishable and sometimes irrelevant issues appear in the
+    process of events. 2- Some English characters appear in the text (for
+    example: in Vol 1: pages 6, 7, 8, 25, 26, 30, 48, 54, 105, 152, 182,
+    186, 228, 230, …).
+90#VERS#DATE#####: 2019-08-31
+90#VERS#ISSUES###: RANDOM_CHARS

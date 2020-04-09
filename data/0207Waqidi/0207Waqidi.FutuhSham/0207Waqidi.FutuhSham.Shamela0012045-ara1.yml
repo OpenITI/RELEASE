@@ -1,9 +1,15 @@
+00#VERS#CLENGTH##: 1045249
 00#VERS#LENGTH###: 247517
 00#VERS#URI######: 0207Waqidi.FutuhSham.Shamela0012045-ara1
-80#VERS#BASED####: permalink, permalink, permalink
-80#VERS#COLLATED#: permalink, permalink, permalink
-80#VERS#LINKS####: all@id, vol1@id, vol2@id, vol3@id, volX@id
-90#VERS#COMMENT##: a free running comment here; you can add as many
-    lines as you see fit; the main goal of this comment section is to have a
-    place to record valuable information, which is difficult to formalize
-    into the above given categories.
+80#VERS#BASED####: http://www.worldcat.org/oclc/1102265616
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/1102265616
+80#VERS#LINKS####: http://almeshkat.net/book/1403;
+    https://www.noorlib.ir/View/fa/Book/BookView/Image/35224
+90#VERS#ANNOTATOR: HRH
+90#VERS#COMMENT##: 1- The second link in the VERS#LINKS is for the
+    second volume of the book.  It leads you to a payment-based website and
+    you must have an account to access the PDF (and that’s what I did!).
+    2-The quality of the electronic version was very high. I just made a few
+    corrections.
+90#VERS#DATE#####: 2019-08-26
+90#VERS#ISSUES###: NO_MAJOR_ISSUES

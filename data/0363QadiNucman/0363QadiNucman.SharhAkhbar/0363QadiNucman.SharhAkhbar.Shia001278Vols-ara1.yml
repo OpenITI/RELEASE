@@ -1,9 +1,21 @@
-00#VERS#LENGTH###: 340002
+00#VERS#CLENGTH##: 947035
+00#VERS#LENGTH###: 237536
 00#VERS#URI######: 0363QadiNucman.SharhAkhbar.Shia001278Vols-ara1
-80#VERS#BASED####: permalink, permalink, permalink
-80#VERS#COLLATED#: permalink, permalink, permalink
-80#VERS#LINKS####: all@id, vol1@id, vol2@id, vol3@id, volX@id
-90#VERS#COMMENT##: a free running comment here; you can add as many
-    lines as you see fit; the main goal of this comment section is to have a
-    place to record valuable information, which is difficult to formalize
-    into the above given categories.
+80#VERS#BASED####: http://www.worldcat.org/oclc/949390834
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/949390834
+80#VERS#LINKS####: http://alfeker.net/library.php?id=3662
+90#VERS#ANNOTATOR: HRH
+90#VERS#COMMENT##: The Shia version is the only version. So, I had to
+    work on it despite it was a plain text without any automatic tags. The
+    text has some problems: There are a lot of English characters in the
+    text. Besides, some numbers are typed in Arabic instead of English.
+    Moreover, at the beginning of some numbers, a tag like “NoteV02P013N”
+    appears. I don’t know what it is. 2- The editorial parts at the end of
+    the sections are the notes of the scribe (the ones in PageV01P415,
+    PageV02P517, and PageV03P511 are the explanations of the editor on the
+    contents of the Hadiths). 3- These titles must be added to the text in
+    place of my blank headers: PageV03P085: “بقية فضائل أهل البيت”;
+    PageV03P291 and PageV03P371: “بقية ذكر فضائل الأئمة من ولد الحسين بن علي
+    عليه السلام”
+90#VERS#DATE#####: 2019-12-25
+90#VERS#ISSUES###: RANDOM_CHARS, EDITORIAL_SECTIONS

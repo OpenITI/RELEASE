@@ -1,9 +1,11 @@
+00#VERS#CLENGTH##: 49476
 00#VERS#LENGTH###: 12811
 00#VERS#URI######: 0281IbnAbiDunya.Cuzla.JK009187-ara1
-80#VERS#BASED####: permalink, permalink, permalink
-80#VERS#COLLATED#: permalink, permalink, permalink
-80#VERS#LINKS####: all@id, vol1@id, vol2@id, vol3@id, volX@id
-90#VERS#COMMENT##: a free running comment here; you can add as many
-    lines as you see fit; the main goal of this comment section is to have a
-    place to record valuable information, which is difficult to formalize
-    into the above given categories.
+80#VERS#BASED####: http://www.worldcat.org/oclc/4770620014
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/4770620014
+80#VERS#LINKS####:
+    https://ia800208.us.archive.org/7/items/waq32280/32280.pdf
+90#VERS#ANNOTATOR: HRH
+90#VERS#COMMENT##: [$] is placed instead of “صلی الله” in the text.
+90#VERS#DATE#####: 2019-08-07
+90#VERS#ISSUES###: RANDOM_CHARS

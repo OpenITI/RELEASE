@@ -1,9 +1,14 @@
+00#VERS#CLENGTH##: 2535625
 00#VERS#LENGTH###: 600125
 00#VERS#URI######: 0764Safadi.AcyanCasr.Shamela0000131-ara1
-80#VERS#BASED####: permalink, permalink, permalink
-80#VERS#COLLATED#: permalink, permalink, permalink
-80#VERS#LINKS####: all@id, vol1@id, vol2@id, vol3@id, volX@id
-90#VERS#COMMENT##: a free running comment here; you can add as many
-    lines as you see fit; the main goal of this comment section is to have a
-    place to record valuable information, which is difficult to formalize
-    into the above given categories.
+80#VERS#BASED####: http://www.worldcat.org/oclc/646274301
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/646274301
+80#VERS#LINKS####: https://archive.org/details/waq42750
+90#VERS#ANNOTATOR: Jonas Köpsel; Cornelia Neubauer; Gowaart Van Den
+    Bossche
+90#VERS#COMMENT##: Annotated by Jonas Köpsel and Cornelia Neubauer,
+    validated by Gowaart.  Text is fairly good quality, some minor issues
+    noted by Jonas and Cornelia directly on GitHub readme file. Annotation
+    has been done very well, Gowaart only some minor cleaning up.
+90#VERS#DATE#####: 2019-10-08
+90#VERS#ISSUES###: NO_MAJOR_ISSUES

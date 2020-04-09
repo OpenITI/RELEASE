@@ -1,9 +1,20 @@
+00#VERS#CLENGTH##: 1958256
 00#VERS#LENGTH###: 515037
 00#VERS#URI######: 0354IbnHibbanBusti.Thiqat.Shamela0005816-ara1
-80#VERS#BASED####: permalink, permalink, permalink
-80#VERS#COLLATED#: permalink, permalink, permalink
-80#VERS#LINKS####: all@id, vol1@id, vol2@id, vol3@id, volX@id
-90#VERS#COMMENT##: a free running comment here; you can add as many
-    lines as you see fit; the main goal of this comment section is to have a
-    place to record valuable information, which is difficult to formalize
-    into the above given categories.
+80#VERS#BASED####: http://www.worldcat.org/oclc/568326077
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/568326077
+80#VERS#LINKS####: https://archive.org/details/waq3910
+90#VERS#ANNOTATOR: HRH
+90#VERS#COMMENT##: 1- The table of contents for the first two volumes is
+    a little tricky. The chronological order of the table of contents ends
+    after 10 A.H. in the second volume. After that the table of content is
+    organized according to the events in the lifetime of four successors of
+    The Prophet. 2- I tried to use ### $$$$ for the parts that contain just
+    a list of names (i.e. not a list of names + some explanations).
+    3-According to the specifications, the ### $ tag is used as a simplified
+    tag for dictionary units (in this case “descriptive names” of both men
+    and women); so it does not mean “biography of a man”, since the
+    information given for each person cannot be considered biography. 4- Vol
+    6 Page 99 Line 9 is omitted.
+90#VERS#DATE#####: 2019-07-26
+90#VERS#ISSUES###: NO_MAJOR_ISSUES

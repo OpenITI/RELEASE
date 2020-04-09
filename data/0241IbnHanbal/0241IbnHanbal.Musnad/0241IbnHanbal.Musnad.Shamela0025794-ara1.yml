@@ -1,9 +1,20 @@
-00#VERS#LENGTH###: 1620703
+00#VERS#CLENGTH##: 6110934
+00#VERS#LENGTH###: 1592338
 00#VERS#URI######: 0241IbnHanbal.Musnad.Shamela0025794-ara1
-80#VERS#BASED####: permalink, permalink, permalink
-80#VERS#COLLATED#: permalink, permalink, permalink
-80#VERS#LINKS####: all@id, vol1@id, vol2@id, vol3@id, volX@id
-90#VERS#COMMENT##: a free running comment here; you can add as many
-    lines as you see fit; the main goal of this comment section is to have a
-    place to record valuable information, which is difficult to formalize
-    into the above given categories.
+80#VERS#BASED####: http://www.worldcat.org/oclc/609550215
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/609550215
+80#VERS#LINKS####: https://archive.org/details/musnadahmed
+90#VERS#ANNOTATOR: Gowaart Van Den Bossche
+90#VERS#COMMENT##: This version is not the exact same edition as the pdf
+    but it's very closely related (probably a reprint). Pagination is a bit
+    spotty (a lot of it is simply V00P00), but when it is actually noted it
+    tends to correspond to the edtion. The digital text has a few extra
+    headers which were useful in further subdividing this massive text (and
+    they're broadly similar to other headings) so I have left them in the
+    text. The digital text is of fairly high quality, but still includes
+    some dirty data which should perhaps be cleaned up (footnote markers
+    between brackets, dotted lines for pages with running footnotes but no
+    body text). This version is not the primary version at the moment, I
+    have raised an issue to make it so.
+90#VERS#DATE#####: 2019-07-24
+90#VERS#ISSUES###: NO_MAJOR_ISSUES

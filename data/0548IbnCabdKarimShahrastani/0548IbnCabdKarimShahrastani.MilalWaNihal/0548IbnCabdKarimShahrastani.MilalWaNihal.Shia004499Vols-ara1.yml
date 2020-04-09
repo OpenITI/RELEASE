@@ -1,9 +1,14 @@
-00#VERS#LENGTH###: 119062
+00#VERS#CLENGTH##: 523472
+00#VERS#LENGTH###: 119068
 00#VERS#URI######: 0548IbnCabdKarimShahrastani.MilalWaNihal.Shia004499Vols-ara1
-80#VERS#BASED####: permalink, permalink, permalink
-80#VERS#COLLATED#: permalink, permalink, permalink
-80#VERS#LINKS####: all@id, vol1@id, vol2@id, vol3@id, volX@id
-90#VERS#COMMENT##: a free running comment here; you can add as many
-    lines as you see fit; the main goal of this comment section is to have a
-    place to record valuable information, which is difficult to formalize
-    into the above given categories.
+80#VERS#BASED####: http://www.worldcat.org/oclc/145083028
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/145083028
+80#VERS#LINKS####: https://archive.org/details/WAQ114027
+90#VERS#ANNOTATOR: Peter Verkinderen
+90#VERS#COMMENT##: This is the edition by Muḥammad Kīlānī (Dār al-
+    Maʿrifa, 1975). JK000344 contains the same version. Both lack all
+    punctuation. PV started annotating the JK version, but after a few pages
+    decided to  annotate the Shamela version instead, because the quality of
+    digitization seemed better.
+90#VERS#DATE#####: 2020-01-21
+90#VERS#ISSUES###: EDITORIAL_SECTION

@@ -1,9 +1,13 @@
+00#VERS#CLENGTH##: 77222
 00#VERS#LENGTH###: 19690
 00#VERS#URI######: 0281IbnAbiDunya.QasrAmal.JK009174-ara1
-80#VERS#BASED####: permalink, permalink, permalink
-80#VERS#COLLATED#: permalink, permalink, permalink
-80#VERS#LINKS####: all@id, vol1@id, vol2@id, vol3@id, volX@id
-90#VERS#COMMENT##: a free running comment here; you can add as many
-    lines as you see fit; the main goal of this comment section is to have a
-    place to record valuable information, which is difficult to formalize
-    into the above given categories.
+80#VERS#BASED####: http://www.worldcat.org/oclc/680379525
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/680379525
+80#VERS#LINKS####: https://download-library-pdf-ebooks.com/40091-free-
+    book
+90#VERS#ANNOTATOR: HRH
+90#VERS#COMMENT##: 1- The vertical lines in the text (|) signify the end
+    of lines in the PDF. I didn’t delete these lines. 2- [ $ ] is placed
+    instead of “صلی الله ...”.
+90#VERS#DATE#####: 2019-09-30
+90#VERS#ISSUES###: RANDOM_CHARS

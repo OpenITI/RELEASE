@@ -58,7 +58,7 @@ numbers of entries  8640
 number of entries marked 8645
 
 
-Editor: Jonas Koepsel
+Annotator: Jonas Koepsel
 time costs: 20h (first 10 hours were made several monthes ago) 
 
- http://waqfeya.com/book.php?bid=699
+http://waqfeya.com/book.php?bid=699

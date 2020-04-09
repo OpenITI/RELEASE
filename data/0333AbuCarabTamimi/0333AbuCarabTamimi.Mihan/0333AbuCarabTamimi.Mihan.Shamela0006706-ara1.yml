@@ -1,9 +1,16 @@
-00#VERS#LENGTH###: 69637
+00#VERS#CLENGTH##: 268055
+00#VERS#LENGTH###: 69536
 00#VERS#URI######: 0333AbuCarabTamimi.Mihan.Shamela0006706-ara1
-80#VERS#BASED####: permalink, permalink, permalink
-80#VERS#COLLATED#: permalink, permalink, permalink
-80#VERS#LINKS####: all@id, vol1@id, vol2@id, vol3@id, volX@id
-90#VERS#COMMENT##: a free running comment here; you can add as many
-    lines as you see fit; the main goal of this comment section is to have a
-    place to record valuable information, which is difficult to formalize
-    into the above given categories.
+80#VERS#BASED####: http://www.worldcat.org/oclc/19026848
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/608015620
+80#VERS#LINKS####:
+    https://ia800200.us.archive.org/13/items/ketmehketmeh/ketmeh.pdf
+90#VERS#ANNOTATOR: HRH
+90#VERS#COMMENT##: 1- I used a different edition for collation. The only
+    difference was that pages 127-128 of the PDF appear in a different place
+    in the Editpro text (i.e. in pages 166-169 of the text). 2- According to
+    the Book’s table of contents, the beginning of the third section is page
+    172 of the PDF (214 of the text), not page 181. 3- The editorial section
+    at the end of the book is the note of the scribe.
+90#VERS#DATE#####: 2019-12-10
+90#VERS#ISSUES###: NO_MAJOR_ISSUES

@@ -1,9 +1,20 @@
-00#VERS#LENGTH###: 117859
+00#VERS#CLENGTH##: 381888
+00#VERS#LENGTH###: 96492
 00#VERS#URI######: 0276IbnQutaybaDinawari.Macarif.Shamela0012129-ara1
-80#VERS#BASED####: permalink, permalink, permalink
-80#VERS#COLLATED#: permalink, permalink, permalink
-80#VERS#LINKS####: all@id, vol1@id, vol2@id, vol3@id, volX@id
-90#VERS#COMMENT##: a free running comment here; you can add as many
-    lines as you see fit; the main goal of this comment section is to have a
-    place to record valuable information, which is difficult to formalize
-    into the above given categories.
+80#VERS#BASED####: http://www.worldcat.org/oclc/949585474
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/949585474
+80#VERS#LINKS####:
+    https://ia800208.us.archive.org/16/items/Alma3arif/Alma3arif.pdf
+90#VERS#ANNOTATOR: Leonie Nückell (Leipzig); Gowaart Van Den Bossche;
+    MGR
+90#VERS#COMMENT##: From LN > text and pdf were quite tricky. everthing
+    is tagged now but I'm not sure about chapters leveling and biographies.
+    Needs to be reviewed; the same edition as in PDF; texts quality looks
+    fine; duration > 3 hours; From GVDB > Annotated by Leonie, validated by
+    Gowaart. Rather many corrections to improve structure. I have also
+    cleaned up the text somewhat by deleting footnotes, which could be done
+    easily with regex. Pagination has not been implemented successfully and
+    instead follows its own system with "/pagenumber". This seems rather
+    complex to fix, so I have not tried.
+90#VERS#DATE#####: 2019-10-24
+90#VERS#ISSUES###: PAGINATION

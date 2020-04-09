@@ -1,9 +1,24 @@
-00#VERS#LENGTH###: 381916
+00#VERS#CLENGTH##: 1599979
+00#VERS#LENGTH###: 381917
 00#VERS#URI######: 0346Mascudi.MurujDhahab.JK010344-ara1
-80#VERS#BASED####: permalink, permalink, permalink
-80#VERS#COLLATED#: permalink, permalink, permalink
-80#VERS#LINKS####: all@id, vol1@id, vol2@id, vol3@id, volX@id
-90#VERS#COMMENT##: a free running comment here; you can add as many
-    lines as you see fit; the main goal of this comment section is to have a
-    place to record valuable information, which is difficult to formalize
-    into the above given categories.
+80#VERS#BASED####: NO_DATA_IN_METADATA
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/930012753
+80#VERS#LINKS####: http://www.zaidiah.com/sites/default/files/articles_f
+    iles/%D9%85%D8%B1%D9%88%D8%AC%20%D8%A7%D9%84%D8%B0%D9%87%D8%A8%20%D9%88%
+    D9%85%D8%B9%D8%A7%D8%AF%D9%86%20%D8%A7%D9%84%D8%AC%D9%88%D9%87%D8%B1.pdf
+90#VERS#ANNOTATOR: HRH
+90#VERS#COMMENT##: 1- The Editpro edition cannot be found because there
+    is no data in the METADATA section to show which edition it is. The
+    edition I have used here for collation is very similar to the text and I
+    didn’t see major changes. There are just some extra titles in the text
+    (that are helpful) and some other titles are a little different.
+    Besides, sometimes the PDF has a few extra titles (I showed them with
+    blank headers). 2- The text was plain without any automatic tags. 3-
+    Missing parts: PAGEV01P35-45 of the PDF; PAGEV04P118-120 of the PDF
+    (=PageV02P126 of the text); Third paragraph in PAGEV01P47. 4- Two other
+    editions of the text can be found here: https://m.marefa.org/images/9/91
+    /%D9%85%D8%B1%D9%88%D8%AC_%D8%A7%D9%84%D8%B0%D9%87%D8%A8_%D9%88%D9%85%D8
+    %B9%D8%A7%D8%AF%D9%86_%D8%A7%D9%84%D8%AC%D9%88%D9%87%D8%B1.pdf and
+    https://archive.org/details/Meroujzahab
+90#VERS#DATE#####: 2019-12-16
+90#VERS#ISSUES###: MISSING_PARTS

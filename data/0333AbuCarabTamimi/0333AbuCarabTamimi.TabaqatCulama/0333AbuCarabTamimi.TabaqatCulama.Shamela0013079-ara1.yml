@@ -1,9 +1,18 @@
+00#VERS#CLENGTH##: 108680
 00#VERS#LENGTH###: 28007
 00#VERS#URI######: 0333AbuCarabTamimi.TabaqatCulama.Shamela0013079-ara1
-80#VERS#BASED####: permalink, permalink, permalink
-80#VERS#COLLATED#: permalink, permalink, permalink
-80#VERS#LINKS####: all@id, vol1@id, vol2@id, vol3@id, volX@id
-90#VERS#COMMENT##: a free running comment here; you can add as many
-    lines as you see fit; the main goal of this comment section is to have a
-    place to record valuable information, which is difficult to formalize
-    into the above given categories.
+80#VERS#BASED####: http://www.worldcat.org/oclc/15250589
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/15250589
+80#VERS#LINKS####:
+    https://ia802909.us.archive.org/8/items/taolaftaolaf/taolaf.pdf;
+    https://www.iicss.iq/files/books/225zzaep.pdf
+90#VERS#ANNOTATOR: HRH
+90#VERS#COMMENT##: 1- The second part of the PDF (“طبقات علماء افريقية”)
+    is written by another author (“الخشني”) and has been extracted from the
+    text (it must have been added as a different text into the repository).
+    2- The text has been typed carelessly. I found some missing parts in the
+    text (like the first paragraph in page 25 and the first paragraph in
+    page 26). Moreover, some words have been added to the text that do not
+    appear in the PDF.
+90#VERS#DATE#####: 2019-12-10
+90#VERS#ISSUES###: MISSING_PARTS, MANY_TYPOS

@@ -1,9 +1,18 @@
-00#VERS#LENGTH###: 18288
+00#VERS#CLENGTH##: 38811
+00#VERS#LENGTH###: 9611
 00#VERS#URI######: 0241IbnHanbal.RaddCalaZanadiqa.Shamela0007623-ara1
 80#VERS#BASED####: permalink, permalink, permalink
 80#VERS#COLLATED#: permalink, permalink, permalink
-80#VERS#LINKS####: all@id, vol1@id, vol2@id, vol3@id, volX@id
-90#VERS#COMMENT##: a free running comment here; you can add as many
-    lines as you see fit; the main goal of this comment section is to have a
-    place to record valuable information, which is difficult to formalize
-    into the above given categories.
+80#VERS#LINKS####:
+    https://ia802607.us.archive.org/14/items/itsnmmfeitsnmmfe/rdgazn.pdf
+90#VERS#ANNOTATOR: Gowaart Van Den Bossche
+90#VERS#COMMENT##: Shamela version is superior to JK version because it
+    is much longer (though that includes editorial sections) and includes no
+    pre-tagging of Qur'an verses. There are however some strange things
+    happening with the Shamela text: it seems to be a combination of two
+    different editions (it is unclear what the second edition is) but with
+    bits of text missing and other parts inserted (especially subheaders). I
+    have left these divergences mostly intact but restructured them where
+    appropriate. Could not locate the right edition on Worldcat.
+90#VERS#DATE#####: 2019-07-23
+90#VERS#ISSUES###: NO_MAJOR_ISSUES

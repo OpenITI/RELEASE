@@ -1,9 +1,16 @@
-00#VERS#LENGTH###: 32630
+00#VERS#CLENGTH##: 126394
+00#VERS#LENGTH###: 32573
 00#VERS#URI######: 0281IbnAbiDunya.Ciyal.Shamela0013075-ara1
-80#VERS#BASED####: permalink, permalink, permalink
-80#VERS#COLLATED#: permalink, permalink, permalink
-80#VERS#LINKS####: all@id, vol1@id, vol2@id, vol3@id, volX@id
-90#VERS#COMMENT##: a free running comment here; you can add as many
-    lines as you see fit; the main goal of this comment section is to have a
-    place to record valuable information, which is difficult to formalize
-    into the above given categories.
+80#VERS#BASED####: http://www.worldcat.org/oclc/1107135200
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/1107135200
+80#VERS#LINKS####:
+    https://ia802706.us.archive.org/6/items/waq16964/16964.pdf
+90#VERS#ANNOTATOR: HRH
+90#VERS#COMMENT##: 1- The JK version was better for annotating, yet I
+    didn’t pick it out for annotating because in most pages, a great amount
+    of the footnotes were interred into the text and this made the text
+    unusable. 2- There were very small discrepancies between the text and
+    the PDF: number 423 (page 605), number 443 (page 627) and number 636
+    (page 839) are omitted in the text.
+90#VERS#DATE#####: 2019-08-13
+90#VERS#ISSUES###: NO_MAJOR_ISSUES

@@ -1,9 +1,14 @@
+00#VERS#CLENGTH##: 16013
 00#VERS#LENGTH###: 4100
 00#VERS#URI######: 0281IbnAbiDunya.DhammMuskir.JK000635-ara1
-80#VERS#BASED####: permalink, permalink, permalink
-80#VERS#COLLATED#: permalink, permalink, permalink
-80#VERS#LINKS####: all@id, vol1@id, vol2@id, vol3@id, volX@id
-90#VERS#COMMENT##: a free running comment here; you can add as many
-    lines as you see fit; the main goal of this comment section is to have a
-    place to record valuable information, which is difficult to formalize
-    into the above given categories.
+80#VERS#BASED####: http://www.worldcat.org/oclc/745191402
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/31859223;
+    http://www.worldcat.org/oclc/781553376
+80#VERS#LINKS####: https://archive.org/details/waq35684waq;
+    https://waqfeya.com/book.php?bid=9026
+90#VERS#ANNOTATOR: HRH
+90#VERS#COMMENT##: The Editpro edition was not found. I collated the
+    text with two other editions. They both show that this short treatise
+    has no title and nothing else that need to be tagged (structurally).
+90#VERS#DATE#####: 2019-10-01
+90#VERS#ISSUES###: NO_MAJOR_ISSUES

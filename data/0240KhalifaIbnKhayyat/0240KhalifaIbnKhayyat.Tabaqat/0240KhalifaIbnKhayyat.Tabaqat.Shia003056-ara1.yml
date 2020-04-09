@@ -1,9 +1,13 @@
-00#VERS#LENGTH###: 68328
+00#VERS#CLENGTH##: 235699
+00#VERS#LENGTH###: 65687
 00#VERS#URI######: 0240KhalifaIbnKhayyat.Tabaqat.Shia003056-ara1
-80#VERS#BASED####: permalink, permalink, permalink
-80#VERS#COLLATED#: permalink, permalink, permalink
-80#VERS#LINKS####: all@id, vol1@id, vol2@id, vol3@id, volX@id
-90#VERS#COMMENT##: a free running comment here; you can add as many
-    lines as you see fit; the main goal of this comment section is to have a
-    place to record valuable information, which is difficult to formalize
-    into the above given categories.
+80#VERS#BASED####: http://www.worldcat.org/oclc/32445370
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/32445370
+80#VERS#LINKS####:
+    https://drive.google.com/open?id=1cF5rZ2471yQ_cZJRRckG2mUsuI2qtK-2
+90#VERS#ANNOTATOR: HRH
+90#VERS#COMMENT##: The discrepancies between the PDF and the Editpadpro
+    text are listed in this Excel
+    file:https://drive.google.com/open?id=13AC7rtO_tFqdvdr909ncfaK5oDiR51nK
+90#VERS#DATE#####: 2019-07-26
+90#VERS#ISSUES###: NO_MAJOR_ISSUES

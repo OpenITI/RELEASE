@@ -1,9 +1,14 @@
-00#VERS#LENGTH###: 1582
+00#VERS#CLENGTH##: 5459
+00#VERS#LENGTH###: 1426
 00#VERS#URI######: 0349IbnCumarMuqri.AkhbarNahwiyyin.Shamela0000295-ara1
-80#VERS#BASED####: permalink, permalink, permalink
-80#VERS#COLLATED#: permalink, permalink, permalink
-80#VERS#LINKS####: all@id, vol1@id, vol2@id, vol3@id, volX@id
-90#VERS#COMMENT##: a free running comment here; you can add as many
-    lines as you see fit; the main goal of this comment section is to have a
-    place to record valuable information, which is difficult to formalize
-    into the above given categories.
+80#VERS#BASED####: http://www.worldcat.org/oclc/236043997
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/236043997
+80#VERS#LINKS####: https://www.almeshkat.net/book/1393
+90#VERS#ANNOTATOR: HRH
+90#VERS#COMMENT##: 1- The Editpro text is different from the PDF in
+    pages 39-42 (in both Shamela and JK versions). However, most probably
+    this is a problem in the PDF, not the text, since the numbers in the PDF
+    jumps from 13 to 54. 2- A missing title in page 18. 3- The editorial
+    section at the end of the book is the note of the scribe.
+90#VERS#DATE#####: 2019-12-16
+90#VERS#ISSUES###: EDITORIAL_SECTIONS

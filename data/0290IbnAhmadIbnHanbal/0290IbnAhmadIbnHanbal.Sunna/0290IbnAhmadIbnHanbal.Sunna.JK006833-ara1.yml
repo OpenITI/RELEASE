@@ -1,9 +1,13 @@
-00#VERS#LENGTH###: 84943
+00#VERS#CLENGTH##: 323301
+00#VERS#LENGTH###: 84941
 00#VERS#URI######: 0290IbnAhmadIbnHanbal.Sunna.JK006833-ara1
-80#VERS#BASED####: permalink, permalink, permalink
-80#VERS#COLLATED#: permalink, permalink, permalink
-80#VERS#LINKS####: all@id, vol1@id, vol2@id, vol3@id, volX@id
-90#VERS#COMMENT##: a free running comment here; you can add as many
-    lines as you see fit; the main goal of this comment section is to have a
-    place to record valuable information, which is difficult to formalize
-    into the above given categories.
+80#VERS#BASED####: http://www.worldcat.org/oclc/236031415
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/236031415
+80#VERS#LINKS####: https://archive.org/details/waq16040
+90#VERS#ANNOTATOR: MEhDI SHOJAIE
+90#VERS#COMMENT##: Most of اسناد الحدیث are moved from footnote of PDF
+    version to the text of Editpadpro version. The errors are mentionned in
+    a Excel file https://drive.google.com/open?id=0B9eMKUj9J0jFTkVvaE1sUy1lZ
+    XhFN0VjblNEMzZxcy05eWpR
+90#VERS#DATE#####: 2019-08-10
+90#VERS#ISSUES###: MISSING_PARTS, REDUNDANT_PARTS, MANY_TYPOS
