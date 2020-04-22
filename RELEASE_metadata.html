@@ -1,0 +1,60 @@
+<html>
+
+<head>
+    <script type="text/javascript" src="metadata/db/RELEASE_metadata.js" charset="utf-8"></script>
+    <script src="metadata/js/jquery-3.3.1.min.js"></script>
+    <script type="text/javascript" src="metadata/js/pdfmake.min.js"></script>
+    <script type="text/javascript" src="metadata/js/vfs_fonts.js"></script>
+    <script type="text/javascript" src="metadata/js/datatables.min.js"></script>
+    <script type="text/javascript" src="metadata/js/arabic.js"></script>
+    <script src="metadata/js/fontawesome/03581ef0eb.js"></script>
+    <link rel="stylesheet" type="text/css" href="metadata/css/styles.css" />
+    <link rel="stylesheet" type="text/css" href="metadata/css/bs4/datatables.min.css" />
+    <link rel="stylesheet" type="text/css" href="metadata/css/buttons.dataTables.min.css" />
+    <link rel="stylesheet" type="text/css" href="metadata/css/datatables.min.css"/>
+    <link href="metadata/css/Amiri_font.css" rel="stylesheet">
+<style>
+body{
+
+    font-family: 'Amiri', serif;
+}
+</style>
+</head>
+
+
+<body>
+
+<div style="float: left;">
+    <a href="http://www.kitab-project.org" target="_blank"><img src="metadata/images/kitab-logo.png" width="100px"/></a>
+</div>
+
+<div class="heading">
+    <h2>OpenITI Corpus Release March 2020 Metadata </h2>
+</div>
+<div class="info" style="float:left; padding: 10px;"><div id='total'></div>
+  <span id="notYetAnnotatedFilter"><i class='fas fa-record-vinyl not-annotated' title='Not yet annotated'> </i> Not Yet Annotated</span>
+  <span id="inProgressFilter"><i class='fas fa-record-vinyl inProgress' title='Annotation in progress'> </i> Annotation In Progress</span>
+  <span id="AnnotationCompletedFilter"><i class='fas fa-record-vinyl completed' title='Annotation completed'> </i> Annotation Completed</span>
+  <span id="AnnotationVettedFilter"><i class='fas fa-record-vinyl mARkdown' title='Annotation completed and vetted'> </i> Annotation Completed and Vetted</span>
+</div>
+<div id="container" style="float: left; width:100%">
+    <table id="example" class="arabic table table-striped table-hover table-sm" style="width:100%; direction: rtl;">
+        <thead class="thead-light">
+            <tr>
+                <th>Book Id</th>
+                <th>Book Title</th>
+                <th>Author</th>
+                <th>Date</th>
+                <th>Length</th>
+                <th>Edition / Editor</th>
+                <th>Tags</th>
+                <th>Status</th>
+            </tr>
+        </thead>
+    </table>
+</div>
+
+</body>
+
+
+</html>
