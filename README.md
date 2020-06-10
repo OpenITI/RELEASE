@@ -1,83 +1,55 @@
-# OpenITI, ver. 2019.1.1—Release Notes\* [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3082464.svg)](https://doi.org/10.5281/zenodo.3082464)
+# OpenITI
 
-
-**Suggested Citation for this release:** Maxim Romanov, and Masoumeh Seydi. 2019. “OpenITI: A Machine-Readable Corpus of Islamicate Texts”. Zenodo. [doi:10.5281/zenodo.3082464](https://doi.org/10.5281/zenodo.3082464).
+**Suggested Citation for the latest release (ver.2019.1.1):** Maxim Romanov, and Masoumeh Seydi. 2019. “OpenITI: A Machine-Readable Corpus of Islamicate Texts”. Zenodo. [doi:10.5281/zenodo.3082464](https://doi.org/10.5281/zenodo.3082464).
 
 **\*** **Note on Release Numbering**: Version **2019.1.1**—where **2019** is the year of the release, the first dotted number—**.1**—is the ordinal release number in 2019, and the second dotted number—**.1**—is the overall release number; the first dotted number will reset every year, while the second one will continue on increasing.
 
 **Co-PIs**: Matthew Thomas Miller (University of Maryland, College Park), Maxim G. Romanov (University of Vienna), Sarah Bowen Savant (Aga Khan University—ISMC, London).
 
-*Open Islamicate Texts Initiative* (**OpenITI**, see <https://openiti.github.io/>) is a multi-institutional effort to construct the first machine-actionable scholarly corpus of premodern Islamicate texts. Led by researchers at the Aga Khan University (AKU), University of Vienna (UV), Leipzig University (LU), and the Roshan Institute for Persian Studies at the University of Maryland (College Park) and an interdisciplinary advisory board of leading digital humanists and Islamic, Persian, and Arabic studies scholars, **OpenITI** aims to provide the essential textual infrastructure in Arabic, Persian and other Islamicate languages for new forms of textual analysis and digital scholarship. In the process, **OpenITI** will enable new synergies between Digital Humanities and the inter-related Islamicate fields of Islamic, Persian, and Arabic Studies. In addition to support from the researchers’ home institutions, it is supported by funding from the European Research Council and the Qatar National Library. 
+*Open Islamicate Texts Initiative* (**OpenITI**, see <https://openiti.github.io/>) is a multi-institutional effort to construct the first machine-actionable scholarly corpus of premodern Islamicate texts. Led by researchers at the Aga Khan University, Institute for the Study of Muslim Civilisations (AKU-ISMC), University of Vienna (UV), Leipzig University (LU), and the Roshan Institute for Persian Studies at the University of Maryland (College Park) and an interdisciplinary advisory board of leading digital humanists and Islamic, Persian, and Arabic studies scholars, OpenITI aims to provide the essential textual infrastructure in Arabic, Persian and other Islamicate languages for new forms of textual analysis and digital scholarship. In the process, OpenITI will enable new synergies between Digital Humanities and the inter-related Islamicate fields of Islamic, Persian, and Arabic Studies. In addition to support from the researchers’ home institutions, it is supported by funding from the [European Research Council] (https://erc.europa.eu/) under the European Union’s Horizon 2020 research and innovation programme, awarded to the [KITAB] (http://kitab-project.org/) project (Grant Agreement No. 772989, PI Sarah Bowen Savant) and the [Qatar National Library] (https://www.qnl.qa/en).
 
-Currently, **OpenITI** contains almost exclusively Arabic texts, which were first assembled into a corpus within the **OpenArabic** project, developed first at Tufts University (at *The Perseus Project*, 2013–2015) and then at Leipzig University (at the Alexander von Humboldt Chair for Digital Humanities, 2015–2017)—in both cases with the support and under the patronage of Prof. Gregory Crane. The much more limited number of Persian texts were compiled during 2015-2016 in the Persian Digital Library (PDL) pilot (see: <https://persdigumd.github.io/PDL/>) at Roshan Institute for Persian Studies at the University of Maryland. These texts have not been made fully compatible with OpenITI mARkdown yet and will be made fully available in next releases. 
+Currently, **OpenITI** contains almost exclusively Arabic texts, which were first assembled into a corpus within the OpenArabic project, developed first at Tufts University (at *The Perseus Project*, 2013–2015) and then at Leipzig University (at the Alexander von Humboldt Chair for Digital Humanities, 2015–2017)—in both cases with the support and under the patronage of Prof. Gregory Crane. The much more limited number of Persian texts were compiled during 2015–2016 in the [Persian Digital Library (PDL) pilot] (https://persdigumd.github.io/PDL/) at Roshan Institute for Persian Studies at the University of Maryland. These texts have not been made fully compatible with OpenITI mARkdown yet and will be made fully available in next releases.
 
-## Corpus Metadata
-
-Machine-readable metadata on the corpus is available in the &quot;OpenITI\_metadata\_2019\_1\_1&quot; file in TSV format, including the following columns:
-
-1. **versionUri** : a human-readable URI of the current version of the book including the date of the death of the author, author’s name, book name, ID of the original source (online library) where the source comes from, and the language domain (e.g., **-ara1** is for Arabic, **-per1**—for Persian). URIs were deliberately made human-readable to make it easier to work with the corpus. Examples of URIs and the description of URI formation principles can be found at [https://maximromanov.github.io/OpenITI/#cts-compliant-naming-pattern](https://maximromanov.github.io/OpenITI/#cts-compliant-naming-pattern).
-2. **date** : Date of death of the author (*hijrī*, from versionURI)
-3. **author** : Name of the author (from versionURI)
-4. **book** : Book title (from versionURI)
-5. **id** : Book id, which originally comes from the collection the source is taken from (from versionURI)
-6. **status** : pri/sec — “pri” value can be used to select only unique titles from the corpus (i.e., excluding versions of the same title)
-7. **length:** length in words
-8. **url:** link to the text on github
-9. **tags:** genre/subject tags aggregated from the metadata of original collections (partially unified)
-10. **localPath:** local path to the text in the OpenITI folder structure
+In this repository, we publish OpenITI releases and the folder structure of each release is described in the latest release note. The releases will be published on Zenodo as well. To access a specific release, please use the Zenodo link, which is updated above on this page. To access a specific release through github, please use the corresponding [tag] (https://github.com/OpenITI/RELEASE/tags) that points to the release number.
 
 ## General Description
 
-The goal of the **OpenITI** is to build a machine-actionable corpus of premodern texts in Islamicate languages to encourage computational analysis of the Islamicate written tradition. Most of the Arabic texts have been collected from open-access online collections of premodern and modern Arabic texts such as <http://shamela.ws/> and <http://shiaonlinelibrary.com/> (These texts have `Shamela+NUMBER` and `Shia+NUMBER`; some texts come from _al-Jāmiʿ al-kabīr_, which has been published on an external HDD and is not available online (`JK+NUMBER`). Initial metadata from these collections is preserved at the beginning of each file. (The next release will include a number of Persian texts, which are coming primarily from the Ganjoor digital library, <https://ganjoor.net/>).
+The goal of the **OpenITI** is to build a machine-actionable corpus of premodern texts in Islamicate languages to encourage computational analysis of the Islamicate written tradition. Most of the Arabic texts have been collected from open-access online collections of premodern and modern Arabic texts such as al-Maktabaŧ al-Šāmilaŧ (<http://shamela.ws/>) and Maktabaŧ al-Šīʿaŧ (<http://shiaonlinelibrary.com/>). These texts have `Shamela+NUMBER` and `Shia+NUMBER` IDs; some texts come from al-Jāmiʿ al-kabīr, which has been published on an external HDD and is not available online (`JK+NUMBER`). Below is the list of IDs that you currently find in the OpenITI releases according to the source collection. The list will be updated according to the changes in the future releases. Initial metadata from these collections is preserved at the beginning of each file.
 
-Currently uploaded texts have been automatically converted into the OpenITI mARkdown format—a flavor of markdown that was developed for tagging premodern Islamicate texts. All of our texts require further editing to properly tag their structure. A detailed description of the mARkdown scheme and the tagging workflow can be found in the **OpenITI mARkdown section** ([https://maximromanov.github.io/mARkdown/](https://maximromanov.github.io/mARkdown/)). When manual tagging is complete the texts will be converted into a CTS-compliant XML format.
+| ID      |                                               Full name of the collection                                               |
+|---------|:-----------------------------------------------------------------------------------------------------------------------:|
+| JK      | al-Jāmiʿ al-kabīr                                                                                                       |
+| Sham30K | al-Maktabaŧ al-Šāmilaŧ, official version + additional texts, downloaded from https://archive.org/details/SHAMELH30-1-20 |
+| Shamela | al-Maktabaŧ al-Šāmilaŧ, www.shamela.ws                                                                                  |
+| Shia    | Maktabaŧ al-Šīʿaŧ, http://shiaonlinelibrary.com                                                                         |
+
+
+Currently uploaded texts have been automatically converted into the OpenITI mARkdown format—a flavor of markdown that was developed for tagging premodern Islamicate texts. All of our texts require further editing to properly tag their structure. A detailed description of the mARkdown scheme and the tagging workflow can be found in the **OpenITI mARkdown section** [here](https://maximromanov.github.io/mARkdown/). When manual tagging is complete the texts will be converted into a CTS-compliant XML format.
 
 ## File extensions
 
-The current version includes the following file extensions:
+Text files in each release are provided in the "data" folder. The folder has Author > Book > Versions structure. The book files includes the following extensions:
 
-- **[no extension]**: This is a RAW file, automatically converted from its initial format to be as close to the **OpenITI mARkdown** format as possible. **NB:** Since the corpus is a work in progress and many texts have not yet been manually edited, tags that may appear in texts do not necessarily correspond to the proper **OpenITI mARkdown** scheme!
-- **\*.completed** : The conversion of the file is completed, but the file still requires final verification and vetting.
-- **\*.mARkdown** : The file has been verified and vetted. 
+- **[no extension]**: This is a RAW file, automatically converted from its initial format to be as close to the **OpenITI mARkdown** format as possible. **NB:**: Since the corpus is a work in progress and many texts have not yet been manually edited, tags that may appear in texts do not necessarily correspond to the proper **OpenITI mARkdown** scheme!
+- **\*.inProgress**: The annotation of the file is in-progress.
+- **\*.completed**: The conversion of the file is completed, but the file still requires final verification and vetting.
+- **\*.mARkdown**: The file has been verified and vetted.
+- **\*.yml**: For each RAW text file ([no extension]) there is a **.yml** file with the same name that contains the file metadata. 
+
 
 In the long run we envision that the entire corpus will be converted into TEI XML and made available to a wider public as a digital library.
 
-## Statistics on the corpus
+## Corpus metadata
 
-| **Category** | **Stats** |
-| --- | ---:|
-| Number of titles (with all versions/editions) | 7,144 |
-| Number of unique titles | 4,288 |
-| Number of authors | 1,859 |
-| Length in words (all) | 1,520,667,360 |
-| Length in pages (300 w/p) | 5,068,891 |
-| Length in words (unique) | 755,689,541 |
-| Length in pages (unique; 300 w/p) | 2,518,965 |
-
-### Lengths of texts
-
-|  | **Words** | **Pages (300 w/p)** |
-| --- | ---:| ---:|
-| _Min._ | 150 | 0 |
-| _1st Qu._ | 32,700 | 109 |
-| _Median_ | 105,300 | 351 |
-| _Mean_ | 306,700 | 1,022 |
-| _3rd Qu._ | 266,700 | 889 |
-| _Max._ | 10,410,000 | 34,700 |
-
-### Chronological Distribution of Texts
-
- ![alt text](https://github.com/OpenITI/2019.1/blob/master/chrono_img.png?raw=true)
+Each release has a metadata file in TSV format, named as the release number (e.g., "OpenITI_metadata_2020_1_2"). The file contains general information about the books and authors, such as title, length in Arabic tokens and characters, URI, book unique identifiers, tags, etc. The description of the metadata file for each release is provided in the corresponding release note. 
 
 For more information on OpenITI, see <https://maximromanov.github.io/OpenITI/>.
 
-Link to Zenodo: <https://zenodo.org/record/3082464>
+<!---
+### Chronological Distribution of Texts
+![alt text](https://github.com/OpenITI/2019.1/blob/master/chrono_img.png?raw=true)
+--->
 
-**Folder structure:**
 
-OpenITI (main folder)
+[comment]: <> (Link to Zenodo: <https://zenodo.org/record/3082464>)
 
-- `data`:
-  - main data folder containing subfolders (Author > Book > Versions)
-- `README.md`: release notes
-- `OpenITI_metadata_2019_1_1`: metadata file
