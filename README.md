@@ -43,7 +43,7 @@ In the long run we envision that the entire corpus will be converted into TEI XM
 
 Each release has a metadata file in TSV format, named as the release number (e.g., "OpenITI_metadata_2020_1_2"). The file contains general information about the books and authors, such as title, length in Arabic tokens and characters, URI, book unique identifiers, tags, etc. The description of the metadata file for each release is provided in the corresponding release note. 
 
-For more information on OpenITI, see <https://maximromanov.github.io/OpenITI/>.
+For more information on OpenITI, see [here](https://maximromanov.github.io/OpenITI/).
 
 <!---
 ### Chronological Distribution of Texts
