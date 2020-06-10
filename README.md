@@ -30,7 +30,7 @@ Currently uploaded texts have been automatically converted into the OpenITI mARk
 
 Text files in each release are provided in the "data" folder. The folder has Author > Book > Versions structure. The book files includes the following extensions:
 
-- **[no extension]**: This is a RAW file, automatically converted from its initial format to be as close to the **OpenITI mARkdown** format as possible. **NB:**: Since the corpus is a work in progress and many texts have not yet been manually edited, tags that may appear in texts do not necessarily correspond to the proper **OpenITI mARkdown** scheme!
+- **[no extension]**: This is a RAW file, automatically converted from its initial format to be as close to the **OpenITI mARkdown** format as possible. **NB:** Since the corpus is a work in progress and many texts have not yet been manually edited, tags that may appear in texts do not necessarily correspond to the proper **OpenITI mARkdown** scheme!
 - **\*.inProgress**: The annotation of the file is in-progress.
 - **\*.completed**: The conversion of the file is completed, but the file still requires final verification and vetting.
 - **\*.mARkdown**: The file has been verified and vetted.
