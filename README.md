@@ -1,6 +1,6 @@
 # OpenITI: a Machine-Readable Corpus of Islamicate Texts
 
-**Suggested Citation for all versions:** Maxim Romanov, and Masoumeh Seydi. 2019. “OpenITI: A Machine-Readable Corpus of Islamicate Texts”. Zenodo. [doi:10.5281/zenodo.3082463](https://doi.org/10.5281/zenodo.3082463).
+**Suggested Citation for all versions:** [doi:10.5281/zenodo.3082463](https://doi.org/10.5281/zenodo.3082463).
 
 **Suggested Citation for a specific version:** Please check the citation information of the corresponding version at the above link.
 
