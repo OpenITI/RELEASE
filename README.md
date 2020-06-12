@@ -1,6 +1,8 @@
 # OpenITI
 
-**Suggested Citation for the latest release (ver.2019.1.1):** Maxim Romanov, and Masoumeh Seydi. 2019. “OpenITI: A Machine-Readable Corpus of Islamicate Texts”. Zenodo. [doi:10.5281/zenodo.3082464](https://doi.org/10.5281/zenodo.3082464).
+**Suggested Citation for all versions:** Maxim Romanov, and Masoumeh Seydi. 2019. “OpenITI: A Machine-Readable Corpus of Islamicate Texts”. Zenodo. [doi:10.5281/zenodo.3082463](https://doi.org/10.5281/zenodo.3082463).
+
+**Suggested Citation for a specific version:** Please check the citation information of the corresponding version at the above link.
 
 **\*** **Note on Release Numbering**: Version **2019.1.1**—where **2019** is the year of the release, the first dotted number—**.1**—is the ordinal release number in 2019, and the second dotted number—**.1**—is the overall release number; the first dotted number will reset every year, while the second one will continue on increasing.
 
@@ -41,7 +43,7 @@ In the long run we envision that the entire corpus will be converted into TEI XM
 
 ## Corpus metadata
 
-Each release has a metadata file in TSV format, named as the release number (e.g., "OpenITI_metadata_2020_1_2"). The file contains general information about the books and authors, such as title, length in Arabic tokens and characters, URI, book unique identifiers, tags, etc. The description of the metadata file for each release is provided in the corresponding release note. 
+Each release has a metadata file in TSV format, named as the release number (e.g., "OpenITI_metadata_2020_1_2"). The file contains general information about the books and authors, such as title, length in Arabic tokens and characters, URI, book unique identifiers, tags. The description of the metadata file for each release is provided in the corresponding release note. To facilitate the search functionality, the corpus development team has developed an [application](https://github.com/OpenITI/release_metadata_html) in which the release data can used to produce and HTML view of the metadata.
 
 For more information on OpenITI, see [here](https://maximromanov.github.io/OpenITI/).
 
