@@ -1,0 +1,46 @@
+# Files to ignore: PDFs can be downloaded with `make` for every included text
+.DS_Store
+*.pdf
+*.PDF
+
+# Images should not be stored here either
+*.gif
+*.GIF
+*.jpeg
+*.JPEG
+*.jpg
+*.JPG
+*.html
+*.HTML
+*.htm
+*.HTM
+
+# RAR archives should not be stored here either
+*.rar
+*.RAR
+*.gz
+
+# Audio recordings of should not be stored either
+*.afpk
+*.mp3
+*.ogg
+
+# `Working copies of` that EditPad Pro creates
+Working\ Copy\ of *
+
+# Python scripts for prepping data
+__pycache__/
+*.py[cod]
+*.ipynb
+
+
+#Libraries not to be put into the corpus:
+**Noorlib*
+
+# IDE specific:
+.idea
+
+# Other
+*~
+~*
+tmp*
