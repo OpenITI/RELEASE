@@ -1,0 +1,23 @@
+00#AUTH#URI######: 0275ThayadurusIbnBasil
+10#AUTH#ISM####AR: Ṯayādūrus, Ṯadārä
+10#AUTH#KUNYA##AR:
+10#AUTH#LAQAB##AR:
+10#AUTH#NASAB##AR: b. Basīl akh Iṣṭifan
+10#AUTH#NISBA##AR:
+10#AUTH#SHUHRA#AR: Ṯayādūrus Ibn Basīl
+20#AUTH#BORN#####: URIs from Althurayya, comma separated
+20#AUTH#DIED#####: URIs from Althurayya, comma separated
+20#AUTH#RESIDED##: URIs from Althurayya, comma separated
+20#AUTH#VISITED##: URIs from Althurayya, comma separated
+30#AUTH#BORN###AH: YEAR-MON-DA (X+ for unknown)
+30#AUTH#DIED###AH: YEAR-MON-DA (X+ for unknown)
+40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
+40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
+90#AUTH#COMMENT##: Ibn al-Nadīm names a certain Thayādūrus as the
+    translator of the text; the Istanbul manuscript has Thadhārī b. Basīl
+    Akhī Iṣṭifan, which would  identify him as the brother of the more
+    famous  translator Iṣṭifan b. Basīl, a collaborator of Ḥunayn b. Isḥāq.
+    (see Joep Lameer, al-Fārābī and Aristotelian  Syllogistics
+    (http://www.worldcat.org/oclc/463881386),  pp. 3-5). No information on
+    his date of death is known.

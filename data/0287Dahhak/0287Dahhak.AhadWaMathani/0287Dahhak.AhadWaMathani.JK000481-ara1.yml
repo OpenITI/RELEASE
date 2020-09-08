@@ -1,5 +1,5 @@
-00#VERS#CLENGTH##: 901278
-00#VERS#LENGTH###: 242801
+00#VERS#CLENGTH##: 901265
+00#VERS#LENGTH###: 242792
 00#VERS#URI######: 0287Dahhak.AhadWaMathani.JK000481-ara1
 80#VERS#BASED####: http://www.worldcat.org/oclc/754757262
 80#VERS#COLLATED#: http://www.worldcat.org/oclc/754757262
@@ -10,8 +10,8 @@
     some of the names is missing. This happens just when two titles appear
     successively without any space (see for example PageV02P314 name NO. 260
     which is “المزني” instead of “نعمان المزني” and is appeared after a
-    second-level title). 3- About categorizing the titles: 3.1) The book
-    does not have any table of contents and most of the headers are names of
+    first-level title). 3- About categorizing the titles: 3.1) The book does
+    not have any table of contents and most of the headers are names of
     tribes; so, understanding the correct categorization of these tribes are
     very difficult. I tried to find the relations between the persons by
     searching their names in other sources and present a correct
@@ -26,15 +26,15 @@
     many other categories. For example, from PageV01P411 to PageV02P123, all
     categories are the family of “لؤي بن غالب بن فهر”; nevertheless, none of
     them is a subcategory of the other, but they are all parallel
-    categories, without any macro category. The same is true about
+    categories, without any parent category. The same is true about
     PageV02P164 to PageV02P282 in which all categories are members of the
     family of “عبد مناف بن كنانة” and also about PageV02P283 to PageV02P439
     in which all categories are members of the family of “إلياس بن مضر”,
-    again without any macro category. 3.2) It seems that from PageV04P256
+    again without any parent category. 3.2) It seems that from PageV04P256
     under the title “ومن ذكر اليمن ورجالهم” to PageV05P337, all the tribes
     are from Yemen. If so, they all should be tagged as subcategories of
     this category. I searched about all the tribes, but I couldn’t make sure
     whether all of them were settled in this place or not (this needs the
     confirmation of an expert).
-90#VERS#DATE#####: 2012-09-26
+90#VERS#DATE#####: 2019-09-26
 90#VERS#ISSUES###: NO_MAJOR_ISSUES

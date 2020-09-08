@@ -1,0 +1,24 @@
+00#BOOK#URI######: 0275IstifanIbnBasil.AqwalMinandar
+10#BOOK#GENRES###: src@keyword, src@keyword, src@keyword
+10#BOOK#TITLEA#AR: [Aqwāl Mīnāndar]
+10#BOOK#TITLEB#AR:
+20#BOOK#WROTE####: URIs from Althurayya, comma separated
+30#BOOK#WROTE##AH: YEAR-MON-DA (X+ for unknown)
+40#BOOK#ABRIDGED#: URI of a book from OpenITI, or [Author's Title]
+40#BOOK#COMMENTD#: URI of a book from OpenITI, or [Author's Title]
+40#BOOK#FOLLOWED#: [pseudo-Menander, Sentantiae] (TRANSL)
+40#BOOK#PRECEDED#: URI of a book from OpenITI, or [Author's Title]
+80#BOOK#EDITIONS#: permalink, permalink, permalink
+80#BOOK#LINKS####: permalink, permalink, permalink
+80#BOOK#MSS######: permalink, permalink, permalink
+80#BOOK#STUDIES##: permalink, permalink, permalink
+80#BOOK#TRANSLAT#: permalink, permalink, permalink
+90#BOOK#COMMENT##: This book is the first Arabic translation of
+    ps.-Menander's Sententiae, not extant but reconstructed by Ullmann based
+    on quotes in Shahrastānī's Milal and other Arabic books. In at least one
+    work the translation is ascribed to Iṣṭifān,  whom Ullmann presumes is
+    Iṣṭifān b. Basīl.  Ullmann does not mention a title for Iṣṭifān's
+    translation. See Ullmann 1961, Die arabische Überlieferung der
+    sogenannten  Menandersentenzen, Wiesbaden: Steiner, pp. 12-14.
+    (urn:nbn:de:gbv:3:5-97429,  http://menadoc.bibliothek.uni-
+    halle.de/inhouse/content/titleinfo/4896427)

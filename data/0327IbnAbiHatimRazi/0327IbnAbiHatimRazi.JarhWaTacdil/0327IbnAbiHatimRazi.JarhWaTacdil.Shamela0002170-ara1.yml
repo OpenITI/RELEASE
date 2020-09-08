@@ -1,5 +1,5 @@
-00#VERS#CLENGTH##: 3304707
-00#VERS#LENGTH###: 889986
+00#VERS#CLENGTH##: 3339058
+00#VERS#LENGTH###: 897971
 00#VERS#URI######: 0327IbnAbiHatimRazi.JarhWaTacdil.Shamela0002170-ara1
 80#VERS#BASED####: http://www.worldcat.org/oclc/235988195
 80#VERS#COLLATED#: http://www.worldcat.org/oclc/235988195
@@ -12,13 +12,12 @@
     737-747 in PageV08P166 ff appear in wrong order and NO 2233 in
     PageV08P488 is lost, but these are the mistakes in the PDF, not the
     text. 3- A lot of numbers were not automatically tagged. I checked all
-    numbers and tagged all of them. 4- PageV09P467 and PageV01P375 are the
-    notes of the scribe. 6- The categorization is continued until sixth-
-    level header. 7- From PageV02P039 onwards (i.e. the beginning of
-    alphabetical order of names), all titles are subcategories of the
-    previous title (in PageV02P037); so they must actually start with
-    fourth-level header; but this will cause the categorization to go up
-    until 8th-level header. So, I restarted tagging the titles from second-
-    level header.
+    numbers and tagged all of them. 4- From PageV02P039 onwards (i.e. the
+    beginning of alphabetical order of names), all titles are subcategories
+    of the previous title (in PageV02P037); so the alphabetical order starts
+    with third-level header; but this has cause the categorization to go up
+    until 7th-level header. To avoid this, one suggestion is that we can
+    restart tagging the alphabetical characters from first-level header.
+    However, this needs the opinion of a specialist and I didn't do it.
 90#VERS#DATE#####: 2019-11-18
-90#VERS#ISSUES###: HTML_TAGS, REDUNDANT_PARTS
+90#VERS#ISSUES###: HTML_TAGS, REDUNDANT_PARTS, EDITORIAL_SECTIONS

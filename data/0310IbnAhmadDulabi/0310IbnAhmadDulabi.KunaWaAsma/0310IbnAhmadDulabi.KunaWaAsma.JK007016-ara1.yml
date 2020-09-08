@@ -5,6 +5,6 @@
 80#VERS#COLLATED#: http://www.worldcat.org/oclc/929661039
 80#VERS#LINKS####: https://waqfeya.com/book.php?bid=5978
 90#VERS#ANNOTATOR: HRH
-90#VERS#COMMENT##: NO MAJOR ISSUES
+90#VERS#COMMENT##: The text has a very awkward structure. First, it mentions a few names without any explanation; then it starts explaining about some of them in separate titles. The problem is that some of the names are just mentioned and do not have separate titles; and on the other side, sometimes there are explanations about a group of names without any title. Since I think all the names need to be tagged separately, I tagged the names without explanations as biographical tags (###$), and the repeated names which have explanations as titles. This is the best way for tagging this text that comes to my mind. However, if the categorization of the titles is supposed to be more accurate, the only way is that a specialist must read the text and add a few titles to it.
 90#VERS#DATE#####: 2019-08-29
-90#VERS#ISSUES###: NO_MAJOR_ISSUES
+90#VERS#ISSUES###: PARATEXT, REVIEW_NEEDED

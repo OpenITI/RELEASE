@@ -1,13 +1,15 @@
-00#VERS#CLENGTH##: 668345
-00#VERS#LENGTH###: 163001
+00#VERS#CLENGTH##: 690142
+00#VERS#LENGTH###: 167769
 00#VERS#URI######: 0255Jahiz.BayanWaTabyin.Shamela0010614-ara1
 80#VERS#BASED####: NOT FOUND
 80#VERS#COLLATED#: NOT FOUND
 80#VERS#LINKS####:
-    https://drive.google.com/open?id=1_cYWwS2u7nkuNCR8cIVmny2FmmupwrSd;
-    https://drive.google.com/open?id=1xTOe_Uq-3wE61bv_e5jln6XW7jMtTQOh;
-    https://drive.google.com/open?id=1r5Zin4KXb0aP78oFYA2oy6tTzj4DVgpA
+    https://www.noorlib.ir/View/fa/Book/BookView/Image/3478
 90#VERS#ANNOTATOR: HRH
-90#VERS#COMMENT##: NO MAJOR ISSUES
+90#VERS#COMMENT##: The link in VERS#LINKS that I have used for collation
+    (and is exactly the same as the digital edition) leads you to a payment-
+    based website and you must have an account to see the contents. Another
+    edition of the book that is accessible online can be found here:
+    https://waqfeya.com/book.php?bid=1118
 90#VERS#DATE#####: 2019-08-02
-90#VERS#ISSUES###: NO_MAJOR_ISSUES
+90#VERS#ISSUES###: EDITORIAL_SECTIONS

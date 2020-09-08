@@ -1,14 +1,12 @@
 00#VERS#CLENGTH##: 922987
 00#VERS#LENGTH###: 238893
 00#VERS#URI######: 0179MalikIbnAnas.Muwatta.Shamela0028107-ara1
-80#VERS#BASED####: permalink, permalink, permalink
-80#VERS#COLLATED#: permalink, permalink, permalink
-80#VERS#LINKS####: all@id, vol1@id, vol2@id, vol3@id, volX@id
-90#VERS#ANNOTATOR: the name of the annotator (latin characters; please
-    use consistently)
-90#VERS#COMMENT##: a free running comment here; you can add as many
-    lines as you see fit; the main goal of this comment section is to have a
-    place to record valuable information, which is difficult to formalize
-    into the above given categories.
-90#VERS#DATE#####: YYYY-MM-DD
-90#VERS#ISSUES###: formalized issues, separated with commas
+80#VERS#BASED####: http://www.worldcat.org/oclc/1006303916
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/1006303916
+80#VERS#LINKS####: https://archive.org/details/Muata3Zayid/mode/1up
+90#VERS#ANNOTATOR: HRH
+90#VERS#COMMENT##: The page numbers at the top of the pages are interred
+    into the text. I just untagged them. They must be removed. 2- All
+    editions of this book is tagged at Sarah’s request.
+90#VERS#DATE#####: 2020-03-22
+90#VERS#ISSUES###: PAGINATION, HTML_TAGS, EDITORIAL_SECTIONS

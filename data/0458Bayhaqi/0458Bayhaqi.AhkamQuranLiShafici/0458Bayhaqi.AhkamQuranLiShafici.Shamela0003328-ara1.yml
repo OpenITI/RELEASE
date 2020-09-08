@@ -1,14 +1,10 @@
 00#VERS#CLENGTH##: 226221
 00#VERS#LENGTH###: 55629
 00#VERS#URI######: 0458Bayhaqi.AhkamQuranLiShafici.Shamela0003328-ara1
-80#VERS#BASED####: permalink, permalink, permalink
-80#VERS#COLLATED#: permalink, permalink, permalink
-80#VERS#LINKS####: all@id, vol1@id, vol2@id, vol3@id, volX@id
-90#VERS#ANNOTATOR: the name of the annotator (latin characters; please
-    use consistently)
-90#VERS#COMMENT##: a free running comment here; you can add as many
-    lines as you see fit; the main goal of this comment section is to have a
-    place to record valuable information, which is difficult to formalize
-    into the above given categories.
-90#VERS#DATE#####: YYYY-MM-DD
-90#VERS#ISSUES###: formalized issues, separated with commas
+80#VERS#BASED####: http://www.worldcat.org/oclc/55198919
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/55198919
+80#VERS#LINKS####: https://ia803102.us.archive.org/1/items/ktp2019-bskn2537/ktp2019-bskn2537.pdf; https://upload.wikimedia.org/wikisource/ar/7/73/%D8%A3%D8%AD%D9%83%D8%A7%D9%85_%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86_%D9%84%D9%84%D8%B4%D8%A7%D9%81%D8%B9%D9%8A.pdf
+90#VERS#ANNOTATOR: HRH
+90#VERS#COMMENT##: 
+90#VERS#DATE#####: 2020-04-30
+90#VERS#ISSUES###: EDITORIAL_SECTIONS

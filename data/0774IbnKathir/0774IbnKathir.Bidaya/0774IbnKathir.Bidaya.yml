@@ -13,7 +13,26 @@
 80#BOOK#MSS######: permalink, permalink, permalink
 80#BOOK#STUDIES##: permalink, permalink, permalink
 80#BOOK#TRANSLAT#: permalink, permalink, permalink
-90#BOOK#COMMENT##: a free running comment here; you can add as many
-    lines as you see fit; the main goal of this comment section is to have a
-    place to record valuable information, which is difficult to formalize
-    into the above given categories.
+90#BOOK#COMMENT##: The corpus contains a number of different versions of the text:
+    * Full editions:
+        - ed. ʿAbd Allāh b. ʿAbd al-Muḥsin al-Turkī,
+          Dār Hajar 1418-1424/1997-2003, 20 vols.
+          http://www.worldcat.org/oclc/4770896261
+          (-ara1: Sham30K0004445, Shamela0004445, Sham30K0041451)
+         - ed. ʿAlī Shīrī, Dār Iḥyā' al-Turāth al-ʿArabī, 
+          1408/1988, 14 vols.
+          http://www.worldcat.org/oclc/745376167
+          (-ara2: Sham30K0008376, Shamela0008376, Sham30K0036126, Shia003593Vols)
+       - ed. Maktabat al-Maʿārif, 14 vols.
+          http://www.worldcat.org/oclc/122811315
+          (-ara3: Sham30K0045182, JK000158, Sham30K0032354)
+        - ed. Dār al-Fikr, 1407/1986, 15 vols.
+          http://www.worldcat.org/oclc/28144426
+          (-ara4: Sham30K0023708, Shamela0023708)
+    * Editions of only the Sīra al-Nabawiyya part of the text: 
+        - ed. Sayyid Ibrāhīm Amīn Muḥammad, al-Maktaba al-Tawfīqiyya
+          http://www.worldcat.org/oclc/745294373
+          (-ara5: Shamela0023678)
+        - ed. Muṣṭafā ʿAbd al-Wāḥid, Dār al-Maʿrifa 1395/1976
+          http://www.worldcat.org/oclc/235980396
+          (-ara6: Shamela0000930, JK010930, Shia003717Vols)

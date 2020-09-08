@@ -1,12 +1,11 @@
-00#VERS#CLENGTH##: 248470
-00#VERS#LENGTH###: 64996
+00#VERS#CLENGTH##: 276558
+00#VERS#LENGTH###: 71502
 00#VERS#URI######: 0292Bahshal.TarikhWasit.Shamela0011766-ara1
 80#VERS#BASED####: http://www.worldcat.org/oclc/1107159304
 80#VERS#COLLATED#: http://www.worldcat.org/oclc/1107159304
 80#VERS#LINKS####:
     https://ia902704.us.archive.org/0/items/twbtwb/twb.pdf
 90#VERS#ANNOTATOR: HRH
-90#VERS#COMMENT##: The first editorial section at the end of the book is
-    the note of the scribe and the second one consists of indexes.
+90#VERS#COMMENT##:
 90#VERS#DATE#####: 2019-09-22
-90#VERS#ISSUES###: RANDOM_CHARS
+90#VERS#ISSUES###: RANDOM_CHARS, EDITORIAL_SECTIONS

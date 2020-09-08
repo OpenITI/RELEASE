@@ -1,14 +1,10 @@
 00#VERS#CLENGTH##: 386152
 00#VERS#LENGTH###: 95996
 00#VERS#URI######: 0597IbnJawzi.DucafaWaMatrukin.Shamela0005830-ara1
-80#VERS#BASED####: permalink, permalink, permalink
-80#VERS#COLLATED#: permalink, permalink, permalink
-80#VERS#LINKS####: all@id, vol1@id, vol2@id, vol3@id, volX@id
-90#VERS#ANNOTATOR: the name of the annotator (latin characters; please
-    use consistently)
-90#VERS#COMMENT##: a free running comment here; you can add as many
-    lines as you see fit; the main goal of this comment section is to have a
-    place to record valuable information, which is difficult to formalize
-    into the above given categories.
-90#VERS#DATE#####: YYYY-MM-DD
-90#VERS#ISSUES###: formalized issues, separated with commas
+80#VERS#BASED####: http://www.worldcat.org/oclc/19679403
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/19679403
+80#VERS#LINKS####: https://archive.org/details/Duafaa_Ibn_Jawzi
+90#VERS#ANNOTATOR: HRH
+90#VERS#COMMENT##: Many of the names did not have numbers and automatic tags. I added the numbers and the tags manually. 2- No 409 in PageV01P119 and No 3339 in PageV03P123are missing.
+90#VERS#DATE#####: 2020-07-10
+90#VERS#ISSUES###: HTML_TAGS, PAGINATION, PARATEXT, MISSING_PARTS

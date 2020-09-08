@@ -1,7 +1,7 @@
 00#BOOK#URI######: 0384AbuHasanRummani.RisalatHudud
 10#BOOK#GENRES###: src@keyword, src@keyword, src@keyword
-10#BOOK#TITLEA#AR: Kitāb al-Muʾallif
-10#BOOK#TITLEB#AR: Risālaŧ al-Muʾallif
+10#BOOK#TITLEA#AR: Risālaŧ al-Ḥudūd
+10#BOOK#TITLEB#AR: Kitāb  al-Ḥudūd fī al-naḥw
 20#BOOK#WROTE####: URIs from Althurayya, comma separated
 30#BOOK#WROTE##AH: YEAR-MON-DA (X+ for unknown)
 40#BOOK#ABRIDGED#: URI of a book from OpenITI, or [Author's Title]
@@ -13,7 +13,8 @@
 80#BOOK#MSS######: permalink, permalink, permalink
 80#BOOK#STUDIES##: permalink, permalink, permalink
 80#BOOK#TRANSLAT#: permalink, permalink, permalink
-90#BOOK#COMMENT##: a free running comment here; you can add as many
-    lines as you see fit; the main goal of this comment section is to have a
-    place to record valuable information, which is difficult to formalize
-    into the above given categories.
+90#BOOK#COMMENT##: Both versions in the corpus (JK006988 and Shamela0006981)
+    are based on the same edition of the text, in which the Risālat al-Ḥudūd
+    was published together with the Manāzil al-ḥurūf (by the same author).
+    This joint publication is also in JK and Shamela (JK001218 and Shamela 0006997), 
+    which was removed from the corpus. See https://github.com/OpenITI/Annotation/issues/574

@@ -1,5 +1,5 @@
-00#VERS#CLENGTH##: 34122
-00#VERS#LENGTH###: 8897
+00#VERS#CLENGTH##: 34208
+00#VERS#LENGTH###: 8918
 00#VERS#URI######: 0195MuarrijSadusi.HadhfMinNasabQuraysh.Shamela0000496-ara1
 80#VERS#BASED####: http://www.worldcat.org/oclc/15214745
 80#VERS#COLLATED#: http://www.worldcat.org/oclc/15214745
@@ -8,17 +8,16 @@
 90#VERS#COMMENT##: The PDF that I found is exactly the same edition that
     is used in the Editpro text. So, the METADATA can be completed according
     to the book information. 2- All page numbers in the text must be added
-    by one. 3- The first few lines are the note of the narrator of the text.
-    I tagged it as editorial. 4- I tagged the names as ### $ when just one
-    name appears at the beginning of a sentence in complete form, and I
-    tried to tag all the names that could be tagged structurally; however,
-    there are a lot of other names inside the sentences that could not be
-    tagged structurally. 5- Some titles are written separately and bold in
-    the book, but they don’t seem to me to be major categories really. I
-    tagged them with an asterisk (i.e. ### ||| *). 6- The categorization of
-    the book does not seem to be thorough. Some names, for example, don’t
-    seem to belong to their category, but they seem to belong to the former
-    category. So, the text probably needs a few invented titles to have a
-    perfect categorization. 7- A missing paragraph in page 32.
+    by one. 3- I tagged the names as ### $ when just one name appears at the
+    beginning of a sentence in complete form, and I tried to tag all the
+    names that could be tagged structurally; however, there are a lot of
+    other names inside the sentences that could not be tagged structurally.
+    4- Some titles are written separately and bold in the book, but they
+    don’t seem to me to be major categories really. I tagged them with an
+    asterisk (i.e. ### || *). 6- The categorization of the book does not
+    seem to be thorough. Some names, for example, don’t seem to belong to
+    their category, but they seem to belong to the former category. So, the
+    text probably needs a few invented titles to have a perfect
+    categorization. 7- A missing paragraph in page 32.
 90#VERS#DATE#####: 2019-06-11
-90#VERS#ISSUES###: NO_MAJOR_ISSUES
+90#VERS#ISSUES###: PARATEXT, MISSING_PARTS

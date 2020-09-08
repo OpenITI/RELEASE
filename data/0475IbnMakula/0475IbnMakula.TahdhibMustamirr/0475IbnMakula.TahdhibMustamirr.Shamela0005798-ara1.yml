@@ -1,14 +1,16 @@
-00#VERS#CLENGTH##: 208116
-00#VERS#LENGTH###: 54403
+00#VERS#CLENGTH##: 208114
+00#VERS#LENGTH###: 54398
 00#VERS#URI######: 0475IbnMakula.TahdhibMustamirr.Shamela0005798-ara1
-80#VERS#BASED####: permalink, permalink, permalink
-80#VERS#COLLATED#: permalink, permalink, permalink
-80#VERS#LINKS####: all@id, vol1@id, vol2@id, vol3@id, volX@id
-90#VERS#ANNOTATOR: the name of the annotator (latin characters; please
-    use consistently)
-90#VERS#COMMENT##: a free running comment here; you can add as many
-    lines as you see fit; the main goal of this comment section is to have a
-    place to record valuable information, which is difficult to formalize
-    into the above given categories.
-90#VERS#DATE#####: YYYY-MM-DD
-90#VERS#ISSUES###: formalized issues, separated with commas
+80#VERS#BASED####: http://www.worldcat.org/oclc/741094376
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/741094376
+80#VERS#LINKS####: https://books-library.online/free-794967357-download
+90#VERS#ANNOTATOR: SP Loynes
+90#VERS#COMMENT##: The text matches closely the printed edition.
+    Occasionally titles are either duplicated or missing in part. The
+    pagination from pg. 100 is not consistent in terms of numbering (e.g.,
+    reverts to V00P000). Lines 4613-4625 seem to be a scribal error. It
+    appears to be a section which has the correct header, but then the wrong
+    text. It should be removed. However, by line 4635 it is back in line
+    with the printed edition.
+90#VERS#DATE#####: 2020-05-13
+90#VERS#ISSUES###: PAGINATION, HTML_TAGS, REDUNDANT_PARTS

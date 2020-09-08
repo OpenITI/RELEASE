@@ -1,14 +1,23 @@
-00#VERS#CLENGTH##: 484834
-00#VERS#LENGTH###: 121775
+00#VERS#CLENGTH##: 484704
+00#VERS#LENGTH###: 121747
 00#VERS#URI######: 0676Nawawi.RiyadSalihin.Shamela0012014-ara1
-80#VERS#BASED####: permalink, permalink, permalink
-80#VERS#COLLATED#: permalink, permalink, permalink
-80#VERS#LINKS####: all@id, vol1@id, vol2@id, vol3@id, volX@id
-90#VERS#ANNOTATOR: the name of the annotator (latin characters; please
-    use consistently)
-90#VERS#COMMENT##: a free running comment here; you can add as many
-    lines as you see fit; the main goal of this comment section is to have a
-    place to record valuable information, which is difficult to formalize
-    into the above given categories.
-90#VERS#DATE#####: YYYY-MM-DD
-90#VERS#ISSUES###: formalized issues, separated with commas
+80#VERS#BASED####: http://www.worldcat.org/oclc/962919075
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/962919075
+80#VERS#LINKS####: https://archive.org/details/FP154724
+90#VERS#ANNOTATOR: Gowaart Van Den Bossche
+90#VERS#COMMENT##: This edition seemed best, pagination was mostly
+    correct and useful pre-tagging was in place. Text includes references
+    identifying Quran verses, but these are also in the body text in the
+    pdf. I have left them in place, but they do give the text a somewhat
+    messy look in places. The individual numbering for each hadith had been
+    pre-tagged as structural unit. I have left this in place and moved it to
+    third level headers. There was an issue with page numbers: in front of
+    every bab (level 1 header) the page number on which it appears was
+    inserted, which results in redundancy. I have deleted these redundant
+    page numbers manually, but may have missed some.  Chapters 49-63 (hadith
+    390-570) were not in the right place in the digital text, so I have
+    copied them to the right place. Similarly, pages 468 and 469 had been
+    switched around, I have fixed that.  Contents of page 387 are missing
+    (two hadiths, 1384-5), as is hadith 1749 on p. 485
+90#VERS#DATE#####: 2020-06-04
+90#VERS#ISSUES###: MISSING_PARTS

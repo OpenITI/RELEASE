@@ -1,5 +1,5 @@
-00#VERS#CLENGTH##: 763663
-00#VERS#LENGTH###: 187632
+00#VERS#CLENGTH##: 763842
+00#VERS#LENGTH###: 187669
 00#VERS#URI######: 0285IbnYazidMubarrad.KamilFiLugha.Shamela0008505-ara1
 80#VERS#BASED####: http://www.worldcat.org/oclc/4770660215
 80#VERS#COLLATED#: http://www.worldcat.org/oclc/4770660215
@@ -11,4 +11,4 @@
     (for example, the title in PageV03P100). 4- A missing title in
     PageV01P257.
 90#VERS#DATE#####: 2019-09-28
-90#VERS#ISSUES###: RANDOM_CHARS, PAGINATION
+90#VERS#ISSUES###: RANDOM_CHARS, PAGINATION, EDITORIAL_SECTIONS

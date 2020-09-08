@@ -3,14 +3,13 @@
 00#VERS#URI######: 0255Jahiz.TajFiAkhlaq.Shamela0022623-ara1
 80#VERS#BASED####: http://www.worldcat.org/oclc/4770973858
 80#VERS#COLLATED#: http://www.worldcat.org/oclc/4770973858
-80#VERS#LINKS####: https://drive.google.com/open?id=0B5zLSBL5QtqjbXhFYUF
-    jenVPODZuRWZOZXgwUnFHdU1kZnNv
+80#VERS#LINKS####: https://upload.wikimedia.org/wikisource/ar/7/74/%D8%A
+    7%D9%84%D8%AA%D8%A7%D8%AC_%D9%81%D9%8A_%D8%A3%D8%AE%D9%84%D8%A7%D9%82_%D
+    8%A7%D9%84%D9%85%D9%84%D9%88%D9%83.pdf
 90#VERS#ANNOTATOR: HRH
-90#VERS#COMMENT##: Second-level headers are sorted according to what
-    appears in Editpadpro version (which itself corresponds to what is
-    written on the left margin of the pages), not according to the book's
-    table of contents which is a very descriptive one. These lines are
-    omitted in Editpadpro version: Page/Line: 20/4; 48/6; 55/11; 118-6-7-8;
-    134/last line;
+90#VERS#COMMENT##: The typist has added some titles. Although they are
+    different from the titles on the margins of the pages in the PDF, they
+    are useful and I tagged them as second-level headers. 2- Missing parts:
+    Page/Line: 20/4; 48/6; 55/11; 118-6-7-8; 134/last line;
 90#VERS#DATE#####: 2019-07-26
-90#VERS#ISSUES###: a few missing lines
+90#VERS#ISSUES###: MISSING_PARTS

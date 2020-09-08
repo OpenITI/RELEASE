@@ -1,12 +1,23 @@
-00#VERS#CLENGTH##: 203334
-00#VERS#LENGTH###: 50190
+00#VERS#CLENGTH##: 202598
+00#VERS#LENGTH###: 50009
 00#VERS#URI######: 0748Dhahabi.Culuww.Shamela0006463-ara1
-80#VERS#BASED####: permalink, permalink, permalink
-80#VERS#COLLATED#: permalink, permalink, permalink
-80#VERS#LINKS####: all@id, vol1@id, vol2@id, vol3@id, volX@id
-90#VERS#ANNOTATOR: the name of the annotator (latin characters; please
-    use consistently)
-90#VERS#COMMENT##: the text was tagged before; no proper YML file yet.
-    See, `README.md` for details.
-90#VERS#DATE#####: YYYY-MM-DD
-90#VERS#ISSUES###: formalized issues, separated with commas
+80#VERS#BASED####: http://www.worldcat.org/oclc/35661499
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/35661499
+80#VERS#LINKS####:
+    https://ia801604.us.archive.org/32/items/WAQ25623_201403/25623.pdf
+90#VERS#ANNOTATOR: MGR
+90#VERS#COMMENT##: The edition is based on an older edition published in
+    India in 1306AH, which in turn was based on a manuscript copy of the
+    author's autograph.  The editor collated it with another edition,
+    published in  Medina (al-Maṭbaʿa al-Salafiyya), and with al-Albānī's
+    Mukhtaṣar al-ʿUluww (ed. al-Maktab al-Islāmī). (see editor's
+    introduction, p. 5) The editor notes in his introduction (p. 5) that he
+    added  a number of explanatory titles "at the beginning of the book;  at
+    least one of those (p. 102) is marked in the text with a footnote
+    stating it was added by the editor. In the introduction (p. 5), the
+    editor also notes that he  tagged al-Dhahabī's comments with a small
+    symbol (a circle), and his judgment about aḥādīth with another symbol (a
+    black dot);  they are marked in the digitized text with two forward
+    slashes.
+90#VERS#DATE#####: 2019-10-24
+90#VERS#ISSUES###: NO_MAJOR_ISSUES

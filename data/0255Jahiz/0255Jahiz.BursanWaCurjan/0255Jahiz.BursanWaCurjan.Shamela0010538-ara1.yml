@@ -1,13 +1,10 @@
-00#VERS#CLENGTH##: 159908
-00#VERS#LENGTH###: 38842
+00#VERS#CLENGTH##: 208237
+00#VERS#LENGTH###: 50365
 00#VERS#URI######: 0255Jahiz.BursanWaCurjan.Shamela0010538-ara1
 80#VERS#BASED####: http://www.worldcat.org/oclc/26023670
 80#VERS#COLLATED#: http://www.worldcat.org/oclc/26023670
-80#VERS#LINKS####: https://drive.google.com/open?id=0B5zLSBL5QtqjS2VCOGJ
-    QSlVFVDNJOUk1SjdGX1dpSHktb1lv
+80#VERS#LINKS####: http://www.almeshkat.net/book/1645
 90#VERS#ANNOTATOR: HRH
-90#VERS#COMMENT##: The discrepancies between the PDF and the Editpadpro
-    text are listed in this Excel file:https://drive.google.com/open?id=0B5z
-    LSBL5QtqjaDNYUnFzZ3p5VEFPcnVVY3dXYklyMGN1Z1dn
+90#VERS#COMMENT##:
 90#VERS#DATE#####: 2019-07-26
-90#VERS#ISSUES###: NO_MAJOR_ISSUES
+90#VERS#ISSUES###: EDITORIAL_SECTIONS, HTML_TAGS

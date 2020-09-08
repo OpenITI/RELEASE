@@ -1,7 +1,7 @@
 00#BOOK#URI######: 0303Nasai.SunanKubra
 10#BOOK#GENRES###: src@keyword, src@keyword, src@keyword
-10#BOOK#TITLEA#AR: Kitāb al-Muʾallif
-10#BOOK#TITLEB#AR: Risālaŧ al-Muʾallif
+10#BOOK#TITLEA#AR: Kitāb al-Sunan al-Kubrá
+10#BOOK#TITLEB#AR: Kitāb al-Sunan
 20#BOOK#WROTE####: URIs from Althurayya, comma separated
 30#BOOK#WROTE##AH: YEAR-MON-DA (X+ for unknown)
 40#BOOK#ABRIDGED#: URI of a book from OpenITI, or [Author's Title]
@@ -13,7 +13,13 @@
 80#BOOK#MSS######: permalink, permalink, permalink
 80#BOOK#STUDIES##: permalink, permalink, permalink
 80#BOOK#TRANSLAT#: permalink, permalink, permalink
-90#BOOK#COMMENT##: a free running comment here; you can add as many
-    lines as you see fit; the main goal of this comment section is to have a
-    place to record valuable information, which is difficult to formalize
-    into the above given categories.
+90#BOOK#COMMENT##: A selection of aḥādīth. Al-Nasā'ī's reportedly
+    later published a selection of aḥādīth from his collection, 
+    which became known as al-Sunan al-ṣughrā or Kitāb al-mujtabā.
+    According to Sezgin (GAS 1: 167-168), al-Sunan al-kubrā
+    may never have circulated, and all extant manuscripts, 
+    regardless of the title they carry (be it al-Sunan al-kubrá, 
+    al-Sunan al-Ṣughrá, or al-Mujtabá), contain the same text.
+    The editor of the text published it under the title al-Sunan al-Kubrá
+    because the manuscripts his edition is based on contain a large number
+    of sections not present in al-Mujtabá. 

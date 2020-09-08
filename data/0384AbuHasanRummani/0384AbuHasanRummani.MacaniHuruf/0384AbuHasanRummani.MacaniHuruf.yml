@@ -1,19 +1,35 @@
 00#BOOK#URI######: 0384AbuHasanRummani.MacaniHuruf
 10#BOOK#GENRES###: src@keyword, src@keyword, src@keyword
-10#BOOK#TITLEA#AR: Kitāb al-Muʾallif
-10#BOOK#TITLEB#AR: Risālaŧ al-Muʾallif
+10#BOOK#TITLEA#AR: Risālaŧ Manāzil al-ḥurūf
+10#BOOK#TITLEB#AR: Risālaŧ Maʿānī al-ḥurūf, Kitāb al-ḥurūf
 20#BOOK#WROTE####: URIs from Althurayya, comma separated
 30#BOOK#WROTE##AH: YEAR-MON-DA (X+ for unknown)
 40#BOOK#ABRIDGED#: URI of a book from OpenITI, or [Author's Title]
 40#BOOK#COMMENTD#: URI of a book from OpenITI, or [Author's Title]
 40#BOOK#FOLLOWED#: URI of a book from OpenITI, or [Author's Title]
 40#BOOK#PRECEDED#: URI of a book from OpenITI, or [Author's Title]
-80#BOOK#EDITIONS#: permalink, permalink, permalink
-80#BOOK#LINKS####: permalink, permalink, permalink
+80#BOOK#EDITIONS#: http://www.worldcat.org/oclc/4771087611, 
+    http://www.worldcat.org/oclc/4771444716,
+    https://www.nli.org.il/ar/books/NNL_ALEPH002169146/NLI
+80#BOOK#LINKS####: https://ia800300.us.archive.org/11/items/ma3ani-al7orouf_rommani/ma3ani-al7orouf_rommani.pdf, 
+    NOT_FOUND, 
+    https://ia802707.us.archive.org/34/items/15368/rmn.pdf
 80#BOOK#MSS######: permalink, permalink, permalink
 80#BOOK#STUDIES##: permalink, permalink, permalink
 80#BOOK#TRANSLAT#: permalink, permalink, permalink
-90#BOOK#COMMENT##: a free running comment here; you can add as many
-    lines as you see fit; the main goal of this comment section is to have a
-    place to record valuable information, which is difficult to formalize
-    into the above given categories.
+90#BOOK#COMMENT##: The book exists in two manuscripts: 
+    one in Jerusalem and one in Istanbul (Köprülü).
+    (both texts are found in the Shalabī 1981 ed., 
+    http://www.worldcat.org/oclc/4771087611).
+    The manuscripts contain entirely different texts, 
+    and have different titles: The Köprülü manuscript 
+    seems titled Kitāb al-ḥurūf, the Jerusalem manuscript
+    starts with "qāla Abū al-Ḥasan ʿĪsā fī Kitāb manāzil al-ḥurūf."
+    Both versions in the corpus contain the text of the
+    Jerusalem manuscript. 
+    * Shamela0005353 is an unpaginated digitization of an unidentified 
+      edition, and misses a number of pages at the end.
+    * Shamela0006997 and JK001218 are identical digitizations of the 
+      Sāmarrā'ī edition (http://www.worldcat.org/oclc/4771444716), 
+      which includes, in addition to the Manāzil (sic) al-ḥurūf, 
+      also a second risāla, Risālat al-Ḥudūd. 

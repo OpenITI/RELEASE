@@ -1,0 +1,28 @@
+00#BOOK#URI######: 0400AnonTranslator.GhrighuriyusFiFadila
+10#BOOK#GENRES###: src@keyword, src@keyword, src@keyword
+10#BOOK#TITLEA#AR: Min qawl al-qiddīs Ghrīghūriyus al-Thālūghus usquf
+    Nāziyanzū fī al-faḍīlaŧ ʿalá ḥurūf alfā fīṭā ilā kamālihā, aʿnī asmāʾ
+    ḥurūf al-Yūnāniyyīn
+10#BOOK#TITLEB#AR:
+20#BOOK#WROTE####: URIs from Althurayya, comma separated
+30#BOOK#WROTE##AH: YEAR-MON-DA (X+ for unknown)
+40#BOOK#ABRIDGED#: URI of a book from OpenITI, or [Author's Title]
+40#BOOK#COMMENTD#: URI of a book from OpenITI, or [Author's Title]
+40#BOOK#FOLLOWED#: [pseudo-Menander, Sententiae] (TRANSL)
+40#BOOK#PRECEDED#: URI of a book from OpenITI, or [Author's Title]
+80#BOOK#EDITIONS#: permalink, permalink, permalink
+80#BOOK#LINKS####: permalink, permalink, permalink
+80#BOOK#MSS######: permalink, permalink, permalink
+80#BOOK#STUDIES##: permalink, permalink, permalink
+80#BOOK#TRANSLAT#: permalink, permalink, permalink
+90#BOOK#COMMENT##: Ullmann reconstructed a second translation of
+    ps.-Menander's sententiae, based on a manuscript in Paris. Although the
+    title in the manuscript attributes the sayings to  Gregorius of
+    Nazianze, they are clearly a translation of  a specific tradition of the
+    Sententiae attributed to ps.-Menander.  The translator is not named in
+    the manuscript; Ullmann suggests  10th-C author Ibrāhīm b. Yūḥannā al-
+    Anṭākī,  who also translated other work of Gregorius of Nazianze. See
+    Ullmann 1961, Die arabische Überlieferung der sogenannten
+    Menandersentenzen, Wiesbaden: Steiner, pp. 60-63.
+    (urn:nbn:de:gbv:3:5-97429,  http://menadoc.bibliothek.uni-
+    halle.de/inhouse/content/titleinfo/4896427)

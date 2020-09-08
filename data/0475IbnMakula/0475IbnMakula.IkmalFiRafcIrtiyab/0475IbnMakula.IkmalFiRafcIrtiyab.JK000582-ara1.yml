@@ -1,14 +1,41 @@
 00#VERS#CLENGTH##: 1517197
-00#VERS#LENGTH###: 386858
+00#VERS#LENGTH###: 386857
 00#VERS#URI######: 0475IbnMakula.IkmalFiRafcIrtiyab.JK000582-ara1
-80#VERS#BASED####: permalink, permalink, permalink
-80#VERS#COLLATED#: permalink, permalink, permalink
-80#VERS#LINKS####: all@id, vol1@id, vol2@id, vol3@id, volX@id
-90#VERS#ANNOTATOR: the name of the annotator (latin characters; please
-    use consistently)
-90#VERS#COMMENT##: a free running comment here; you can add as many
-    lines as you see fit; the main goal of this comment section is to have a
-    place to record valuable information, which is difficult to formalize
-    into the above given categories.
-90#VERS#DATE#####: YYYY-MM-DD
-90#VERS#ISSUES###: formalized issues, separated with commas
+80#VERS#BASED####: http://www.worldcat.org/oclc/34783581
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/4770012226
+80#VERS#LINKS####: https://archive.org/details/waq3966/mode/1up
+90#VERS#ANNOTATOR: HRH
+90#VERS#COMMENT##: The digital version seems to be a reprint of the
+    edition I used for collation. Page numbers are the same in all volumes
+    except the seventh volume. 2- In vol 7, the first 38 pages of the PDF
+    are missing. 3- “0” appears in some places in the text (mostly instead
+    of dots) and @ appears before page numbers. 4- The text includes a lot
+    of names, but these names are not part of the structure. So, I didn’t
+    tag them (After asking the team about it). 5- The main idea of the text
+    is to introduce the names that are very close to each other and might be
+    mistaken (like “أثير” and “أبير”) in separate sections. So, after the
+    main title, the text explains about each of the names in a few
+    subsections. But there is no subtitle to differentiate these
+    subsections. Under some of the main titles, there is a subtitle entitled
+    “الكنى و الآباء” which explains about the names of the people whose sons
+    hold the name which was being discussed in the previous subsection. I
+    tagged these titles as sub-headers of the main titles–exactly following
+    the format of the printed version. However, I must warn that the
+    categorization of the printed version is incorrect. Because, as I said,
+    the problem is that the subsections that explain about each of the names
+    do not have any title. So, these subtitles are actually subtitles of
+    major titles that do not exist (not the subtitles of the main titles. In
+    the ideal format, the major header = the title including all names; the
+    sub-header = one of the names in the title; sub-sub-header = “الكنى و
+    الآباء”). The same thing is true about another subtitle “مختلف فيه”
+    which explains about a different person who has the same name as the one
+    that was being discussed in the previous subsection. This subtitle is
+    again the subtitle of a previous major title that does not exist. A
+    specialist in Rijal can add a lot of names as titles to separate the
+    subsections that are about specific names, and put the above-mentioned
+    two titles as sub-headers of these added titles, and thus present a
+    correct categorization of the text (NOTE: In Vol 1, both of these titles
+    appear in the middle of sentences, but in other volumes, they appear as
+    separate titles).
+90#VERS#DATE#####: 2020-05-22
+90#VERS#ISSUES###: RANDOM_CHARS, MISSING_PARTS, EDITORIAL_SECTIONS

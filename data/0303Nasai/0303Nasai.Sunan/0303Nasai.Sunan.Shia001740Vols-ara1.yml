@@ -1,14 +1,21 @@
 00#VERS#CLENGTH##: 1364872
 00#VERS#LENGTH###: 354593
 00#VERS#URI######: 0303Nasai.Sunan.Shia001740Vols-ara1
-80#VERS#BASED####: permalink, permalink, permalink
+80#VERS#BASED####: http://www.worldcat.org/oclc/1158773169, 
+    http://www.worldcat.org/oclc/782088725,
+    http://www.worldcat.org/oclc/1028999263
 80#VERS#COLLATED#: permalink, permalink, permalink
-80#VERS#LINKS####: all@id, vol1@id, vol2@id, vol3@id, volX@id
-90#VERS#ANNOTATOR: the name of the annotator (latin characters; please
-    use consistently)
-90#VERS#COMMENT##: a free running comment here; you can add as many
-    lines as you see fit; the main goal of this comment section is to have a
-    place to record valuable information, which is difficult to formalize
-    into the above given categories.
-90#VERS#DATE#####: YYYY-MM-DD
+80#VERS#LINKS####: https://archive.org/details/waq106636waq
+90#VERS#ANNOTATOR: PV
+90#VERS#COMMENT##: This is a digital version of al-Nasā'ī's al-Sunan al-Ṣughrā
+    (or Mujtabā al-sunan), edited with the sharḥ of al-Suyūṭī and the marginal notes
+    of al-Sindī (the sharḥ and the marginalia were not digitized).
+    Shia001740Vols follows the Dār al-Fikr edition (http://www.worldcat.org/oclc/1158773169) 
+    of 1930/1348 (sic; probably a reprint of the al-Maṭbaʿa al-Miṣriyya edition of 1930/1348,
+    http://www.worldcat.org/oclc/1028999263) in 8 volumes,
+    but volumes 3 and 7 are taken from another reprint of the same edition by
+    Dār Iḥyā' al-turāth al-ʿArabī (http://www.worldcat.org/oclc/782088725).
+    PV tagged the editorial sections. 
+    The structure is not indicated by specific markers in the text.
+90#VERS#DATE#####: 2020-07-08
 90#VERS#ISSUES###: formalized issues, separated with commas

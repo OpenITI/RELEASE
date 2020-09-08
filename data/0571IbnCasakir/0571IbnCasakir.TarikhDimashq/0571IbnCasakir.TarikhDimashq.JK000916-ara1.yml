@@ -1,11 +1,23 @@
-00#VERS#CLENGTH##: 31777024
-00#VERS#LENGTH###: 8151141
+00#VERS#CLENGTH##: 32992853
+00#VERS#LENGTH###: 8459145
 00#VERS#URI######: 0571IbnCasakir.TarikhDimashq.JK000916-ara1
 80#VERS#BASED####: http://www.worldcat.org/oclc/49781822
 80#VERS#COLLATED#: http://www.worldcat.org/oclc/49781822
 80#VERS#LINKS####: https://archive.org/details/alhelawy08
-90#VERS#ANNOTATOR: Gowaart Van Den Bossche
+90#VERS#ANNOTATOR: Vol 1-70: Gowaart Van Den Bossche; Vol 71-74: HRH
 90#VERS#COMMENT##: Text was annotated by an unknown annotator, validated
-    by Gowaart with little corrections.
-90#VERS#DATE#####: 2019-07-24
-90#VERS#ISSUES###: NO_MAJOR_ISSUES
+    by Gowaart with little corrections. HRH: 1- The last 4 volumes (71-74)
+    were missing in this JK000916-ara1.mARkdown version. So, as we discussed
+    in the meeting, I copied these volumes from Shamela000071 (which is the
+    same edition) and tagged them collating with their respective PDFs. 2- I
+    also made small corrections in volume 69-70 (which contain the names of
+    women) as such: the names in these volumes were tagged with one $ sign
+    and I corrected this. I also put a blank first-level header at the
+    beginning of this section to signify the beginning of the female names
+    (a title must be added here). I also changed the leveling of the title
+    in PageV70P197 from first-level to second-level. 3- The names in volumes
+    1-70 do not have numbers. It would be best to add the numbers in square
+    brackets (like the names in volumes 71-74) using RegExp.
+90#VERS#DATE#####: 2019-07-24; HRH: 2020-07-25
+90#VERS#ISSUES###: 1-70: RANDOM_CHARS; 71-74: PAGINATION,
+    EDITORIAL_SECTIONS

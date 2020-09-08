@@ -1,7 +1,7 @@
 00#BOOK#URI######: 0333IbnMarwanDinawari.MujalasaWaJawahirCilm
 10#BOOK#GENRES###: src@keyword, src@keyword, src@keyword
-10#BOOK#TITLEA#AR: Kitāb al-Muʾallif
-10#BOOK#TITLEB#AR: Risālaŧ al-Muʾallif
+10#BOOK#TITLEA#AR: ʾAl-mujālasa=t wa jawāhir?u al-ʿilm
+10#BOOK#TITLEB#AR: 
 20#BOOK#WROTE####: URIs from Althurayya, comma separated
 30#BOOK#WROTE##AH: YEAR-MON-DA (X+ for unknown)
 40#BOOK#ABRIDGED#: URI of a book from OpenITI, or [Author's Title]
@@ -9,7 +9,7 @@
 40#BOOK#FOLLOWED#: URI of a book from OpenITI, or [Author's Title]
 40#BOOK#PRECEDED#: URI of a book from OpenITI, or [Author's Title]
 80#BOOK#EDITIONS#: permalink, permalink, permalink
-80#BOOK#LINKS####: permalink, permalink, permalink
+80#BOOK#LINKS####: http://www.worldcat.org/oclc/318913906
 80#BOOK#MSS######: permalink, permalink, permalink
 80#BOOK#STUDIES##: permalink, permalink, permalink
 80#BOOK#TRANSLAT#: permalink, permalink, permalink

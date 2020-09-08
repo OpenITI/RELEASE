@@ -1,5 +1,5 @@
-00#VERS#CLENGTH##: 4787008
-00#VERS#LENGTH###: 1109640
+00#VERS#CLENGTH##: 4787602
+00#VERS#LENGTH###: 1109772
 00#VERS#URI######: 0313IbnZakariyaRazi.HawiFiTibb.Shamela0010704-ara1
 80#VERS#BASED####: http://www.worldcat.org/oclc/646354713
 80#VERS#COLLATED#: http://www.worldcat.org/oclc/646354713
@@ -15,14 +15,16 @@
     PageV04P464, and in PageV04P353, there is a redundant part at the end of
     the page. Besides, in all pages that I checked, there were a few missing
     words or typos and this includes even the titles in some cases (in both
-    Shamela and JK texts). A redundant word (“ألف”) also appears in many
-    places. The text is clearly typed carelessly. 2- In some volumes, the
-    text has some extra fourth- level-headers which are very occasional and
-    don’t cover the whole subjects; nevertheless, I tried to keep them,
-    since they are useful and help the reader understand the text. I put an
-    asterisk after these extra fourth-level headers (i.e: ### |||| *) so
-    that they can be easily deleted if they are not necessary (these tags
-    include all fourth-level headers in Vol 2 and 3 and a few fourth-level
-    headers in Vol 4 and 5).
+    Shamela and JK texts). A redundant word “ألف” also appears in many
+    places, and a redundant numberer "3" appears in many titles. The text is
+    clearly typed carelessly. 2- In some volumes, the text has some extra
+    third-level-headers which are very occasional and don’t cover the whole
+    subject under discussion; nevertheless, I tried to keep them, since they
+    are useful and help the reader understand the text. I put an asterisk
+    after these extra third-level headers (i.e: ### ||| *) so that they can
+    be easily deleted if they are not necessary (these tags include all
+    third-level headers in Vol 2 and 3 and a few third-level headers in Vol
+    4 and 5).
 90#VERS#DATE#####: 2019-09-12
-90#VERS#ISSUES###: NO_MAJOR_ISSUES
+90#VERS#ISSUES###: EDITORIAL_SECTIONS, MISSING_PARTS, REDUNDANT_PARTS,
+    MANY_TYPOS

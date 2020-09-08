@@ -1,5 +1,5 @@
-00#VERS#CLENGTH##: 335316
-00#VERS#LENGTH###: 87988
+00#VERS#CLENGTH##: 335626
+00#VERS#LENGTH###: 88060
 00#VERS#URI######: 0204IbnKalbi.NasabMacad.Shamela0028172-ara1
 80#VERS#BASED####: http://www.worldcat.org/oclc/745129778
 80#VERS#COLLATED#: http://www.worldcat.org/oclc/745129778
@@ -7,14 +7,12 @@
     D9%85%D8%B9%D8%AF_%D9%88%D8%A7%D9%84%D9%8A%D9%85%D9%86_%D8%A7%D9%84%D9%8
     3%D8%A8%D9%8A%D8%B1.pdf
 90#VERS#ANNOTATOR: HRH
-90#VERS#COMMENT##: 1- One typo could be found in almost all pages. 2-
-    Occasional missing lines (like: two missing lines in Page 58, a missing
-    line in page 93, and two lines in page 225). 3- I tagged the names as
-    ### $ when just one name appears at the beginning of a sentence in
-    complete form and I tried to tag all the names that could be tagged
+90#VERS#COMMENT##: 1- One typo could be found in almost all pages.
+    2-Occasional missing lines (like: two missing lines in Page 58, a
+    missing line in page 93, and two lines in page 225). 3- I tagged the
+    names as ### $ when just one name appears at the beginning of a sentence
+    in complete form and I tried to tag all the names that could be tagged
     structurally (to avoid reworking); however, there are a lot of other
-    names inside the sentences that could not be tagged structurally. 4-
-    There is a note of the scribe at the end of the book. I tagged it as
-    editorial.
+    names inside the sentences that could not be tagged structurally.
 90#VERS#DATE#####: 2019-11-04
-90#VERS#ISSUES###: NO_MAJOR_ISSUES
+90#VERS#ISSUES###: PARATEXT

@@ -1,17 +1,10 @@
-00#VERS#CLENGTH##: 791796
-00#VERS#LENGTH###: 210403
+00#VERS#CLENGTH##: 801346
+00#VERS#LENGTH###: 212664
 00#VERS#URI######: 0317AbuQasimBaghawi.MucjamSahaba.Shamela0023100-ara1
 80#VERS#BASED####: http://www.worldcat.org/oclc/956759123
 80#VERS#COLLATED#: http://www.worldcat.org/oclc/956759123
 80#VERS#LINKS####: https://archive.org/details/waq50543waq
 90#VERS#ANNOTATOR: HRH
-90#VERS#COMMENT##: 1- First –level headers = volumes (5 volumes);
-    second-level headers = book sections (25 sections); third-level headers
-    = alphabet letters; fourth-level headers = specific names under each
-    alphabet letter. The “book sections” are actually useless as they
-    signify nothing in the text. They can be omitted; however I kept them
-    since they are part of the text division anyway. 2- The typist has
-    intentionally left out the “سماعات” parts (for example, PageV05P336- 443
-    or PageV05P436-440).
+90#VERS#COMMENT##:
 90#VERS#DATE#####: 2019-09-12
-90#VERS#ISSUES###: PAGINATION
+90#VERS#ISSUES###: PAGINATION, HTML_TAGS, EDITORIAL_SECTIONS

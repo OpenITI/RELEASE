@@ -3,12 +3,8 @@
 00#VERS#URI######: 0676Nawawi.ArbacunaNawawiyya.Shamela0012836-ara1
 80#VERS#BASED####: permalink, permalink, permalink
 80#VERS#COLLATED#: permalink, permalink, permalink
-80#VERS#LINKS####: all@id, vol1@id, vol2@id, vol3@id, volX@id
-90#VERS#ANNOTATOR: the name of the annotator (latin characters; please
-    use consistently)
-90#VERS#COMMENT##: a free running comment here; you can add as many
-    lines as you see fit; the main goal of this comment section is to have a
-    place to record valuable information, which is difficult to formalize
-    into the above given categories.
-90#VERS#DATE#####: YYYY-MM-DD
-90#VERS#ISSUES###: formalized issues, separated with commas
+80#VERS#LINKS####: https://archive.org/details/thtnschool_gmail_20181003
+90#VERS#ANNOTATOR: Gowaart Van Den Bossche
+90#VERS#COMMENT##: Edition is based on three manuscripts, from ninth, tenth, and thirteenth (hijri) centuries. A few other editions available on-line are simply extracted from later sharhs, so it seems that this is a relatively good edition. I could however not locate it on worldcat. Two sections have been omitted from the digital text: the first paragraph after the basmallah in which the author (Nawawi) is identified, and the text's conclusion (pdf pp. 118-120). Less problematic but also divergent: first title in the edition is [khutbat al-kitaab], but in digital text this has been changed; in the edition every hadith is introduced by a heading and a phrase in square brackets to denote the topic, but this information in square brackets is not present in the digital text. Pagination is correct, but paragraphs are inconsistent. 
+90#VERS#DATE#####: 2020-06-04
+90#VERS#ISSUES###: MISSING_PARTS

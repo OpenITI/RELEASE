@@ -1,16 +1,16 @@
-00#VERS#CLENGTH##: 727366
-00#VERS#LENGTH###: 170689
+00#VERS#CLENGTH##: 727543
+00#VERS#LENGTH###: 170726
 00#VERS#URI######: 0255Jahiz.Rasail.Shamela0010428-ara1
 80#VERS#BASED####: http://www.worldcat.org/oclc/14187964
 80#VERS#COLLATED#: http://www.worldcat.org/oclc/14187964
 80#VERS#LINKS####: https://archive.org/details/RasaelElgahez
 90#VERS#ANNOTATOR: HRH
 90#VERS#COMMENT##: Small discrepancies with the PDF in the Editpad pro
-    vesriosn: some parts are omitted in Editpad Pro version: Vol. 2, P 21,
+    vesriosn: some parts are missing in Editpad Pro version: Vol. 2, P 21,
     Parag 2; Vol 4, P 49, part of the Parag 1; Vol 4, P 123, part of Parag
     2,3. Vol 1, P 235, Parag 5 is repeated. Vol 2, P 75, parag 2 is
     redundant. Redundant question marks in Vol 4, P 19, parag 2; P 20, Parag
     2; P 21 Parag 2 & 3. Very small Typos like “قال” instead of “یقول” in
     Vol 1, P 187, L 14.
 90#VERS#DATE#####: 2019-08-02
-90#VERS#ISSUES###: INACCURACIES_IN_THE_TEXT
+90#VERS#ISSUES###: MISSING_PARTS, EDITORIAL_SECTIONS

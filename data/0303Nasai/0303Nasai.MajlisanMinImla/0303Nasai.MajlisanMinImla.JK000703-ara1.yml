@@ -1,14 +1,21 @@
-00#VERS#CLENGTH##: 8513
-00#VERS#LENGTH###: 2274
+00#VERS#CLENGTH##: 8523
+00#VERS#LENGTH###: 2275
 00#VERS#URI######: 0303Nasai.MajlisanMinImla.JK000703-ara1
-80#VERS#BASED####: permalink, permalink, permalink
-80#VERS#COLLATED#: permalink, permalink, permalink
-80#VERS#LINKS####: all@id, vol1@id, vol2@id, vol3@id, volX@id
-90#VERS#ANNOTATOR: the name of the annotator (latin characters; please
-    use consistently)
-90#VERS#COMMENT##: a free running comment here; you can add as many
-    lines as you see fit; the main goal of this comment section is to have a
-    place to record valuable information, which is difficult to formalize
-    into the above given categories.
-90#VERS#DATE#####: YYYY-MM-DD
-90#VERS#ISSUES###: formalized issues, separated with commas
+80#VERS#BASED####: http://www.worldcat.org/oclc/4770989714
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/4770989714
+80#VERS#LINKS####:
+    https://ia802609.us.archive.org/25/items/waq13474/13474.pdf
+90#VERS#ANNOTATOR: PV
+90#VERS#COMMENT##: Edition based on one majmūʿa manuscript  (ff.
+    238-246) in the author's personal collection,  which is a copy (?) of a
+    manuscript in the Ẓāhiriyya library in Damascus.  (editor's
+    introduction, p. 6). (the Ẓāhiriyya ms. seems to be majmūʿ no. 954, see
+    al-Sawwās,  Fihris makhṭūṭāt Dār al-Kutub al-Ẓāhiriyya, al-majāmīʿ,
+    Damascus 1983,
+    http://ia800307.us.archive.org/13/items/waq44240/01_44240.pdf, pp.
+    202-204) The manuscript was written by ʿAbd al-ʿAzīz b. ʿUthmān  b. Abī
+    Ṭāhir al-Irbilī (d. 644 AH) (editor's introduction, p. 23).  The
+    introduction in the edition contains a study of the transmitters and
+    samāʿāt of the text (but this introduction was not digitized).
+90#VERS#DATE#####: 2020-06-29
+90#VERS#ISSUES###: NO_MAJOR_ISSUES

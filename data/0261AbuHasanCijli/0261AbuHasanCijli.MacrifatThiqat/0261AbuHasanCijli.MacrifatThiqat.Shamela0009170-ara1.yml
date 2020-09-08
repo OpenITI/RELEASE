@@ -1,5 +1,5 @@
-00#VERS#CLENGTH##: 142561
-00#VERS#LENGTH###: 36716
+00#VERS#CLENGTH##: 187051
+00#VERS#LENGTH###: 47263
 00#VERS#URI######: 0261AbuHasanCijli.MacrifatThiqat.Shamela0009170-ara1
 80#VERS#BASED####: NOT_FOUND
 80#VERS#COLLATED#: http://www.worldcat.org/oclc/613219615
@@ -13,4 +13,4 @@
     4-I created a “CHANGE URI” issue for this file, since the name is wrong
     and it is in a wrong folder.
 90#VERS#DATE#####: 2019-10-20
-90#VERS#ISSUES###: PAGINATION, REDUNDANT_PART
+90#VERS#ISSUES###: PAGINATION, REDUNDANT_PARTS, EDITORIAL_SECTIONS

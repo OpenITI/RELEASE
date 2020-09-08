@@ -15,6 +15,6 @@
     also collated the text with the second link in the VERS#LINKS which is a
     PDF of a different edition of the text. This edition has no title
     either. So, as far as structural annotating is concerned, there is
-    nothing in this text that needs to be tagged.
+    nothing in this text that needs to be tagged. 2- It is a little difficult to separate the PARATEXT from the  text since the text begins with a first-person narratoin.
 90#VERS#DATE#####: 2019-09-18
-90#VERS#ISSUES###: NO_MAJOR_ISSUES
+90#VERS#ISSUES###: PARATEXT

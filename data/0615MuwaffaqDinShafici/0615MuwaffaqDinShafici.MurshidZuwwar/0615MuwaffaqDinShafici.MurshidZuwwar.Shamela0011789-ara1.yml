@@ -1,14 +1,10 @@
 00#VERS#CLENGTH##: 644136
 00#VERS#LENGTH###: 153420
 00#VERS#URI######: 0615MuwaffaqDinShafici.MurshidZuwwar.Shamela0011789-ara1
-80#VERS#BASED####: permalink, permalink, permalink
-80#VERS#COLLATED#: permalink, permalink, permalink
-80#VERS#LINKS####: all@id, vol1@id, vol2@id, vol3@id, volX@id
-90#VERS#ANNOTATOR: the name of the annotator (latin characters; please
-    use consistently)
-90#VERS#COMMENT##: a free running comment here; you can add as many
-    lines as you see fit; the main goal of this comment section is to have a
-    place to record valuable information, which is difficult to formalize
-    into the above given categories.
-90#VERS#DATE#####: YYYY-MM-DD
-90#VERS#ISSUES###: formalized issues, separated with commas
+80#VERS#BASED####: http://www.worldcat.org/oclc/503431903
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/503431903
+80#VERS#LINKS####: https://ia803105.us.archive.org/22/items/ktp2019-bskn2665/ktp2019-bskn2665.pdf
+90#VERS#ANNOTATOR: HRH
+90#VERS#COMMENT##: The second volume which appears after the indexes is kind of research notes of the editor. So, I tagged it as editorial. 2- Sometimes there are a few asterisks under a title and after that the author starts talking about a different subject. To present the most accurate categorization of the subjects, these parts need additional titles in square brackets; however, someone must read the whole text very carefully to be able to add such titles.
+90#VERS#DATE#####: 2020-07-14
+90#VERS#ISSUES###: EDITORIAL_SECTIONS, HTML_TAGS

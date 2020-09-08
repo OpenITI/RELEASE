@@ -4,11 +4,7 @@
 80#VERS#BASED####: permalink, permalink, permalink
 80#VERS#COLLATED#: permalink, permalink, permalink
 80#VERS#LINKS####: all@id, vol1@id, vol2@id, vol3@id, volX@id
-90#VERS#ANNOTATOR: the name of the annotator (latin characters; please
-    use consistently)
-90#VERS#COMMENT##: a free running comment here; you can add as many
-    lines as you see fit; the main goal of this comment section is to have a
-    place to record valuable information, which is difficult to formalize
-    into the above given categories.
-90#VERS#DATE#####: YYYY-MM-DD
-90#VERS#ISSUES###: formalized issues, separated with commas
+90#VERS#ANNOTATOR: AQ
+90#VERS#COMMENT##: This is a very short story related from al-Tabari and found in Ibn Jawzi's Muntazam and SifaSafwa. Since it seems to be extracted from classical compilations which exist in our corpus it should be deleted.
+90#VERS#DATE#####: 2020-03-03
+90#VERS#ISSUES###: EIDTION_NOT_FOUND, ASSESSMENT_NEEDED, PAGINATION,

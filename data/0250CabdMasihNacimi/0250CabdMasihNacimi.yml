@@ -1,0 +1,17 @@
+00#AUTH#URI######: 0250CabdMasihNacimi
+10#AUTH#ISM####AR: ʿAbd al-Masīḥ
+10#AUTH#KUNYA##AR:
+10#AUTH#LAQAB##AR:
+10#AUTH#NASAB##AR: b. ʿAbd Allāh
+10#AUTH#NISBA##AR: al-Ḥimsī al-Nāʿimī
+10#AUTH#SHUHRA#AR: ʿAbd al-Masīḥ al-Nāʿimī
+20#AUTH#BORN#####: URIs from Althurayya, comma separated
+20#AUTH#DIED#####: URIs from Althurayya, comma separated
+20#AUTH#RESIDED##: URIs from Althurayya, comma separated
+20#AUTH#VISITED##: URIs from Althurayya, comma separated
+30#AUTH#BORN###AH: YEAR-MON-DA (X+ for unknown)
+30#AUTH#DIED###AH: YEAR-MON-DA (X+ for unknown)
+40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
+40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
+90#AUTH#COMMENT##: See Oxford Handbook of Islamic Philosophy, pp. 10-11.

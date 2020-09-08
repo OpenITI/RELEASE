@@ -1,14 +1,20 @@
-00#VERS#CLENGTH##: 1065289
-00#VERS#LENGTH###: 243247
+00#VERS#CLENGTH##: 1065374
+00#VERS#LENGTH###: 243197
 00#VERS#URI######: 0779IbnBattuta.Rihla.Shamela0011769-ara1
-80#VERS#BASED####: permalink, permalink, permalink
-80#VERS#COLLATED#: permalink, permalink, permalink
-80#VERS#LINKS####: all@id, vol1@id, vol2@id, vol3@id, volX@id
-90#VERS#ANNOTATOR: the name of the annotator (latin characters; please
-    use consistently)
-90#VERS#COMMENT##: a free running comment here; you can add as many
-    lines as you see fit; the main goal of this comment section is to have a
-    place to record valuable information, which is difficult to formalize
-    into the above given categories.
-90#VERS#DATE#####: YYYY-MM-DD
-90#VERS#ISSUES###: formalized issues, separated with commas
+80#VERS#BASED####: http://www.worldcat.org/oclc/236017736
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/236017736
+80#VERS#LINKS####: https://books-library.online/free-568764757-download
+    (1), https://books-library.online/free-542084129-download (2),
+    https://books-library.online/free-474561713-download (3), https://books-
+    library.online/free-475865041-download (4), https://books-
+    library.online/free-482406745-download (5)
+90#VERS#ANNOTATOR: SP Loynes
+90#VERS#COMMENT##: Very close to the printed edition with no obvious
+    errors. There are a number of images in the printed edition, which are
+    obviously excluded in the text version. From page 190 of volume IV of
+    the PDF printed edition only the odd numbers are scanned; so this part
+    of the text could only be partially checked, but given the closeness of
+    the rest of the text, and that it was possible to check 50% of the
+    pages, it is unlikely to be divergent.
+90#VERS#DATE#####: 2020-07-23
+90#VERS#ISSUES###: EDITORIAL_SECTIONS

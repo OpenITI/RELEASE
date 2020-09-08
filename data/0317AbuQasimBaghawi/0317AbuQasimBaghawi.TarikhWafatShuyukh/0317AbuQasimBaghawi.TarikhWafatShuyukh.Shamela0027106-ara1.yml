@@ -1,12 +1,10 @@
-00#VERS#CLENGTH##: 13001
-00#VERS#LENGTH###: 3192
+00#VERS#CLENGTH##: 13434
+00#VERS#LENGTH###: 3298
 00#VERS#URI######: 0317AbuQasimBaghawi.TarikhWafatShuyukh.Shamela0027106-ara1
 80#VERS#BASED####: http://www.worldcat.org/oclc/1107070620
 80#VERS#COLLATED#: http://www.worldcat.org/oclc/1107070620
-80#VERS#LINKS####: http://k-tb.com/book/hadeeth8509-%D8%AA%D8%A7%D8%B1%D
-    9%8A%D8%AE-%D9%88%D9%81%D8%A7%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D9%88%D8%AE
-    -%D8%A7%D9%84%D8%B0%D9%8A%D9%86-%D8%A3%D8%AF%D8%B1%D9%83%D9%87%D9%85-%D8
-    %A7%D9%84%D8%A8%D8%BA%D9%88%D9%8A-
+80#VERS#LINKS####: http://k-tb.com/book/hadeeth8509-تاريخ-وفاة-الشيوخ-
+    الذين-أدركهم-البغوي
 90#VERS#ANNOTATOR: HRH
 90#VERS#COMMENT##: The book contains 282 numbers and each number is
     about the date of death of a person. Since these are not biographies, I
@@ -14,4 +12,4 @@
     possible to automatically add this tag to the beginning of each number,
     if needed.
 90#VERS#DATE#####: 2019-09-18
-90#VERS#ISSUES###: NO_MAJOR_ISSUES
+90#VERS#ISSUES###: EDITORIAL_SECTIONS

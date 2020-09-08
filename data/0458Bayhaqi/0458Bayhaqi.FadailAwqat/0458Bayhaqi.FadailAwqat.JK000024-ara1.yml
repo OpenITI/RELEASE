@@ -1,14 +1,10 @@
 00#VERS#CLENGTH##: 124146
 00#VERS#LENGTH###: 31791
 00#VERS#URI######: 0458Bayhaqi.FadailAwqat.JK000024-ara1
-80#VERS#BASED####: permalink, permalink, permalink
-80#VERS#COLLATED#: permalink, permalink, permalink
-80#VERS#LINKS####: all@id, vol1@id, vol2@id, vol3@id, volX@id
-90#VERS#ANNOTATOR: the name of the annotator (latin characters; please
-    use consistently)
-90#VERS#COMMENT##: a free running comment here; you can add as many
-    lines as you see fit; the main goal of this comment section is to have a
-    place to record valuable information, which is difficult to formalize
-    into the above given categories.
-90#VERS#DATE#####: YYYY-MM-DD
-90#VERS#ISSUES###: formalized issues, separated with commas
+80#VERS#BASED####: http://www.worldcat.org/oclc/21870956
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/21870956
+80#VERS#LINKS####: https://ia800206.us.archive.org/20/items/16898_201603/16898.pdf
+90#VERS#ANNOTATOR: HRH
+90#VERS#COMMENT##: 
+90#VERS#DATE#####: 2020-05-02
+90#VERS#ISSUES###: RANDOM_CHARS

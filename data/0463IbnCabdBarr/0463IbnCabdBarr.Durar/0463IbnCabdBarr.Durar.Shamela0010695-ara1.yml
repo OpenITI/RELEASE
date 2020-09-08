@@ -1,14 +1,16 @@
-00#VERS#CLENGTH##: 215661
-00#VERS#LENGTH###: 54846
+00#VERS#CLENGTH##: 279714
+00#VERS#LENGTH###: 70891
 00#VERS#URI######: 0463IbnCabdBarr.Durar.Shamela0010695-ara1
-80#VERS#BASED####: permalink, permalink, permalink
+80#VERS#BASED####:
+    https://ia800903.us.archive.org/29/items/demsPDF/dems.pdf, permalink,
+    permalink
 80#VERS#COLLATED#: permalink, permalink, permalink
 80#VERS#LINKS####: all@id, vol1@id, vol2@id, vol3@id, volX@id
-90#VERS#ANNOTATOR: the name of the annotator (latin characters; please
-    use consistently)
-90#VERS#COMMENT##: a free running comment here; you can add as many
-    lines as you see fit; the main goal of this comment section is to have a
-    place to record valuable information, which is difficult to formalize
-    into the above given categories.
+90#VERS#ANNOTATOR: Hibaq Nur (Qatar National Library partnership)
+90#VERS#COMMENT##: The annotator has used this edition of the book
+    available on Waqfeya.com
+    (https://ia800903.us.archive.org/29/items/demsPDF/dems.pdf) as a
+    reference to be compared to the text for annotation. Annotated by Hibaq
+    Nur through the QNL partnership for the DSP project.
 90#VERS#DATE#####: YYYY-MM-DD
 90#VERS#ISSUES###: formalized issues, separated with commas

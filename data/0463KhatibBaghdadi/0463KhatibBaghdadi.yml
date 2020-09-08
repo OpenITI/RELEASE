@@ -1,20 +1,24 @@
 00#AUTH#URI######: 0463KhatibBaghdadi
-10#AUTH#ISM####AR: Fulān
-10#AUTH#KUNYA##AR: Abū Fulān, Abū Fulānaŧ
-10#AUTH#LAQAB##AR: Fulān al-dīn, Fulān al-dawlaŧ
-10#AUTH#NASAB##AR: b. Fulān b. Fulān b. Fulān b. Fulān
-10#AUTH#NISBA##AR: al-Fulānī, al-Fāʿil, al-Fulānī, al-Mufaʿʿil
-10#AUTH#SHUHRA#AR: Ibn Fulān al-Fulānī
+10#AUTH#ISM####AR: Aḥmad
+10#AUTH#KUNYA##AR: Abū Bakr
+10#AUTH#LAQAB##AR: 
+10#AUTH#NASAB##AR: b. ʿAlī b. Ṯābit b. Aḥmad b. Mahdī
+10#AUTH#NISBA##AR: al-Šāfiʿī, al-Baġdādī
+10#AUTH#SHUHRA#AR: al-Ḫaṭīb al-Baġdādī
 20#AUTH#BORN#####: URIs from Althurayya, comma separated
 20#AUTH#DIED#####: URIs from Althurayya, comma separated
 20#AUTH#RESIDED##: URIs from Althurayya, comma separated
 20#AUTH#VISITED##: URIs from Althurayya, comma separated
-30#AUTH#BORN###AH: YEAR-MON-DA (X+ for unknown)
-30#AUTH#DIED###AH: YEAR-MON-DA (X+ for unknown)
+30#AUTH#BORN###AH: 0392-JU2-24
+30#AUTH#DIED###AH: 0463-DHH-07
 40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
 40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
 80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
-90#AUTH#COMMENT##: a free running comment here; you can add as many
-    lines as you see fit; the main goal of this comment section is to have a
-    place to record valuable information, which is difficult to formalize
-    into the above given categories.
+90#AUTH#COMMENT##: EI2: "al-K̲h̲aṭīb al-Bag̲h̲dādī, Abū Bakr Aḥmad 
+    b. ʿAlī b. T̲h̲ābit b. Aḥmad b. Mahdī al-S̲h̲āfiʿī , 
+    known as al-K̲h̲aṭīb al-Bag̲h̲dādī, was born on 24th D̲j̲umadā II 392/10th May 1002 
+    ( Taʾrīk̲h̲ Bag̲h̲dād , xi, 266) in Hanīḳiyā, a village in the neighbourhood 
+    of the Nahr al-Malik below Bag̲h̲dād (Ṣafadī, Wāfī , vii, 191; 
+    see M. Streck, Die alte Landschaft Babylonien , Leiden 1900, i, 27).  
+    (...) died in Baghdad on Monday 7 Dhu 'l-Hidjdja
+    463/5 September 1071 (Ibn ʿAsākir, op. cit., i, 401)"

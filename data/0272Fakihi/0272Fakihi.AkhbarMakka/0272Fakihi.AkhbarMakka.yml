@@ -1,8 +1,8 @@
 00#BOOK#URI######: 0272Fakihi.AkhbarMakka
 10#BOOK#GENRES###: src@keyword, src@keyword, src@keyword
-10#BOOK#TITLEA#AR: Kitāb al-Muʾallif
-10#BOOK#TITLEB#AR: Risālaŧ al-Muʾallif
-20#BOOK#WROTE####: URIs from Althurayya, comma separated
+10#BOOK#TITLEA#AR: Aḫbār Makka fī qadīm al-dahr wa-ḥadīṯih
+10#BOOK#TITLEB#AR: Aḫbār Makka fī qadīm al-dahr wa-ḥadīṯih
+20#BOOK#WROTE####: MAKKA_398E213N_S
 30#BOOK#WROTE##AH: YEAR-MON-DA (X+ for unknown)
 40#BOOK#ABRIDGED#: URI of a book from OpenITI, or [Author's Title]
 40#BOOK#COMMENTD#: URI of a book from OpenITI, or [Author's Title]

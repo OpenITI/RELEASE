@@ -1,14 +1,19 @@
-00#VERS#CLENGTH##: 6409830
-00#VERS#LENGTH###: 1458508
+00#VERS#CLENGTH##: 6412567
+00#VERS#LENGTH###: 1459114
 00#VERS#URI######: 0808IbnKhaldun.Tarikh.Shamela0012320-ara1
-80#VERS#BASED####: permalink, permalink, permalink
-80#VERS#COLLATED#: permalink, permalink, permalink
-80#VERS#LINKS####: all@id, vol1@id, vol2@id, vol3@id, volX@id
-90#VERS#ANNOTATOR: the name of the annotator (latin characters; please
-    use consistently)
-90#VERS#COMMENT##: a free running comment here; you can add as many
-    lines as you see fit; the main goal of this comment section is to have a
-    place to record valuable information, which is difficult to formalize
-    into the above given categories.
-90#VERS#DATE#####: YYYY-MM-DD
-90#VERS#ISSUES###: formalized issues, separated with commas
+80#VERS#BASED####: http://www.worldcat.org/oclc/236018229
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/236018229
+80#VERS#LINKS####: https://books-library.online/free-78387597-download
+    (1), https://books-library.online/free-260277045-download (2),
+    https://books-library.online/free-592876325-download (3),
+    https://ia800208.us.archive.org/30/items/Tarikh_Ibn_Khaldun/tkhldon4.pdf
+    (4), https://books-library.online/free-260302109-download (5),
+    https://books-library.online/free-260264513-download (6), https://books-
+    library.online/free-260352237-download (7),
+    https://archive.org/details/Tarikh_Ibn_Khaldun (all)
+90#VERS#ANNOTATOR: SP Loynes
+90#VERS#COMMENT##: The permalinks are to the 1st edition (1981) - I
+    could not find the 3rd edition (1988). Text is very stable and closely
+    resembles the printed edition. No obvious errors.
+90#VERS#DATE#####: 2020-08-03
+90#VERS#ISSUES###: EDITORIAL_SECTIONS

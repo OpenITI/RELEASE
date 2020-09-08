@@ -1,5 +1,5 @@
-00#VERS#CLENGTH##: 4810699
-00#VERS#LENGTH###: 1278982
+00#VERS#CLENGTH##: 4811009
+00#VERS#LENGTH###: 1279050
 00#VERS#URI######: 0234IbnAbiShayba.Musannaf.JK000786-ara1
 80#VERS#BASED####: http://www.worldcat.org/oclc/949942765
 80#VERS#COLLATED#: http://www.worldcat.org/oclc/949942765
@@ -11,7 +11,6 @@
     this link: http://www.worldcat.org/oclc/85891404. 2- Some words are
     added in triple parenthesis (i.e. ((()))) into the text that do not
     exist in the PDF. In most cases, they are corrections; but sometimes
-    they are strange and I didn’t understand what they really are. 3- The
-    editorial section in PageV07P564 is the note of the scribe.
+    they are strange and I didn’t understand what they really are.
 90#VERS#DATE#####: 2019-11-23
-90#VERS#ISSUES###: RANDOM_CHARS
+90#VERS#ISSUES###: RANDOM_CHARS, PARATEXT

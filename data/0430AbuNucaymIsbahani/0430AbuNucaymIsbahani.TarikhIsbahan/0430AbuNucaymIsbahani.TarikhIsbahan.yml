@@ -1,15 +1,15 @@
 00#BOOK#URI######: 0430AbuNucaymIsbahani.TarikhIsbahan
-10#BOOK#GENRES###: src@keyword, src@keyword, src@keyword
-10#BOOK#TITLEA#AR: Kitāb al-Muʾallif
-10#BOOK#TITLEB#AR: Risālaŧ al-Muʾallif
+10#BOOK#GENRES###: aq@tarikh, aq@iran, aq@tabaqat
+10#BOOK#TITLEA#AR: Tārī_h Isbahān
+10#BOOK#TITLEB#AR: Kitāb _dikr A_hbār Isbahān
 20#BOOK#WROTE####: URIs from Althurayya, comma separated
-30#BOOK#WROTE##AH: YEAR-MON-DA (X+ for unknown)
+30#BOOK#WROTE##AH: XXX-XX-XX
 40#BOOK#ABRIDGED#: URI of a book from OpenITI, or [Author's Title]
 40#BOOK#COMMENTD#: URI of a book from OpenITI, or [Author's Title]
 40#BOOK#FOLLOWED#: URI of a book from OpenITI, or [Author's Title]
 40#BOOK#PRECEDED#: URI of a book from OpenITI, or [Author's Title]
 80#BOOK#EDITIONS#: permalink, permalink, permalink
-80#BOOK#LINKS####: permalink, permalink, permalink
+80#BOOK#LINKS####: https://archive.org/details/ZekrAkhbarAsbahaan-AboNo3aim430
 80#BOOK#MSS######: permalink, permalink, permalink
 80#BOOK#STUDIES##: permalink, permalink, permalink
 80#BOOK#TRANSLAT#: permalink, permalink, permalink

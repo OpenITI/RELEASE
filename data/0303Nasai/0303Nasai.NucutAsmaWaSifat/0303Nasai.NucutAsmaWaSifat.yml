@@ -1,7 +1,7 @@
 00#BOOK#URI######: 0303Nasai.NucutAsmaWaSifat
 10#BOOK#GENRES###: src@keyword, src@keyword, src@keyword
-10#BOOK#TITLEA#AR: Kitāb al-Muʾallif
-10#BOOK#TITLEB#AR: Risālaŧ al-Muʾallif
+10#BOOK#TITLEA#AR: Kitāb al-Nuʿūt
+10#BOOK#TITLEB#AR: 
 20#BOOK#WROTE####: URIs from Althurayya, comma separated
 30#BOOK#WROTE##AH: YEAR-MON-DA (X+ for unknown)
 40#BOOK#ABRIDGED#: URI of a book from OpenITI, or [Author's Title]
@@ -13,7 +13,9 @@
 80#BOOK#MSS######: permalink, permalink, permalink
 80#BOOK#STUDIES##: permalink, permalink, permalink
 80#BOOK#TRANSLAT#: permalink, permalink, permalink
-90#BOOK#COMMENT##: a free running comment here; you can add as many
-    lines as you see fit; the main goal of this comment section is to have a
-    place to record valuable information, which is difficult to formalize
-    into the above given categories.
+90#BOOK#COMMENT##: This book is in fact a part of al-Nasā'ī's
+    Kitāb al-Sunan al-Kubrá (ed. al-Bindārī, vol. 4 pp. 393-421).
+    The editor used 6 manuscripts of al-Sunan al-Kubrá for his edition
+    (see pp. 51-54) and explains his decision for the re-edition of 
+    this section of the text by the many lacunae in the edition
+    (p. 56)

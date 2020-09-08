@@ -6,8 +6,8 @@
 80#VERS#LINKS####: https://www.almeshkat.net/book/2135
 90#VERS#ANNOTATOR: HRH
 90#VERS#COMMENT##: 1- The page numbers at the top of the pages are
-    interred into the text and must be deleted (I just untagged them). 2-
-    The title of the second part “المستدرك” in page 168 must be added to the
+    interred into the text and must be deleted (I just untagged them). 2-The
+    title of the second part “المستدرك” in page 168 must be added to the
     text and besides, the names in this part do not have numbers. So, the
     numbers must be continued after 263 using RegEx.
 90#VERS#DATE#####: 2020-01-01

@@ -1,14 +1,26 @@
-00#VERS#CLENGTH##: 5727154
-00#VERS#LENGTH###: 1385820
+00#VERS#CLENGTH##: 5725253
+00#VERS#LENGTH###: 1385318
 00#VERS#URI######: 0656IbnAbiHadid.SharhNahjBalagha.Shia002185Vols-ara1
-80#VERS#BASED####: permalink, permalink, permalink
-80#VERS#COLLATED#: permalink, permalink, permalink
-80#VERS#LINKS####: all@id, vol1@id, vol2@id, vol3@id, volX@id
-90#VERS#ANNOTATOR: the name of the annotator (latin characters; please
-    use consistently)
-90#VERS#COMMENT##: a free running comment here; you can add as many
-    lines as you see fit; the main goal of this comment section is to have a
-    place to record valuable information, which is difficult to formalize
-    into the above given categories.
-90#VERS#DATE#####: YYYY-MM-DD
-90#VERS#ISSUES###: formalized issues, separated with commas
+80#VERS#BASED####: http://www.worldcat.org/oclc/16171114
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/16171114
+80#VERS#LINKS####: Used physical edition.
+90#VERS#ANNOTATOR: Gowaart Van Den Bossche
+90#VERS#COMMENT##: Couldn't find a suitable pdf version, so worked with
+    the printed edition in AKU-ISMC library. This edition is also the one
+    noted in  EI3 article on Ibn Abi l-Hadid by Tahera Qutbuddin. Pagination
+    is correct and paragraphs usually are as well.   There are footnote
+    markers in the text, and html-hyperlinks to Quranic citations.  From the
+    end of the second volume onwards the typist didn't write all section
+    markers for asl and sharh and did not mark some such headers between
+    square brackets, so I have tended to correct these to improve logical
+    text structure. Poetry has not been formatted consistently.  In volume
+    three some of the headers in square brackets differ from those used in
+    the pdf-edition, although they refer to the same subjects. At the start
+    of each volume the typist has copied some editorial data. In cases where
+    this information takes up more than a line or two, I have used the
+    editor tag to distinguish this, and followed it when necessary by an
+    empty header tag to denote where the text picks up again. Numbering of
+    sections is inconsistent both in being actually numbered and in whether
+    Arabic or Latin numerals are used -- I have harmonised these.
+90#VERS#DATE#####: 2019-09-25
+90#VERS#ISSUES###: FOOTNOTES, HTML_TAGS

@@ -1,14 +1,10 @@
 00#VERS#CLENGTH##: 17290
 00#VERS#LENGTH###: 4138
 00#VERS#URI######: 0429AbuMansurThacalibi.Diwan.JK007585-ara1
-80#VERS#BASED####: permalink, permalink, permalink
-80#VERS#COLLATED#: permalink, permalink, permalink
-80#VERS#LINKS####: all@id, vol1@id, vol2@id, vol3@id, volX@id
-90#VERS#ANNOTATOR: the name of the annotator (latin characters; please
-    use consistently)
-90#VERS#COMMENT##: a free running comment here; you can add as many
-    lines as you see fit; the main goal of this comment section is to have a
-    place to record valuable information, which is difficult to formalize
-    into the above given categories.
-90#VERS#DATE#####: YYYY-MM-DD
-90#VERS#ISSUES###: formalized issues, separated with commas
+80#VERS#BASED####: NO_DATA_IN_METADATA
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/454128798
+80#VERS#LINKS####: http://ia301505.us.archive.org/2/ite...nTha3alibi.pdf; http://www.mediafire.com/file/1nnqcw2delj/%25D8%25AF%25D9%258A%25D9%2588%25D8%25A7%25D9%2586_%25D8%25A7%25D9%2584%25D8%25AB%25D8%25B9%25D8%25A7%25D9%2584%25D8%25A8%25D9%258A.pdf/file; https://majles.alukah.net/t35132/
+90#VERS#ANNOTATOR: HRH
+90#VERS#COMMENT##: 1- The digital text does not include pages 87 onwards of the PDF and is incomplete. 2- The only thing that needs to be tagged in this Divan is the alphabetical letters that show the alphabetical order of the last letter of the rhyme-words (i.e. “حرف رويّ”), and I tagged them as first-level blank headers.
+90#VERS#DATE#####: 2020-04-20
+90#VERS#ISSUES###: INCOMPLETE_VERSION

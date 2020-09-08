@@ -1,14 +1,10 @@
 00#VERS#CLENGTH##: 5714889
 00#VERS#LENGTH###: 1480381
 00#VERS#URI######: 0456IbnHazm.MuhallaBiAthar.Shamela0000767-ara1
-80#VERS#BASED####: permalink, permalink, permalink
-80#VERS#COLLATED#: permalink, permalink, permalink
-80#VERS#LINKS####: all@id, vol1@id, vol2@id, vol3@id, volX@id
-90#VERS#ANNOTATOR: the name of the annotator (latin characters; please
-    use consistently)
-90#VERS#COMMENT##: a free running comment here; you can add as many
-    lines as you see fit; the main goal of this comment section is to have a
-    place to record valuable information, which is difficult to formalize
-    into the above given categories.
-90#VERS#DATE#####: YYYY-MM-DD
-90#VERS#ISSUES###: formalized issues, separated with commas
+80#VERS#BASED####: http://www.worldcat.org/oclc/58651594
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/708672651 (2003 edition)
+80#VERS#LINKS####: https://archive.org/details/FP74771/mode/1up
+90#VERS#ANNOTATOR: HRH
+90#VERS#COMMENT##: The version I used for collation is a reprint. 2- Each chapter consists of several “مسألة”. Most of these Masails have titles added in square brackets. Ideally, all of them should have separate titles. So, I marked the untitled Masails as paragraphs but with two asterisks (# **) so that they are distinguishable and their titles can be added later by a specialist who will read the text carefully.
+90#VERS#DATE#####: 2020-07-15
+90#VERS#ISSUES###: NO_MAJOR_ISSUES

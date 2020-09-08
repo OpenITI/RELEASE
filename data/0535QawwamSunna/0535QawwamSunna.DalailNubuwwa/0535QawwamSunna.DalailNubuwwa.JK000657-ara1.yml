@@ -1,14 +1,10 @@
 00#VERS#CLENGTH##: 281669
 00#VERS#LENGTH###: 71395
 00#VERS#URI######: 0535QawwamSunna.DalailNubuwwa.JK000657-ara1
-80#VERS#BASED####: permalink, permalink, permalink
-80#VERS#COLLATED#: permalink, permalink, permalink
-80#VERS#LINKS####: all@id, vol1@id, vol2@id, vol3@id, volX@id
-90#VERS#ANNOTATOR: the name of the annotator (latin characters; please
-    use consistently)
-90#VERS#COMMENT##: a free running comment here; you can add as many
-    lines as you see fit; the main goal of this comment section is to have a
-    place to record valuable information, which is difficult to formalize
-    into the above given categories.
-90#VERS#DATE#####: YYYY-MM-DD
-90#VERS#ISSUES###: formalized issues, separated with commas
+80#VERS#BASED####: http://www.worldcat.org/oclc/782110646
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/782110646
+80#VERS#LINKS####: https://ia800808.us.archive.org/5/items/FP163132/163132.pdf
+90#VERS#ANNOTATOR: HRH
+90#VERS#COMMENT##: 
+90#VERS#DATE#####: 2020-08-06
+90#VERS#ISSUES###: PARATEXT, RANDOM_CHARS

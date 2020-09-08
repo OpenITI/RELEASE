@@ -1,14 +1,10 @@
 00#VERS#CLENGTH##: 266117
 00#VERS#LENGTH###: 63110
 00#VERS#URI######: 0647CabdWahidMarrakushi.Mucjib.JK000410-ara1
-80#VERS#BASED####: permalink, permalink, permalink
-80#VERS#COLLATED#: permalink, permalink, permalink
-80#VERS#LINKS####: all@id, vol1@id, vol2@id, vol3@id, volX@id
-90#VERS#ANNOTATOR: the name of the annotator (latin characters; please
-    use consistently)
-90#VERS#COMMENT##: a free running comment here; you can add as many
-    lines as you see fit; the main goal of this comment section is to have a
-    place to record valuable information, which is difficult to formalize
-    into the above given categories.
-90#VERS#DATE#####: YYYY-MM-DD
-90#VERS#ISSUES###: formalized issues, separated with commas
+80#VERS#BASED####: http://www.worldcat.org/oclc/949498124
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/949498124
+80#VERS#LINKS####: https://ia800207.us.archive.org/26/items/al.mojab.tar.al.andlus.t.i/al.mojab.tar.al.andlus.t.i.pdf
+90#VERS#ANNOTATOR: HRH
+90#VERS#COMMENT##: A specialist in the history of Islamic west might decide to change the leveling of the headers after reading the whole text carefully. My categorization is based on the name of the caliphs. However, I’m not entirely sure if this is always the case. 2- Find other editions of the text in these links: https://ia802804.us.archive.org/14/items/1396p.d.f1296/1396%20-%20%D8%A7%D9%84%D9%85%D8%B9%D8%AC%D8%A8%20%D9%81%D9%8A%20%D8%AA%D9%84%D8%AE%D9%8A%D8%B5%20%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1%20%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8%20-%20%D8%B4%D8%B1%D8%AD%20%D9%88%D8%B9%D9%86%D8%A7%D9%8A%D8%A9%20%D8%B5%D9%84%D8%A7%D8%AD%20%D8%A7%D9%84%D8%AF%D9%8A%D9%86%20%D8%A7%D9%84%D9%87%D9%88%D8%A7%D8%B1%D9%8A%20%20p.d.f%20%20%20%20%D9%83%D8%AA%D8%A7%D8%A8%20%201296.pdf; https://ia803104.us.archive.org/4/items/1397p.d.f1297/1397%20-%20%D8%A7%D9%84%D9%85%D8%B9%D8%AC%D8%A8%20%D9%81%D9%8A%20%D8%AA%D9%84%D8%AE%D9%8A%D8%B5%20%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1%20%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8%20%D9%85%D8%AD%D9%8A%D9%8A%20%D8%A7%D9%84%D8%AF%D9%8A%D9%86%20%D8%A7%D9%84%D8%AA%D9%85%D9%8A%D9%85%D9%8A%20%D8%A7%D9%84%D9%85%D8%B1%D8%A7%D9%83%D8%B4%D9%8A%20-%20%D8%B7%D8%A8%D8%B9%D8%A9%20%D9%84%D9%8A%D8%AF%D9%86%20%20p.d.f%20%20%20%20%D9%83%D8%AA%D8%A7%D8%A8%20%201297.pdf; https://ia802809.us.archive.org/14/items/1398p.d.f1298/1398%20-%20%D8%A7%D9%84%D9%85%D8%B9%D8%AC%D8%A8%20%D9%81%D9%8A%20%D8%AA%D9%84%D8%AE%D9%8A%D8%B5%20%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1%20%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8-%D8%AA%20%D9%85%D8%AD%D9%85%D8%AF%20%D8%B9%D8%B2%D8%A8%20%20p.d.f%20%20%20%20%D9%83%D8%AA%D8%A7%D8%A8%20%201298.pdf; https://ia802801.us.archive.org/27/items/1395p.d.f1295/1395%20-%20%D8%A7%D9%84%D9%85%D8%B9%D8%AC%D8%A8%20%D9%81%D9%8A%20%D8%AA%D9%84%D8%AE%D9%8A%D8%B5%20%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1%20%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8%20-%20%D8%A7%D9%84%D9%86%D8%A7%D8%B4%D8%B1%20%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%B3%20%D8%A7%D9%84%D8%A3%D8%B9%D9%84%D9%89%20%D9%84%D9%84%D8%B4%D8%A4%D9%88%D9%86%20%D8%A7%D9%84%D8%A5%D8%B3%D9%84%D8%A7%D9%85%D9%8A%D8%A9%20%D8%A8%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9%20%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9%20%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9%20%20p.d.f%20%20%20%20%D9%83%D8%AA%D8%A7%D8%A8%20%201295.pdf
+90#VERS#DATE#####: 2020-07-19
+90#VERS#ISSUES###: RANDOM_CHARS, PARATEXT

@@ -1,9 +1,9 @@
 00#VERS#CLENGTH##: 13569
 00#VERS#LENGTH###: 3588
 00#VERS#URI######: 0303Nasai.Wafat.Shia001973-ara1
-80#VERS#BASED####: permalink, permalink, permalink
-80#VERS#COLLATED#: permalink, permalink, permalink
-80#VERS#LINKS####: all@id, vol1@id, vol2@id, vol3@id, volX@id
+80#VERS#BASED####: http://www.worldcat.org/oclc/4771097094
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/1103834205
+80#VERS#LINKS####: NOT_FOUND, https://ia800205.us.archive.org/6/items/abuyaala_kotob_24122010/wafat_nasaii.pdf
 90#VERS#ANNOTATOR: the name of the annotator (latin characters; please
     use consistently)
 90#VERS#COMMENT##: a free running comment here; you can add as many
@@ -11,4 +11,4 @@
     place to record valuable information, which is difficult to formalize
     into the above given categories.
 90#VERS#DATE#####: YYYY-MM-DD
-90#VERS#ISSUES###: formalized issues, separated with commas
+90#VERS#ISSUES###: NO_PDF_FOUND

@@ -1,14 +1,18 @@
 00#VERS#CLENGTH##: 1498
 00#VERS#LENGTH###: 359
 00#VERS#URI######: 0303Nasai.Tabaqat.JK000831-ara1
-80#VERS#BASED####: permalink, permalink, permalink
-80#VERS#COLLATED#: permalink, permalink, permalink
-80#VERS#LINKS####: all@id, vol1@id, vol2@id, vol3@id, volX@id
-90#VERS#ANNOTATOR: the name of the annotator (latin characters; please
-    use consistently)
-90#VERS#COMMENT##: a free running comment here; you can add as many
-    lines as you see fit; the main goal of this comment section is to have a
-    place to record valuable information, which is difficult to formalize
-    into the above given categories.
-90#VERS#DATE#####: YYYY-MM-DD
-90#VERS#ISSUES###: formalized issues, separated with commas
+80#VERS#BASED####: http://www.worldcat.org/oclc/4770235350
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/4770235350
+80#VERS#LINKS####: https://archive.org/details/FP8976
+90#VERS#ANNOTATOR: PV
+90#VERS#COMMENT##: Edition based on 4 earlier printed editions, 
+    mentioned by the editor in his introduction, pp. 7-8).
+    It is not clear what witnesses these earlier editions were based on;
+    but the editor does mention that the text was quoted by 
+    Ibn Rajab al-Ḥanbalī in his Sharḥ ʿIlal al-Tirmidhī (pp. 231-232) 
+    (see editor's introduction, p. 6).
+    It is thus possible that the text is not based on a Nasā'ī original, 
+    but only extracted from Ibn Rajab's Sharḥ.
+    PV added structural tags and the page numbers. 
+90#VERS#DATE#####: 2020-07-09
+90#VERS#ISSUES###: NO_MAJOR_ISSUES

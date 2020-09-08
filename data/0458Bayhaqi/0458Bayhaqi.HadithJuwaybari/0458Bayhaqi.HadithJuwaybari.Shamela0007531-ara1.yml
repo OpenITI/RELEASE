@@ -1,14 +1,10 @@
 00#VERS#CLENGTH##: 9277
 00#VERS#LENGTH###: 2361
 00#VERS#URI######: 0458Bayhaqi.HadithJuwaybari.Shamela0007531-ara1
-80#VERS#BASED####: permalink, permalink, permalink
-80#VERS#COLLATED#: permalink, permalink, permalink
-80#VERS#LINKS####: all@id, vol1@id, vol2@id, vol3@id, volX@id
-90#VERS#ANNOTATOR: the name of the annotator (latin characters; please
-    use consistently)
-90#VERS#COMMENT##: a free running comment here; you can add as many
-    lines as you see fit; the main goal of this comment section is to have a
-    place to record valuable information, which is difficult to formalize
-    into the above given categories.
-90#VERS#DATE#####: YYYY-MM-DD
-90#VERS#ISSUES###: formalized issues, separated with commas
+80#VERS#BASED####: http://www.worldcat.org/oclc/47781037
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/47781037
+80#VERS#LINKS####: https://www.noor-book.com/%D9%83%D8%AA%D8%A7%D8%A8-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A9-%D8%A3%D8%AC%D8%B2%D8%A7%D8%A1-%D8%AD%D8%AF%D9%8A%D8%AB%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A9-%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A%D8%A9-pdf
+90#VERS#ANNOTATOR: HRH
+90#VERS#COMMENT##: The text consists of 24 Hadiths and there is nothing that needs to be tagged.
+90#VERS#DATE#####: 2020-05-07
+90#VERS#ISSUES###: PAGINATION

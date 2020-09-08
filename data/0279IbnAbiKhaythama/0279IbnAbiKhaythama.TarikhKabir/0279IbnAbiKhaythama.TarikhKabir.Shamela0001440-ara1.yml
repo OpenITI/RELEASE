@@ -11,7 +11,7 @@
     the prophet in alphabetical order; but after naming someone from a
     specific tribe, he suddenly digresses to name other persons from that
     tribe and then returns to the alphabetical order. I categorized these
-    digressions as sub-headers (mostly fifth-level header) and showed the
+    digressions as sub-headers (mostly fourth-level header) and showed the
     return to the alphabetical order by a blank header tag (so that they are
     distinguishable). Moreover, the author names irrelevant names inside a
     category that is supposed to belong to one specific name (for example,
@@ -25,4 +25,4 @@
     with an asterisk too (see my note on “السفر الثالث” about this kind of
     names).
 90#VERS#DATE#####: 2019-10-14
-90#VERS#ISSUES###: PAGINATION
+90#VERS#ISSUES###: PAGINATION, EDITORIAL_SECTIONS

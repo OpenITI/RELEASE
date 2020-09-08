@@ -1,14 +1,10 @@
 00#VERS#CLENGTH##: 245494
 00#VERS#LENGTH###: 60087
 00#VERS#URI######: 0584IbnMunqidhShayzari.ManazilWaDiyar.Shamela0005416-ara1
-80#VERS#BASED####: permalink, permalink, permalink
-80#VERS#COLLATED#: permalink, permalink, permalink
-80#VERS#LINKS####: all@id, vol1@id, vol2@id, vol3@id, volX@id
-90#VERS#ANNOTATOR: the name of the annotator (latin characters; please
-    use consistently)
-90#VERS#COMMENT##: a free running comment here; you can add as many
-    lines as you see fit; the main goal of this comment section is to have a
-    place to record valuable information, which is difficult to formalize
-    into the above given categories.
-90#VERS#DATE#####: YYYY-MM-DD
-90#VERS#ISSUES###: formalized issues, separated with commas
+80#VERS#BASED####: NO_DATA_IN_METADATA
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/829246145
+80#VERS#LINKS####: https://www.noor-book.com/%D9%83%D8%AA%D8%A7%D8%A8-%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%B2%D9%84-%D9%88%D8%A7%D9%84%D8%AF%D9%8A%D8%A7%D8%B1-%D8%A7%D8%B3%D8%A7%D9%85%D9%87-%D8%A8%D9%86-%D9%85%D9%86%D9%82%D8%B0-%D8%B7-%D8%A7%D9%84%D9%85-%D8%A7%D9%84%D8%A7%D8%B3%D9%84%D8%A7%D9%85%D9%8A-pdf
+90#VERS#ANNOTATOR: HRH
+90#VERS#COMMENT##: PageV01P082 is different from what appears in the PDF (2/185); however, It seems to be a problem in the PDF, not the digital version.
+90#VERS#DATE#####: 2020-07-07
+90#VERS#ISSUES###: EDITORIAL_SECTIONS, PARATEXT, HTML_TAGS

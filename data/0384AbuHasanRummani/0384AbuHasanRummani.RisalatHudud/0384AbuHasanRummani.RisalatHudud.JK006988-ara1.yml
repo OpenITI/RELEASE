@@ -1,13 +1,20 @@
 00#VERS#CLENGTH##: 11757
 00#VERS#LENGTH###: 2724
 00#VERS#URI######: 0384AbuHasanRummani.RisalatHudud.JK006988-ara1
-80#VERS#BASED####: http://www.worldcat.org/oclc/4771444716 (Most
-    probably)
-80#VERS#COLLATED#: NOT_FOUND
-80#VERS#LINKS####: http://almeshkat.net/book/2741
+80#VERS#BASED####: http://www.worldcat.org/oclc/4771444716
+80#VERS#COLLATED#: https://www.nli.org.il/ar/books/NNL_ALEPH002169146/NLI
+80#VERS#LINKS####: http://almeshkat.net/book/2741, https://ia802707.us.archive.org/34/items/15368/rmn.pdf
 90#VERS#ANNOTATOR: HRH
-90#VERS#COMMENT##: Another edition of the text that is accessible on the
-    internet can be found here:
-    https://ia802707.us.archive.org/34/items/15368/rmn.pdf
+90#VERS#COMMENT##: JK006988 (identical to Shamela0006981) is a digitization
+    of the second part of Sāmarrā'ī's edition of two risālas by Rummānī 
+    (http://www.worldcat.org/oclc/4771444716),  
+    which includes, in addition to the Risālat al-Ḥudūd, 
+    also a second risāla, Manāzil (sic) al-ḥurūf. 
+    (JK001218 and Shamela0006997 are identical digitizations of the
+    entire edition, containing both risālas)
+    A pdf of the original edition was not found, 
+    the text was compared with another edition,
+    https://ia802707.us.archive.org/34/items/15368/rmn.pdf 
+    (https://www.nli.org.il/ar/books/NNL_ALEPH002169146/NLI ?)
 90#VERS#DATE#####: 2020-01-16
-90#VERS#ISSUES###: RANDOM_CHARS
+90#VERS#ISSUES###: NO_MAJOR_ISSUES

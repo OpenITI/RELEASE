@@ -1,7 +1,8 @@
 00#BOOK#URI######: 0385Daruqutni.SualatBarqani
 10#BOOK#GENRES###: src@keyword, src@keyword, src@keyword
-10#BOOK#TITLEA#AR: Kitāb al-Muʾallif
-10#BOOK#TITLEB#AR: Risālaŧ al-Muʾallif
+10#BOOK#TITLEA#AR: Su'ālāt Abī Bakr al-Barqānī lil-Dāraquṭnī fī al-jarḥ wa-al-taʿdīl
+10#BOOK#TITLEB#AR: Su'ālāt Abī Bakr al-Barqānī lil-imām Abī al-Ḥasan al-Dāraquṭnī 
+    fī al-jarḥ wa-al-taʿdīl wa-ʿilal al-ḥadīṯ
 20#BOOK#WROTE####: URIs from Althurayya, comma separated
 30#BOOK#WROTE##AH: YEAR-MON-DA (X+ for unknown)
 40#BOOK#ABRIDGED#: URI of a book from OpenITI, or [Author's Title]
@@ -13,7 +14,25 @@
 80#BOOK#MSS######: permalink, permalink, permalink
 80#BOOK#STUDIES##: permalink, permalink, permalink
 80#BOOK#TRANSLAT#: permalink, permalink, permalink
-90#BOOK#COMMENT##: a free running comment here; you can add as many
-    lines as you see fit; the main goal of this comment section is to have a
-    place to record valuable information, which is difficult to formalize
-    into the above given categories.
+90#BOOK#COMMENT##: A list of questions about the trustworthiness
+    of ḥadīth transmitters (al-jarḥ wa-al-taʿdīl).
+    The questions are presented as being asked by al-Barqānī
+    to his teacher al-Dāraquṭnī. 
+    There are currently two editions in the corpus: 
+    * ed. ʿAbd al-Raḥīm Aḥmad al-Qashqarī, Lahore 1404 (JK000506): 
+      based on a majmuʿ manuscript in the Aḥmad III library in Istanbul
+      (no. 624/21, 16 pages); the manuscript is complete,
+      but the editor edited only the first two parts of the text, not the third.
+    * ed. Magdī Fatḥī al-Sayyid Ibrāhīm, Cairo (Maktabat al-Qur'ān): 1409/1989
+      (Shamela0001060, Shia002080): 
+      based on a manuscript in the Dār al-Kutub in Cairo (majmuʿ no. 1558/ḥadīth, folios 539-546),
+      and a 20th-C copy of the text in that manuscript (Cairo, Dār al-Kutub no. 25580/B); 
+      these copies contain many ijāzāt and samāʿāt. 
+      This edition contains only the third part of the book.
+    A more recent edition combines the three parts but has not been digitized yet
+    (ed. Abu ʿUmar Muḥammad b. ʿAlī al-Azharī, 
+    Su'ālāt Abī Bakr al-Barqānī lil-imām Abī al-Ḥasan al-Dāraquṭnī 
+    fī al-jarḥ wa-al-taʿdīl wa-ʿilal al-ḥadīth,
+    Cairo (al-Fārūq al-Ḥadītha): 1427/2006)
+    (for more on the different editions: see the introduction to al-Azharī's edition, pp. 27f.)
+    

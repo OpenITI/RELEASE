@@ -1,14 +1,14 @@
 00#VERS#CLENGTH##: 542132
-00#VERS#LENGTH###: 139587
+00#VERS#LENGTH###: 139585
 00#VERS#URI######: 0845Maqrizi.MukhtasarKamil.Shamela0005848-ara1
-80#VERS#BASED####: permalink, permalink, permalink
-80#VERS#COLLATED#: permalink, permalink, permalink
-80#VERS#LINKS####: all@id, vol1@id, vol2@id, vol3@id, volX@id
-90#VERS#ANNOTATOR: the name of the annotator (latin characters; please
-    use consistently)
-90#VERS#COMMENT##: a free running comment here; you can add as many
-    lines as you see fit; the main goal of this comment section is to have a
-    place to record valuable information, which is difficult to formalize
-    into the above given categories.
-90#VERS#DATE#####: YYYY-MM-DD
-90#VERS#ISSUES###: formalized issues, separated with commas
+80#VERS#BASED####: http://www.worldcat.org/oclc/37696372
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/37696372
+80#VERS#LINKS####: https://archive.org/details/MAL05540
+90#VERS#ANNOTATOR: SP Loynes
+90#VERS#COMMENT##: Good correspondence overall; no obvious errors. The
+    autotagging was erroneous in many places. Occasionally pages are out by
+    a couple of lines; this is usually when a paragraph runs onto the next
+    page by only a couple of lines, and it has been kept together on one
+    page.
+90#VERS#DATE#####: 2020-08-14
+90#VERS#ISSUES###: NO_MAJOR_ISSUES

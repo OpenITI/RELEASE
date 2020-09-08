@@ -1,5 +1,5 @@
-00#VERS#CLENGTH##: 2331470
-00#VERS#LENGTH###: 619320
+00#VERS#CLENGTH##: 2413607
+00#VERS#LENGTH###: 639563
 00#VERS#URI######: 0385Daruqutni.CilalWarida.Shamela0009082-ara1
 80#VERS#BASED####: http://www.worldcat.org/oclc/782086143
 80#VERS#COLLATED#: http://www.worldcat.org/oclc/782086143
@@ -7,8 +7,8 @@
     12-16: https://archive.org/details/edcedc12-16/mode/2up
 90#VERS#ANNOTATOR: HRH
 90#VERS#COMMENT##: 1- The book has a lot of sections (“جزء”) that do not
-    have any effect on the structure of the text. So, I didn’t tag them. 2-
-    Some volumes have descriptive table of contents which are useful to
+    have any effect on the structure of the text. So, I didn’t tag them.
+    2-Some volumes have descriptive table of contents which are useful to
     understand the structure of the text (because in most volumes the
     existing titles do not cover the whole subjects under discussion);
     however it cannot be used for structural tagging. 3- Some editorial

@@ -1,7 +1,9 @@
 00#BOOK#URI######: 0385Daruqutni.MinHadithDhuhali
 10#BOOK#GENRES###: src@keyword, src@keyword, src@keyword
-10#BOOK#TITLEA#AR: Kitāb al-Muʾallif
-10#BOOK#TITLEB#AR: Risālaŧ al-Muʾallif
+10#BOOK#TITLEA#AR: al-Fawāʾid al-muntaqāŧ min al-uṣūl min ḥadīṯ al-qāḍī Abī Ṭāhir 
+    Muḥammad b. Aḥmad b. ʿAbd Allāh b. Naṣr b. Buǧayr b. ʿAbd Allāh al-Ḏuhlī
+10#BOOK#TITLEB#AR: Ḥadīṯ Abī al-Ṭāhir Muḥammad b. Aḥmad b. ʿAbd Allāh b. Naṣr b. Buǧayr 
+    b. ʿAbd Allāh b. Ṣāliḥ b. Usāmaŧ al-Ḏuhlī
 20#BOOK#WROTE####: URIs from Althurayya, comma separated
 30#BOOK#WROTE##AH: YEAR-MON-DA (X+ for unknown)
 40#BOOK#ABRIDGED#: URI of a book from OpenITI, or [Author's Title]

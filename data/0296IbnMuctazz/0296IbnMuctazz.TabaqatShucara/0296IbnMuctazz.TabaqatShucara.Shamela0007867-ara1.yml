@@ -5,15 +5,21 @@
 80#VERS#COLLATED#: http://www.worldcat.org/oclc/949446778
 80#VERS#LINKS####: https://waqfeya.com/book.php?bid=7618
 90#VERS#ANNOTATOR: HRH
-90#VERS#COMMENT##: 1- These pages are omitted in the Editpro version:
+90#VERS#COMMENT##: 1- These pages are missing in the digital version:
     418, 419, 422, 423, 426, 427,430, 431. I had a quick glance at the text
     and I found some little inaccuracies: in page 160, verse number 7 and in
-    page 334, the first three verses are omitted in Editpro version.
+    page 334, the first three verses are missing in Editpro version.
     Moreover, from page 429 onwards, the puny lines that show the page
-    numbers and the line numbers of the original book are omitted. 2- At the
-    end of the book, there are three sections that have been added by the
-    editor. I didn’t use the Editorial Tag for these parts as, in my view,
-    they must be considered parts of the original text; nevertheless, this
-    depends on the aim of the researcher who is supposed to use the text.
+    numbers and the line numbers of the original book are missing. 2- At the
+    end of the book, there are three appendixes that have been added by the
+    editor. The first "زيادات في المختصر، المختار من طبقات الشعراء"
+    (PageV01P429) is a selections of the poems in Tabaqat; the second
+    "اختلاف الطبقات والمختصر" (PageV01P462) includes the differences between
+    these two texts; and the third "نصوص ليست في الطبقات ولا المختصر"
+    (PageV01P463) includes the parts that do not appear in those two texts.
+    I tagged these appendixes as editorial  parts, since they are not part
+    of the original text. However, the beginning of each part is marked by
+    three asterisk (#***) so that they can be found easily. This needs the
+    opinion of a specialist.
 90#VERS#DATE#####: 2019-08-27
-90#VERS#ISSUES###: MISSING_PARTS
+90#VERS#ISSUES###: MISSING_PARTS, EDITORIAL_SECTIONS

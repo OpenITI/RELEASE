@@ -1,14 +1,10 @@
 00#VERS#CLENGTH##: 180966
 00#VERS#LENGTH###: 47152
 00#VERS#URI######: 0765AbuMahasinHusayni.IkmalLiRijal.Shamela0005850-ara1
-80#VERS#BASED####: permalink, permalink, permalink
-80#VERS#COLLATED#: permalink, permalink, permalink
-80#VERS#LINKS####: all@id, vol1@id, vol2@id, vol3@id, volX@id
-90#VERS#ANNOTATOR: the name of the annotator (latin characters; please
-    use consistently)
-90#VERS#COMMENT##: a free running comment here; you can add as many
-    lines as you see fit; the main goal of this comment section is to have a
-    place to record valuable information, which is difficult to formalize
-    into the above given categories.
-90#VERS#DATE#####: YYYY-MM-DD
-90#VERS#ISSUES###: formalized issues, separated with commas
+80#VERS#BASED####: http://www.worldcat.org/oclc/4770179654
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/4770179654
+80#VERS#LINKS####: https://waqfeya.com/book.php?bid=7421
+90#VERS#ANNOTATOR: SP Loynes
+90#VERS#COMMENT##: Good edition conforming closely to printed version. The pagination is inaccurate.
+90#VERS#DATE#####: 2020-07-03
+90#VERS#ISSUES###: PAGINATION

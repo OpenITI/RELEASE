@@ -1,13 +1,13 @@
 00#BOOK#URI######: 0795IbnRajabHanbali.DhaylTabaqatHanabila
 10#BOOK#GENRES###: src@keyword, src@keyword, src@keyword
-10#BOOK#TITLEA#AR: Kitāb al-Muʾallif
-10#BOOK#TITLEB#AR: Risālaŧ al-Muʾallif
+10#BOOK#TITLEA#AR: al-Ḏayl ʿalā ṭabaqāt al-ḥanābila
+10#BOOK#TITLEB#AR: 
 20#BOOK#WROTE####: URIs from Althurayya, comma separated
 30#BOOK#WROTE##AH: YEAR-MON-DA (X+ for unknown)
 40#BOOK#ABRIDGED#: URI of a book from OpenITI, or [Author's Title]
 40#BOOK#COMMENTD#: URI of a book from OpenITI, or [Author's Title]
-40#BOOK#FOLLOWED#: URI of a book from OpenITI, or [Author's Title]
-40#BOOK#PRECEDED#: URI of a book from OpenITI, or [Author's Title]
+40#BOOK#FOLLOWED#: Ibn ʿAbd al-Hādī's Dhayl
+40#BOOK#PRECEDED#: 0526IbnAbiYacla.TabaqatHanabila
 80#BOOK#EDITIONS#: permalink, permalink, permalink
 80#BOOK#LINKS####: permalink, permalink, permalink
 80#BOOK#MSS######: permalink, permalink, permalink

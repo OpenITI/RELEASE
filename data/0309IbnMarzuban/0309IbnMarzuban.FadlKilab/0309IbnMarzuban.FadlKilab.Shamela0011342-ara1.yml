@@ -6,14 +6,6 @@
 80#VERS#LINKS####: http://tuhfa-ahlhadeeth.blogspot.com/2010/12/blog-
     post_653.html
 90#VERS#ANNOTATOR: HRH
-90#VERS#COMMENT##: The Editpro versions (Shamela and JK) were not found.
-    The only thing I found was a different edition (edited by “السناري”) and
-    a manuscript of the text (both accessible through VERS#LINKS). They both
-    show that there is no title in this very short text. So, they suffice
-    for structural annotation; although for analytical annotation or a more
-    detailed analysis of the text, a better edition (one of the Shamela or
-    JK versions, which are not accessible on the internet) might be needed.
-    The Shamela version I’ve worked on seems to have a better quality than
-    the “السناري” edition.
+90#VERS#COMMENT##: I used a different edition for collation. There is no title in this very short text. 2- A manuscript of the text is accessible in the link in VERS#LINKS.
 90#VERS#DATE#####: 2019-09-17
-90#VERS#ISSUES###: NO_MAJOR_ISSUES
+90#VERS#ISSUES###: PARATEXT

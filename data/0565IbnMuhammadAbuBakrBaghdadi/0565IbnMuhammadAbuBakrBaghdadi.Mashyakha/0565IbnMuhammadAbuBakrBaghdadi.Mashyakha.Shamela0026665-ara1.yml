@@ -1,14 +1,18 @@
-00#VERS#CLENGTH##: 22736
-00#VERS#LENGTH###: 6056
+00#VERS#CLENGTH##: 22729
+00#VERS#LENGTH###: 6049
 00#VERS#URI######: 0565IbnMuhammadAbuBakrBaghdadi.Mashyakha.Shamela0026665-ara1
-80#VERS#BASED####: permalink, permalink, permalink
-80#VERS#COLLATED#: permalink, permalink, permalink
-80#VERS#LINKS####: all@id, vol1@id, vol2@id, vol3@id, volX@id
-90#VERS#ANNOTATOR: the name of the annotator (latin characters; please
-    use consistently)
-90#VERS#COMMENT##: a free running comment here; you can add as many
-    lines as you see fit; the main goal of this comment section is to have a
-    place to record valuable information, which is difficult to formalize
-    into the above given categories.
-90#VERS#DATE#####: YYYY-MM-DD
-90#VERS#ISSUES###: formalized issues, separated with commas
+80#VERS#BASED####: http://www.worldcat.org/oclc/38959932
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/38959932
+80#VERS#LINKS####: https://k-tb.com/book/hadeeth4157-%D8%A7%D9%84%D9%81%
+    D9%88%D8%A7%D8%A6%D8%AF-%D8%A7%D9%84%D8%AD%D8%B3%D8%A7%D9%86-%D8%B9%D9%8
+    6-%D8%A7%D9%84%D8%B4%D9%8A%D9%88%D8%AE-%D8%A7%D9%84%D8%AB%D9%82%D8%A7%D8
+    %AA--%D9%85%D8%B4%D9%8A%D8%AE%D8%A9-%D8%A3%D8%A8%D9%8A-%D8%A8%D9%83%D8%B
+    1-%D8%A8%D9%86-%D8%A7%D9%84%D9%86%D9%82%D9%88%D8%B1
+90#VERS#ANNOTATOR: LMN
+90#VERS#COMMENT##: Pagination corrected by annotator;
+    Shamela0026665-ara1 includes text passages from another manuscript that
+    have been added by the editor in square brackets on pp. 50, 88, 90, 94;
+    the samāʿāt found on pp. 96-97 of the print edition are not found in
+    Shamela0026665-ara1
+90#VERS#DATE#####: 2020-04-14
+90#VERS#ISSUES###: NO_MAJOR_ISSUES

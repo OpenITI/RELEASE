@@ -1,5 +1,5 @@
-00#VERS#CLENGTH##: 44753
-00#VERS#LENGTH###: 11824
+00#VERS#CLENGTH##: 69763
+00#VERS#LENGTH###: 17635
 00#VERS#URI######: 0281IbnAbiDunya.ShukrLiLlah.Shia001937-ara1
 80#VERS#BASED####: http://www.worldcat.org/oclc/1103817193
 80#VERS#COLLATED#: http://www.worldcat.org/oclc/1103817193
@@ -11,8 +11,8 @@
     7%25D8%25A4%25D9%2588%25D8%25B7.pdf/file
 90#VERS#ANNOTATOR: HRH
 90#VERS#COMMENT##: The book consists of two sections. Before and after
-    each section there is a note of the scribe. I tagged these parts as
-    editorial and used blank headers to show the beginning of the main body
-    of the text and the two sections of the book.
+    each section there is a note of the scribe. I used blank headers to show
+    the beginning of the main body of the text and the two sections of the
+    book.
 90#VERS#DATE#####: 2019-09-30
-90#VERS#ISSUES###: NO_MAJOR_ISSUES
+90#VERS#ISSUES###: EDITORIAL_SECTIONS
