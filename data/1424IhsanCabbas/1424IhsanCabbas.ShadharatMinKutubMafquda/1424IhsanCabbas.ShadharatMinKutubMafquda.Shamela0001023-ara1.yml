@@ -1,14 +1,10 @@
 00#VERS#CLENGTH##: 350829
 00#VERS#LENGTH###: 83447
 00#VERS#URI######: 1424IhsanCabbas.ShadharatMinKutubMafquda.Shamela0001023-ara1
-80#VERS#BASED####: permalink, permalink, permalink
-80#VERS#COLLATED#: permalink, permalink, permalink
-80#VERS#LINKS####: all@id, vol1@id, vol2@id, vol3@id, volX@id
-90#VERS#ANNOTATOR: the name of the annotator (latin characters; please
-    use consistently)
-90#VERS#COMMENT##: a free running comment here; you can add as many
-    lines as you see fit; the main goal of this comment section is to have a
-    place to record valuable information, which is difficult to formalize
-    into the above given categories.
-90#VERS#DATE#####: YYYY-MM-DD
-90#VERS#ISSUES###: formalized issues, separated with commas
+80#VERS#BASED####: http://www.worldcat.org/oclc/4770848328
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/4770848328
+80#VERS#LINKS####: https://ia801008.us.archive.org/4/items/20191029_20191029_2004/%D8%B4%D8%B0%D8%B1%D8%A7%D8%AA%20%D9%85%D9%86%20%D9%83%D8%AA%D8%A8%20%D9%85%D9%81%D9%82%D9%88%D8%AF%D8%A9%20%D9%81%D9%8A%20%D8%A7%D9%84%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE%20-%20%D8%AF.%20%D8%A5%D8%AD%D8%B3%D8%A7%D9%86%20%D8%B9%D8%A8%D8%A7%D8%B3.pdf
+90#VERS#ANNOTATOR: HRH
+90#VERS#COMMENT##: The editor of this text has collected the lost pieces of 30 texts. At the beginning of each text there is an introductory part by the author which is about the lost piece and its author. I tagged these introductory parts as editorial, and showed the beginning of the main text by third-level blank headers with an asterisk (i.e. ### ||| *). After deleting the editorial sections, these headers must be removed. 2- The first part of the book is for historical sources and the second part is for literary sources (“شذرات من كتب مفقودة في الأدب”). The first part does not have any title. A title like “شذرات من كتب مفقودة في التاریخ” must be added in front of my first-level blank header in page 9. 3- The third part of the book is a “ملحقات” part which contains the newly-found pieces that must be added to the texts number 2, 5, 9, 12, 24.
+90#VERS#DATE#####: 2020-08-27
+90#VERS#ISSUES###: EDITORIAL_SECTIONS, HTML_TAGS

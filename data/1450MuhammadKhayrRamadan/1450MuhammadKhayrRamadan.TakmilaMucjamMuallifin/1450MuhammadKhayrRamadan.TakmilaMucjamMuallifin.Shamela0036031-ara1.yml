@@ -1,14 +1,19 @@
 00#VERS#CLENGTH##: 801157
-00#VERS#LENGTH###: 171131
+00#VERS#LENGTH###: 171089
 00#VERS#URI######: 1450MuhammadKhayrRamadan.TakmilaMucjamMuallifin.Shamela0036031-ara1
-80#VERS#BASED####: permalink, permalink, permalink
-80#VERS#COLLATED#: permalink, permalink, permalink
-80#VERS#LINKS####: all@id, vol1@id, vol2@id, vol3@id, volX@id
-90#VERS#ANNOTATOR: the name of the annotator (latin characters; please
-    use consistently)
-90#VERS#COMMENT##: a free running comment here; you can add as many
-    lines as you see fit; the main goal of this comment section is to have a
-    place to record valuable information, which is difficult to formalize
-    into the above given categories.
-90#VERS#DATE#####: YYYY-MM-DD
-90#VERS#ISSUES###: formalized issues, separated with commas
+80#VERS#BASED####: http://www.worldcat.org/oclc/4771411052
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/4771411052
+80#VERS#LINKS####: https://ia803105.us.archive.org/24/items/139714151977
+    1995/%D8%AA%D9%83%D9%85%D9%84%D8%A9%20%D9%85%D8%B9%D8%AC%D9%85%20%D8%A7%
+    D9%84%D9%85%D8%A4%D9%84%D9%81%D9%8A%D9%86%20%28%D9%88%D9%81%D9%8A%D8%A7%
+    D8%AA%201397%20-%201415%D9%87%D9%80%20%3D%201977%20-%201995%D9%85%29.pdf
+90#VERS#ANNOTATOR: HRH
+90#VERS#COMMENT##: Each page number is repeated three times. This is
+    because the PDF is written in three columns and the page numbers are
+    repeated at the end of each column. 2- Many of the name entries (### $)
+    have subsetions. Most of these subsections are to introduce the writings
+    of the person under discussion. These subsections are not bold in the
+    PDF, but they were pre-tagged. So, I kept the tags because they are
+    useful. I just changed the automatic tags to “#~:section”:.
+90#VERS#DATE#####: 2020-08-21
+90#VERS#ISSUES###: EDITORIAL_SECTIONS, PAGINATION, HTML_TAGS

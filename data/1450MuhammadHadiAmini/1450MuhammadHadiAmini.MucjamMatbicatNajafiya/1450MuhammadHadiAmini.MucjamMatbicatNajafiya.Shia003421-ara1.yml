@@ -1,14 +1,17 @@
-00#VERS#CLENGTH##: 164674
-00#VERS#LENGTH###: 36773
+00#VERS#CLENGTH##: 164731
+00#VERS#LENGTH###: 36731
 00#VERS#URI######: 1450MuhammadHadiAmini.MucjamMatbicatNajafiya.Shia003421-ara1
-80#VERS#BASED####: permalink, permalink, permalink
-80#VERS#COLLATED#: permalink, permalink, permalink
-80#VERS#LINKS####: all@id, vol1@id, vol2@id, vol3@id, volX@id
-90#VERS#ANNOTATOR: the name of the annotator (latin characters; please
-    use consistently)
-90#VERS#COMMENT##: a free running comment here; you can add as many
-    lines as you see fit; the main goal of this comment section is to have a
-    place to record valuable information, which is difficult to formalize
-    into the above given categories.
-90#VERS#DATE#####: YYYY-MM-DD
-90#VERS#ISSUES###: formalized issues, separated with commas
+80#VERS#BASED####: http://www.worldcat.org/oclc/4770081182
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/4770081182
+80#VERS#LINKS####:
+    https://www.noorlib.ir/View/fa/Book/BookView/Image/4905
+90#VERS#ANNOTATOR: HRH
+90#VERS#COMMENT##: The link in VERS#LINKS leads you to a payment-based
+    website and you must have an account to see the PDF. 2- Page 77 is
+    placed after page 78; but this is a problem in the PDF. So, I did not
+    move this page to its correct place. 3- The tag “### $” is used as a
+    simplified tag for book titles. It should ultimately be replaced by the
+    complete form: ### $DIC_BIB$. 4- The title “المستدرک” is missing in page
+    393.
+90#VERS#DATE#####: 2020-08-22
+90#VERS#ISSUES###: EDITORIAL_SECTIONS

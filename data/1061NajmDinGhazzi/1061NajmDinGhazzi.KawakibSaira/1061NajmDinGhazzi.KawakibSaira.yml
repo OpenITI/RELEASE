@@ -1,16 +1,16 @@
 00#BOOK#URI######: 1061NajmDinGhazzi.KawakibSaira
 10#BOOK#GENRES###: src@keyword, src@keyword, src@keyword
-10#BOOK#TITLEA#AR: Kitāb al-Muʾallif
-10#BOOK#TITLEB#AR: Risālaŧ al-Muʾallif
-20#BOOK#WROTE####: URIs from Althurayya, comma separated
-30#BOOK#WROTE##AH: YEAR-MON-DA (X+ for unknown)
+10#BOOK#TITLEA#AR: al-Kawākib al-Sāʾiraŧ bi-aʿyān al-miʾaŧ al-ʿāširaŧ  
+10#BOOK#TITLEB#AR: al-Kawākib al-Sāʾiraŧ bi-aʿyān al-miʾaŧ al-ʿāširaŧ 
+20#BOOK#WROTE####: DIMASHQ_363E335N_S
+30#BOOK#WROTE##AH: XXXX-XX-XX (X+ for unknown)
 40#BOOK#ABRIDGED#: URI of a book from OpenITI, or [Author's Title]
 40#BOOK#COMMENTD#: URI of a book from OpenITI, or [Author's Title]
-40#BOOK#FOLLOWED#: URI of a book from OpenITI, or [Author's Title]
+40#BOOK#FOLLOWED#: [Luṭf al-samar wa-qaṭ al-ṯamar min tarāǧim aʿyān al-ṭabaqaŧ al-ūlá min al-qarn al-ḥādī ʿašar, by same author]
 40#BOOK#PRECEDED#: URI of a book from OpenITI, or [Author's Title]
-80#BOOK#EDITIONS#: permalink, permalink, permalink
+80#BOOK#EDITIONS#: http://www.worldcat.org/oclc/43222447
 80#BOOK#LINKS####: permalink, permalink, permalink
-80#BOOK#MSS######: permalink, permalink, permalink
+80#BOOK#MSS######: (1) Beirut, Beirut University Library [TBC]; (2) Berlin, Staatsbibliothek zu Berlin, no. 9891; (3) Cairo, al-Azhar Library, no. 348, Abaza 6646; (4) Damascus, Maktabat Zahiriyya, 41 Ta’rih (also 3406 Amm); (5) Dublin, Chester Beatty Library, no. 3708; (6) Istanbul, Topkapı Sarayı Müzesi Kütüphanesi, Hazine 1286; (7) Istanbul, Topkapı Sarayı Müzesi Kütüphanesi, Emanet Hazinesi 1220; (8) London, British Museum, no. 938; (9) Medina, Maktabat Arif Hikmat, 182 Ta’rih; (10) Rampur, Rampur Library, no. 3708. [for further info see ottomanhistorians.uchicago.edu]
 80#BOOK#STUDIES##: permalink, permalink, permalink
 80#BOOK#TRANSLAT#: permalink, permalink, permalink
 90#BOOK#COMMENT##: a free running comment here; you can add as many
