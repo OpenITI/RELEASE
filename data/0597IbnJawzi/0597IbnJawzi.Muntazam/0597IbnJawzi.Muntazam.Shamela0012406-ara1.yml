@@ -1,0 +1,22 @@
+00#VERS#CLENGTH##: 5785781
+00#VERS#LENGTH###: 1414455
+00#VERS#URI######: 0597IbnJawzi.Muntazam.Shamela0012406-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/1035773549
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/1035773549
+80#VERS#LINKS####:
+    https://archive.org/details/muntazim_tarikh_mlouk_oumm
+90#VERS#ANNOTATOR: Maroussia
+90#VERS#COMMENT##: Comment inserted in metadata was removed. two editor
+    sections were added at the beginning and at the end (the latter includes
+    fihris). the headers were left untouched. the first level header (with
+    one pipe) includes the volumes' numbers. the biographies are all tagged
+    as men's biographies with one dollar sign, but there are many women's
+    biographies that can be easily spotted by looking for female names or
+    bint XYZ. some headers are misstagged or untagged when compared to the
+    edition. editorial and shamela additions inserted in the text.
+    manuscript folio margin notes inserted in the text. this text's
+    structure would require deeper reflection to assess whether a thrid
+    level header would be meaningful to provide the text with a better
+    structure.
+90#VERS#DATE#####: 2019-07-24
+90#VERS#ISSUES###: HEADERS, BIOGRAPHICAL-TAGS

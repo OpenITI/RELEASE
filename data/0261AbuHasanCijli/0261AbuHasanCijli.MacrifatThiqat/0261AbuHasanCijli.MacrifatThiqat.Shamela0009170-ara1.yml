@@ -1,0 +1,16 @@
+00#VERS#CLENGTH##: 187051
+00#VERS#LENGTH###: 47263
+00#VERS#URI######: 0261AbuHasanCijli.MacrifatThiqat.Shamela0009170-ara1
+80#VERS#BASED####: NOT_FOUND
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/613219615
+80#VERS#LINKS####:
+    https://ia801303.us.archive.org/10/items/FP78113/78113.pdf
+90#VERS#ANNOTATOR: HRH
+90#VERS#COMMENT##: 1- Some pages include a section entitled: “تضمينات
+    الحافظ ابن حجر”. Both in the PDF and in Editpro text, this part is
+    separated by dotted lines (and I didn’t change it). 2- A few lines are
+    copied redundantly in PageV02P427. 3- A missing title in PageV02P517.
+    4-I created a “CHANGE URI” issue for this file, since the name is wrong
+    and it is in a wrong folder.
+90#VERS#DATE#####: 2019-10-20
+90#VERS#ISSUES###: PAGINATION, REDUNDANT_PARTS, EDITORIAL_SECTIONS

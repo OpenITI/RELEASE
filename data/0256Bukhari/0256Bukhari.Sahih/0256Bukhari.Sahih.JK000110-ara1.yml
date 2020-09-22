@@ -1,0 +1,21 @@
+00#VERS#CLENGTH##: 2309065
+00#VERS#LENGTH###: 593471
+00#VERS#URI######: 0256Bukhari.Sahih.JK000110-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/54146380
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/54146380 (2002 reprint)
+80#VERS#LINKS####:
+    https://ia800200.us.archive.org/6/items/waq79565/79565.pdf
+90#VERS#ANNOTATOR: HRH
+90#VERS#COMMENT##: 1- The version I used for collation is a reprint of
+    the digital version, but with a newer edition. So, the page numbers and
+    also the numbers of the titles are different. 2- In many of the titles,
+    there are one or more sentences after the titles which are sometimes
+    part of the titles, and are sometimes separated as new paragraphs. The
+    text is very inconsistent about this. I just followed the PDF in this
+    respect (if the sentence is bold, I tagged it as the continuation of the
+    title, and if not, I separated it as a new paragraph). However, a
+    specialist who reads the text carefully might decide to make the titles
+    coherent by adding this part to all titles or removing it from the
+    titles in all cases.
+90#VERS#DATE#####: 2020-05-15
+90#VERS#ISSUES###: RANDOM_CHARS

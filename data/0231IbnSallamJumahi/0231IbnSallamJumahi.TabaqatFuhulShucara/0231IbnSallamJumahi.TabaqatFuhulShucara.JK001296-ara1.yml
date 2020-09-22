@@ -1,0 +1,29 @@
+00#VERS#CLENGTH##: 214919
+00#VERS#LENGTH###: 52993
+00#VERS#URI######: 0231IbnSallamJumahi.TabaqatFuhulShucara.JK001296-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/741100745
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/741100745
+80#VERS#LINKS####: https://waqfeya.com/book.php?bid=12666
+90#VERS#ANNOTATOR: HRH
+90#VERS#COMMENT##: 1- There are four names at the beginning of each
+    chapter that do not include any information, but I have tagged them as
+    ### $. This is because the information regarding these persons and their
+    poems appears in the following pages. The author first names four poets
+    at the beginning of each chapter and then presents some information
+    about them in the rest of the chapter (sometimes in a disordered style
+    and in combination with other information about poetry in general and
+    …). I used this pattern for all chapters. Moreover, I have tagged the
+    names of the poets in the beginning of each chapter (i.e. NOT inside the
+    chapter at the beginning of their respective poems). There are two
+    reasons for this: firstly, the names appear in complete form just in the
+    beginning of each chapter. Inside the chapter they appear just in short
+    form (i.e. without any Kunya and Nasab). Secondly, some of the names
+    don’t have any explanation at all in the text and are just mentioned to
+    complete the categorization. 2- Numbers 523-532 are lost in the text.
+    But this is the problem of the book not Editpro version (As it is
+    explained on page 522 of the PDF). 3- The book consists of two parts,
+    but it seems to me that it is one volume (the page numbers are
+    continuous both in the PDF and Editpro version). So, maybe it’s better
+    to change the pagination.
+90#VERS#DATE#####: 2019-08-20
+90#VERS#ISSUES###: NO_MAJOR_ISSUES

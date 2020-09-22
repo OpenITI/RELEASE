@@ -1,0 +1,27 @@
+00#BOOK#URI######: 0450AnonTranslator.ArbacWaCishrunKalimaLiGhrighuriyus
+10#BOOK#GENRES###: src@keyword, src@keyword, src@keyword
+10#BOOK#TITLEA#AR: al-Arbaʿ wa-al-ʿishrūn kalimaŧ li-al-qiddīs
+    Ghrīghūriyus Nīṣaṣ akhī mārī Bāsīliyūs al-kabīr naẓmuhu ʿalá ʿadad ḥurūf
+    alfā bīṭā bi-al-Yūnāniyyaŧ
+10#BOOK#TITLEB#AR: Ghrīghūriyus al-mutakallim ʿalá al-lāhūt
+20#BOOK#WROTE####: URIs from Althurayya, comma separated
+30#BOOK#WROTE##AH: YEAR-MON-DA (X+ for unknown)
+40#BOOK#ABRIDGED#: URI of a book from OpenITI, or [Author's Title]
+40#BOOK#COMMENTD#: URI of a book from OpenITI, or [Author's Title]
+40#BOOK#FOLLOWED#: [pseudo-Menander, Sententiae]  > [Gregorius of
+    Nazianzus, Carmen Morale XXX] (COMP)  >
+    0450AnonTranslator.ArbacWaCishrunKalimaLiGhrighuriyus (TRANSL)
+40#BOOK#PRECEDED#: URI of a book from OpenITI, or [Author's Title]
+80#BOOK#EDITIONS#: permalink, permalink, permalink
+80#BOOK#LINKS####: permalink, permalink, permalink
+80#BOOK#MSS######: permalink, permalink, permalink
+80#BOOK#STUDIES##: permalink, permalink, permalink
+80#BOOK#TRANSLAT#: permalink, permalink, permalink
+90#BOOK#COMMENT##: Ullmann reconstructed a third translation of
+    ps.-Menander's sententiae, from an Arabic translation of Gregorius of
+    Nazianze's Carmen Morale XXX. The translator is not named in the
+    manuscript;  Ullmann suggests a terminus ad quem in the mid-11th C. See
+    Ullmann 1961, Die arabische Überlieferung der sogenannten
+    Menandersentenzen, Wiesbaden: Steiner, pp. 74-76.
+    (urn:nbn:de:gbv:3:5-97429,  http://menadoc.bibliothek.uni-
+    halle.de/inhouse/content/titleinfo/4896427)

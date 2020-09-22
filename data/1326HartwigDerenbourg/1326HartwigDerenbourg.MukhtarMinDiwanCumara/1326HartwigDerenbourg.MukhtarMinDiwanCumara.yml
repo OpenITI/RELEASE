@@ -1,0 +1,28 @@
+00#BOOK#URI######: 1326HartwigDerenbourg.MukhtarMinDiwanCumara
+10#BOOK#GENRES###: src@keyword, src@keyword, src@keyword
+10#BOOK#TITLEA#AR: al-Muḫtār min Dīwān al-ʿallāmaŧ al-adīb al-awḥad al-nāẓim al-nāṯir al-faqīh ʿUmāraŧ al-Yamanī
+10#BOOK#TITLEB#AR: 
+20#BOOK#WROTE####: URIs from Althurayya, comma separated
+30#BOOK#WROTE##AH: YEAR-MON-DA (X+ for unknown)
+40#BOOK#ABRIDGED#: 0569CumaraHakami.Diwan
+40#BOOK#COMMENTD#: URI of a book from OpenITI, or [Author's Title]
+40#BOOK#FOLLOWED#: URI of a book from OpenITI, or [Author's Title]
+40#BOOK#PRECEDED#: URI of a book from OpenITI, or [Author's Title]
+80#BOOK#EDITIONS#: permalink, permalink, permalink
+80#BOOK#LINKS####: permalink, permalink, permalink
+80#BOOK#MSS######: permalink, permalink, permalink
+80#BOOK#STUDIES##: permalink, permalink, permalink
+80#BOOK#TRANSLAT#: permalink, permalink, permalink
+90#BOOK#COMMENT##: Selection of ʿUmāra's dīwān, made by Derenbourg; 
+    in the introduction to his edition (p. ix), he writes that he left out 
+    passages in which no personal or geographical names are found,
+    but included also some passages he liked for aesthetic reasons. 
+    The selection is based on two separate compilations of ʿUmara's poetry
+    (see introduction p. x-xi): an anonymous compilation in which the poems 
+    are sorted alphabetically by their rhymes (extant in a copy dated 984/1576); 
+    and a separate, unordered, compilation made in 644/1215 
+    by Nabih al-Dīn Abū al-Ṭāhir Ismāʿīl b. ʿAbd al-Raḥmān b. Aḥmad al-Anṣārī,
+    who also made an "edition" of ʿUmāra's Nukat.
+    Derenbourg followed the former compilations, and added the few additional
+    passages found only in the other compilation under the heading 
+    "Dhayl Dīwān ʿUmāra" (see introduction pp. xi-xii).

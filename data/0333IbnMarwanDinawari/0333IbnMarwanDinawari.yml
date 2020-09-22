@@ -1,0 +1,18 @@
+00#AUTH#URI######: 0333IbnMarwanDinawari
+10#AUTH#ISM####AR: ʾAḥmad
+10#AUTH#KUNYA##AR: ʾAbī Bakr
+10#AUTH#LAQAB##AR: 
+10#AUTH#NASAB##AR: b. Marwān b. Muḥammad
+10#AUTH#NISBA##AR: al-Dīnawarī, al-Qāḍī, al-Mālikī, al-Faqīh, al-ʿAllāma=t, al-muḥaddi_t
+10#AUTH#SHUHRA#AR: Ibn Marwān al-Dīnawarī
+20#AUTH#BORN#####: URIs from Althurayya, comma separated
+20#AUTH#DIED#####: QAHIRA_312E300N_S
+20#AUTH#RESIDED##: USWAN_329E241N_S, QULZUM_325E300N_S, 
+20#AUTH#VISITED##: HALAB_371E361N_S, BAGHDAD_443E333N_S
+30#AUTH#BORN###AH: XXX-XX-XX
+30#AUTH#DIED###AH: 0333-XX-XX
+40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
+40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
+90#AUTH#COMMENT##: Nothing is known about his birthplace and upbringing. According to his 
+			nisba he could be born in Dīnawar, (DINAWAR_474E346N_S). 

@@ -1,0 +1,17 @@
+00#AUTH#URI######: 0730ShaficIbnCali
+10#AUTH#ISM####AR: Šāfiʿ
+10#AUTH#KUNYA##AR: 
+10#AUTH#LAQAB##AR: Nāṣir al-Dīn
+10#AUTH#NASAB##AR: b. ʿAlī b. ʿAbbās b. Ismāʿīl b. ʿAsākir 
+10#AUTH#NISBA##AR: al-Kinānī al-ʿAsqalānī al-Miṣrī
+10#AUTH#SHUHRA#AR: Šāfiʿ b. ʿAlī 
+20#AUTH#BORN#####: URIs from Althurayya, comma separated
+20#AUTH#DIED#####: QAHIRA_312E300N_S
+20#AUTH#RESIDED##: QAHIRA_312E300N_S
+20#AUTH#VISITED##: URIs from Althurayya, comma separated
+30#AUTH#BORN###AH: 0730-SHC-17 (X+ for unknown)
+30#AUTH#DIED###AH: 0649-DHH-25 (X+ for unknown)
+40#AUTH#STUDENTS#: 0739IbnMuhammadBirzali
+40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+80#AUTH#BIBLIO###: Van Den Bossche "The Past, Panegyric and the Performance of Penmanship"
+90#AUTH#COMMENT##: It is unclear whether the author was born in Cairo or ʿAsqalān, so have left this blank. 
