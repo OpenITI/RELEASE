@@ -1,6 +1,6 @@
 # Files to ignore: PDFs can be downloaded with `make` for every included text
 .DS_Store
-*.pdf
+*.pdff
 *.PDF
 
 # Images should not be stored here either
