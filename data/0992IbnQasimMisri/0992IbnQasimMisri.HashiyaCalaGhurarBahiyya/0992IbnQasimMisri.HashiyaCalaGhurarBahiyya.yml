@@ -1,0 +1,17 @@
+00#BOOK#URI######: 0992IbnQasimMisri.HashiyaCalaGhurarBahiyya
+10#BOOK#GENRES###: src@keyword, src@keyword, src@keyword
+10#BOOK#TITLEA#AR: Kitāb al-Muʾallif
+10#BOOK#TITLEB#AR: Risālaŧ al-Muʾallif
+20#BOOK#WROTE####: URIs from Althurayya, comma separated
+30#BOOK#WROTE##AH: YEAR-MON-DA (X+ for unknown)
+40#BOOK#ABRIDGED#: URI of a book from OpenITI, or [Author's Title]
+40#BOOK#COMMENTD#: 0926ZakariyyaAnsari.GhurarBahiyya
+40#BOOK#FOLLOWED#: URI of a book from OpenITI, or [Author's Title]
+40#BOOK#PRECEDED#: URI of a book from OpenITI, or [Author's Title]
+80#BOOK#EDITIONS#: permalink, permalink, permalink
+80#BOOK#LINKS####: permalink, permalink, permalink
+80#BOOK#MSS######: permalink, permalink, permalink
+80#BOOK#STUDIES##: permalink, permalink, permalink
+80#BOOK#TRANSLAT#: permalink, permalink, permalink
+90#BOOK#COMMENT##: Notes on Zakariyya Anṣārī's Ghurar al-Bahiyya, 
+    which itself is a commentary of Ibn al-Wardī's Bahjat al-Ḥāwī. 

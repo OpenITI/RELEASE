@@ -1,0 +1,24 @@
+00#VERS#CLENGTH##: 839059
+00#VERS#LENGTH###: 194437
+00#VERS#URI######: 0911Suyuti.BughyatWucat.Shamela0006744-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/956876527
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/956876527
+80#VERS#LINKS####: https://archive.org/download/FP12042/01_12042.pdf,
+    https://archive.org/download/FP12042/02_12043.pdf
+90#VERS#ANNOTATOR: Cornelia Neubauer; Gowaart Van Den Bossche
+90#VERS#COMMENT##: The text was tagged by Cornelia, vetted by Gowaart.
+    Annotation was largely fine, I have deleted the editorial section and
+    have refomatted the last section's titles to only highlight the
+    numbering as there are no actual headers here. I have formatted the
+    poetry in the text. Cornelia noted one pagination issue, but in fact
+    there were many more, with currently 870 search matches for V00P000 in
+    the text, i.e. the majority of the pages have not been noted. It appears
+    that the page boundaries are nevertheless correct (barring the one noted
+    by Cornelia: "In one case the pagination of the shamela text did not
+    correspond to the PDF: between pageV02P406 and page V02P407"), so this
+    should be possible to fix with a script. I corrected two such pages
+    before I realised there are too many of them, so I left this as is. For
+    now, the text is still easily navigable because of the numbered
+    biographies.
+90#VERS#DATE#####: 2020-12-07
+90#VERS#ISSUES###: PAGINATION

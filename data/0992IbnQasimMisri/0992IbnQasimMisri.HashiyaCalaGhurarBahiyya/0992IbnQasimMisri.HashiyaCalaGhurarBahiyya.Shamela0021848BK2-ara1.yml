@@ -1,0 +1,23 @@
+00#VERS#CLENGTH##: 1776797
+00#VERS#LENGTH###: 439672
+00#VERS#URI######: 0992IbnQasimMisri.HashiyaCalaGhurarBahiyya.Shamela0021848BK2-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/868656078
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/962920242
+80#VERS#LINKS####: NOT_FOUND, https://archive.org/details/aafsmz
+90#VERS#ANNOTATOR: the name of the annotator (latin characters; please
+    use consistently)
+90#VERS#COMMENT##: The original edition on which this digital text  is
+    based (al-Maktaba al-Maymaniyya (?), n.d.) was not found;  the edition
+    used for collation (Dār al-Kutub al-ʿIlmiyya, 1997) contains a text that
+    consists of 5 layers (see vol. 1, introduction, pp. 3ff.): 1.
+    0749ZaynDinIbnWardi.BahjatHawi 2. 0926ZakariyyaAnsari.GhurarBahiyya:
+    commentary on Ibn al-Wardī's Bahja 3.
+    1326CabdRahmanShirbini.HashiyaCalaGhurarBahiyya: ḥāshiya on the Ghurar
+    al-Bahiyya 4. 0992IbnQasimMisri.HashiyaCalaGhurarBahiyya: ḥāshiya on the
+    Ghurar al-Bahiyya 5. 1326CabdRahmanShirbini.TaqrirCalaHashiyatIbnQasim:
+    taqrīr on Ibn al-Qāsim's ḥāshiya on the Ghurar al-Bahiyya Only (2), (3)
+    and (4) are tagged in the original text file; the original edition
+    perhaps contained only those three texts. The text was split into its
+    constituent parts using a script.
+90#VERS#DATE#####: YYYY-MM-DD
+90#VERS#ISSUES###: formalized issues, separated with commas

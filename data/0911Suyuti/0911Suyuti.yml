@@ -1,0 +1,17 @@
+00#AUTH#URI######: 0911Suyuti
+10#AUTH#ISM####AR: ʿAbd al-Raḥmān 
+10#AUTH#KUNYA##AR:
+10#AUTH#LAQAB##AR: Ǧalāl al-Dīn
+10#AUTH#NASAB##AR: b. Kamāl al-Dīn Abī Bakr b. Muḥammad Sābiq al-Dīn Ḫiḍr  
+10#AUTH#NISBA##AR: al-Ḫuḍayrī al-Asyūṭī
+10#AUTH#SHUHRA#AR: Ǧalāl al-Dīn al-Suyūṭī
+20#AUTH#BORN#####: QAHIRA_312E300N_S
+20#AUTH#DIED#####: QAHIRA_312E300N_S
+20#AUTH#RESIDED##: QAHIRA_312E300N_S
+20#AUTH#VISITED##: MAKKA_398E213N_S, MADINA_396E244N_S, al-Šām_RE, Miṣr_RE
+30#AUTH#BORN###AH: YEAR-MON-DA (X+ for unknown
+30#AUTH#DIED###AH: YEAR-MON-DA (X+ for unknown
+40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
+40#AUTH#TEACHERS#: 0868IbnCumarBulqini, 0879IbnSulaymanMuhyiDinKafiji, 
+80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
+90#AUTH#COMMENT##: Bio info sourced from wikipedia. 
