@@ -1,0 +1,24 @@
+00#VERS#CLENGTH##: 240058
+00#VERS#LENGTH###: 57228
+00#VERS#URI######: 0690IbnMujawirDimashqi.TarikhMustabsir.Shamela0000471-ara1
+80#VERS#BASED####: NO_DATA_IN_METADATA
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/36050799
+80#VERS#LINKS####: https://ia600507.us.archive.org/32/items/smokhtar77_y
+    ahoo/%D8%B5%D9%81%D8%A9%20%D8%A8%D9%84%D8%A7%D8%AF%20%D8%A7%D9%84%D9%8A%
+    D9%85%D9%86%20%D9%88%20%D9%85%D9%83%D8%A9%20%D9%88%20%D8%A8%D8%B9%D8%B6%
+    20%D8%A7%D9%84%D8%AD%D8%AC%D8%A7%D8%B2%20%D8%A7%D9%84%D9%85%D8%B3%D9%85%
+    D8%A7%D8%A9%20%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE%20%D8%A7%D9%84%D9%85%D8%B3%
+    D8%AA%D8%A8%D8%B5%D8%B1.pdf
+90#VERS#ANNOTATOR: HRH
+90#VERS#COMMENT##: I tagged all headers as first-level, but I guess it’s
+    possible to arrange the leveling of the headers according to the
+    distance between the places. For example, the title “ومن مكة إلى الطائف”
+    in page 6 might be a parent header for all the subsequent headers until
+    “من الطائف إلى جبل بدر” which itself might be a parent header for the
+    subsequent headers until “من الطائف إلى صعدة”. However, this is just a
+    guess and I’m not sure. One must read the whole text to confirm this. 2-
+    A few lines in page 24 (= page 78 of the PDF) are missing. 3- These
+    pages in the PDF include pictures: 20, 57, 84, 93, 122, 149, 185, 190,
+    227, 235, 250, 288, 290, 297, 303.
+90#VERS#DATE#####: 2020-08-03
+90#VERS#ISSUES###: PARATEXT, HTML_TAGS, MISSING_PARTS

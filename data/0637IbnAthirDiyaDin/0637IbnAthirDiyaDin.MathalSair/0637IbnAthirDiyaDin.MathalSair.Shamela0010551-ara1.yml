@@ -1,0 +1,21 @@
+00#VERS#CLENGTH##: 761171
+00#VERS#LENGTH###: 181108
+00#VERS#URI######: 0637IbnAthirDiyaDin.MathalSair.Shamela0010551-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/977494154
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/977494154
+80#VERS#LINKS####: https://archive.org/details/FP4441
+90#VERS#ANNOTATOR: Gowaart Van Den Bossche
+90#VERS#COMMENT##: Digital text needed some cleaning up. Some tags were
+    for example redundant and did not appear in the pdf, so I deleted these.
+    A few tags have been added in the digital text which are not as such
+    highlighted in the pdf, but they are meaningful, so I have kept them,
+    based on textual logic. On the other hand, the highlighting of sections
+    in the text seems to be somewhat haphazard, I have mostly only tagged
+    those that are highlighted unless there was a very clear situation where
+    new sections start. There are still some footnote markers in the text
+    (not the actual footnotes). I inserted poetry tags with regex.
+    Pagination is correct for first and third volume, but not for the second
+    volume. Texts goes beyond fifth-level headers, I have gone up to 8th
+    level, but colours are not distinguished beyond 5th level.
+90#VERS#DATE#####: 2020-01-06
+90#VERS#ISSUES###: FOOTNOTES, PAGINATION
