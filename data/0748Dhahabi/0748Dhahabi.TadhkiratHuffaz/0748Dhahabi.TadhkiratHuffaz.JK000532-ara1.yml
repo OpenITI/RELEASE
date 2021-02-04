@@ -1,0 +1,11 @@
+00#VERS#CLENGTH##: 1312841
+00#VERS#LENGTH###: 322189
+00#VERS#URI######: 0748Dhahabi.TadhkiratHuffaz.JK000532-ara1
+80#VERS#BASED####: permalink, permalink, permalink
+80#VERS#COLLATED#: permalink, permalink, permalink
+80#VERS#LINKS####: all@id, vol1@id, vol2@id, vol3@id, volX@id
+90#VERS#ANNOTATOR: Jonas Koepsel (Leipzig)
+90#VERS#COMMENT##: the text was tagged before; no proper YML file yet.
+    See, `README.md` for details.
+90#VERS#DATE#####: YYYY-MM-DD
+90#VERS#ISSUES###: formalized issues, separated with commas

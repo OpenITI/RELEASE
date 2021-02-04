@@ -1,0 +1,17 @@
+00#VERS#CLENGTH##: 21723
+00#VERS#LENGTH###: 5229
+00#VERS#URI######: 0710IbnRifca.Nafais.GVDB20190213-ara1
+80#VERS#BASED####: Manuscript
+80#VERS#COLLATED#: Manuscript
+80#VERS#LINKS####: https://al-
+    mostafa.info/data/arabic/depot3/gap.php?file=m000810.pdf
+90#VERS#ANNOTATOR: Gowaart Van Den Bossche
+90#VERS#COMMENT##: This is a typed up collation of two manuscripts
+    containing this treatise. The one linked is the main manuscript from al-
+    Azhar (49091/Majamic 1003), the other, later manuscript is held by the
+    Chester Beatty Library (Ar 4664). An edition of the text exists
+    (https://archive.org/details/FP146987 not yet in the corpus) but
+    diverges somewhat from my edition, which makes it worthwhile to
+    eventually include both as separate instances in the corpus.
+90#VERS#DATE#####: 2020-01-20
+90#VERS#ISSUES###: NO_MAJOR_ISSUES
