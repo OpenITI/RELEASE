@@ -1,0 +1,49 @@
+00#VERS#CLENGTH##: 12019110
+00#VERS#LENGTH###: 2708284
+00#VERS#URI######: 1389AghaBuzurgTihrani.DharicaIlaTasanifShica.Shia003366Vols-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/4770177212
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/4770177212
+80#VERS#LINKS####: https://archive.org/details/alzariah; vol 26:
+    https://www.noor-
+    book.com/%D9%83%D8%AA%D8%A7%D8%A8-%D8%A7%D9%84%D8%B0%D8%B1%D9%8A%D8%B9%D9%87-%D8%A7%D9%84%D9%8A-%D8%AA%D8%B5%D8%A7%D9%86%D9%8A%D9%81-%D8%A7%D9%84%D8%B4%D9%8A%D8%B9%D9%87-v-26-pdf
+90#VERS#ANNOTATOR: HRH
+90#VERS#COMMENT##: The tag “### $” is used as a simplified tag for book
+    titles. It should ultimately be replaced by the complete form: ###
+    $DIC_BIB$. 2- In addition to the name of the books that have numbers,
+    there are cross references that do not have numbers. I tagged them with
+    an asterisk (i.e. ### $ *) so that they are distinguishable. 3- Most of
+    the second and third level headers are occasional. The problem with
+    these occasional headers is that there is no subsequent header to show
+    the end of the category under discussion. So, I added blank headers to
+    show the change of subject. 4- I ran Peter’s script to check the numbers
+    and corrected hundreds of numbers that were typed incorrectly. Some
+    numbers still have problems. Some of them are duplicates and some others
+    are missing. I showed the redundant and missing numbers by a plus (i.e.
+    ### $ +) so that they are distinguishable. The point about them is that
+    I checked all these incorrect numbers with the PDF and I must say they
+    are all problems in the PDF, not the digital version which has a very
+    high quality. Besides, the missing numbers in the PDF are just problems
+    in numbering, because page numbers show that no information is missing.
+    Actually now the digital version is better than the printed version
+    since I corrected a lot of wrong numbers. I just showed the places of
+    the numbers that are still incorrect by a plus sign. Ideally, they
+    should be fixed in a newer edition and we don’t need to do anything
+    about this (at this phase at least). 5- The only volume that categorizes
+    the text according to the second alphabetical letter (i.e. “تد”, “تذ”,
+    “تر” …) is the fourth volume. This type of categorization exists in a
+    few cases in other volumes, but they are not consistent at all. So, I
+    disregarded it in other volumes. 6- In volume 8, the editor of the text,
+    “ع. منزوي”, who is the son of the writer, has added some explanations at
+    the beginning of some sections and has added some unnumbered entries in
+    these parts. I tagged such sections as editorial since they have not
+    been written by the original author. However, I tagged the entries in
+    such parts as a paragraph with two asterisks (i.e. # **) so that they
+    are distinguishable. I’m not sure such editorial sections should be
+    deleted as they provide further information about the main subject
+    matter. 7- Footnotes appear just in volume 23. 8- In volume 24, “-&” or
+    “-&gt” appear instead of the arrows in the text meaning “refer to”. 9-
+    Volume 26 is “مستدركات المؤلف”, the newly-found pieces collected by the
+    original author after publishing the text. In this volume, there is a
+    redundant hashtag before each entry which must be deleted.
+90#VERS#DATE#####: 2020-10-14
+90#VERS#ISSUES###: EDITORIAL_SECTIONS, PARATEXT, FOOTNOTE, RANDOM_CHARS
