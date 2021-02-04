@@ -1,0 +1,22 @@
+00#VERS#CLENGTH##: 1076394
+00#VERS#LENGTH###: 237748
+00#VERS#URI######: 1450SalahMahmudKhaymi.FihrisZahiriyyaCulumQuran.Shamela0038011-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/745118223
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/745118223
+80#VERS#LINKS####: https://archive.org/details/waq41964
+90#VERS#ANNOTATOR: HRH
+90#VERS#COMMENT##: The text is a catalogue of manuscripts. I tagged the
+    names of the manuscripts with ### $ (as a simplified tag for book titles
+    which should ultimately be replaced by the complete form: ###
+    $DIC_BIB$). First I tagged these names as second-level headers, but then
+    I realized some of these headers include the names of more than one
+    manuscript (successive name entries are tagged with an asterisk: ### $
+    *). So I tagged them with the simplified tag for book titles because
+    (I think) each name should be tagged separately and it’s not a good idea
+    to have one title with the names of 3-4 manuscripts. 2- The sign = which
+    appears between the names of the manuscripts in some entries in the PDF
+    (probably to show that the manuscript has two names or to add
+    explanations sometimes) was missing. I added this sign to the entries
+    based on what appears in the PDF.
+90#VERS#DATE#####: 2020-08-21
+90#VERS#ISSUES###: EDITORIAL_SECTIONS, HTML_TAGS
