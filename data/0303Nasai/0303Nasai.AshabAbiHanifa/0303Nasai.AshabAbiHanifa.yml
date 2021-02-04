@@ -1,0 +1,50 @@
+00#BOOK#URI######: 0303Nasai.AshabAbiHanifa
+10#BOOK#GENRES###: src@keyword, src@keyword, src@keyword
+10#BOOK#TITLEA#AR: Tasmiyaŧ al-ḍuʿafāʾ wa-al-matrūkīn wa-al-ṯiqāt mimman ḥamala ʿanhum al-ḥadīṯ min aṣḥāb Abī Ḥanīfa
+10#BOOK#TITLEB#AR: 
+20#BOOK#WROTE####: URIs from Althurayya, comma separated
+30#BOOK#WROTE##AH: YEAR-MON-DA (X+ for unknown)
+40#BOOK#ABRIDGED#: URI of a book from OpenITI, or [Author's Title]
+40#BOOK#COMMENTD#: URI of a book from OpenITI, or [Author's Title]
+40#BOOK#FOLLOWED#: URI of a book from OpenITI, or [Author's Title]
+40#BOOK#PRECEDED#: URI of a book from OpenITI, or [Author's Title]
+80#BOOK#EDITIONS#: http://www.worldcat.org/oclc/891835366,
+    http://www.worldcat.org/oclc/784246739,
+    http://www.worldcat.org/oclc/957286635
+80#BOOK#LINKS####: https://ia800209.us.archive.org/11/items/waq4169/4169.pdf,
+    NOT_FOUND, NOT_FOUND
+80#BOOK#MSS######: permalink, permalink, permalink
+80#BOOK#STUDIES##: permalink, permalink, permalink
+80#BOOK#TRANSLAT#: permalink, permalink, permalink
+90#BOOK#COMMENT##: This text was published in a collection of 
+    seven short texts attributed to al-Nasā'ī.
+    The title is probably a modern one, created by the editor Jamīl ʿAlī Ḥasan;
+    the text does not have a title in the Zāyid edition.
+    There are multiple versions of this collection in the corpus, 
+    based on three editions: 
+    * published with al-Bukhārī's Kitāb al-Ḍuʿafā'
+      and al-Nasā'ī's al-Ḍuʿafā' wa-al-matrūkīn, ed. Maḥmūd Ibrāhīm Zāyid:
+      - Ḥalab (Dār al-Waʿy) 1396, pp. 118-129. (JK000510, Shamela0005839)
+      - Beirut (Dār al-Maʿrifa) 1406, pp. 259-275. (Shia003077, JK011235)
+    * (Majmūʿat) Rasā'il fī ʿulūm al-ḥadīth, ed. Jamīl ʿAlī Ḥasan, 
+      Beirut 1405/1985, pp. 55-59
+      (Shia001971, Shamela006004, JK00697)
+    Only the Zāyid 1406 edition is currently available in PDF format.
+    Zāyid does not mention the manuscript he bases its text on, 
+    but it is likely a manuscript that also contains al-Nasā'ī's
+    Kitāb al-Ḍuʿafā' wa-al-matrūkīn: 
+    see 0303Nasai.AshabAbiHanifa.Shia003077BK1-ara1.yml.
+    The Zāyid editions have the texts in a different order 
+    from the Ḥasan ed.:
+    | title                             | Zāyid | Ḥasan |
+    |-----------------------------------|-------|-------|
+    | Tasmiyat man lam yarwi            | 1     | 3     |
+    | Man ḥaddatha ʿanhu Ibn Abī ʿArūba | 2     | 4     |
+    | As'ila li-al-Nasā'ī fī al-rijāl   | 3     | 7     |
+    | Tasmiyat ... asḥāb Abī Ḥanīfa     | 4     | 6     |
+    | Aḥsan al-asānīd ...               | 5     | 5     |
+    | Tasmiyat Fuqahā' al-amṣār         | 6     | 1     |
+    | al-Ṭabaqāt                        | 7     | 2     |
+    The collections have been split into their constituent parts.
+    The title of the text is probably a modern one, created by the editor Jamīl ʿAlī Ḥasan;
+    the text does not have a title in the Zāyid edition.

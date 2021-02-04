@@ -1,0 +1,33 @@
+00#VERS#CLENGTH##: 82900
+00#VERS#LENGTH###: 21388
+00#VERS#URI######: 0333IbnLabbad.CunwanMajhul.JMIHE04-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/1183959723
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/1183959723
+80#VERS#LINKS####:
+    https://www.openbookpublishers.com/10.11647/OBP.0214.pdf
+90#VERS#ANNOTATOR: PV
+90#VERS#COMMENT##: Transcription of 19 fragments of a codex in Hebrew
+    letters from the Geniza containing sections belonging to a book on
+    natural philosophy by Ibn al-Labbād.  Fragments of the codex are
+    scattered in different collections (see below). The text was extracted
+    from an xml version of Jewish-Muslim Intellectual History Entangled.
+    Textual Materials from the Firkovitch Collection, Saint Petersburg,
+    edited by Camilla Adang, Bruno Chiesa, Omar Hamdan, Wilferd Madelung,
+    Sabine Schmidtke and Jan Thiele,  Open Book Publishers 2020, 151-294
+    (see pp. 27-38 for an introduction to the edition). The pagination of
+    the print version was not represented in the xml file; the pagination of
+    the manuscripts  is used instead:
+    * PageV0a (ا) refers to St Petersburg, National Library of Russia,
+    YA I 3093 (75 folios).
+    * PageV0b (ب) refers to London, British Library, ms. OR 2529, fols.
+    89-95.
+    * PageV0j (ج) refers to National Library of Russia, ms. YA II 1065,
+    fols. 1-2.
+    * PageV0h (ه) refers to National Library of Russia, ms. YA II 1060,
+    fol. 214.
+    * PageV0w (و) refers to National Library of Russia, ms. YA II 1082,
+    fols. 26-27.
+    * PageV0z (ز) refers to St Petersburg, National Library of Russia,
+    ms. YA I 880.
+90#VERS#DATE#####: 2020-09-22
+90#VERS#ISSUES###: PAGINATION, INCOMPLETE_TEXT

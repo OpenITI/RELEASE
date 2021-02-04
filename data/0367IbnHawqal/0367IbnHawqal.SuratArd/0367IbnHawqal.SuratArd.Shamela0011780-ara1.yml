@@ -1,0 +1,21 @@
+00#VERS#CLENGTH##: 525187
+00#VERS#LENGTH###: 118188
+00#VERS#URI######: 0367IbnHawqal.SuratArd.Shamela0011780-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/957212720
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/957212720
+80#VERS#LINKS####: https://www.kutubpdfbook.com/book/%D9%83%D8%AA%D8%A7%
+    D8%A8-%D8%B5%D9%88%D8%B1%D8%A9-%D8%A7%D9%84%D8%A7%D8%B1%D8%B6/download
+90#VERS#ANNOTATOR: HRH
+90#VERS#COMMENT##: 1- There is a title entitled “إيضاح ما يوجد فى صورة
+    ...” in most sections which gives explanations about its preceding
+    picture. I didn’t tag these titles because firstly, they are not bold
+    and probably cannot be considered titles at all, and secondly, because
+    they are just related to two or three following paragraphs, and the rest
+    of the text is about the main subject, not about the picture. I just
+    tagged them as paragraphs but with an asterisk (i.e. # *) so that they
+    are distinguishable and can be found easily. 2- The first paragraph of
+    the last page (page 528) is missing. 3- Another edition of the book that
+    is accessible on the internet can be found here:
+    https://www.liilas.com/mlooli/ktab-swrh-alard.pdf
+90#VERS#DATE#####: 2019-12-29
+90#VERS#ISSUES###: MISSING_PARTS, EDITORIAL _SECTIONS

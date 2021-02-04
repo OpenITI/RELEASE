@@ -1,0 +1,18 @@
+00#BOOK#URI######: 0364YahyaIbnCadi.SufistiqaLiAristutalis
+10#BOOK#GENRES###: src@keyword, src@keyword, src@keyword
+10#BOOK#TITLEA#AR: Sūfisṭīqā li-Arisṭūṭālīs
+10#BOOK#TITLEB#AR:
+20#BOOK#WROTE####: URIs from Althurayya, comma separated
+30#BOOK#WROTE##AH: YEAR-MON-DA (X+ for unknown)
+40#BOOK#ABRIDGED#: [Theophylus of Edessa, Syriac translation of
+    Aristotle's De sophisticis elenchis] (TRANSL)
+40#BOOK#COMMENTD#: URI of a book from OpenITI, or [Author's Title]
+40#BOOK#FOLLOWED#: URI of a book from OpenITI, or [Author's Title]
+40#BOOK#PRECEDED#: URI of a book from OpenITI, or [Author's Title]
+80#BOOK#EDITIONS#: permalink, permalink, permalink
+80#BOOK#LINKS####: permalink, permalink, permalink
+80#BOOK#MSS######: permalink, permalink, permalink
+80#BOOK#STUDIES##: permalink, permalink, permalink
+80#BOOK#TRANSLAT#: permalink, permalink, permalink
+90#BOOK#COMMENT##: There are two early Arabic translations of the work;
+    This is the one by Yaḥyā b. ʿAdī, the other is by Ibn Zurʿa.

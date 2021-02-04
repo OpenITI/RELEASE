@@ -1,0 +1,16 @@
+00#VERS#CLENGTH##: 5904187
+00#VERS#LENGTH###: 1458735
+00#VERS#URI######: 0310Tabari.Tarikh.Shamela0009783BK1-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/934442375, permalink,
+    permalink
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/978646375, permalink,
+    permalink
+80#VERS#LINKS####: all@id, vol1@id, vol2@id, vol3@id, volX@id
+90#VERS#ANNOTATOR: Mathew Barber
+90#VERS#COMMENT##: removed page headers from middle of text (e.g. سنه
+    281), added more headings for earlier sections based on the Leiden
+    edition, removed headings marked ### === (headings added by shamela) or
+    turned them into mARkdown headings placing heading between [] to
+    indicate it was added by shamela.
+90#VERS#DATE#####: YYYY-MM-DD
+90#VERS#ISSUES###: formalized issues, separated with commas

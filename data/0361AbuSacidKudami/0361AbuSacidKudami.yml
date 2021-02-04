@@ -1,0 +1,20 @@
+00#AUTH#URI######: 0361AbuSacidKudami
+10#AUTH#ISM####AR: Muḥammad
+10#AUTH#KUNYA##AR: Abū Saʿīd
+10#AUTH#LAQAB##AR: 
+10#AUTH#NASAB##AR: b. Saʿīd
+10#AUTH#NISBA##AR: al-Kudamī
+10#AUTH#SHUHRA#AR: Abū Saʿīd al-Kudamī
+20#AUTH#BORN#####: URIs from Althurayya, comma separated
+20#AUTH#DIED#####: URIs from Althurayya, comma separated
+20#AUTH#RESIDED##: URIs from Althurayya, comma separated
+20#AUTH#VISITED##: URIs from Althurayya, comma separated
+30#AUTH#BORN###AH: 0305-XXX-XX
+30#AUTH#DIED###AH: 0361-RBI-13
+40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
+40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+80#AUTH#BIBLIO###: https://ar.wikipedia.org/wiki/%D8%A3%D8%A8%D9%88_%D8%B3%D8%B9%D9%8A%D8%AF_%D8%A7%D9%84%D9%83%D8%AF%D9%85%D9%8A
+90#AUTH#COMMENT##: a free running comment here; you can add as many
+    lines as you see fit; the main goal of this comment section is to have a
+    place to record valuable information, which is difficult to formalize
+    into the above given categories.

@@ -1,0 +1,20 @@
+00#BOOK#URI######: 0300HubayshIbnHasan.QatitriyunLiAbuqrat
+10#BOOK#GENRES###: src@keyword, src@keyword, src@keyword
+10#BOOK#TITLEA#AR: Kitāb Abuqrāṭ al-maʿrūf bi-Qāṭīṭriyūn ay Ḥānūt al-
+    ṭabīb
+10#BOOK#TITLEB#AR:
+20#BOOK#WROTE####: URIs from Althurayya, comma separated
+30#BOOK#WROTE##AH: YEAR-MON-DA (X+ for unknown)
+40#BOOK#ABRIDGED#: URI of a book from OpenITI, or [Author's Title]
+40#BOOK#COMMENTD#: URI of a book from OpenITI, or [Author's Title]
+40#BOOK#FOLLOWED#: [Hippocrates, De Officina Medici] > [Ḥunayn b. Isḥāq,
+    Syriac translation of Hippocrates' De Officina Medici] (TRANSL) >
+    0300HubayshIbnHasan.QatitriyunLiAbuqrat (TRANSL)
+40#BOOK#PRECEDED#: URI of a book from OpenITI, or [Author's Title]
+80#BOOK#EDITIONS#: permalink, permalink, permalink
+80#BOOK#LINKS####: permalink, permalink, permalink
+80#BOOK#MSS######: permalink, permalink, permalink
+80#BOOK#STUDIES##: permalink, permalink, permalink
+80#BOOK#TRANSLAT#: permalink, permalink, permalink
+90#BOOK#COMMENT##: Graeco-Arabic-studies.org ascribes the translation to
+    "Ḥunayn ibn Isḥāq?".
