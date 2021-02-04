@@ -1,0 +1,26 @@
+00#AUTH#URI######: 0464AbuBakrMaliki
+10#AUTH#ISM####AR: ʿAbdallāh
+10#AUTH#KUNYA##AR: Abū Bakr
+10#AUTH#LAQAB##AR:
+10#AUTH#NASAB##AR: b. Muḥammad b. ʿAbdallāh b. Abī ʿAbdallāh Muḥammad b.
+    ʿAbdallāh
+10#AUTH#NISBA##AR: al-Qurašī al-Qayrawānī al-Mālikī
+10#AUTH#SHUHRA#AR: Abū Bakr al-Mālikī
+20#AUTH#BORN#####: URIs from Althurayya, comma separated
+20#AUTH#DIED#####: URIs from Althurayya, comma separated
+20#AUTH#RESIDED##: QAYRAWAN_101E357N_S
+20#AUTH#VISITED##: URIs from Althurayya, comma separated
+30#AUTH#BORN###AH: XXXX-XXX-XX (X+ for unknown)
+30#AUTH#DIED###AH: XXXX-xxx-xx (X+ for unknown)
+40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
+40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
+90#AUTH#COMMENT##: Abū Bakr al-Mālikī was born in Qayrawān and was one
+    of those who continued to live in Qayrawān after its destruction
+    (449/1057). There are several death dates given by classical and modern
+    scholars. Based on information about his students and information from
+    the Kitab al-Riyāḍ he must have been alive during the Norman conquest of
+    Sicily (between 464/1072 and 484/1091). See Bakkūsh’s introduction to
+    Riyāḍ al-Nufūs, pp. 20-22. Therefore, earlier dates of death given by
+    biographers is likely a confusion. We take 464 AH as his earliest death
+    date.

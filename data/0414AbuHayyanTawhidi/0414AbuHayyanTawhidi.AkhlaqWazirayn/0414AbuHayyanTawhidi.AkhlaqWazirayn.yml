@@ -1,0 +1,20 @@
+00#BOOK#URI######: 0414AbuHayyanTawhidi.AkhlaqWazirayn
+10#BOOK#GENRES###: src@keyword, src@keyword, src@keyword
+10#BOOK#TITLEA#AR: Aḫlāq al-wazīrayn :: Maṯālib al-wazīrayn :: Aḫlāq al-
+    Ṣāḥib Ibn ʿAbbād wa-Ibn al-ʿAmīd
+10#BOOK#TITLEB#AR: Risālaŧ al-Muʾallif
+20#BOOK#WROTE####: URIs from Althurayya, comma separated
+30#BOOK#WROTE##AH: YEAR-MON-DA (X+ for unknown)
+40#BOOK#ABRIDGED#: URI of a book from OpenITI, or [Author's Title]
+40#BOOK#COMMENTD#: URI of a book from OpenITI, or [Author's Title]
+40#BOOK#FOLLOWED#: URI of a book from OpenITI, or [Author's Title]
+40#BOOK#PRECEDED#: URI of a book from OpenITI, or [Author's Title]
+80#BOOK#EDITIONS#: permalink, permalink, permalink
+80#BOOK#LINKS####: permalink, permalink, permalink
+80#BOOK#MSS######: permalink, permalink, permalink
+80#BOOK#STUDIES##: permalink, permalink, permalink
+80#BOOK#TRANSLAT#: permalink, permalink, permalink
+90#BOOK#COMMENT##: OpenITI currently contains two editions:
+    * ed. al-Ṭanjī, Beirut: Dār Ṣādir, 1412/1992(Shamela0012541)
+    * ed. Khalīl al-Manṣūr, Beirut: Dār al-Kutub al-ʿIlmiyya, 1417/1997
+    (JK009310)
