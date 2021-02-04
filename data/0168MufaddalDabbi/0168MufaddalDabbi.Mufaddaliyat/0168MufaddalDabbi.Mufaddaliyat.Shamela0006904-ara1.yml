@@ -1,0 +1,14 @@
+00#VERS#CLENGTH##: 110238
+00#VERS#LENGTH###: 26126
+00#VERS#URI######: 0168MufaddalDabbi.Mufaddaliyat.Shamela0006904-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/1006317987
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/1006317987
+80#VERS#LINKS####: https://waqfeya.com/book.php?bid=1035
+90#VERS#ANNOTATOR: SP Loynes
+90#VERS#COMMENT##: Good correspondence with no obvious errors. No. of
+    poems and no. of lines consistent w/ printed edition. From poem no. 70
+    the number is out by +1 (e.g., poem 70 should be 69, etc.). Poetry might
+    best be annotated via a Regex. Pagination numbers failed on the first
+    few pages, otherwise OK.
+90#VERS#DATE#####: 2020-11-10
+90#VERS#ISSUES###: PAGINATION, HTML_TAGS
