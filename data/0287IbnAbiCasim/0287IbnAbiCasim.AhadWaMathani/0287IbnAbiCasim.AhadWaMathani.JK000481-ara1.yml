@@ -1,0 +1,40 @@
+00#VERS#CLENGTH##: 901265
+00#VERS#LENGTH###: 242792
+00#VERS#URI######: 0287IbnAbiCasim.AhadWaMathani.JK000481-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/754757262
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/754757262
+80#VERS#LINKS####: http://almeshkat.net/book/648
+90#VERS#ANNOTATOR: HRH
+90#VERS#COMMENT##: 1- “ومما أسند”, which is a subtitle, is missing in
+    most places (and I placed a blank header in its place). 2- A part of
+    some of the names is missing. This happens just when two titles appear
+    successively without any space (see for example PageV02P314 name NO. 260
+    which is “المزني” instead of “نعمان المزني” and is appeared after a
+    first-level title). 3- About categorizing the titles: 3.1) The book does
+    not have any table of contents and most of the headers are names of
+    tribes; so, understanding the correct categorization of these tribes are
+    very difficult. I tried to find the relations between the persons by
+    searching their names in other sources and present a correct
+    categorization as long as it was possible. For example, in the first
+    volume, the complete name of “مطعم بن عدي” (in PageV01P359) is “مطعم بن
+    عدی بن نوفل بن عبد مناف” and therefore his category is a subcategory of
+    “ومن بني نوفل بن عبد مناف”, but the next category “بني أمية بن عبد شمس
+    بن عبد مناف” is not a subcategory of this category (i.e. “مطعم بن عدی بن
+    نوفل بن عبد مناف”) since “عبد شمس” and “نوفل” are brothers and there
+    isn’t a major category which encompasses both these categories; so, they
+    should be tagged just as parallel categories, and this is true about
+    many other categories. For example, from PageV01P411 to PageV02P123, all
+    categories are the family of “لؤي بن غالب بن فهر”; nevertheless, none of
+    them is a subcategory of the other, but they are all parallel
+    categories, without any parent category. The same is true about
+    PageV02P164 to PageV02P282 in which all categories are members of the
+    family of “عبد مناف بن كنانة” and also about PageV02P283 to PageV02P439
+    in which all categories are members of the family of “إلياس بن مضر”,
+    again without any parent category. 3.2) It seems that from PageV04P256
+    under the title “ومن ذكر اليمن ورجالهم” to PageV05P337, all the tribes
+    are from Yemen. If so, they all should be tagged as subcategories of
+    this category. I searched about all the tribes, but I couldn’t make sure
+    whether all of them were settled in this place or not (this needs the
+    confirmation of an expert).
+90#VERS#DATE#####: 2019-09-26
+90#VERS#ISSUES###: NO_MAJOR_ISSUES

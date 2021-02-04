@@ -1,0 +1,17 @@
+00#AUTH#URI######: 0285IbnYazidMubarrad
+10#AUTH#ISM####AR: Muḥammad
+10#AUTH#KUNYA##AR: Abū l-ʿAbbās
+10#AUTH#LAQAB##AR: 
+10#AUTH#NASAB##AR: b. Yazīd b. ʿAbd al-Akbar b. ʿUmayr b. Ḥasān b. Salīm b. Saʿd b. ʿAbdallāh b. Zayd b. Mālik b. al-Ḥāriṯ b. ʿĀmir b. ʿAbdallāh b. Bilāl b. ʿAwf b. Aslam b. Kaʿb b. al-Ḥāriṯ b. Kaʿb b. ʿAbdallāh b. Mālik b. al-Naḍr b. al-Azad b. al-Ġawṯ 
+10#AUTH#NISBA##AR: al-Azdī al-Ṯimālī al-Mubarrad
+10#AUTH#SHUHRA#AR: Ibn Yazīd al-Mubarrad
+20#AUTH#BORN#####: BASRA_477E304N_S
+20#AUTH#DIED#####: BAGHDAD_443E333N_S
+20#AUTH#RESIDED##: URIs from Althurayya, comma separated
+20#AUTH#VISITED##: URIs from Althurayya, comma separated
+30#AUTH#BORN###AH: 0210-XXX-XX (X+ for unknown)
+30#AUTH#DIED###AH: 0285-XXX-XX (X+ for unknown)
+40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
+40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
+90#AUTH#COMMENT##: Data from introduction to this edition of KamilFiLugha https://archive.org/details/PF144281

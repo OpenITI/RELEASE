@@ -1,0 +1,21 @@
+00#BOOK#URI######: 0275Ustath.TibacHayawanLiAristutalis
+10#BOOK#GENRES###: src@keyword, src@keyword, src@keyword
+10#BOOK#TITLEA#AR: Kitāb Arisṭūṭālīs  fī maʿrifat ṭibāʿ al-Ḥayāwān
+10#BOOK#TITLEB#AR:
+20#BOOK#WROTE####: URIs from Althurayya, comma separated
+30#BOOK#WROTE##AH: YEAR-MON-DA (X+ for unknown)
+40#BOOK#ABRIDGED#: URI of a book from OpenITI, or [Author's Title]
+40#BOOK#COMMENTD#: URI of a book from OpenITI, or [Author's Title]
+40#BOOK#FOLLOWED#: [Aristotle, Historia animalium]
+40#BOOK#PRECEDED#: URI of a book from OpenITI, or [Author's Title]
+80#BOOK#EDITIONS#: permalink, permalink, permalink
+80#BOOK#LINKS####: permalink, permalink, permalink
+80#BOOK#MSS######: permalink, permalink, permalink
+80#BOOK#STUDIES##: permalink, permalink, permalink
+80#BOOK#TRANSLAT#: permalink, permalink, permalink
+90#BOOK#COMMENT##: The translation of the Historia Animalium is
+    sometimes attributed to Yaḥyā b. Baṭrīq, but since the 1960s it is
+    considered more likely that the translation was done by a further
+    unknown  Usṭāth (Eustathius), who translated for al-Kindī (ca. 801-873).
+    See L.S. Filius, The Arabic Version of Aristotle's Historia Animalium:
+    Book I-X of Kitāb al-Ḥayawān, pp. 9-
