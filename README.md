@@ -1,8 +1,8 @@
 # OpenITI: a Machine-Readable Corpus of Islamicate Texts
 
-**Suggested Citation for all versions:** Romanov, Maxim, and Masoumeh Seydi. “OpenITI: A Machine-Readable Corpus of Islamicate Texts.” Zenodo, 2019- [doi:10.5281/zenodo.3082463](https://doi.org/10.5281/zenodo.4075046).
+<!--- **Suggested Citation for all versions:** Romanov, Maxim, and Masoumeh Seydi. “OpenITI: A Machine-Readable Corpus of Islamicate Texts.” Zenodo, 2019- [doi:10.5281/zenodo.3082463](https://doi.org/10.5281/zenodo.4075046).--->
 
-**Suggested Citation for a specific version:** Please check the citation information of the corresponding version at the above link.
+**Suggested Citation for a specific version:** Please check the citation information of the corresponding version at [doi:10.5281/zenodo.3082463](https://doi.org/10.5281/zenodo.3082463).
 
 **\*** **Note on Release Numbering**: Version **2019.1.1**—where **2019** is the year of the release, the first dotted number—**.1**—is the ordinal release number in 2019, and the second dotted number—**.1**—is the overall release number; the first dotted number will reset every year, while the second one will continue on increasing.
 
