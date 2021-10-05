@@ -1,0 +1,38 @@
+00#VERS#CLENGTH##: 6697613
+00#VERS#LENGTH###: 1521918
+00#VERS#URI######: 1389AghaBuzurgTihrani.TabaqatAclamShica.Masaha0003164Vols-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/1016183592
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/1016183592
+80#VERS#LINKS####:
+http://www.masaha.org/pages/download.php?flink=../upload_book/dl_file/pdf/3403.pdf&bid=3164,
+90#VERS#ANNOTATOR: PV
+90#VERS#COMMENT##: Original Masaha book ids: 3164-3180.
+    PV converted the text from epub and moved page numbers to the end of the
+    page.
+    PV tagged editorial sections (some volumes contain introductions by the
+    author's
+    son, which have been tagged as editorial; introductions by the author
+    himself
+    are not tagged as editorial).
+    In vol. 13, PV added subsections for the letters ghayn to yā'
+    between pointed brackets `<>`
+    (in all other volumes, these subsections were already present,
+    between double pointed brackets `«»`).
+    The order of the annotated volumes is the order of the edition
+    (chronological, from the 4th to the 14th C AH);
+    the author himself seems to have had another order in mind:
+    - vols. 13-16 in this edition,
+      titled "Nuqabā' al-bashar fī al-qarn al-rābiʿ ʿashar",
+      the author calls al-juz' al-awwal min mawsūʿatinā
+      (see, for example, PageV15P1277)
+    - vols. 10-12 in this edition,
+      titled "al-Kirām al-barara fī al-qarn al-thālith baʿd al-ʿashara"
+      the author calls al-juz' al-thānī min mawsūʿatinā
+      (see, for example, PageV10P453)
+    (see also the editor's introduction, PageV01P017)
+    No attempt has been made to reflect this original (?) order in the annotated
+    text.
+90#VERS#DATE#####: 2021-09-21
+90#VERS#ISSUES###: NO_MAJOR_ISSUES
+http:
+    //www.masaha.org/pages/download.php?flink=../upload_book/dl_file/pdf/3419.pdf&bid=3180
