@@ -1,0 +1,21 @@
+00#VERS#CLENGTH##: 6229493
+00#VERS#LENGTH###: 1620745
+00#VERS#URI######: 0241IbnHanbal.Musnad.Shamela0025794-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/264939610
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/264939610
+80#VERS#LINKS####: https://archive.org/details/musnadahmed
+90#VERS#ANNOTATOR: Gowaart Van Den Bossche
+90#VERS#COMMENT##: This version is not the exact same edition as the pdf
+    but it's very closely related (probably a reprint). Pagination is a bit
+    spotty (a lot of it is simply V00P00), but when it is actually noted it
+    tends to correspond to the edtion. The digital text has a few extra
+    headers which were useful in further subdividing this massive text (and
+    they're broadly similar to other headings) so I have left them in the
+    text. The digital text is of fairly high quality, but still includes
+    some dirty data which should perhaps be cleaned up (footnote markers
+    between brackets, dotted lines for pages with running footnotes but no
+    body text). This version is not the primary version at the moment, I
+    have raised an issue to make it so.
+    NOTE OF THE REVIEWER (HRH): The digital version is the same edition as the PDF. The difference in publishing year is because the publication of the book has lasted between 1995 and 2001. The first volumes of the PDF has 1995 as publishing year and the last ones has 2001, while the digital version just mentions 2001. 2- Third-level header tags was inserted after first-level headers. I changed them into second-level headers. 3- I deleted all editorial sections before each of the 45 volumes.
+90#VERS#DATE#####: 2019-07-24
+90#VERS#ISSUES###: PAGINATION, HTML_TAGS

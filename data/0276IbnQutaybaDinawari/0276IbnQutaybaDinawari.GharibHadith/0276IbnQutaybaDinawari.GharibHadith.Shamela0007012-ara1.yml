@@ -1,0 +1,15 @@
+00#VERS#CLENGTH##: 609115
+00#VERS#LENGTH###: 149679
+00#VERS#URI######: 0276IbnQutaybaDinawari.GharibHadith.Shamela0007012-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/18294921
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/18294921
+80#VERS#LINKS####: https://archive.org/details/waq1249
+90#VERS#ANNOTATOR: Leonie Nückell; Gowaart Van Den Bossche
+90#VERS#COMMENT##: Originally tagged by Leonie, completed by Gowaart.
+    Cleaned up annotation in general and changed all subheadings under
+    aḥādīth which were labelled as biographies to second-level headers, as
+    these are simply ḥadīth organised according to main transmitter, and not
+    biographies.
+   NOTE OF THE REVIEWER (HRH): I untagged the second-level headers for hadiths as they have no headers, and are simple paragraphs (However I added an asterisk (# *) so that they are distinguishable from other paragraphs). From PageV02P450, I moved up all headers by one level (since they are the continuation of the tafsirs on prophetic hadiths). PARATEXT added.
+90#VERS#DATE#####: 2019-07-30
+90#VERS#ISSUES###: HTML_TAGS

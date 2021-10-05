@@ -1,0 +1,22 @@
+00#BOOK#URI######: 0241IbnHanbal.Musnad
+00#VERS#CLENGTH##: 6091878
+00#VERS#LENGTH###: 1588089
+10#BOOK#GENRES###: src@keyword, src@keyword, src@keyword
+10#BOOK#TITLEA#AR: Musnad
+10#BOOK#TITLEB#AR: Risālaŧ al-Muʾallif
+20#BOOK#WROTE####: URIs from Althurayya, comma separated
+30#BOOK#WROTE##AH: YEAR-MON-DA (X+ for unknown)
+40#BOOK#RELATED##: URI of a book from OpenITI, or [Author's Title],
+    followed by abbreviation for relation type between brackets (see
+    book_relations repo). Only include relations with older books. Separate
+    related books with semicolon.
+80#BOOK#EDITIONS#: permalink, permalink, permalink
+80#BOOK#LINKS####: permalink, permalink, permalink
+80#BOOK#MSS######: permalink, permalink, permalink
+80#BOOK#STUDIES##: permalink, permalink, permalink
+80#BOOK#TRANSLAT#: permalink, permalink, permalink
+90#BOOK#COMMENT##: PV: The corpus currently contains the following editions:
+    * ed. Arna'ut et al.: SHAMELA0025794, SHAMELA0013157: 45 vols. * ed.
+    Ahmad Muhammad Shakir: SHAMELA0098139: incomplete, only 8 of 18
+    vols. *
+    ed. Mu'assasat Qurtuba: JK000145, SHIA001707VOLS: 6 vols.
