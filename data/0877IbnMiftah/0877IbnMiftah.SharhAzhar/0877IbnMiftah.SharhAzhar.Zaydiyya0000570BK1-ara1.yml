@@ -1,0 +1,18 @@
+00#VERS#CLENGTH##: 6064081
+00#VERS#LENGTH###: 1493815
+00#VERS#URI######: 0877IbnMiftah.SharhAzhar.Zaydiyya0000570BK1-ara1
+80#VERS#BASED####: permalink, permalink, permalink
+80#VERS#COLLATED#: permalink, permalink, permalink
+80#VERS#LINKS####: all@id, vol1@id, vol2@id, vol3@id, volX@id
+90#VERS#ANNOTATOR: PV
+90#VERS#COMMENT##: Zaydiyya0000570BK1 contained two related texts:
+    * 0877IbnMiftah.SharhAzhar
+    * 1240IbnMuhsinHimi.Tabsira
+    Additionally, the edition contains ḥawāshī in the footnotes, 
+    which, according to the title page,
+    came from a manuscript (dated 1207 AH) that was copied (including the ḥawāshī) 
+    from a manuscript of and read to Shaykh al-Islām al-qāḍī al-ʿallāma 
+    Muḥammad b. ʿAlī al-Shawkānī(1250Shawkani.HawashiCalaSharhAzhar)
+    PV split the text file into its constituent parts.
+90#VERS#DATE#####: YYYY-MM-DD
+90#VERS#ISSUES###: formalized issues, separated with commas

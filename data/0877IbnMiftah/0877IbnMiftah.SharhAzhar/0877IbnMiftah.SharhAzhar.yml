@@ -1,0 +1,15 @@
+00#BOOK#URI######: 0877IbnMiftah.SharhAzhar
+00#VERS#CLENGTH##: 1521535
+00#VERS#LENGTH###: 380639
+10#BOOK#GENRES###: src@keyword, src@keyword, src@keyword
+10#BOOK#TITLEA#AR: Kitāb al-Muʾallif
+10#BOOK#TITLEB#AR: Risālaŧ al-Muʾallif
+20#BOOK#WROTE####: URIs from Althura, comma separated
+30#BOOK#WROTE##AH: YEAR-MON-DA (X+ for unknown)
+40#BOOK#RELATED##: 0840IbnCabdAllahJundariImamMurtada.Azhar (COMM.sharh)
+80#BOOK#EDITIONS#: permalink, permalink, permalink
+80#BOOK#LINKS####: permalink, permalink, permalink
+80#BOOK#MSS######: permalink, permalink, permalink
+80#BOOK#STUDIES##: permalink, permalink, permalink
+80#BOOK#TRANSLAT#: permalink, permalink, permalink
+90#BOOK#COMMENT##: sharḥ by Ibn al-Murtaḍā of his Kitāb al-Azhār

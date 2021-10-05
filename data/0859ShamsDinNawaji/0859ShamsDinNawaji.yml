@@ -1,0 +1,20 @@
+00#AUTH#URI######: 0859ShamsDinNawaji
+10#AUTH#ISM####AR: Muḥammad
+10#AUTH#KUNYA##AR: Abū ʿAbdallāh
+10#AUTH#LAQAB##AR: Šams al-Dīn
+10#AUTH#NASAB##AR: b. Ḥasan b. ʿAlī b. ʿUṯmān
+10#AUTH#NISBA##AR: al-Nawāǧī al-Qāhirī al-Šāfiʿī al-Miṣrī
+10#AUTH#SHUHRA#AR: Šams al-Dīn al-Nawāǧī
+20#AUTH#BORN#####: URIs from Althurayya, comma separated
+20#AUTH#DIED#####: QAHIRA_312E300N_S
+20#AUTH#RESIDED##: URIs from Althurayya, comma separated
+20#AUTH#VISITED##: URIs from Althurayya, comma separated
+30#AUTH#BORN###AH: 0788-XXX-XX
+30#AUTH#DIED###AH: 0859-MUH-01 (X+ for unknown)
+40#AUTH#STUDENTS#: 0874IbnTaghribirdi, 0902Sakhawi
+40#AUTH#TEACHERS#: 0827BadrDinDamaminiMakhzumi, 0831ShamsDinBirmawi,
+    0852IbnHajarCasqalani, 0808MuhammadDamiri, 0808MuhammadDamiri
+80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
+90#AUTH#COMMENT##: Author is born in the village Nawāǧ close to Tanta, not
+    included in Thurayya. More shuyukh and students are listed in the book "The
+    Racecource of Literature: An-Nawāǧī and His Contemporaries".
