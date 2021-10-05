@@ -1,0 +1,36 @@
+00#VERS#CLENGTH##: 5220971
+00#VERS#LENGTH###: 1319162
+00#VERS#URI######: 0474IbnKhalafBaji.MuntaqaMinSharhMuwatta.Sham19Y0006684-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/1083754575
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/1083754575
+80#VERS#LINKS####: https://archive.org/details/MuntaqaBaji/00/
+90#VERS#ANNOTATOR: PV
+90#VERS#COMMENT##: This text file was badly converted;
+    on most pages, paragraphs were jumbled,
+    and titles often appeared on the wrong pages.
+    The page numbers come from the Cairo edition,
+    but it seems the Shamela text was converted from a digital source
+    that presented the text of the Muwatta' separately from the commentary.
+    PV manually corrected the first 130 pages,
+    then wrote a script to correct the order of the paragraphs.
+    The text contains multiple section levels; apart from the main
+    subject levels, there are faṣl, mas'ala, farʿ, farq sections.
+    Some main chapters also contain bāb sections.
+    No attempt has been made to create a hierarchy of those lower levels;
+    faṣl and bāb were usually given third-level heading tags (### |||),
+    the others fourth-level heading tags (### ||||).
+    The text also contains special sections marked with ṣād and shīn;
+    these seem to be the original text of the muwaṭṭa' and commentary.
+    These I have marked as ### ||| $ .
+    They are always in the order ṣād - shīn. I used this order to check
+    for mistakes in the new order created by the script: whenever a ṣād
+    section was not followed by a shīn section, something was clearly wrong.
+    Most often, this was caused by section titles that were in the wrong place.
+    I finished this check for the entire book.
+    A final manual check was done for all pages with section titles.
+    It is likely that even after this very labour-intensive cleaning,
+    this text will remain far from perfect, but the text is in a usable state.
+    NB: check lines of poetry that seem too short: line numbers 53200, 74175,
+    112337
+90#VERS#DATE#####: 2020-12-18
+90#VERS#ISSUES###: TEXT_QUALITY

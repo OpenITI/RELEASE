@@ -1,0 +1,21 @@
+00#VERS#CLENGTH##: 49383
+00#VERS#LENGTH###: 11730
+00#VERS#URI######: 0429AbuMansurThacalibi.ManGhabaCanhuMutrib.Shamela0028115-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/29695041
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/29695041
+80#VERS#LINKS####: https://archive.org/details/Heliopolis1957_gmail_1309
+90#VERS#ANNOTATOR: Gowaart Van Den Bossche
+90#VERS#COMMENT##: Both versions seem to be based on the late 19th
+    century edition linked here (which could not be found on Worldcat). I
+    used the primary version which also already included pre-tagging.
+    Cleaned up several wrong headers and put two that were added by the
+    typist in square brackets (as they do make structural sense).  Both
+    versions are missing the text's short introduction which is not
+    editorial but part of the original text. I orignally transcribed it into
+    the file but have now taken it out and pasted it below in this comment.
+    There are more recent editions of this text, and considering the absence
+    of this introduction in the typed version I would suggest adding an
+    improved version to the corpus.
+   NOTE OF THE REVIEWER (HRH): NO changes. I just added the paragraph typed by the annotator in the yml file to the text (Although the text is an old edition, it seems to have a good quality. A higher-quality edition can be added in a separate file). 2- A different edition is accessible here: https://archive.org/details/Heliopolis1957_gmail_20181016_2236
+90#VERS#DATE#####: 2019-08-01
+90#VERS#ISSUES###: NO_MAJOR_ISSUES

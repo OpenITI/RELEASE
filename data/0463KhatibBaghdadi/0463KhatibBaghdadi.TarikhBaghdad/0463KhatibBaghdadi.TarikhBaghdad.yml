@@ -1,0 +1,29 @@
+00#BOOK#URI######: 0463KhatibBaghdadi.TarikhBaghdad
+00#VERS#CLENGTH##: 7405965
+00#VERS#LENGTH###: 1863788
+10#BOOK#GENRES###: src@keyword, src@keyword, src@keyword
+10#BOOK#TITLEA#AR: Tārīḫ Madīnat al-Salām
+10#BOOK#TITLEB#AR: Tārīḫ Baġdād
+20#BOOK#WROTE####: URIs from Althurayya, comma separated
+30#BOOK#WROTE##AH: YEAR-MON-DA (X+ for unknown)
+40#BOOK#RELATED##: URI of a book from OpenITI, or [Author's Title],
+    followed by abbreviation for relation type between brackets (see
+    book_relations repo). Only include relations with older books. Separate
+    related books with semicolon.
+80#BOOK#EDITIONS#: permalink, permalink, permalink
+80#BOOK#LINKS####: permalink, permalink, permalink
+80#BOOK#MSS######: permalink, permalink, permalink
+80#BOOK#STUDIES##: permalink, permalink, permalink
+80#BOOK#TRANSLAT#: permalink, permalink, permalink
+90#BOOK#COMMENT##: There are currently two different editions in the
+    corpus:
+    * ed. Muṣṭafā ʿAbd al-Qādir ʿAṭā', Dār al-Kutub al-ʿIlmiyya
+    1417/1997,
+      14 vols. (+ 8 volumes of dhayls + 2 volumes of indices)
+      http://www.worldcat.org/oclc/4770621272
+      (Sham30K0032383, Sham30K0045859, JK000885, Shia003129Vols,
+    Sham30K0023764, Shamela0023764)
+    * ed. Bashār ʿAwāḍ Maʿrūf, Dār al-Gharb al-Islāmī 1422/2002, 16
+    vols. (+ 1 vol. of indices)
+      http://www.worldcat.org/oclc/49659164
+      (Sham30K0000736, Sham30K0036293)

@@ -1,0 +1,24 @@
+00#VERS#CLENGTH##: 314844
+00#VERS#LENGTH###: 74300
+00#VERS#URI######: 0428IbnSina.IsharatWaTanbihat.JK001037BK1-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/745179173
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/745179173
+80#VERS#LINKS####: https://bit.ly/2YYyqqj, 
+    https://ketabpedia.com/تحميل/الاشارات-والتنبيهات/, 
+    https://ia801900.us.archive.org/10/items/43874284378333/alisharat1.pdf
+90#VERS#ANNOTATOR: the name of the annotator (latin characters; please
+    use consistently)
+90#VERS#COMMENT##: The digital text contains only the first of four
+    volumes of the paper/pdf edition. This volume is the one on 
+    al-manṭiq; the volumes on al-Ṭabīʿiyyāt (vol. 2), 
+    al-ilāhiyyāt (vol. 3) and al-taṣawwuf (vol. 4)
+    are not part of the digital text.  
+    MAROUSSIA: "annotation completed. minor changes applied. header
+    tags in front of numeral were replaced by paragraph tag (single
+    hashtag). 2x basmallah were moved from header to paragraph (the three
+    hashtags and the pipe were replaced by one hashtag)."
+    The digital text originally contained the main text and a sharḥ by 
+    al-Ṭusi; PV split off the sharḥ into a separate file, 
+    0672NasirDinTusi.SharhIsharat.JK001037BK2-ara1
+90#VERS#DATE#####: YYYY-MM-DD
+90#VERS#ISSUES###: INCOMPLETE_TEXT

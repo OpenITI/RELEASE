@@ -1,0 +1,17 @@
+00#AUTH#URI######: 0406SharifRadi
+10#AUTH#ISM####AR: Muḥammad
+10#AUTH#KUNYA##AR: Abū al-Ḥasan
+10#AUTH#LAQAB##AR: 
+10#AUTH#NASAB##AR: b. al-Ḥusayn b. Mūsá
+10#AUTH#NISBA##AR: 
+10#AUTH#SHUHRA#AR: al-Šarīf al-Raḍī
+20#AUTH#BORN#####: Iraq_RE, BAGHDAD_443E333N_S
+20#AUTH#DIED#####: URIs from Althurayya, comma separated
+20#AUTH#RESIDED##: URIs from Althurayya, comma separated
+20#AUTH#VISITED##: URIs from Althurayya, comma separated
+30#AUTH#BORN###AH: 0359-XXX-XX
+30#AUTH#DIED###AH: 0406-XXX-XX
+40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
+40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
+90#AUTH#COMMENT##: EI2: "Abu ’l-Ḥasan Muḥammad b. Abī Aḥmad al-Ḥusayn b. Mūsā, was born in Bag̲h̲dād in 359/970, of an illustrious and highly sophisticated ʿAlīd family, and died in 406/1016.": http://dx.doi.org/10.1163/1573-3912_islam_COM_1042
