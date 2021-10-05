@@ -1,0 +1,23 @@
+00#VERS#CLENGTH##: 37541
+00#VERS#LENGTH###: 8897
+00#VERS#URI######: 0528IbnZaqqaqBalansi.Diwan.ShamAY0037839-ara1
+80#VERS#BASED####: permalink, permalink, permalink
+80#VERS#COLLATED#: permalink, permalink, permalink
+80#VERS#LINKS####: all@id, vol1@id, vol2@id, vol3@id, volX@id
+90#VERS#ANNOTATOR: the name of the annotator (latin characters; please
+    use consistently)
+90#VERS#COMMENT##: a free running comment here; you can add as many
+    lines as you see fit; the main goal of this comment section is to have a
+    place to record valuable information, which is difficult to formalize
+    into the above given categories.
+    NB: check lines of poetry that seem too short: line numbers 212, 221, 239,
+    245, 254, 257, 258, 264, 329, 358, 361, 389, 391, 402, 404, 412, 413, 419, 421,
+    426, 427, 485, 486, 488, 496, 545, 548, 551, 552, 554, 557, 560, 563, 564, 565,
+    566, 569, 572, 576, 578, 579, 580, 582, 584, 585, 586, 588, 590, 593, 594, 600,
+    602, 610, 611, 612, 620, 626, 627, 628, 629, 630, 632, 634, 636, 640, 642, 644,
+    648, 651, 662, 685, 687, 691, 693, 700, 712, 841, 843, 849, 851, 852, 853, 855,
+    857, 858, 872, 873, 874, 885, 910, 1008, 1062, 1135, 1138, 1142, 1143, 1144,
+    1150, 1155, 1162, 1167, 1189, 1196, 1205, 1206, 1207, 1257, 1277, 1349
+    NB: check lines of poetry that seem too long: line numbers 479
+90#VERS#DATE#####: YYYY-MM-DD
+90#VERS#ISSUES###: formalized issues, separated with commas

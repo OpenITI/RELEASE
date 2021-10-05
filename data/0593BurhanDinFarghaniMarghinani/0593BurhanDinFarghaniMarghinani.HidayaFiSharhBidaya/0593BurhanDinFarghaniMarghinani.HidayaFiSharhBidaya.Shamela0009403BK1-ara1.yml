@@ -1,0 +1,20 @@
+00#VERS#CLENGTH##: 1431389
+00#VERS#LENGTH###: 341328
+00#VERS#URI######: 0593BurhanDinFarghaniMarghinani.HidayaFiSharhBidaya.Shamela0009403BK1-ara1
+80#VERS#BASED####: permalink, permalink, permalink
+80#VERS#COLLATED#: permalink, permalink, permalink
+80#VERS#LINKS####: https://archive.org/details/waq14418
+90#VERS#ANNOTATOR: the name of the annotator (latin characters; please
+    use consistently)
+90#VERS#COMMENT##: PV did not find the exact edition from which Shamela0009403
+    was digitized. The edition used for collation contains multiple texts,
+    of which only two are in the Shamela edition:
+    * 0593BurhanDinFarghaniMarghinani.HidayaFiSharhBidaya,
+        in the upper part of the central page
+        (inside the box, above the horizontal line)
+    * 0786IbnMuhammadBabarti.CinayaSharhHidaya,
+        in the upper part of the margin
+        (outside the box, above the horizontal line)
+    PV split the two texts into separate files.
+90#VERS#DATE#####: 2021-02-22
+90#VERS#ISSUES###: formalized issues, separated with commas

@@ -1,0 +1,44 @@
+00#VERS#CLENGTH##: 169932
+00#VERS#LENGTH###: 40224
+00#VERS#URI######: 0500AbuNasrMaqdisi.LataifWaZaraif.Shamela0010509-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/4770900670
+80#VERS#COLLATED#:
+80#VERS#LINKS####: https://archive.org/details/zad27
+90#VERS#ANNOTATOR: Gowaart Van Den Bossche
+90#VERS#COMMENT##: Could not locate a pdf of edition used for the
+    digital text (it seems to be a popular printing), so used the Dar al-
+    Kutub version instead. Neither of these editions is on Worldcat. Text is
+    broadly similar, and structure is mostly identical. However, the Dar al-
+    Kutub version is still different: for example it includes eight sections
+    between pp. 269-290 (these would be inserted between lines 2620-2621)
+    which are entirely absent from the digital text. Other smaller
+    differences which I have seen in the text indicate that this may  be due
+    to divergent manuscript traditions. Where untagged titles in the digital
+    text have the same wording as titles in the Dar al-Kutub  edition I have
+    included them in the structure tags, but not where their wording is
+    different. I inserted mARkdown tags for poetry through regex.
+   NOTE OF THE REVIEWER (HRH): The first chapter (al-madkhal) is not written by
+    the original author. It is written by the collector of the text (about whom
+    see
+    introduction, page22). So I removed the first-level tag for it and replace
+    it
+    with PARATEXT. 2- As this collector explains (and is written on the cover
+    page
+    of the PDF), the text is a collection of two books: “الظرائف واللطائف” and
+    “اليواقيت في بعض المواقيت”. So, these texts should be separated into two
+    files.
+    I raised an issue for this. However, it is not clear from the structure
+    where
+    the second text begins, and I couldn’t understand this. Someone must read
+    the
+    text and its introduction closely. 3- This link is a PDF of the same edition
+    as
+    the digital version. It leads you to a payment-based website and you must
+    have
+    an account to see the PDF:
+    https://www.noorlib.ir/View/fa/Book/BookView/Image/3584; A different old
+    edition
+    of the text is also accessible here: https://archive.org/details/999Pdf
+    NB: check lines of poetry that seem too long: line numbers 1590
+90#VERS#DATE#####: 2019-10-22
+90#VERS#ISSUES###: MORE_THAN_ONE_TEXT
