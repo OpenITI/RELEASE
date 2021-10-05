@@ -1,0 +1,22 @@
+00#VERS#CLENGTH##: 332837
+00#VERS#LENGTH###: 78248
+00#VERS#URI######: 0001Quran.Mushaf.Tanzil001-ara1
+80#VERS#BASED####:
+80#VERS#COLLATED#:
+80#VERS#LINKS####: https://tanzil.net/download/
+90#VERS#ANNOTATOR: PV
+90#VERS#COMMENT##: Digital Quran text, downloaded from the
+    website https://tanzil.net/download/
+    (the website offers many different download options -
+    this is the "Simple (clean)" version
+    downloaded as "Text (with aya numbers)", and without pause marks,
+    sajda signs, rub-el-hizb signs and tatweel below superscript alefs).
+    PV added mARkdown first-level headers for every sura, with the sura number.
+    PV tagged every aya as a separate paragraph.
+    Sura and Aya numbers are indicated on every line: `# <sura_no>|<aya_no>|
+    <aya_text>`.
+    The original file did not contain pagination;
+    PV added a dummy page number under every sura
+    (with the sura number as page number)
+90#VERS#DATE#####: 2021-07-27
+90#VERS#ISSUES###: NO_MAJOR_ISSUES
