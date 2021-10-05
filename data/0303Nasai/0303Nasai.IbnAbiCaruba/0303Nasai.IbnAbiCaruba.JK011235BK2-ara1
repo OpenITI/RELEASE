@@ -1,0 +1,47 @@
+﻿######OpenITI#
+
+
+#META# 000.SortField	:: JK_011235
+#META# 000.BookURI	:: #0303.IbnShucaybNasai.TasmiyaManLamYarwi.XXX
+#META# 010.AuthorAKA	:: النسائي
+#META# 010.AuthorNAME	:: أبو عبد الرحمن أحمد بن شعيب بن علي الخراساني، النسائي (المتوفى : 303ه)
+#META# 011.AuthorBORN	:: NOTGIVEN
+#META# 011.AuthorDIED	:: 303
+#META# 019.AuthorDIED	:: NODATA
+#META# 020.BookTITLE	:: من لم يرو عنه غير واحد
+#META# 020.BookTITLESUB	:: NODATA
+#META# 021.BookSUBJ	:: كتب الحديث النبوي الشريف وتراجم الرواة :: كتب الضعفاء
+#META# 022.BookVOLS	:: NODATA
+#META# 025.BookLANG	:: NODATA
+#META# 029.BookTITLEalt	:: من لم يرو عنه غير واحد
+#META# 030.LibURI	:: JK_011235
+#META# 030.LibURIextra	:: NODATA
+#META# 031.LibREADONLINE	:: NODATA
+#META# 031.LibURL	:: NODATA
+#META# 031.LibURLFILE	:: NODATA
+#META# 031.LibURLextra	:: NODATA
+#META# 040.EdALL	:: NODATA
+#META# 040.EdEDITOR	:: NODATA
+#META# 041.EdNUMBER	:: NODATA
+#META# 041.EdNumber	:: NODATA
+#META# 043.EdPUBLISHER	:: NODATA
+#META# 044.EdPLACE	:: NODATA
+#META# 045.EdYEAR	:: NODATA
+#META# 049.EdISBN	:: NODATA
+#META# 049.EdPAGES	:: NODATA
+#META# 049.EdPHYSICAL	:: NODATA
+#META# 049.EdVOLUME	:: NODATA
+#META# 090.RecMISC	:: NODATA
+#META# 999.MiscINFO	:: NODATA
+
+#META#Header#End#
+
+### | ذكر من حدث عنه ابن أبي عروبة، ولم يسمع منه
+# لم يسمع من عمرو بن دينار،
+# ولا من هشام بن عروة،
+# ولا من زيد بن إسلم،
+# ولا من عبيد الله بن عمر،
+# ولا من أبي الزناد،
+# ولا من PageV01P263 الحكم،
+# ولا من حماد،
+# ولا من إسماعيل بن أبي خالد. ms1

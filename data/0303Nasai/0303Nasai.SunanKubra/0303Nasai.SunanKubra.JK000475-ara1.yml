@@ -1,0 +1,64 @@
+00#VERS#CLENGTH##: 2903149
+00#VERS#LENGTH###: 761509
+00#VERS#URI######: 0303Nasai.SunanKubra.JK000475-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/741089885
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/741089885
+80#VERS#LINKS####: https://archive.org/details/FP4047
+90#VERS#ANNOTATOR: PV
+90#VERS#COMMENT##: The editor calls this work al-Sunan al-Kubrā because
+    it is based on a number of manuscripts that contain sections not present
+    in Kitāb al-Mujtabā / al-Sunan al-Ṣughrā (for a list, see the
+    introduction pp. 5-6).
+
+    The edition is based on a number of manuscripts (list: pp. 12-)
+    containing different riwāyas of al-Nasā'ī's al-Sunan al-Kubrā,  which
+    not always agree on the order of the chapters  (see, for example, vol. 3
+    p. 143 and p. 258):
+    * J = Medina, al-Jāmiʿ al-Islāmiyya (riwāya of Ibn al-Aḥmar)
+    * T = Tetouan (riwāya of Ibn al-Aḥmar)
+    * Ḥ = "al-nuskha al-Turkiyya": Istanbul, Maktabat Murād Bukhārī no.
+    72 ʿumūmī (the source of the Tetouan ms.; combined riwāya of Ibn al-
+    Aḥmar and Ibn al-Siyār)
+    * Z/Ṣ = Cairo, Maktabat al-Azhar, no. 1963 (close to the Tetouan ms.
+    => riwāya of Ibn al-Aḥmar?)
+    * Ġ = "al-nuskha al-Maghribiyya": Rabāṭ, al-Khizāna al-Malikiyya no.
+    5952
+    * B = Rabāṭ, al-Khizāna al-Malikiyya no. 9067
+    * Ẓ = Damascus, al-Maktaba al-Ẓāhiriyya no. 228 (riwāya of Ibn
+    Ḥayyawayh) In addition, the editor used al-Nasā'ī's Kitāb al-Mujtabā and
+    al-Mizzī's Aṭrāf as sources for his edition, and sometimes adds entire
+    sections from these.
+
+    This editor numbers the aḥādīth mentioned by al-Nasā'ī. The
+    digitized version also contains a second set of numbers,  in the margin
+    after every paragraph, between two backspaces,  which are not in the
+    printed edition; PV has not removed them because they may be useful to
+    someone. (but it is easy enough to do so: replace "\\ \d+ \\" with "").
+    If paragraphs cross page boundaries, the page number of the start  of
+    the paragraph is sometimes (but not always) found at the end of the
+    paragraph.
+
+    PV added the paratext at the beginning of the Sunan  from the
+    Shia001964Vols digitization of the same edition.
+
+    The two main manuscripts (J and Ġ) end with the Kitāb ʿamal al-yawm
+    wa-al-layla  (no. 81 in his counting). They miss nos. 82 (Tafsīr) and 83
+    (al-Īmān),  the former of which is present in the riwāya of Ibn
+    Ḥayyawayh (see vol. 6 p. 282 fn. 1), and the latter is absent in all
+    mss. and was added by the editor  from al-Sunan al-Ṣughrā (see vol. 6 p.
+    539 fn. 1).  PV has kept the former in the digitized text for now, but
+    they may have to be removed; he marked the latter as editorial section
+    (### |EDITOR|).
+
+    The edition contains a number of sections and books that are not in
+    al-Sunan al-Kubrā,  and of which the editor states that he added it from
+    [al-Sunan] al-ṣughrā,  "for completeness". PV has marked these books as
+    an editorial section (### |EDITOR|).
+    * vol. 3 p. 259
+    * vol. 3 pp. 336-337
+    * vol. 4 pp. 249-250
+    * Kitāb al-Īmān wa-sharā'iʿhā (vol. 6, pp. 527-539)
+    NB: check lines of poetry that seem too short: line numbers 22861, 48360,
+    56068, 56087
+90#VERS#DATE#####: 2020-07-09
+90#VERS#ISSUES###: NO_MAJOR_ISSUES

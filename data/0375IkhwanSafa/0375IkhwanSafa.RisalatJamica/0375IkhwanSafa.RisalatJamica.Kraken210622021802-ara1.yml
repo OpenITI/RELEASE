@@ -1,0 +1,16 @@
+00#VERS#CLENGTH##: 445099
+00#VERS#LENGTH###: 96944
+00#VERS#URI######: 0375IkhwanSafa.RisalatJamica.Kraken210622021802-ara1
+80#VERS#BASED####:
+80#VERS#COLLATED#:
+80#VERS#LINKS####:
+90#VERS#ANNOTATOR: ASLISHO QURBONIEV
+90#VERS#COMMENT##: OCRed through Kraken: I have cleaned the footnotes mostly and
+    tagged most of the file (july 2021). Pages  207, 294, 299 were missing. Gowaart
+    scanned and cleaned them and I have inserted them in the file. Thus, this
+    digital text is complete, but the PDF file floating around has missing pages.
+    * Kraken version: 3.0.0.0b21.dev6
+    * segmentation model: DEFAULT
+    * OCR model: arabPers-WithDiffTypefaces.mlmodel
+90#VERS#DATE#####: 2021-06-22
+90#VERS#ISSUES###: UNCORRECTED_OCR

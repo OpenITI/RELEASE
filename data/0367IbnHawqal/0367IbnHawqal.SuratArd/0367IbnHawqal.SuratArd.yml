@@ -1,0 +1,32 @@
+00#BOOK#URI######: 0367IbnHawqal.SuratArd
+00#VERS#CLENGTH##: 475394
+00#VERS#LENGTH###: 106885
+10#BOOK#GENRES###: src@keyword, src@keyword, src@keyword
+10#BOOK#TITLEA#AR: Kitāb Ṣūraŧ al-arḍ
+10#BOOK#TITLEB#AR:
+20#BOOK#WROTE####: URIs from Althurayya, comma separated
+30#BOOK#WROTE##AH: YEAR-MON-DA (X+ for unknown)
+40#BOOK#RELATED##: 0346Istakhri.MasalikWaMamalik (CONT)
+80#BOOK#EDITIONS#: http://www.worldcat.org/oclc/933726673,
+    http://www.worldcat.org/oclc/957212720
+80#BOOK#LINKS####: https://archive.org/details/viaeetregnadescr02ibnh,
+    https://www.kutubpdfbook.com/book/كتاب-صورة-الارض/download
+80#BOOK#MSS######: permalink, permalink, permalink
+80#BOOK#STUDIES##: permalink, permalink, permalink
+80#BOOK#TRANSLAT#: permalink, permalink, permalink
+90#BOOK#COMMENT##: The text is a reworking of al-Iṣṭakhrī's
+    Kitāb al-Masālik wa-al-Mamālik, which is almost entirely
+    reproduced by Ibn Ḥawqal with mostly minor additions
+    (except in the chapter on al-Maghrib, which is almost
+    entirely new). At least three different versions of the
+    text are extant:
+    * Leiden and Berlin manuscripts: used as basis of de Goeje's edition
+    * Istanbul manuscript: basis of Kramers' edition
+    * "Paris epitome" (BnF 2214): contains a summary of the Istanbul text,
+      with additions by a later contributor (most of these are explicitly dated,
+      between the years 534-580/1129-1184)
+    Traces of at least 2 different redactions of the text are known:
+    * one dedicated to the Ḥamdānid Ṣayf al-Dawla (d. 356/967)
+    * one dedicated to the unidentified Abū l-Sirrī al-Ḥasan b.
+      al-Faḍl b. Abī l-Sirrī al-Aṣbahānī
+    * (a third, later, redaction, has also been hypothesized)

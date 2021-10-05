@@ -1,0 +1,23 @@
+00#VERS#CLENGTH##: 789356
+00#VERS#LENGTH###: 193799
+00#VERS#URI######: 0392IbnJinniMawsili.Khasais.JK001302-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/21221939
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/21221939
+80#VERS#LINKS####: https://www.alukah.net/library/0/136323/
+90#VERS#ANNOTATOR: Gowaart Van Den Bossche
+90#VERS#COMMENT##: Shamela and JK versions are based on the same
+    edition. Worldcat-link has a different publisher, but the one in PDF is
+    likely a reprint (same editor). I annotated the JK version as it is
+    cleaner than the Shamela version (which also includes the indexes). I
+    formatted the poetry automatically, but the closing brackets at the end
+    of a poetry line is still present. Qur'anic verse markers also present.
+    The edition does not clearly mark differences in hierarchy of sections,
+    so the ones I have introduced are based on content (basically, any
+    section not starting with "bab" is not first level). From the short bits
+    I've read the text reproduction is of high quality, although punctuation
+    is a bit spotty.
+    NB: check lines of poetry that seem too short: line numbers 1845, 8311,
+    8774, 10846, 13416, 13912, 14120
+    NB: check lines of poetry that seem too long: line numbers 4869, 5077, 11175
+90#VERS#DATE#####: 2020-08-26
+90#VERS#ISSUES###: NO_MAJOR_ISSUES
