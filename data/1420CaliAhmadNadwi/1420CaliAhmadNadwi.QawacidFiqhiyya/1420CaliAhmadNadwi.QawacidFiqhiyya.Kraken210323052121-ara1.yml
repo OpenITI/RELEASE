@@ -1,0 +1,14 @@
+00#VERS#CLENGTH##: 486346
+00#VERS#LENGTH###: 109537
+00#VERS#URI######: 1420CaliAhmadNadwi.QawacidFiqhiyya.Kraken210323052121-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/4771447814
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/4771447814
+80#VERS#LINKS####: https://ia800300.us.archive.org/16/items/FP83556/83556.pdf
+90#VERS#ANNOTATOR: SPL (CnC)
+90#VERS#COMMENT##: OCRed through Kraken:
+    * segmentation model: DEFAULT
+    * OCR model: arabPers-WithDiffTypefaces.mlmodel. Very good quality OCR.
+    Pagination out by +1. Qawaids are usually introduced by a number, although other
+    types of information are too (e.g., book titles),
+90#VERS#DATE#####: 2021-04-05
+90#VERS#ISSUES###: PAGINATION, UNCORRECTED_OCR

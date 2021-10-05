@@ -1,0 +1,22 @@
+00#VERS#CLENGTH##: 258411
+00#VERS#LENGTH###: 58846
+00#VERS#URI######: 1406SubhiMahmasani.FalsafatTashric.Kraken210422114223-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/85052717
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/85052717
+80#VERS#LINKS####: https://www.noor-book.com/en/ebook-Falsafat-altashri%CC%84%CA
+    %BB-fi%CC%84-alIsla%CC%84m-pdf
+90#VERS#ANNOTATOR: SPL (CnC)
+90#VERS#COMMENT##: OCRed through Kraken:
+    * segmentation model: DEFAULT
+    * OCR model: arabPers-WithDiffTypefaces.mlmodel.
+    This text had a lot of spacing errors (perhaps because source file is
+    photos, not flat scans);
+    I have attempted to correct as far as possible through automated fixes via
+    Regex.
+    Failed pages: 27-29;32;36; 44 (last paragraph);46;54; 56-58; 64-5; 106; 172;
+    186; 188; 207-8; 244; 310-11; 315.
+    I can see no formula on how qawāʿid are quoted (not sure if they are very
+    frequent either).
+    Pagination is -1.
+90#VERS#DATE#####: 2021-04-22
+90#VERS#ISSUES###: PAGINATION, OCR_ERRORS

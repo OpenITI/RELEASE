@@ -1,0 +1,28 @@
+00#VERS#CLENGTH##: 8922033
+00#VERS#LENGTH###: 2376687
+00#VERS#URI######: 1423CabbasAhmadSaqr.JamicAhadith.JK009390-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/62733782
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/62733782
+80#VERS#LINKS####: https://archive.org/details/FPgamih
+90#VERS#ANNOTATOR: PV
+90#VERS#COMMENT##: JK009390 contains multiple texts:  1. vols. 1-9: a
+    composite text based al-Suyūṭī's al-Jāmiʿ al-ṣaghīr  (+ additions) and
+    al-jāmiʿ al-kabīr 2. vols. 10-11: al-Munāwī's al-Sharḥ al-Azhar (a
+    continuation of al-Suyūṭī's al-Jāmiʿ al-Kabīr) 3. vol. 12: aḥādīth
+    mawḍūʿa (fabricated ḥadīth) extracted from  al-Suyūṭī's al-Jāmiʿ al-
+    ṣaghīr (+ additions) and al-jāmiʿ al-kabīr 4. vols. 13-21: masānīd
+    (ḥadīths with a full isnād going back to the first authority) and
+    marāsīl (ḥadīths not traceable to the first generation after the
+    Prophet) extracted from al-Suyūṭī's al-Jāmiʿ al-ṣaghīr  (+ additions)
+    and al-jāmiʿ al-kabīr PV converted the native tagging into OpenITI tags.
+    The tags included `| 40 WORDS 40` or `$ 40 WORDS 40 $`,  in which WORDS
+    is usually a name, that is repeated after the second `40` (sometimes the
+    first letter or two of the WORDS was before the first `40` and the WORDS
+    then continued after the second `40`: e.g. `A\n# | 40 Anas 40 nas`. PV
+    removed these tags and the WORDS between them. NB: the file still
+    contains a large number of native tags:
+    * `# | 30`: start of the matn of a ḥadīth?
+    * `# $ 30`: start of an alternative version of a ḥadīth?? Consider
+    splitting the text file into separate documents?
+90#VERS#DATE#####: 2021-01-27
+90#VERS#ISSUES###: formalized issues, separated with commas
