@@ -1,0 +1,29 @@
+00#VERS#CLENGTH##: 3939653
+00#VERS#LENGTH###: 1027761
+00#VERS#URI######: 0774IbnKathir.JamicMasanid.Shamela0021809-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/42385449
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/42385449
+80#VERS#LINKS####: https://archive.org/details/waq39352
+90#VERS#ANNOTATOR: PV
+90#VERS#COMMENT##: PV improved the hierarchy of the digitized file by
+    * assigning the section on each letter to level 1
+    * assigning the first-level alphabetically listed authors to level 2
+    * assigning the transmitters related to those authors to level 3
+    * assigning the numbered paragraphs to level 4
+    NB: even if no level 3 authors are present, numbered paragraphs are level 4
+    NB: in some entries, there seems to be another level below level 3
+        (often introduced with "ḥadīth ākhar"); these have been tagged level 3.
+    PV added the missing header "Bāb al-kuná".
+    Pagination is not fully implemented: PageV00P000 page numbers seem to indicate
+    the location of the page breaks, while numbered page numbers are 
+    located at the end of the section that starts on that page.
+    The paper edition contains two additional volumes, not digitized here,
+    containing sections on the following transmitters
+    (both missing from vols. 1-10):
+    vol. 11: section on ʿAbd Allāh b. ʿAbbās 
+    vol. 12: section on Abū Saʿīd al-Khudrī
+    (it is not 100% clear from the introductions of vols. 11-12
+    if these sections were originally part of the Jāmiʿ al-Masānīd)
+    NOTE OF THE REVIEWER (HRH): I did not change anything in this text after a discussion with the annotator. See the discussion in the “text tagged” issue of Shamela0021809.
+90#VERS#DATE#####: 2021-02-15
+90#VERS#ISSUES###: PAGINATION, MISSING_PARTS, HTML_TAGS

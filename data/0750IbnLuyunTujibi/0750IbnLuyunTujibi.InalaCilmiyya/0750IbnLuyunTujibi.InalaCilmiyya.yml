@@ -1,0 +1,21 @@
+00#BOOK#URI######: 0750IbnLuyunTujibi.InalaCilmiyya
+10#BOOK#GENRES###: LMN@tasawwuf
+10#BOOK#TITLEA#AR: al-Inālaŧ al-ʿilmiyyaŧ fī l-risālaŧ al-ʿilmiyyaŧ fī
+    ṭarīq al-mutaǧarridīn min al-ṣūfiyyaŧ
+10#BOOK#TITLEB#AR: none
+20#BOOK#WROTE####: URIs from Althurayya, comma separated
+30#BOOK#WROTE##AH: YEAR-MON-DA (X+ for unknown)
+40#BOOK#RELATED##: URI of a book from OpenITI, or [Author's Title],
+    followed by abbreviation for relation type between brackets (see
+    book_relations repo). Only include relations with older books. Separate
+    related books with semicolon.
+80#BOOK#EDITIONS#: permalink, permalink, permalink
+80#BOOK#LINKS####: permalink, permalink, permalink
+80#BOOK#MSS######: permalink, permalink, permalink
+80#BOOK#STUDIES##: permalink, permalink, permalink
+80#BOOK#TRANSLAT#: permalink, permalink, permalink
+90#BOOK#COMMENT##: Talkhīṣ by Abū ʿUthmān al-Tujībī of "al-Risāla al-
+    shushtariyya" = "al-Risāla al-ʿilmiyya fī ṭarīq al-mutajarridīn min
+    al-
+    ṣufiyya" by Abū l-Ḥasan al-Shushtarī (d. 668); add book relation to
+    metadata => "ABBR.talkhis"

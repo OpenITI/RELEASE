@@ -1,0 +1,29 @@
+00#VERS#CLENGTH##: 4893455
+00#VERS#LENGTH###: 1168805
+00#VERS#URI######: 0786IbnMuhammadBabarti.CinayaSharhHidaya.JK011690BK2-ara1
+80#VERS#BASED####: NOT_FOUND
+80#VERS#COLLATED#: NOT_FOUND
+80#VERS#LINKS####: NOT_FOUND, https://archive.org/details/waq14418
+90#VERS#ANNOTATOR: the name of the annotator (latin characters; please
+    use consistently)
+90#VERS#COMMENT##: PV did not find the exact edition from which JK011690
+    was digitized. The edition used for collation contains multiple texts,
+    of which only two are in the JK edition: 
+    * 0593BurhanDinFarghaniMarghinani.HidayaFiSharhBidaya,
+        in the upper part of the central page
+        (inside the box, above the horizontal line)
+    * 0786IbnMuhammadBabarti.CinayaSharhHidaya,
+        in the upper part of the margin
+        (outside the box, above the horizontal line)
+    PV split the two texts into separate files.
+    NB: the two texts were much easier to disentangle in the Shamela file,
+    which had remnants of the html tags in the text. 
+    In the JK version, the beginning of each section containing text of the ʿInāya
+    was marked with "S", while the end of each section containing text of the Hidāya
+    was marked with "." (the latter not always consistently). 
+    PV split the two texts using regular expressions and manual checks,
+    but it is probably better to use the Shamela version of the text. 
+    NB: the digital text seems to be missing the last section of the commentary
+    (https://archive.org/details/waq14418 : vol. 8 pp. 514-515)
+90#VERS#DATE#####: 2021-02-22
+90#VERS#ISSUES###: MISSING_TEXT

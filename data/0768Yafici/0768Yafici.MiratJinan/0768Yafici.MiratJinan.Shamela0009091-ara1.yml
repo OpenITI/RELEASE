@@ -1,0 +1,16 @@
+00#VERS#CLENGTH##: 1809975
+00#VERS#LENGTH###: 422481
+00#VERS#URI######: 0768Yafici.MiratJinan.Shamela0009091-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/39683495
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/39683495
+80#VERS#LINKS####: https://archive.org/details/Meraat_Jenan
+90#VERS#ANNOTATOR: Leonie Nückell (Leipzig)
+90#VERS#COMMENT##: the text was tagged before; no proper YML file yet.
+    See, `README.md` for details.
+   NOTE OF THE REVIEWER (HRH): Headers that were tagged incompletely corrected.
+    2- Only the first hemistichs of the poem in PageV04P269-271 are typed, and the
+    second hemistichs are missing. Besides, the annotator mentions ‘text lacks about
+    5 chapter about the years’, without specifying which chapters or years they are,
+    and I couldn’t locate these missing chapters.
+90#VERS#DATE#####: YYYY-MM-DD
+90#VERS#ISSUES###: HTML_TAGS, MISSING_PARTS

@@ -1,0 +1,19 @@
+00#VERS#CLENGTH##: 13683417
+00#VERS#LENGTH###: 3305526
+00#VERS#URI######: 0748Dhahabi.TarikhIslam.Shamela0035100-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/793504062
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/793504062, https://histo
+    ryofislam.github.io/?/0748Dhahabi/TarikhIslam/BY2003BCM01-ara1/V00P0000,
+80#VERS#LINKS####: all@https://archive.org/details/FP105731, https://his
+    toryofislam.github.io/?/0748Dhahabi/TarikhIslam/BY2003BCM01-ara1/V00P000
+    0
+90#VERS#ANNOTATOR: MGR
+90#VERS#COMMENT##: The texts is of high quality; because of how the text
+    was stored in Shamela, pagination in mARkdown is a little bit confused
+    (every biography was stored separately and a page number of at the end
+    of each one > these numbers were converted into mARkdown page numbers;
+    in other words -- there are way more page numbers than there should be);
+    NB: check lines of poetry that seem too short: line numbers 14368, 127399,
+    182441, 320229, 321052, 357761, 398040, 418469, 418471, 433830
+90#VERS#DATE#####: 2019-09-30
+90#VERS#ISSUES###: formalized issues, separated with commas
