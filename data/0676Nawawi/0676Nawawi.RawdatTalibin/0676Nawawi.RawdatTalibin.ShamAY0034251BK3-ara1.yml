@@ -1,0 +1,15 @@
+00#VERS#CLENGTH##: 4563956
+00#VERS#LENGTH###: 1084416
+00#VERS#URI######: 0676Nawawi.RawdatTalibin.ShamAY0034251BK3-ara1
+80#VERS#BASED####: permalink, permalink, permalink
+80#VERS#COLLATED#: permalink, permalink, permalink
+80#VERS#LINKS####: https://archive.org/details/FPrawdat
+90#VERS#ANNOTATOR: the name of the annotator (latin characters; please
+    use consistently)
+90#VERS#COMMENT##: The original text file contained three separate texts:
+    * 0911Suyuti.MinhajSawi
+    * 0911Suyuti.MuntaqaYanbuc
+    * 0676Nawawi.RawdatTalibin
+    PV split off the three texts into separate text files.
+90#VERS#DATE#####: YYYY-MM-DD
+90#VERS#ISSUES###: formalized issues, separated with commas

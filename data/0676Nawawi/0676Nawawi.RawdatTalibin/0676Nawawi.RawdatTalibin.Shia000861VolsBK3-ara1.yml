@@ -1,0 +1,15 @@
+00#VERS#CLENGTH##: 4553341
+00#VERS#LENGTH###: 1082170
+00#VERS#URI######: 0676Nawawi.RawdatTalibin.Shia000861VolsBK3-ara1
+80#VERS#BASED####: permalink, permalink, permalink
+80#VERS#COLLATED#: permalink, permalink, permalink
+80#VERS#LINKS####: all@id, vol1@id, vol2@id, vol3@id, volX@id
+90#VERS#ANNOTATOR: the name of the annotator (latin characters; please
+    use consistently)
+90#VERS#COMMENT##: The original text file contained three separate texts:
+    * 0911Suyuti.MinhajSawi
+    * 0911Suyuti.MuntaqaYanbuc
+    * 0676Nawawi.RawdatTalibin
+    PV split off the three texts into separate text files.
+90#VERS#DATE#####: YYYY-MM-DD
+90#VERS#ISSUES###: formalized issues, separated with commas

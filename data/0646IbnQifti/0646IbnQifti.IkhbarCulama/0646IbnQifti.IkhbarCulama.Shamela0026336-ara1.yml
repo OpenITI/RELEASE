@@ -1,0 +1,17 @@
+00#VERS#CLENGTH##: 421600
+00#VERS#LENGTH###: 96414
+00#VERS#URI######: 0646IbnQifti.IkhbarCulama.Shamela0026336-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/956941033
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/956941033
+80#VERS#LINKS####: https://archive.org/details/FP89533
+90#VERS#ANNOTATOR: the name of the annotator (latin characters; please
+    use consistently)
+90#VERS#COMMENT##: the text was tagged before; no proper YML file yet.
+    See, `README.md` for details.
+   NOTE OF THE REVIEWER (HRH): The names had not been tagged. So, I tagged the
+    whole text again, tagged all the names manually, numbered them by Peter’s
+    script, and tagged their subsections with #~:section:. 2- Another edition of the
+    text is accessible here:
+    https://ebook.univeyes.com/180151/pdf-%D8%A5%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%B9%D9%84%D9%85%D8%A7%D8%A1-%D8%A8%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%AD%D9%83%D9%85%D8%A7%D8%A1-%D8%AA-%D8%A7%D9%84%D8%AE%D8%A7%D9%86%D8%AC%D9%8A
+90#VERS#DATE#####: YYYY-MM-DD
+90#VERS#ISSUES###: NO_MAJOR_ISSUES
