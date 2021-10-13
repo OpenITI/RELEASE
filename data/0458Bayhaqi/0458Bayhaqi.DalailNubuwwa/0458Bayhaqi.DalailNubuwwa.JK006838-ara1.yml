@@ -1,5 +1,5 @@
-00#VERS#CLENGTH##: 2073717
-00#VERS#LENGTH###: 525097
+00#VERS#CLENGTH##: 2073810
+00#VERS#LENGTH###: 525123
 00#VERS#URI######: 0458Bayhaqi.DalailNubuwwa.JK006838-ara1
 80#VERS#BASED####: http://www.worldcat.org/oclc/1044295201
 80#VERS#COLLATED#: http://www.worldcat.org/oclc/1044295201
@@ -7,6 +7,11 @@
 90#VERS#ANNOTATOR: MAROUSSIA
 90#VERS#COMMENT##: annotation completed. no changes added to the
     completed file.
-    NOTE OF THE REVIEWER (HRH): 1- Missing titles tagged. 2- levelling of the headers changed. 3- One missing title in PageV02P005 and one in PageV06P007 added, and the levelling corrected accordingly. 4- The symbol & is placed before and after the headers which should be cleaned. 5- A part of the footnotes about Ikhraj of the hadiths has entered into the text. We agreed to keep such parts and mention it in the yml file.
+    NOTE OF THE REVIEWER (HRH): 1- Missing titles tagged. 2- levelling of the
+    headers changed. 3- One missing title in PageV02P005 and one in PageV06P007
+    added, and the levelling corrected accordingly. 4- The symbol & is placed before
+    and after the headers which should be cleaned. 5- A part of the footnotes about
+    Ikhraj of the hadiths has entered into the text. We agreed to keep such parts
+    and mention it in the yml file.
 90#VERS#DATE#####: 2019-07-17
 90#VERS#ISSUES###: RANDOM_CHARS

@@ -1,5 +1,5 @@
-00#VERS#CLENGTH##: 761171
-00#VERS#LENGTH###: 181108
+00#VERS#CLENGTH##: 713554
+00#VERS#LENGTH###: 170456
 00#VERS#URI######: 0637IbnAthirDiyaDin.MathalSair.Shamela0010551-ara1
 80#VERS#BASED####: http://www.worldcat.org/oclc/977494154
 80#VERS#COLLATED#: http://www.worldcat.org/oclc/977494154
@@ -15,7 +15,7 @@
     new sections start. There are still some footnote markers in the text
     (not the actual footnotes). I inserted poetry tags with regex.
     Pagination is correct for first and third volume, but not for the second
-    volume (PV: page numbers in vol. 2 completely different from pdf). 
+    volume (PV: page numbers in vol. 2 completely different from pdf).
     Texts goes beyond fifth-level headers, I have gone up to 8th
     level, but colours are not distinguished beyond 5th level.
     NOTE OF THE REVIEWER (HRH): Titles that were tagged incompletely corrected.

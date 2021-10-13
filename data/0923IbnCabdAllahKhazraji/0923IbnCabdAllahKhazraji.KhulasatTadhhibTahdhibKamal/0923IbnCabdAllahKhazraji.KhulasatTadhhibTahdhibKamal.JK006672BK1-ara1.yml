@@ -1,16 +1,16 @@
-00#VERS#CLENGTH##: 1219316
-00#VERS#LENGTH###: 318053
+00#VERS#CLENGTH##: 1003344
+00#VERS#LENGTH###: 262132
 00#VERS#URI######: 0923IbnCabdAllahKhazraji.KhulasatTadhhibTahdhibKamal.JK006672BK1-ara1
 80#VERS#BASED####: permalink, permalink, permalink
 80#VERS#COLLATED#: permalink, permalink, permalink
 80#VERS#LINKS####: all@id, vol1@id, vol2@id, vol3@id, volX@id
 90#VERS#ANNOTATOR: the name of the annotator (latin characters; please
     use consistently)
-90#VERS#COMMENT##: The original digital text contained 
+90#VERS#COMMENT##: The original digital text contained
     0923IbnCabdAllahKhazraji.KhulasatTadhhibTahdhibKamal
     and a later commentary: 1191Kawkabani.IthafKhassa
-    (which in the paper edition was printed in the margins). 
-    The comments are linked to the text with numbers between brackets. 
+    (which in the paper edition was printed in the margins).
+    The comments are linked to the text with numbers between brackets.
     PV split the commentary off from the main text.
 90#VERS#DATE#####: YYYY-MM-DD
 90#VERS#ISSUES###: formalized issues, separated with commas

@@ -1,10 +1,17 @@
-00#VERS#CLENGTH##: 303679
-00#VERS#LENGTH###: 78188
+00#VERS#CLENGTH##: 304175
+00#VERS#LENGTH###: 78315
 00#VERS#URI######: 0311AbuBakrKhallal.AhkamAhlMilal.Shamela0009428-ara1
 80#VERS#BASED####: http://www.worldcat.org/oclc/31878438
 80#VERS#COLLATED#: http://www.worldcat.org/oclc/31878438
 80#VERS#LINKS####: https://archive.org/details/waq7560
 90#VERS#ANNOTATOR: ARM (CnC) (SPL verified)
-90#VERS#COMMENT##: Overall good correspondence between texts. Page numbers are missing in the bracketed pagination section, i.e., PageV00P000. The bracketed prayers after prophets' names are missing in the digital text. Also, occasionally there would a few word choices used in the digital text that are different from those in the printed text. There's an extra subheading added between 55 & 56. Also, all the footnoted names of Quranic chapters and cited verse number in the printed text are not always automatically embedded in the body of digital text.
+90#VERS#COMMENT##: Overall good correspondence between texts. Page numbers are
+    missing in the bracketed pagination section, i.e., PageV00P000. The bracketed
+    prayers after prophets' names are missing in the digital text. Also,
+    occasionally there would a few word choices used in the digital text that are
+    different from those in the printed text. There's an extra subheading added
+    between 55 & 56. Also, all the footnoted names of Quranic chapters and cited
+    verse number in the printed text are not always automatically embedded in the
+    body of digital text.
 90#VERS#DATE#####: 2021-07-10
 90#VERS#ISSUES###: PAGINATION

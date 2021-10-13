@@ -1,10 +1,17 @@
 00#VERS#CLENGTH##: 937037
-00#VERS#LENGTH###: 213336
+00#VERS#LENGTH###: 213333
 00#VERS#URI######: 0927Culaymi.UnsJalil.Shamela0006626-ara1
 80#VERS#BASED####: http://www.worldcat.org/oclc/4770228070
 80#VERS#COLLATED#: http://www.worldcat.org/oclc/4770228070
-80#VERS#LINKS####: https://archive.org/details/1_20200711_20200711_0249/الأنس الجليل بتاريخ القدس والخليل 1
+80#VERS#LINKS####: https://archive.org/details/1_20200711_20200711_0249/الأنس
+    الجليل بتاريخ القدس والخليل 1
 90#VERS#ANNOTATOR: SP Loynes
-90#VERS#COMMENT##: Minor textual differences, often with honourific qualifications added (e.g., dhikr qissat Ibrahim, vs. dhikr saydina Ibrahim in digital). Pagination is totally out both in terms of numbers but also page breaks. Multiple parts are totally out of place. For example the 'Story of the building of the Ka'ba' should follow the story of Moses' exodus, but in the digital edition precedes it is and is found within a series of sections on God's creation. A new edition needs to be found.
+90#VERS#COMMENT##: Minor textual differences, often with honourific
+    qualifications added (e.g., dhikr qissat Ibrahim, vs. dhikr saydina Ibrahim in
+    digital). Pagination is totally out both in terms of numbers but also page
+    breaks. Multiple parts are totally out of place. For example the 'Story of the
+    building of the Ka'ba' should follow the story of Moses' exodus, but in the
+    digital edition precedes it is and is found within a series of sections on God's
+    creation. A new edition needs to be found.
 90#VERS#DATE#####: 2020-11-09
 90#VERS#ISSUES###: EDITORIAL_SECTIONS, PAGINATION, EDITORIAL_SECTIONS.

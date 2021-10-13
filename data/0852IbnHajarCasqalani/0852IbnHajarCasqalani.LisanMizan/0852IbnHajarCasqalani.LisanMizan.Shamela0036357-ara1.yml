@@ -1,5 +1,5 @@
-00#VERS#CLENGTH##: 4050964
-00#VERS#LENGTH###: 1076347
+00#VERS#CLENGTH##: 4050770
+00#VERS#LENGTH###: 1076305
 00#VERS#URI######: 0852IbnHajarCasqalani.LisanMizan.Shamela0036357-ara1
 80#VERS#BASED####: http://www.worldcat.org/oclc/1107065236
 80#VERS#COLLATED#: http://www.worldcat.org/oclc/1107065236
@@ -14,6 +14,20 @@
     also some other embedded pages numbers in square brackets (generally odd
     only), but these are also not consistent w/ the printed edition, and
     should probably be removed.
-   NOTE OF THE REVIEWER (HRH): A few untagged headers tagged. The levelling of a few headers changed. Women’s biographies tagged. 2- From PageV09P248 onwards, a repeated long part appears after each entry (like footnotes, after === sign) which does not exist in the PDF, and should be removed. 3- The main point about this text is that the whole of the nineth volume is PARATEXT. I just added the PARATEXT tag at the beginning of this volume, and kept the rest of the tags for this volume. It seems that the scribe has extended and completed the short list of laqabs and nasabs that had already been produced by the original author. So, this part has actually two authors. Some of the entries in this part are for the original author and some others are for the scribe. The original author has inserted information for some of the entries, and therefore this part is actually more than a mere list of cross-references, and contains original information. So, I think it’s essential to keep this part and its tags. 4- About the numbering system of the entries, see the editor’s introduction (vol 1, page 148).
+   NOTE OF THE REVIEWER (HRH): A few untagged headers tagged. The levelling of a
+    few headers changed. Women’s biographies tagged. 2- From PageV09P248 onwards, a
+    repeated long part appears after each entry (like footnotes, after === sign)
+    which does not exist in the PDF, and should be removed. 3- The main point about
+    this text is that the whole of the nineth volume is PARATEXT. I just added the
+    PARATEXT tag at the beginning of this volume, and kept the rest of the tags for
+    this volume. It seems that the scribe has extended and completed the short list
+    of laqabs and nasabs that had already been produced by the original author. So,
+    this part has actually two authors. Some of the entries in this part are for the
+    original author and some others are for the scribe. The original author has
+    inserted information for some of the entries, and therefore this part is
+    actually more than a mere list of cross-references, and contains original
+    information. So, I think it’s essential to keep this part and its tags. 4- About
+    the numbering system of the entries, see the editor’s introduction (vol 1, page
+    148).
 90#VERS#DATE#####: 2020-09-14
 90#VERS#ISSUES###: HTML_TAGS, PAGINATION, FOOTNOTES

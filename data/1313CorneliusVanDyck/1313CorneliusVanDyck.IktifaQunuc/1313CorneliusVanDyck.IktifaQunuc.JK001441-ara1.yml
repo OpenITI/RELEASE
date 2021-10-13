@@ -1,10 +1,20 @@
-00#VERS#CLENGTH##: 446149
-00#VERS#LENGTH###: 101623
+00#VERS#CLENGTH##: 446161
+00#VERS#LENGTH###: 101627
 00#VERS#URI######: 1313CorneliusVanDyck.IktifaQunuc.JK001441-ara1
 80#VERS#BASED####: http://www.worldcat.org/oclc/841699553 ?
 80#VERS#COLLATED#: http://www.worldcat.org/oclc/784525511
 80#VERS#LINKS####: https://ketabpedia.com/تحميل/اكتفاء-القنوع-بما-هو-مطبوع/
 90#VERS#ANNOTATOR: HRH
-90#VERS#COMMENT##: The title of the book says the text is a bibliography; however, it is a combination of bibliographical and biographical entries. To separate these two, I tagged the names of people with ### $ and the names of books with the extended tag ### $DIC_BIB$. 2- I checked all the entries to be on separate lines. 3- The sign = is placed before and after the names of some books. I didn’t delete them since they might be useful for tagging the names of books inside the text. However, finally they must be deleted. 4- The text has been typed carelessly. Missing parts: Three last lines of page 50; one line in page 106; page 168 number 10 and 11; page 170 number 14; page 282; a few lines in page 334; pages 437-8; page 459; a few lines in page 512. 5- The version I used for collation is a reprint.
+90#VERS#COMMENT##: The title of the book says the text is a bibliography;
+    however, it is a combination of bibliographical and biographical entries. To
+    separate these two, I tagged the names of people with ### $ and the names of
+    books with the extended tag ### $DIC_BIB$. 2- I checked all the entries to be on
+    separate lines. 3- The sign = is placed before and after the names of some
+    books. I didn’t delete them since they might be useful for tagging the names of
+    books inside the text. However, finally they must be deleted. 4- The text has
+    been typed carelessly. Missing parts: Three last lines of page 50; one line in
+    page 106; page 168 number 10 and 11; page 170 number 14; page 282; a few lines
+    in page 334; pages 437-8; page 459; a few lines in page 512. 5- The version I
+    used for collation is a reprint.
 90#VERS#DATE#####: 2020-11-19
 90#VERS#ISSUES###: MISSING_PARTS, RANDOM_CHARS, EDITORIAL_SECTIONS

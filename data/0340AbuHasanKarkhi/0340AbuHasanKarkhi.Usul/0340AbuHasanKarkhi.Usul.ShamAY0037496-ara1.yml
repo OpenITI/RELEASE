@@ -1,17 +1,21 @@
-00#VERS#CLENGTH##: 29331
-00#VERS#LENGTH###: 6830
+00#VERS#CLENGTH##: 20565
+00#VERS#LENGTH###: 4693
 00#VERS#URI######: 0340AbuHasanKarkhi.Usul.ShamAY0037496-ara1
 80#VERS#BASED####: permalink, permalink, permalink
 80#VERS#COLLATED#: permalink, permalink, permalink
 80#VERS#LINKS####: https://archive.org/details/serhumedarilusul/page/n1/mode/2up
 90#VERS#ANNOTATOR: SPL (CnC)
-90#VERS#COMMENT##: I could not find the edition it is purported to be in the metadata on Worldcat.
-    However, compared with other online editions (e.g., https://ketabonline.com/ar/books/12297/read),
+90#VERS#COMMENT##: I could not find the edition it is purported to be in the
+    metadata on Worldcat.
+    However, compared with other online editions (e.g.,
+    https://ketabonline.com/ar/books/12297/read),
     it appears to be complete. Pagination has failed. Cleaned up auto tagging.
     The CnC bibliographies mentions the edition with a commentary by al-Nasafī
     but there is no PDF version available.
     I assume this is a reconstructed text,
-    so it appears the only original part is the final section which includes the 'Usuls',
-    but as I cannot compare it to a printed edition, I have kept the editorial sections.
+    so it appears the only original part is the final section which includes the
+    'Usuls',
+    but as I cannot compare it to a printed edition, I have kept the editorial
+    sections.
 90#VERS#DATE#####: 2020-04-28
 90#VERS#ISSUES###: PAGINATION, EDITORIAL_SECTIONS

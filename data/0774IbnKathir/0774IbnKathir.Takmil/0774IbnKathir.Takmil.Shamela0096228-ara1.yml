@@ -1,5 +1,5 @@
-00#VERS#CLENGTH##: 942826
-00#VERS#LENGTH###: 245495
+00#VERS#CLENGTH##: 925814
+00#VERS#LENGTH###: 241641
 00#VERS#URI######: 0774IbnKathir.Takmil.Shamela0096228-ara1
 80#VERS#BASED####: http://www.worldcat.org/oclc/6993306312
 80#VERS#COLLATED#: http://www.worldcat.org/oclc/6993306312
@@ -7,6 +7,13 @@
 90#VERS#ANNOTATOR: SP Loynes
 90#VERS#COMMENT##: There is no record of this edition on worldcat. Good
     correspondence between base and collated text.
-    NOTE OF THE ANNOTATOR (HRH): I just made a few corrections in levelling and added a few blank header tags to separate the names when they change. 2- There are a lot of names in the text (especially in the last volume) that do not have numbers. They are either cress-references or, I think, could be references to the names in the first part of this book (this book begins with the letter “m”) or the names in the original book to which this book is a Takmila. In any case, there is no information about these names and they expectedly have not been tagged. They all begin with a hashtag and a dash (# -). 
+    NOTE OF THE ANNOTATOR (HRH): I just made a few corrections in levelling and
+    added a few blank header tags to separate the names when they change. 2- There
+    are a lot of names in the text (especially in the last volume) that do not have
+    numbers. They are either cress-references or, I think, could be references to
+    the names in the first part of this book (this book begins with the letter “m”)
+    or the names in the original book to which this book is a Takmila. In any case,
+    there is no information about these names and they expectedly have not been
+    tagged. They all begin with a hashtag and a dash (# -).
 90#VERS#DATE#####: 2020-07-06
 90#VERS#ISSUES###: HTML_TAGS

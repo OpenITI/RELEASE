@@ -1,5 +1,5 @@
-00#VERS#CLENGTH##: 1123767
-00#VERS#LENGTH###: 277827
+00#VERS#CLENGTH##: 1122761
+00#VERS#LENGTH###: 277570
 00#VERS#URI######: 0180Sibawayh.KitabSibawayh.Shamela0023018-ara1
 80#VERS#BASED####: http://www.worldcat.org/oclc/4770914633
 80#VERS#COLLATED#: http://www.worldcat.org/oclc/4770914633
@@ -30,6 +30,19 @@
     NB: check lines of poetry that seem too short: line numbers 363, 388, 1472,
     4204, 4369, 4526, 20780
     NB: check lines of poetry that seem too long: line numbers 9612, 12829
-   NOTE OF THE REVIEWER (HRH): Body text separated from the titles. The redundant part reported by the annotator was duplicate and therefore removed. 2- The first chapter of the text which is about Sibawayh, the author of the text, and his place in Arabic grammar is not written by him. it is written by the transmitter of the text. So, I tagged this section as PARATEXT.  3- The comments by al-Akhfash, which the annotator points out, are added as footnotes (beginning with “Abu al-Hasan”) by the editor of the text. Since the digital text does not include the footnotes, this is not a problem. 4- All headers were first-level. I added some levelling to the headers. However, I didn’t read the text, and my levelling is just to the extent that the structure of the text can be inferred from the titles. Many of the successive headers are relevant to a specific subject, but the problem is that there is no parent category to cover them. A specialist must read the text closely and correct the levelling by adding headers in square brackets.
+   NOTE OF THE REVIEWER (HRH): Body text separated from the titles. The
+    redundant part reported by the annotator was duplicate and therefore removed. 2-
+    The first chapter of the text which is about Sibawayh, the author of the text,
+    and his place in Arabic grammar is not written by him. it is written by the
+    transmitter of the text. So, I tagged this section as PARATEXT.  3- The comments
+    by al-Akhfash, which the annotator points out, are added as footnotes (beginning
+    with “Abu al-Hasan”) by the editor of the text. Since the digital text does not
+    include the footnotes, this is not a problem. 4- All headers were first-level. I
+    added some levelling to the headers. However, I didn’t read the text, and my
+    levelling is just to the extent that the structure of the text can be inferred
+    from the titles. Many of the successive headers are relevant to a specific
+    subject, but the problem is that there is no parent category to cover them. A
+    specialist must read the text closely and correct the levelling by adding
+    headers in square brackets.
 90#VERS#DATE#####: 2020-06-19
 90#VERS#ISSUES###: NO_MAJOR_ISSUES

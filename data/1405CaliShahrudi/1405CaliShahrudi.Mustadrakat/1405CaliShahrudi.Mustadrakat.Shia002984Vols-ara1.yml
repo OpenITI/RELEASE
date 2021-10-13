@@ -1,10 +1,18 @@
-00#VERS#CLENGTH##: 3465824
-00#VERS#LENGTH###: 904767
+00#VERS#CLENGTH##: 3465666
+00#VERS#LENGTH###: 904748
 00#VERS#URI######: 1405CaliShahrudi.Mustadrakat.Shia002984Vols-ara1
 80#VERS#BASED####: http://www.worldcat.org/oclc/34132869
 80#VERS#COLLATED#: http://www.worldcat.org/oclc/34132869
 80#VERS#LINKS####: https://mktba.net/library.php?id=8071
 90#VERS#ANNOTATOR: HRH
-90#VERS#COMMENT##: I corrected a lot of the numbers that were typed incorrectly. 2- The text seems to be typed carelessly. A few lines in these numbers are missing: Number 122 (PageV01P126); 317-8 (PageV01P170); 372 (PageV01P181); 415-6 (PageV01P188); 427 (PageV01P190); 448 (PageV01P194); 687 (PageV01P253); 748-9 (PageV01P266); 2047 (PageV02P010); 2131 (PageV02P033); 2219 (PageV02P052); 2232 (PageV02P058); 2344  (PageV02P086); 6439 (PageV04P110); 6800 (PageV04P195); 7025 (PageV04P246); 11719 (PageV06P240); 13422 (PageV07P111);  13492 (PageV07P130); 14133 (PageV07P256); 14611 (PageV07P351); 14896 (PageV07P410); 17236 (PageV08P444).
+90#VERS#COMMENT##: I corrected a lot of the numbers that were typed incorrectly.
+    2- The text seems to be typed carelessly. A few lines in these numbers are
+    missing: Number 122 (PageV01P126); 317-8 (PageV01P170); 372 (PageV01P181); 415-6
+    (PageV01P188); 427 (PageV01P190); 448 (PageV01P194); 687 (PageV01P253); 748-9
+    (PageV01P266); 2047 (PageV02P010); 2131 (PageV02P033); 2219 (PageV02P052); 2232
+    (PageV02P058); 2344  (PageV02P086); 6439 (PageV04P110); 6800 (PageV04P195); 7025
+    (PageV04P246); 11719 (PageV06P240); 13422 (PageV07P111);  13492 (PageV07P130);
+    14133 (PageV07P256); 14611 (PageV07P351); 14896 (PageV07P410); 17236
+    (PageV08P444).
 90#VERS#DATE#####: 2020-10-02
 90#VERS#ISSUES###: MISSING_PARTS, EDITORIAL_SECTIONS, PARATEXT

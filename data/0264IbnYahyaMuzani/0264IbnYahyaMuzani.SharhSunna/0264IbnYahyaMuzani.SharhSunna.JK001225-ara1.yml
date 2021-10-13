@@ -1,11 +1,14 @@
-
-00#VERS#CLENGTH##: 6196
-00#VERS#LENGTH###: 1392
+00#VERS#CLENGTH##: 6188
+00#VERS#LENGTH###: 1390
 00#VERS#URI######: 0264IbnYahyaMuzani.SharhSunna.JK001225-ara1
 80#VERS#BASED####: http://www.worldcat.org/oclc/900539300
 80#VERS#COLLATED#: http://www.worldcat.org/oclc/900539300
-80#VERS#LINKS####: https://www.noor-book.com/%D9%83%D8%AA%D8%A7%D8%A8-%D8%A5%D8%B3%D9%85%D8%A7%D8%B9%D9%8A%D9%84-%D8%A8%D9%86-%D9%8A%D8%AD%D9%8A-%D8%A7%D9%84%D9%85%D8%B2%D9%86%D9%8A-%D9%88%D8%B1%D8%B3%D8%A7%D9%84%D8%AA%D9%87-%D8%B4%D8%B1%D8%AD-%D8%A7%D9%84%D8%B3%D9%86%D8%A9-pdf
-90#VERS#ANNOTATOR: Omar Abdel-Ghaffar (SHARIAsource-CnC) (Simon P. Loynes verified)
-90#VERS#COMMENT##: Some of the page numbers are not rendered. Instead, we just get 00. However the pages that are rendered are all rendered accurately, and the text corresponds closely to the printed edition.
+80#VERS#LINKS####: https://www.noor-
+    book.com/%D9%83%D8%AA%D8%A7%D8%A8-%D8%A5%D8%B3%D9%85%D8%A7%D8%B9%D9%8A%D9%84-%D8%A8%D9%86-%D9%8A%D8%AD%D9%8A-%D8%A7%D9%84%D9%85%D8%B2%D9%86%D9%8A-%D9%88%D8%B1%D8%B3%D8%A7%D9%84%D8%AA%D9%87-%D8%B4%D8%B1%D8%AD-%D8%A7%D9%84%D8%B3%D9%86%D8%A9-pdf
+90#VERS#ANNOTATOR: Omar Abdel-Ghaffar (SHARIAsource-CnC) (Simon P. Loynes
+    verified)
+90#VERS#COMMENT##: Some of the page numbers are not rendered. Instead, we just
+    get 00. However the pages that are rendered are all rendered accurately, and the
+    text corresponds closely to the printed edition.
 90#VERS#DATE#####: 2021-08-03
 90#VERS#ISSUES###: PAGINATION

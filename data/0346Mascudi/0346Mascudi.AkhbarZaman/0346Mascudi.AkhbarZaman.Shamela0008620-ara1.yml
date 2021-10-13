@@ -1,13 +1,15 @@
-00#VERS#CLENGTH##: 243620
-00#VERS#LENGTH###: 57057
+00#VERS#CLENGTH##: 228909
+00#VERS#LENGTH###: 53763
 00#VERS#URI######: 0346Mascudi.AkhbarZaman.Shamela0008620-ara1
 80#VERS#BASED####: http://www.worldcat.org/oclc/46922494
 80#VERS#COLLATED#: http://www.worldcat.org/oclc/46922494
-80#VERS#LINKS####: https://archive.org/details/elhilalymohamad_gmail_20170915_0325
+80#VERS#LINKS####:
+    https://archive.org/details/elhilalymohamad_gmail_20170915_0325
 90#VERS#ANNOTATOR: MAROUSSIA
 90#VERS#COMMENT##: annotation completed. no changes added on the
     completed files apart from some words at the beginning of the text which
     had been tagged with "===".
-    NOTE OF THE REVIEWER (HRH): I changed a few first-level headers into second-level, and added the PARATEXT.
+    NOTE OF THE REVIEWER (HRH): I changed a few first-level headers into second-
+    level, and added the PARATEXT.
 90#VERS#DATE#####: 2019-07-17
 90#VERS#ISSUES###: NO_MAJOR_ISSUES

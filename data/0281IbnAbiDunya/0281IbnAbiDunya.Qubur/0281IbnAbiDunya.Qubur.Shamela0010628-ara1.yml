@@ -1,5 +1,5 @@
-00#VERS#CLENGTH##: 68016
-00#VERS#LENGTH###: 17220
+00#VERS#CLENGTH##: 67910
+00#VERS#LENGTH###: 17195
 00#VERS#URI######: 0281IbnAbiDunya.Qubur.Shamela0010628-ara1
 80#VERS#BASED####: http://www.worldcat.org/oclc/4770558965
 80#VERS#COLLATED#: http://www.worldcat.org/oclc/4770558965
@@ -8,6 +8,8 @@
 90#VERS#ANNOTATOR: MAROUSSIA
 90#VERS#COMMENT##: numerals and folio numbers tagged as paragraphs with
     one single hashtag.
-   NOTE OF THE REVIEWER (HRH): The PDF includes an appendix at the end which collects the parts nonexistent in the manuscript but quoted in other sources. This appendix is missing in the digital version.
+   NOTE OF THE REVIEWER (HRH): The PDF includes an appendix at the end which
+    collects the parts nonexistent in the manuscript but quoted in other sources.
+    This appendix is missing in the digital version.
 90#VERS#DATE#####: 2019-07-22
 90#VERS#ISSUES###: PAGINATION

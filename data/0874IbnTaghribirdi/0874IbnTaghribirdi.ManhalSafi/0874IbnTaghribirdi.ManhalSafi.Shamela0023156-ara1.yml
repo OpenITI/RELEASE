@@ -1,10 +1,14 @@
-00#VERS#CLENGTH##: 1582495
-00#VERS#LENGTH###: 363026
+00#VERS#CLENGTH##: 1582494
+00#VERS#LENGTH###: 363022
 00#VERS#URI######: 0874IbnTaghribirdi.ManhalSafi.Shamela0023156-ara1
 80#VERS#BASED####: http://www.worldcat.org/oclc/929499030
 80#VERS#COLLATED#: http://www.worldcat.org/oclc/929499030
 80#VERS#LINKS####: https://waqfeya.com/book.php?bid=7461
 90#VERS#ANNOTATOR: SP Loynes
-90#VERS#COMMENT##: Missing pages: V4 175-287; V6 410. Some letters are separated. Occasional minor textual differences. Otherwise good correspondence. All biographical entries were checked against the printed edition; many were tagged automatically. Only includes volumes 1-7 of a 13 volume work (although v.13 is an index). 
+90#VERS#COMMENT##: Missing pages: V4 175-287; V6 410. Some letters are
+    separated. Occasional minor textual differences. Otherwise good correspondence.
+    All biographical entries were checked against the printed edition; many were
+    tagged automatically. Only includes volumes 1-7 of a 13 volume work (although
+    v.13 is an index).
 90#VERS#DATE#####: 2020-10-08
 90#VERS#ISSUES###: HTML_TAGS, INCOMPLETE_VERSION.

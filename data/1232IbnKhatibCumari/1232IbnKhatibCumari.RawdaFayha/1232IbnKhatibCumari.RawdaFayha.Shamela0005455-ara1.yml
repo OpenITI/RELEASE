@@ -1,10 +1,14 @@
-00#VERS#CLENGTH##: 259264
-00#VERS#LENGTH###: 62933
+00#VERS#CLENGTH##: 259263
+00#VERS#LENGTH###: 62932
 00#VERS#URI######: 1232IbnKhatibCumari.RawdaFayha.Shamela0005455-ara1
 80#VERS#BASED####: NO_DATA_IN_METADATA
 80#VERS#COLLATED#: http://www.worldcat.org/oclc/4770521097
-80#VERS#LINKS####: https://ia601509.us.archive.org/32/items/women00000/Women01050.pdf
+80#VERS#LINKS####:
+    https://ia601509.us.archive.org/32/items/women00000/Women01050.pdf
 90#VERS#ANNOTATOR: HRH
-90#VERS#COMMENT##: The title of the book in the METADATA must be “الروضة الفيحاء في تواريخ النساء”. 2- The introduction of the author (pages 18-29 in the PDF) is missing. 3- Find another edition of the text here: https://www.noor-book.com/%D9%83%D8%AA%D8%A7%D8%A8-%D9%85%D9%87%D8%B0%D8%A8-%D8%A7%D9%84%D8%B1%D9%88%D8%B6%D9%87-%D8%A7%D9%84%D9%81%D9%8A%D8%AD%D8%A7%D8%A1-%D9%81%D9%8A-%D8%AA%D9%88%D8%A7%D8%B1%D9%8A%D8%AE-%D8%A7%D9%84%D9%86%D8%B3%D8%A7%D8%A1-pdf
+90#VERS#COMMENT##: The title of the book in the METADATA must be “الروضة الفيحاء
+    في تواريخ النساء”. 2- The introduction of the author (pages 18-29 in the PDF) is
+    missing. 3- Find another edition of the text here: https://www.noor-
+    book.com/%D9%83%D8%AA%D8%A7%D8%A8-%D9%85%D9%87%D8%B0%D8%A8-%D8%A7%D9%84%D8%B1%D9%88%D8%B6%D9%87-%D8%A7%D9%84%D9%81%D9%8A%D8%AD%D8%A7%D8%A1-%D9%81%D9%8A-%D8%AA%D9%88%D8%A7%D8%B1%D9%8A%D8%AE-%D8%A7%D9%84%D9%86%D8%B3%D8%A7%D8%A1-pdf
 90#VERS#DATE#####: 2020-12-10
 90#VERS#ISSUES###: MISSING_PARTS, HTML_TAGS

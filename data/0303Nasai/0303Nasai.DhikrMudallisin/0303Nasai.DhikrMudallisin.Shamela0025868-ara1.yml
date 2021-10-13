@@ -1,18 +1,18 @@
-00#VERS#CLENGTH##: 505
-00#VERS#LENGTH###: 110
+00#VERS#CLENGTH##: 250
+00#VERS#LENGTH###: 56
 00#VERS#URI######: 0303Nasai.DhikrMudallisin.Shamela0025868-ara1
 80#VERS#BASED####: http://www.worldcat.org/oclc/53341518
 80#VERS#COLLATED#: http://www.worldcat.org/oclc/53341518
 80#VERS#LINKS####:
     https://ia802709.us.archive.org/32/items/tmnszm/tmnszm.pdf
 90#VERS#ANNOTATOR: HRH, PV
-90#VERS#COMMENT##: The text was published together with 
+90#VERS#COMMENT##: The text was published together with
     0303Nasai.TasmiyatMashayikh,
-    not included in this Shamela version 
-    (it is in the corpus as 0303Nasai.TasmiyatMashayikh.Shamela0025946-ara1). 
+    not included in this Shamela version
+    (it is in the corpus as 0303Nasai.TasmiyatMashayikh.Shamela0025946-ara1).
     An appendix by the editor is present (see editor's introduction p. 115),
     and has been tagged as an editorial section.
-    The text starts with al-Sulamī's isnād of the work, 
+    The text starts with al-Sulamī's isnād of the work,
     from his Su'ālāt li-al-Dāraquṭnī (see editor's introduction p. 114).
     PV added the pagination.
 90#VERS#DATE#####: 2020-06-26, 2019-09-20

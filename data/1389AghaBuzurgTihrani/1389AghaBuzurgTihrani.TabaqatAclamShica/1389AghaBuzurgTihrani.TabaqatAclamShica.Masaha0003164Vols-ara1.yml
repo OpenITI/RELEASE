@@ -4,7 +4,6 @@
 80#VERS#BASED####: http://www.worldcat.org/oclc/1016183592
 80#VERS#COLLATED#: http://www.worldcat.org/oclc/1016183592
 80#VERS#LINKS####:
-http://www.masaha.org/pages/download.php?flink=../upload_book/dl_file/pdf/3403.pdf&bid=3164,
 90#VERS#ANNOTATOR: PV
 90#VERS#COMMENT##: Original Masaha book ids: 3164-3180.
     PV converted the text from epub and moved page numbers to the end of the
@@ -34,5 +33,3 @@ http://www.masaha.org/pages/download.php?flink=../upload_book/dl_file/pdf/3403.p
     text.
 90#VERS#DATE#####: 2021-09-21
 90#VERS#ISSUES###: NO_MAJOR_ISSUES
-http:
-    //www.masaha.org/pages/download.php?flink=../upload_book/dl_file/pdf/3419.pdf&bid=3180

@@ -1,10 +1,14 @@
-00#VERS#CLENGTH##: 654029
-00#VERS#LENGTH###: 157702
+00#VERS#CLENGTH##: 654027
+00#VERS#LENGTH###: 157701
 00#VERS#URI######: 1332HassunBuraqi.TarikhKufa.Shia003633-ara1
 80#VERS#BASED####: NOT_FOUND
 80#VERS#COLLATED#: http://www.worldcat.org/oclc/4770981087
 80#VERS#LINKS####: https://mktba.net/library.php?id=11731
 90#VERS#ANNOTATOR: HRH
-90#VERS#COMMENT##: The PDF I used for collation is a different edition. In a few cases, I see sentences that are more or less than what appears in the digital version. 2. The text did not have automatic tags. All the tags are added manually. 3. The tag ### $ is used for all kinds of entries including names of people, places, tribes …
+90#VERS#COMMENT##: The PDF I used for collation is a different edition. In a few
+    cases, I see sentences that are more or less than what appears in the digital
+    version. 2. The text did not have automatic tags. All the tags are added
+    manually. 3. The tag ### $ is used for all kinds of entries including names of
+    people, places, tribes …
 90#VERS#DATE#####: 2020-11-09
 90#VERS#ISSUES###: EDITORIAL_SECTIONS, RANDOM_CHARS

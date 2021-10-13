@@ -1,22 +1,29 @@
-00#VERS#CLENGTH##: 794103
-00#VERS#LENGTH###: 192710
+00#VERS#CLENGTH##: 793816
+00#VERS#LENGTH###: 192649
 00#VERS#URI######: 0370IbnBishrAmidi.Muwazana.Sham19Y0026183-ara1
 80#VERS#BASED####: http://www.worldcat.org/oclc/642756047
 80#VERS#COLLATED#: http://www.worldcat.org/oclc/642756047
 80#VERS#LINKS####: https://archive.org/details/MwshabbuMwshabbu
 90#VERS#ANNOTATOR: Gowaart Van Den Bossche
 90#VERS#COMMENT##: Text was pretagged and of good quality. Pagination appears to
-    be fine. I tagged the poetry (though may have missed some half lines). I have
+    be fine. I tagged the poetry (though may have missed some half lines). I
+    have
     deleted footnote markers. Textual hierarchy is not very evident from the
     headers, so I have divided according to the logic suggested in Julia Bray's
-    article "Al-Amidi's al-Muwazana and the size of knowledge" (Journal of Abbasid
-    Studies 2020), and where I could infer that a hierarchy was meant. Much of this
-    is quite tentative, as it would require a close reading, and even then things
-    are not very clear (see Bray's article). I have deleted some superfluous titles
+    article "Al-Amidi's al-Muwazana and the size of knowledge" (Journal of
+    Abbasid
+    Studies 2020), and where I could infer that a hierarchy was meant. Much of
+    this
+    is quite tentative, as it would require a close reading, and even then
+    things
+    are not very clear (see Bray's article). I have deleted some superfluous
+    titles
     in volume 2, which are not in the pdf.
     NB: check lines of poetry that seem too short: line numbers 963, 1800, 4306,
-    4318, 6970, 7116, 7192, 7902, 8112, 8351, 8453, 8778, 8782, 9046, 9523, 9712,
-    9770, 9811, 9828, 10330, 10513, 11099, 11202, 11213, 11436, 11761, 11762, 12519,
+    4318, 6970, 7116, 7192, 7902, 8112, 8351, 8453, 8778, 8782, 9046, 9523,
+    9712,
+    9770, 9811, 9828, 10330, 10513, 11099, 11202, 11213, 11436, 11761, 11762,
+    12519,
     12984, 13241, 13858, 14021, 19210
     NB: check lines of poetry that seem too long: line numbers 1745, 7716,
     12107, 16364, 16933, 19171

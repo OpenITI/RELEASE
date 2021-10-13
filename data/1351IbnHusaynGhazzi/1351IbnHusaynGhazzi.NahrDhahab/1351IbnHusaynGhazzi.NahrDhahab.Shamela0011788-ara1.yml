@@ -1,10 +1,17 @@
 00#VERS#CLENGTH##: 1843761
-00#VERS#LENGTH###: 415110
+00#VERS#LENGTH###: 415106
 00#VERS#URI######: 1351IbnHusaynGhazzi.NahrDhahab.Shamela0011788-ara1
 80#VERS#BASED####: http://www.worldcat.org/oclc/4770969750
 80#VERS#COLLATED#: http://www.worldcat.org/oclc/4770969750
 80#VERS#LINKS####: https://www.noorlib.ir/View/fa/Book/BookView/Image/4417
 90#VERS#ANNOTATOR: HRH
-90#VERS#COMMENT##: The link in VERS#LINKS leads you to a payment-based website and you must have an account to see the PDF. 2- Find another edition of the book here: https://archive.org/details/NahrAldhahabFiTarikhHalab/%D9%86%D9%87%D8%B1%20%D8%A7%D9%84%D8%B0%D9%87%D8%A8%20%D9%81%D9%8A%20%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE%20%D8%AD%D9%84%D8%A8%20-%20%281%29. 3- PageV02P014-18 have pictures. 4- The leveling of the headers in the PDF’s table of contents is not correct. I tried to present a correct leveling as far as it can be inferred from the headers. However, anybody who will read the text carefully might decide to change the leveling of some headers.
+90#VERS#COMMENT##: The link in VERS#LINKS leads you to a payment-based website
+    and you must have an account to see the PDF. 2- Find another edition of the book
+    here:
+    https://archive.org/details/NahrAldhahabFiTarikhHalab/%D9%86%D9%87%D8%B1%20%D8%A7%D9%84%D8%B0%D9%87%D8%A8%20%D9%81%D9%8A%20%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE%20%D8%AD%D9%84%D8%A8%20-%20%281%29.
+    3- PageV02P014-18 have pictures. 4- The leveling of the headers in the PDF’s
+    table of contents is not correct. I tried to present a correct leveling as far
+    as it can be inferred from the headers. However, anybody who will read the text
+    carefully might decide to change the leveling of some headers.
 90#VERS#DATE#####: 2020-10-27
 90#VERS#ISSUES###: EDITORIAL_SECTIONS, HTML_TAGS

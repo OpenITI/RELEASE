@@ -1,15 +1,18 @@
-00#VERS#CLENGTH##: 19683
-00#VERS#LENGTH###: 5227
+00#VERS#CLENGTH##: 19641
+00#VERS#LENGTH###: 5218
 00#VERS#URI######: 0241IbnHanbal.AsamiWaKuna.JK000525-ara1
 80#VERS#BASED####: http://www.worldcat.org/oclc/33213634
 80#VERS#COLLATED#: http://www.worldcat.org/oclc/33213634
-80#VERS#LINKS####: https://ia601702.us.archive.org/31/items/Assamiwakounaahmed/assamiwakounaahmed.pdf
+80#VERS#LINKS####:
+    https://ia601702.us.archive.org/31/items/Assamiwakounaahmed/assamiwakounaahmed.pdf
 90#VERS#ANNOTATOR: MAROUSSIA, HRH, PV
-90#VERS#COMMENT##: HRH: Page numbers in the digital version and the PDF does not correspond, 
-    although they are exactly the same edition. 
+90#VERS#COMMENT##: HRH: Page numbers in the digital version and the PDF does not
+    correspond,
+    although they are exactly the same edition.
     HRH: The text does not have anything to be tagged. Many of the numbered
-    paragraphs only mention the laqab or shuhra of other names, 
-    without more information. 
-    PV: removed title and added `### |PARATEXT|` tag for the riwāya at the beginning.
+    paragraphs only mention the laqab or shuhra of other names,
+    without more information.
+    PV: removed title and added `### |PARATEXT|` tag for the riwāya at the
+    beginning.
 90#VERS#DATE#####: 2019-07-17
 90#VERS#ISSUES###: PAGINATION

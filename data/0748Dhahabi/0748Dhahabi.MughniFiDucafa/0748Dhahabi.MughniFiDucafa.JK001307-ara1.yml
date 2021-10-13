@@ -1,5 +1,5 @@
-00#VERS#CLENGTH##: 420232
-00#VERS#LENGTH###: 110268
+00#VERS#CLENGTH##: 417986
+00#VERS#LENGTH###: 109693
 00#VERS#URI######: 0748Dhahabi.MughniFiDucafa.JK001307-ara1
 80#VERS#BASED####: NO_DATA_IN_METADATA
 80#VERS#COLLATED#: http://www.worldcat.org/oclc/4770018129
@@ -7,6 +7,11 @@
 90#VERS#ANNOTATOR: Leonie Nückell (Leipzig)
 90#VERS#COMMENT##: the text was tagged before; no proper YML file yet.
     See, `README.md` for details.
-   NOTE OF THE REVIEWER (HRH): The digital version is probably a reprint of the PDF. The name of the editor is the same but page numbers are different. 2- The numbers of name entries checked through Peter’s script and corrected manually. A lot of untagged entries tagged. PageV01P116, PageV01P173, PageV01P207, PageV01P226 which were duplicate removed. Numbers 4005-4015, 3669-3678, 5515-5520 moved to their correct places. PARATEXT added.
+   NOTE OF THE REVIEWER (HRH): The digital version is probably a reprint of the
+    PDF. The name of the editor is the same but page numbers are different. 2- The
+    numbers of name entries checked through Peter’s script and corrected manually. A
+    lot of untagged entries tagged. PageV01P116, PageV01P173, PageV01P207,
+    PageV01P226 which were duplicate removed. Numbers 4005-4015, 3669-3678,
+    5515-5520 moved to their correct places. PARATEXT added.
 90#VERS#DATE#####: YYYY-MM-DD
 90#VERS#ISSUES###: NO_MAJOR_ISSUES

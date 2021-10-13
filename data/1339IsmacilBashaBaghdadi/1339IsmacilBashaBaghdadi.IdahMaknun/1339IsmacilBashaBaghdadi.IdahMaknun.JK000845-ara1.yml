@@ -1,10 +1,15 @@
-00#VERS#CLENGTH##: 1322393
-00#VERS#LENGTH###: 279941
+00#VERS#CLENGTH##: 1320997
+00#VERS#LENGTH###: 279656
 00#VERS#URI######: 1339IsmacilBashaBaghdadi.IdahMaknun.JK000845-ara1
 80#VERS#BASED####: NOT_FOUND
 80#VERS#COLLATED#: NOT_FOUND
 80#VERS#LINKS####: https://archive.org/details/FPEdahMaknon/00_EdahMaknon
 90#VERS#ANNOTATOR: HRH
-90#VERS#COMMENT##: The version I used for collation is a reprint. 2- I put each name on a separate line. 3- I showed all kinds of commentaries to the books (“شرح”, “حاشية”, …) as a paragraph with an asterisk (# *; They are not part of the structure of the text. I just wanted them to be distinguishable). 4- PageV02P204-5 were duplicated. I deleted them. PageV02P45-6 are missing (PageV02P275-6 are duplicated in their places).
+90#VERS#COMMENT##: The version I used for collation is a reprint. 2- I put each
+    name on a separate line. 3- I showed all kinds of commentaries to the books
+    (“شرح”, “حاشية”, …) as a paragraph with an asterisk (# *; They are not part of
+    the structure of the text. I just wanted them to be distinguishable). 4-
+    PageV02P204-5 were duplicated. I deleted them. PageV02P45-6 are missing
+    (PageV02P275-6 are duplicated in their places).
 90#VERS#DATE#####: 2020-12-14
 90#VERS#ISSUES###: RANDOM_CHARS, MISSING_PARTS

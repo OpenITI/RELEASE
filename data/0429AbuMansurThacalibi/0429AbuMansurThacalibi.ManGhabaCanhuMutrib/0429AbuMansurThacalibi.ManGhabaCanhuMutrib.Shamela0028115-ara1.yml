@@ -1,5 +1,5 @@
-00#VERS#CLENGTH##: 49383
-00#VERS#LENGTH###: 11730
+00#VERS#CLENGTH##: 50004
+00#VERS#LENGTH###: 11860
 00#VERS#URI######: 0429AbuMansurThacalibi.ManGhabaCanhuMutrib.Shamela0028115-ara1
 80#VERS#BASED####: http://www.worldcat.org/oclc/29695041
 80#VERS#COLLATED#: http://www.worldcat.org/oclc/29695041
@@ -16,6 +16,10 @@
     There are more recent editions of this text, and considering the absence
     of this introduction in the typed version I would suggest adding an
     improved version to the corpus.
-   NOTE OF THE REVIEWER (HRH): NO changes. I just added the paragraph typed by the annotator in the yml file to the text (Although the text is an old edition, it seems to have a good quality. A higher-quality edition can be added in a separate file). 2- A different edition is accessible here: https://archive.org/details/Heliopolis1957_gmail_20181016_2236
+   NOTE OF THE REVIEWER (HRH): NO changes. I just added the paragraph typed by
+    the annotator in the yml file to the text (Although the text is an old edition,
+    it seems to have a good quality. A higher-quality edition can be added in a
+    separate file). 2- A different edition is accessible here:
+    https://archive.org/details/Heliopolis1957_gmail_20181016_2236
 90#VERS#DATE#####: 2019-08-01
 90#VERS#ISSUES###: NO_MAJOR_ISSUES

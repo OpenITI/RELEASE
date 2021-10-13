@@ -1,10 +1,15 @@
-00#VERS#CLENGTH##: 1870997
-00#VERS#LENGTH###: 408415
+00#VERS#CLENGTH##: 1870897
+00#VERS#LENGTH###: 408395
 00#VERS#URI######: 1372KurdCali.KhitatSham.Shamela0037063-ara1
 80#VERS#BASED####: http://www.worldcat.org/oclc/4769947089
 80#VERS#COLLATED#: http://www.worldcat.org/oclc/4769947089
 80#VERS#LINKS####: https://archive.org/details/2471zip190
 90#VERS#ANNOTATOR: HRH
-90#VERS#COMMENT##: The whole volume 5, PageV03P129-136, No. 193 (in PageV06P106), and No. 559 (in page PageV06P151) are missing. 2. The tag ### $ is used for the place entries like the names of schools, mosques... (A few of such entries are inside the lines, or are just descriptions of places without any name. To maintain the consistency of the numbers, I tagged them as well). 3. The numbers of entries are checked by Peter’s script.
+90#VERS#COMMENT##: The whole volume 5, PageV03P129-136, No. 193 (in
+    PageV06P106), and No. 559 (in page PageV06P151) are missing. 2. The tag ### $ is
+    used for the place entries like the names of schools, mosques... (A few of such
+    entries are inside the lines, or are just descriptions of places without any
+    name. To maintain the consistency of the numbers, I tagged them as well). 3. The
+    numbers of entries are checked by Peter’s script.
 90#VERS#DATE#####: 2020-10-16
 90#VERS#ISSUES###: INCOMPLETE_VERSION, MISSING_PARTS, EDITORIAL_SECTIONS

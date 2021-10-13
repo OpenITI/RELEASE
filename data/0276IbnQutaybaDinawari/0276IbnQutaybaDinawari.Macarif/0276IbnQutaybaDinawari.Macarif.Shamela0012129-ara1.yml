@@ -1,9 +1,10 @@
-00#VERS#CLENGTH##: 472094
-00#VERS#LENGTH###: 117860
+00#VERS#CLENGTH##: 381892
+00#VERS#LENGTH###: 96494
 00#VERS#URI######: 0276IbnQutaybaDinawari.Macarif.Shamela0012129-ara1
 80#VERS#BASED####: http://www.worldcat.org/oclc/4771270313
 80#VERS#COLLATED#: http://www.worldcat.org/oclc/4770353820
-80#VERS#LINKS####: https://ia800208.us.archive.org/16/items/Alma3arif/Alma3arif.pdf
+80#VERS#LINKS####:
+    https://ia800208.us.archive.org/16/items/Alma3arif/Alma3arif.pdf
 90#VERS#ANNOTATOR: Leonie Nückell (Leipzig); Gowaart Van Den Bossche;
     MGR
 90#VERS#COMMENT##: From LN > text and pdf were quite tricky. everthing
@@ -15,6 +16,14 @@
     easily with regex. Pagination has not been implemented successfully and
     instead follows its own system with "/pagenumber". This seems rather
     complex to fix, so I have not tried.
-   NOTE OF THE REVIEWER (HRH): Changes in the levelling of the headers made. Untagged headers tagged. A few untagged name entries tagged (there seems to be more untagged entries in the text. However, unfortunately, the entries are not numbered, and the only way to find the untagged ones is to collate the digital text with the PDF carefully). A title added in PageV01P117 in square brackets. A blank header added in PageV01P249. 2- Pagination of the text is correct. The numbers between // reported by Gowaart are not page numbers (maybe They are markers representing something in the manuscript. I have no idea). 3- The PDF is a reprint of the digital edition.
+   NOTE OF THE REVIEWER (HRH): Changes in the levelling of the headers made.
+    Untagged headers tagged. A few untagged name entries tagged (there seems to be
+    more untagged entries in the text. However, unfortunately, the entries are not
+    numbered, and the only way to find the untagged ones is to collate the digital
+    text with the PDF carefully). A title added in PageV01P117 in square brackets. A
+    blank header added in PageV01P249. 2- Pagination of the text is correct. The
+    numbers between // reported by Gowaart are not page numbers (maybe They are
+    markers representing something in the manuscript. I have no idea). 3- The PDF is
+    a reprint of the digital edition.
 90#VERS#DATE#####: 2019-10-24
 90#VERS#ISSUES###: HTML_TAGS

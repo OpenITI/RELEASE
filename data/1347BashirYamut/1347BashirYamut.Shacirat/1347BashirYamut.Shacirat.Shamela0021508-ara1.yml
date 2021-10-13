@@ -1,10 +1,23 @@
-00#VERS#CLENGTH##: 153588
-00#VERS#LENGTH###: 36631
+00#VERS#CLENGTH##: 153564
+00#VERS#LENGTH###: 36626
 00#VERS#URI######: 1347BashirYamut.Shacirat.Shamela0021508-ara1
 80#VERS#BASED####: http://www.worldcat.org/oclc/4770333532
 80#VERS#COLLATED#: http://www.worldcat.org/oclc/4770333532
-80#VERS#LINKS####: https://ia802807.us.archive.org/23/items/3801pdf_202001/3801 كتاب اقرا اونلاين    pdf   شاعرات العرب في الجاهلية والإسلام.pdf
+80#VERS#LINKS####: https://ia802807.us.archive.org/23/items/3801pdf_202001/3801
+    كتاب اقرا اونلاين    pdf   شاعرات العرب في الجاهلية والإسلام.pdf
 90#VERS#ANNOTATOR: HRH
-90#VERS#COMMENT##: Although the edition I used for collation is exactly the same as the edition of the digital version and the pages are the same, the digital version contains extra information that does not appear in the PDF. There is a short biographical section entitled (“ترجمتها”) at the beginning of most names that does not exist in the PDF. The sub-header “المناسبة” does not exist in the PDF either and the information in this part is sometimes more detailed in comparison with what is written in the PDF (I tagged these two subsections as “#~:section:”). The digital version also contains extra entries that do not exist in the PDF. It seems that the producer of the digital version has added more information about each poet (or maybe the information in the METADATA is wrong and the version is based on a newer edition). The information is valuable anyway. I don’t think we need to do anything about it. 2- The numbers are checked by Peter’s script.
+90#VERS#COMMENT##: Although the edition I used for collation is exactly the same
+    as the edition of the digital version and the pages are the same, the digital
+    version contains extra information that does not appear in the PDF. There is a
+    short biographical section entitled (“ترجمتها”) at the beginning of most names
+    that does not exist in the PDF. The sub-header “المناسبة” does not exist in the
+    PDF either and the information in this part is sometimes more detailed in
+    comparison with what is written in the PDF (I tagged these two subsections as
+    “#~:section:”). The digital version also contains extra entries that do not
+    exist in the PDF. It seems that the producer of the digital version has added
+    more information about each poet (or maybe the information in the METADATA is
+    wrong and the version is based on a newer edition). The information is valuable
+    anyway. I don’t think we need to do anything about it. 2- The numbers are
+    checked by Peter’s script.
 90#VERS#DATE#####: 2020-10-27
 90#VERS#ISSUES###: EDITORIAL_SECTIONS, HTML_TAGS

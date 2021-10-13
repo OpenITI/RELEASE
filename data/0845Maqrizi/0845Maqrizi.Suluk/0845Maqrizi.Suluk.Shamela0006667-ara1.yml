@@ -1,5 +1,5 @@
-00#VERS#CLENGTH##: 3634543
-00#VERS#LENGTH###: 821823
+00#VERS#CLENGTH##: 3634591
+00#VERS#LENGTH###: 821835
 00#VERS#URI######: 0845Maqrizi.Suluk.Shamela0006667-ara1
 80#VERS#BASED####: http://www.worldcat.org/oclc/4770686226
 80#VERS#COLLATED#: http://www.worldcat.org/oclc/4770686226
@@ -8,6 +8,9 @@
     use consistently)
 90#VERS#COMMENT##: the text was tagged before; no proper YML file yet.
     See, `README.md` for details.
-   NOTE OF THE REVIEWER (HRH): Changes in the levelling of the headers made. 2- The annotator reports more than 15 missing titles and some other missing sentences, without mentioning their places in the text. I typed three missing titles that I found. There might be more cases.
+   NOTE OF THE REVIEWER (HRH): Changes in the levelling of the headers made. 2-
+    The annotator reports more than 15 missing titles and some other missing
+    sentences, without mentioning their places in the text. I typed three missing
+    titles that I found. There might be more cases.
 90#VERS#DATE#####: YYYY-MM-DD
 90#VERS#ISSUES###: MISSING_PARTS

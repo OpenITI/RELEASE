@@ -1,5 +1,5 @@
-00#VERS#CLENGTH##: 4402128
-00#VERS#LENGTH###: 1107224
+00#VERS#CLENGTH##: 4399004
+00#VERS#LENGTH###: 1106480
 00#VERS#URI######: 0279Baladhuri.AnsabAshraf.Shamela0009773-ara1
 80#VERS#BASED####: Volumes 1-5: http://www.worldcat.org/oclc/863548714; Volumes
     6-13: http://www.worldcat.org/oclc/122969004
@@ -19,26 +19,41 @@
     92822/ page 81 is not complete and page 82 and 83 are omitted. The names
     of chapters and the titles are messy but i tried to contens of book.
     NOTE OF THE REVIEWER (HRH): 1- About the edition: The digital version is a
-    combination of two different editions. The first five volumes are the Muʾssisaŧ
-    al-Aʿlamī edition (first link which leads you to a payment-based website and you
-    must have an account to see the PDF) and the rest of the volumes are Dar al-fikr
+    combination of two different editions. The first five volumes are the
+    Muʾssisaŧ
+    al-Aʿlamī edition (first link which leads you to a payment-based website and
+    you
+    must have an account to see the PDF) and the rest of the volumes are Dar al-
+    fikr
     edition (second link), beginning with PageV06P255 to avoid overlap with the
-    first edition (NB: The first volumes of both editions are the same). 2- There is
-    a table of the content at the right-side bar of the first link I provided. This
-    table is very accurate and has a lot of titles that do not appear in the text. A
-    specialist can use this table to add a lot of titles in square brackets to make
-    the structure clearer. 3- About levelling of the headers: All the headers were
-    first -levels. I corrected the levelling of the headers up to the tenth-level
+    first edition (NB: The first volumes of both editions are the same). 2-
+    There is
+    a table of the content at the right-side bar of the first link I provided.
+    This
+    table is very accurate and has a lot of titles that do not appear in the
+    text. A
+    specialist can use this table to add a lot of titles in square brackets to
+    make
+    the structure clearer. 3- About levelling of the headers: All the headers
+    were
+    first -levels. I corrected the levelling of the headers up to the tenth-
+    level
     headers. In Ansab texts, presenting the correct levelling for headers is
     extremely difficult since you must find out the relations between people and
-    tribes to do it. I tried to do this by searching in other sources and show it in
-    the levelling of the headers. I added 6 titles in PageV12P019 and one title in
+    tribes to do it. I tried to do this by searching in other sources and show
+    it in
+    the levelling of the headers. I added 6 titles in PageV12P019 and one title
+    in
     PageV11P271 (in square brackets) to correct the levelling. Some changes are
-    still needed in some parts by a specialist in Ansab literature. 4- Many of the
-    redundant automatic tags were not removed, I removed a lot of them that I found.
-    5- The text was overtagged in names, usually by breaking the line and tagging
+    still needed in some parts by a specialist in Ansab literature. 4- Many of
+    the
+    redundant automatic tags were not removed, I removed a lot of them that I
+    found.
+    5- The text was overtagged in names, usually by breaking the line and
+    tagging
     the names inside the lines. I untagged such names, but replaced them with
-    asterisk (i.e. # *) so that they can be used in a later stage for tagging the
+    asterisk (i.e. # *) so that they can be used in a later stage for tagging
+    the
     names inside the text (However, these name tags are not very consistent).
     NB: check lines of poetry that seem too short: line numbers 2519, 30351,
     54323, 65720, 71998, 82368, 82370, 85503, 86060, 86061, 86062, 86063, 89918,

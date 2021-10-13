@@ -1,10 +1,13 @@
-00#VERS#CLENGTH##: 48047
-00#VERS#LENGTH###: 10017
+00#VERS#CLENGTH##: 46676
+00#VERS#LENGTH###: 9727
 00#VERS#URI######: 1346CabbasIbnMuhammadMadani.MukhtasarFathRabbArbab.Shamela0031381-ara1
 80#VERS#BASED####: http://www.worldcat.org/oclc/1041875033
 80#VERS#COLLATED#: http://www.worldcat.org/oclc/1041875033
-80#VERS#LINKS####: https://ia803203.us.archive.org/21/items/20200827_20200827_0952/مختصر فتح رب الأرباب بما أهمل في لب اللباب من واجب الأنساب.pdf
+80#VERS#LINKS####:
+    https://ia803203.us.archive.org/21/items/20200827_20200827_0952/مختصر فتح رب
+    الأرباب بما أهمل في لب اللباب من واجب الأنساب.pdf
 90#VERS#ANNOTATOR: HRH
-90#VERS#COMMENT##: I deleted a part of PageV01P042 and PageV01P061 which were duplicated.
+90#VERS#COMMENT##: I deleted a part of PageV01P042 and PageV01P061 which were
+    duplicated.
 90#VERS#DATE#####: 2020-11-02
 90#VERS#ISSUES###: EDITORIAL_SECTIONS
