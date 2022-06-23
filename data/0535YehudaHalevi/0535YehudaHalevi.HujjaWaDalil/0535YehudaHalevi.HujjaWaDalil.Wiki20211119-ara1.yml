@@ -1,0 +1,14 @@
+00#VERS#CLENGTH##: 180008
+00#VERS#LENGTH###: 42225
+00#VERS#URI######: 0535YehudaHalevi.HujjaWaDalil.Wiki20211119-ara1
+80#VERS#BASED####:
+    https://ar.wikisource.org/wiki/%D9%83%D8%AA%D8%A7%D8%A8_%D8%A7%D9%84%D8%AE%D8%B2%D8%B1%D9%8A
+80#VERS#COLLATED#:
+80#VERS#LINKS####:
+90#VERS#ANNOTATOR: Gowaart Van Den Bossche
+90#VERS#COMMENT##: Digitised text extracted from Wikisource and tagged in
+    mARkdown. We have another version of the text in the corpus, but as that's
+    uncorrected OCR I thought it would be worthwhile to include this version as
+    well. It is unclear which edition this version is based on.
+90#VERS#DATE#####: 2021-11-19
+90#VERS#ISSUES###: NO_MAJOR_ISSUES

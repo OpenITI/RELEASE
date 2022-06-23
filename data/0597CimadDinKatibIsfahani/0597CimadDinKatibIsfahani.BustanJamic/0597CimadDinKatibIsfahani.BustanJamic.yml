@@ -1,0 +1,17 @@
+00#BOOK#URI######: 0597CimadDinKatibIsfahani.BustanJamic
+10#BOOK#GENRES###: src@keyword, src@keyword, src@keyword
+10#BOOK#TITLEA#AR: al-Bustān al-ǧāmiʿ li-ǧāmiʿ tawārīḫ ahl al-zamān
+10#BOOK#TITLEB#AR: al-Rawḍ al-nāḍir fī aḫbār al-awāʾil wa-l-awāḫir
+20#BOOK#WROTE####: URIs from Althurayya, comma separated
+30#BOOK#WROTE##AH: YEAR-MON-DA (X+ for unknown)
+40#BOOK#RELATED##: URI of a book from OpenITI, or [Author's Title],
+    followed by abbreviation for relation type between brackets (see
+    book_relations repo). Only include relations with older books. Separate
+    related books with semicolon.
+80#BOOK#EDITIONS#: permalink, permalink, permalink
+80#BOOK#LINKS####: permalink, permalink, permalink
+80#BOOK#MSS######: Istanbul Ahmet III 2959; Bodleian Huntington 172.
+80#BOOK#STUDIES##: permalink, permalink, permalink
+80#BOOK#TRANSLAT#: permalink, permalink, permalink
+90#BOOK#COMMENT##: Authorship of this text is doubtful. Alternative title is
+    found on the Huntington manuscript.
