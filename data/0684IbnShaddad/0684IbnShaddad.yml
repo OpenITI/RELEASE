@@ -1,0 +1,17 @@
+00#AUTH#URI######: 0684IbnShaddad
+10#AUTH#ISM####AR: Muḥammad
+10#AUTH#KUNYA##AR: Abū ʿAbd Allāh
+10#AUTH#LAQAB##AR: ʿIzz al-dīn
+10#AUTH#NASAB##AR: b. ʿAlī b. Ibrāhīm
+10#AUTH#NISBA##AR: al-Anṣārī, al-Ḥalabī
+10#AUTH#SHUHRA#AR: Ibn Šaddād
+20#AUTH#BORN#####: Sham_RE_Auto
+20#AUTH#DIED#####: URIs from Althurayya, comma separated
+20#AUTH#RESIDED##: URIs from Althurayya, comma separated
+20#AUTH#VISITED##: URIs from Althurayya, comma separated
+30#AUTH#BORN###AH: 0613-XXX-XX
+30#AUTH#DIED###AH: 0684-XXX-XX
+40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
+40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
+90#AUTH#COMMENT##: EI2: "ʿIzz al-Dīn Abū ʿAbd Allāh Muḥammad b. ʿAlī al-Ḥalabī , Syrian author of topographical and historical works, born in 613/1217 in Aleppo, died in Cairo in 684/1285. A famous secretary of the chancellery and a skilful administrator, ...": http://dx.doi.org/10.1163/1573-3912_islam_SIM_3367

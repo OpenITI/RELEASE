@@ -1,0 +1,22 @@
+00#VERS#CLENGTH##: 552989
+00#VERS#LENGTH###: 130817
+00#VERS#URI######: 0643IbnSalahShahrazuri.MuqaddimatCulumHadith.Shamela0029878BK1-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/1229997840
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/1229997840
+80#VERS#LINKS####: https://archive.org/details/FP48801
+90#VERS#ANNOTATOR: PV
+90#VERS#COMMENT##: This is a digital text of Ibn al-Ṣalāḥ's Muqaddima.
+    In the print edition, Ibn al-Ṣalāḥ's text was printed
+    together with a commentary by al-Bulqīnī: Ibn al-Ṣalāḥ's text
+    at the top of the page, and al-Bulqīnī's at the bottom.
+    Ibn al-Ṣalāḥ's text contains 65 anwāʿ,
+    and at the end of the text, al-Bulqīnī adds four additional anwāʿ.
+    The digital text contained only Ibn al-Ṣalāḥ's text
+    and al-Bulqīnī's four additional anwāʿ, not al-Bulqīnī's
+    comments to Ibn al-Ṣalāḥ's text.
+    PV split off al-Bulqīnī's additional anwāʿ from Ibn al-Ṣalāḥ's text.
+    PV corrected the structural tagging and removed the lines
+    that contained only dots to indicate that the current page
+    contains only text by al-Bulqīnī, not text by Ibn al-Ṣalāḥ.
+90#VERS#DATE#####: 2022-06-01
+90#VERS#ISSUES###: NO_MAJOR_ISSUES

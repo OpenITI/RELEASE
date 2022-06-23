@@ -1,0 +1,16 @@
+00#VERS#CLENGTH##: 474326
+00#VERS#LENGTH###: 109707
+00#VERS#URI######: 0660IbnCadim.ZubdatHalab.Shamela0009872-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/36323253
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/36323253
+80#VERS#LINKS####: https://archive.org/details/2692p.d.f2449
+90#VERS#ANNOTATOR: the name of the annotator (latin characters; please
+    use consistently)
+90#VERS#COMMENT##: the text was tagged before; no proper YML file yet.
+    See, `README.md` for details.
+    NOTE OF THE REVIEWER (HRH): Corrected levelling of the headers. Fixed the
+    numbers of the chapters that were wrong. 2- some chapters (qism) are obviously
+    subsections of other qisms (like qisms 6, 7, 8 that are subsections of the 5th
+    qism). However, I kept all the qisms as first-level to keep the levelling of the
+    author. 3- Page 5 (the author’s introduction) is missing.
+90#VERS#ISSUES###: MISSING_PARTS, HTML_TAGS

@@ -1,0 +1,22 @@
+00#VERS#CLENGTH##: 154971
+00#VERS#LENGTH###: 34694
+00#VERS#URI######: 0692IbnCabdZahir.TashrifAyyam.GVDB20200720-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/63163399
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/63163399
+80#VERS#LINKS####: https://www.moswarat.com/books_view_1373.html
+90#VERS#ANNOTATOR: Gowaart Van Den Bossche
+90#VERS#COMMENT##: This text was generated through Google Drive OCR, and then
+    formatted, cleaned up, corrected and annotated by Gowaart. The cleaning up is
+    still in progress. Only sections marked CHECKED at the end have been closely
+    compared to the edition, the other sections still include many typos.
+    Update 2020-10-28: cleaned up page numbers, improved paragraphs, and changed
+    hierarchy to make year changes more clearly recognisable (following manuscript
+    logic more so than that of the edition). I have added two such year headers in
+    square brackets, the first one of which likely formed part of a now lost section
+    at the start of the third volume. The last one is entirely editorial, as the
+    following parts were clearly added to the text at a later point (they all relate
+    to the year 689 while years 687-8 are not dealt with at all). Some typos were
+    corrected further, but the majority of the text still need further checking.
+    This is on Gowaart's radar and will be ongoing for a while.
+90#VERS#DATE#####: 2020-07-20
+90#VERS#ISSUES###: MANY_TYPOS

@@ -1,0 +1,14 @@
+00#VERS#CLENGTH##: 481168
+00#VERS#LENGTH###: 130607
+00#VERS#URI######: 0670IbnAscadHanati.Masalik.Kraken220107010708-per1
+80#VERS#BASED####: http://www.worldcat.org/oclc/1298744579
+80#VERS#COLLATED#:
+80#VERS#LINKS####:
+90#VERS#ANNOTATOR:
+90#VERS#COMMENT##: OCRed through Kraken:
+    * Kraken version: 3.0.0.0b21.dev6
+    * segmentation model: DEFAULT
+    * OCR model: 10-18-2021_ArabPersGeneralized.mlmodel
+    NOTE: PDF provided by PV
+90#VERS#DATE#####: 2022-01-07
+90#VERS#ISSUES###: UNCORRECTED_OCR

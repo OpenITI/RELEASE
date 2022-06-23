@@ -1,0 +1,42 @@
+00#VERS#CLENGTH##: 1422378
+00#VERS#LENGTH###: 340596
+00#VERS#URI######: 0676Nawawi.TahdhibAsma.Shamela0009702-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/20240100
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/20240100
+80#VERS#LINKS####: https://ia802901.us.archive.org/34/items/20200129_20200129_1056/تهذيب الأسماء واللغات للامام النووي.pdf
+90#VERS#ANNOTATOR: HRH
+90#VERS#COMMENT##: I tagged the first three names as headers (not
+    biography) because they include a lot of subsections. A few of the
+    biographical tags also include subsections. I showed such subsections as
+    paragraphs but with two asterisks (i.e. # **) so that they are
+    distinguishable. 2- To present the correct leveling for headers, a few
+    titles need to be added. The title in PageV01P010 (“[القسم الأول: في
+    الأسماء]”) must be separated into two titles: first-level = “كتاب
+    الأسماء”, and second-level = “القسم الأول من كتاب الأسماء: فى الرجال”.
+    In PageV01P021 two titles must be added: Third-level = “النوع الأول: فى
+    الأسماء الصريحة”, and fourth-level = “محمدون”. 3- The second part of the
+    book is a dictionary and explains about some words in alphabetical
+    order. I used the complete tag (i.e. ### $DIC_LEX$ for lexical entries
+    and ### $DIC_TOP$ for toponyms) in this part. As discussed in the
+    meeting, I did not use simplified tag (i.e. ### $) for such items
+    because the book also includes lots of names and the simplified tag is
+    the same as biographical tag and these two needed to be distinguishable
+    in the text. There was no automatic tag for this second part of the book
+    and all the tags in this part are inserted manually. 4- Numbers 930-977
+    are the names of tribes or groups of people. I also tagged them as
+    lexical entries (i.e. ### $DIC_LEX$) so that they are distinguishable.
+    However, I’m not sure about this, because we do not have a specific tag
+    for the names of tribes. So, maybe it should be changed. 5- In page
+    1/221 of the PDF, the numbers jump from 213 to 215 and in page 240 of
+    the PDF, number 241 is repeated. But the digital version has corrected
+    this mistake. This is why from pages 215-240, the numbers in the digital
+    version are one less than those in the PDF and after that the numbers
+    are the same again. So, this is a problem in the PDF and the digital
+    version is correct. Besides, In the PDF, The numbers resume at the
+    beginning of each Juz’, but in the digital version they continue from
+    the previous Juz’. The digital version is again better than the PDF. 6-
+    These numbers that appear among the names are not names and do not need
+    to be tagged: 1094-1139;1261-1272; 1030-1093; 1233-1260. I just showed
+    their places with one asterisk (i.e. # *).
+90#VERS#DATE#####: 2020-08-10
+90#VERS#ISSUES###: EDITORIAL_SECTIONS, PARATEXT, HTML_TAGS
