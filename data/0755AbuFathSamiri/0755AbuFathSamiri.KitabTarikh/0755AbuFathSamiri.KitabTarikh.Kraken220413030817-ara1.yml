@@ -1,0 +1,15 @@
+00#VERS#CLENGTH##: 153297
+00#VERS#LENGTH###: 35873
+00#VERS#URI######: 0755AbuFathSamiri.KitabTarikh.Kraken220413030817-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/978492457
+80#VERS#COLLATED#:
+80#VERS#LINKS####: https://www.digitale-
+    sammlungen.de/de/view/bsb10477093?page=,1
+90#VERS#ANNOTATOR:
+90#VERS#COMMENT##: OCRed through Kraken:
+    * Kraken version: 3.0.0.0b21.dev6
+    * segmentation model: DEFAULT
+    * OCR model: 12-24-2021_ArabPersGeneralized.mlmodel
+    NOTE: pdf 2 jpg
+90#VERS#DATE#####: 2022-04-13
+90#VERS#ISSUES###: UNCORRECTED_OCR

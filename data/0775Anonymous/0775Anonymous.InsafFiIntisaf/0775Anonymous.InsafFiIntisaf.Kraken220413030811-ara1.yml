@@ -1,0 +1,14 @@
+00#VERS#CLENGTH##: 1393440
+00#VERS#LENGTH###: 335631
+00#VERS#URI######: 0775Anonymous.InsafFiIntisaf.Kraken220413030811-ara1
+80#VERS#BASED####: NOT_FOUND
+80#VERS#COLLATED#:
+80#VERS#LINKS####: https://alfeker.net/library.php?id=4235
+90#VERS#ANNOTATOR:
+90#VERS#COMMENT##: OCRed through Kraken:
+    * Kraken version: 3.0.0.0b21.dev6
+    * segmentation model: DEFAULT
+    * OCR model: 12-24-2021_ArabPersGeneralized.mlmodel
+    NOTE: pushed to barzakh; book written in 0757
+90#VERS#DATE#####: 2022-04-13
+90#VERS#ISSUES###: UNCORRECTED_OCR

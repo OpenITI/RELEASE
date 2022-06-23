@@ -1,0 +1,13 @@
+00#VERS#CLENGTH##: 431033
+00#VERS#LENGTH###: 97961
+00#VERS#URI######: 0758Maqqari.Qawacid.Kraken220413030809-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/1107066288
+80#VERS#COLLATED#:
+80#VERS#LINKS####: https://archive.org/details/FP37340
+90#VERS#ANNOTATOR:
+90#VERS#COMMENT##: OCRed through Kraken:
+    * Kraken version: 3.0.0.0b21.dev6
+    * segmentation model: DEFAULT
+    * OCR model: 12-24-2021_ArabPersGeneralized.mlmodel
+90#VERS#DATE#####: 2022-04-13
+90#VERS#ISSUES###: UNCORRECTED_OCR

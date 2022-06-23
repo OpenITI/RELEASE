@@ -1,0 +1,18 @@
+00#VERS#CLENGTH##: 36802
+00#VERS#LENGTH###: 8369
+00#VERS#URI######: 0700GhaziIbnWasiti.RaddCalaAhlDhimma.Kraken220323022418-ara1
+80#VERS#BASED####: NOT_FOUND
+80#VERS#COLLATED#:
+80#VERS#LINKS####:
+    https://www.jstor.org/stable/pdf/593747.pdf?refreqid=excelsior:ab28873624d13a3867d5d30d99e727d2&ab_segments=&origin=
+90#VERS#ANNOTATOR:
+90#VERS#COMMENT##: OCRed through Kraken:
+    * Kraken version: 3.0.0.0b21.dev6
+    * segmentation model: DEFAULT
+    * OCR model: 12-24-2021_ArabPersGeneralized.mlmodel
+    NOTE: See ed. and tr. R. Gottheil, in JAOS [1921], 338-457; NB: Death date needs
+    to be verified; 0700 AH here because of the statement in the editorial
+    introduction: "The treatise, then, must have been written in Egypt towards the
+    end of the thirteenth or the  beginning of the fourteenth century."
+90#VERS#DATE#####: 2022-03-23
+90#VERS#ISSUES###: UNCORRECTED_OCR

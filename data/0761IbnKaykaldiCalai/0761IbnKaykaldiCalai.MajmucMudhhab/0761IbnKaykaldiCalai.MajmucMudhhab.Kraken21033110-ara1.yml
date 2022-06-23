@@ -1,0 +1,23 @@
+00#VERS#CLENGTH##: 931338
+00#VERS#LENGTH###: 218486
+00#VERS#URI######: 0761IbnKaykaldiCalai.MajmucMudhhab.Kraken21033110-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/4770291567
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/4770291567
+80#VERS#LINKS####: https://www.noor-book.com/كتاب-المجموع-المذهب-في-قواعد-
+    المذهب-ت-العبيدي-وعباس-pdf
+90#VERS#ANNOTATOR: SPL (CnC)
+90#VERS#COMMENT##: OCRed through Kraken; arabPers-WithDiffTypefaces.mlmodel.
+    OCR had problems with beginning and ends of some lines,
+    which required a lot of manual correction (see tracking doc).
+    Early in text, qawaids are generally in-text but introduced
+    by 'qāʿida' (w/o definite article)
+    or introduced with an ordinal number e.g., القاعدة الخامسة.
+    Later in the text they are in separate sections with 'qāʿida' headers
+    (and annotated as individual headings);
+    these are not always immediately followed by a qāʿida, however.
+    Finally, the hierachy of sections of the text was not clear at all,
+    so level headings are unlikely to be totally accurate w/o a closer reading.
+    Pagination failed. There was a qawāʿid index but this has been removed;
+    please refer to PDF edition.
+90#VERS#DATE#####: 2021-04-08
+90#VERS#ISSUES###: PAGINATION, UNCORRECTED_OCR

@@ -1,0 +1,17 @@
+00#AUTH#URI######: 0749IbnFadlAllahCumari
+10#AUTH#ISM####AR: Aḥmad
+10#AUTH#KUNYA##AR: Abū al-ʿAbbās
+10#AUTH#LAQAB##AR: Šihāb al-dīn
+10#AUTH#NASAB##AR: b. Yaḥyá b. Faḍl Allāh
+10#AUTH#NISBA##AR: al-Qurašī, al-ʿAdawī, al-ʿUmarī
+10#AUTH#SHUHRA#AR: Ibn Faḍl Allāh al-ʿUmarī
+20#AUTH#BORN#####: DIMASHQ_363E335N_S
+20#AUTH#DIED#####: DIMASHQ_363E335N_S
+20#AUTH#RESIDED##: DIMASHQ_363E335N_S, QAHIRA_312E300N_S
+20#AUTH#VISITED##: BAYTMAQDIS_352E317N_S
+30#AUTH#BORN###AH: 0700-SHW-03
+30#AUTH#DIED###AH: 0749-DHH-09
+40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
+40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
+90#AUTH#COMMENT##: EI2: "S̲h̲ihāb al-Dīn Abu ’l-ʿAbbās Aḥmad b. Yaḥyā Ibn Faḍl Allāh al-Ḳuras̲h̲ī al-ʿAdawī al-ʿUmarī was born in Damascus on 3 S̲h̲awwāl 700/12 June 1301, of a S̲h̲āfiʿī family already distinguished in the Mamlūk civil service.": http://dx.doi.org/10.1163/1573-3912_islam_SIM_3153
