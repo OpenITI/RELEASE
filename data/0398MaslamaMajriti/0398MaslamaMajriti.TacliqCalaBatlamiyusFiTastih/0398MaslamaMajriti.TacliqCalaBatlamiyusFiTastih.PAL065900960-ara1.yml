@@ -1,0 +1,19 @@
+00#VERS#CLENGTH##: 8719
+00#VERS#LENGTH###: 2268
+00#VERS#URI######: 0398MaslamaMajriti.TacliqCalaBatlamiyusFiTastih.PAL065900960-ara1
+80#VERS#BASED####: https://ptolemaeus.badw.de/ms/659/960/transcription/1
+80#VERS#COLLATED#: https://ptolemaeus.badw.de/ms/659/960/transcription/1
+80#VERS#LINKS####: https://ptolemaeus.badw.de/ms/659/960/transcription/1
+90#VERS#ANNOTATOR: PV
+90#VERS#COMMENT##: Transcription of the only extant ms. (Paris BnF 4821)
+    of Maslama's notes on Ptolemy's Planisphaerium.  Transcription by Paul
+    Hullmeine (https://ptolemaeus.badw.de/team/38). Text digitized by the
+    Ptolemaeus Arabus et Latinus project at the Bayerische Akademie der
+    Wissenschaften. The text was converted to OpenITI mARkdown by PV. The
+    text contains images (diagrams). Standard markdown links have been used
+    to link to the images. Arabic characters representing a number  (or
+    points on a line in geometrical explanations) are overlined in the
+    manuscript and tagged as `<u class="num">` in the transliteration;  PV
+    has tagged these characters with a `@NUM@` tag.
+90#VERS#DATE#####: 2020-12-02
+90#VERS#ISSUES###: IMAGES

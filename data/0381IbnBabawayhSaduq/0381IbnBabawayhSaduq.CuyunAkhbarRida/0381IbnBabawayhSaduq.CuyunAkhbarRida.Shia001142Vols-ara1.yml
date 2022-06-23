@@ -1,0 +1,19 @@
+00#VERS#CLENGTH##: 668054
+00#VERS#LENGTH###: 165121
+00#VERS#URI######: 0381IbnBabawayhSaduq.CuyunAkhbarRida.Shia001142Vols-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/992682151
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/992682151
+80#VERS#LINKS####:
+    https://www.noorlib.ir/View/fa/Book/BookView/Image/39487;
+    http://alfeker.net/library.php?id=1868
+90#VERS#ANNOTATOR: HRH
+90#VERS#COMMENT##: 1- I used the first link in VERS#LINKS for collation
+    which is exactly the same edition as the Shia edition; but it leads you
+    to a payment-based website and you must have an account to see the
+    contents. So, I provided the second link which is a reprint of the first
+    one. 2- The two volumes of the book appear in reverse order in Editpro
+    text. First, we see the second volume and after that the first volume
+    appears. The number of the volumes in pagination must also be corrected
+    after changing the place of the two volumes.
+90#VERS#DATE#####: 2020-01-04
+90#VERS#ISSUES###: RANDOM_CHARS, EDITORIAL_SECTIONS

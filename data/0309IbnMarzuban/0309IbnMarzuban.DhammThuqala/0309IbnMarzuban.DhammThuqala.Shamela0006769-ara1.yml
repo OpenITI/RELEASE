@@ -1,0 +1,20 @@
+00#VERS#CLENGTH##: 25240
+00#VERS#LENGTH###: 6375
+00#VERS#URI######: 0309IbnMarzuban.DhammThuqala.Shamela0006769-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/1103840845
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/1103840845
+80#VERS#LINKS####:
+    https://www.noorlib.ir/view/fa/book/bookview/image/38292;
+    https://www.almeshkat.com/book/4276
+90#VERS#ANNOTATOR: HRH
+90#VERS#COMMENT##: There are two links in VERS#LINKS. The first one (a
+    link to a payment-based website) is exactly the edition which is used in
+    in Editpro versions. I checked this text. Although it is an HTML file (I
+    couldn’t find the PDF of this edition), it shows that there is no title
+    in this very short text (and nothing else that need to be tagged). I
+    also collated the text with the second link in the VERS#LINKS which is a
+    PDF of a different edition of the text. This edition has no title
+    either. So, as far as structural annotating is concerned, there is
+    nothing in this text that needs to be tagged. 2- It is a little difficult to separate the PARATEXT from the  text since the text begins with a first-person narratoin.
+90#VERS#DATE#####: 2019-09-18
+90#VERS#ISSUES###: PARATEXT

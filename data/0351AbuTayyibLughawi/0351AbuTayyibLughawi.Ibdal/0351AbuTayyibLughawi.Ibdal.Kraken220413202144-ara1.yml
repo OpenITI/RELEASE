@@ -1,0 +1,17 @@
+00#VERS#CLENGTH##: 748315
+00#VERS#LENGTH###: 171803
+00#VERS#URI######: 0351AbuTayyibLughawi.Ibdal.Kraken220413202144-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/58639951
+80#VERS#COLLATED#:
+80#VERS#LINKS####: https://waqfeya.net/book.php?bid=4397,
+    https://www.archive.org/download/waq98828/01_98828p.pdf,
+    https://www.archive.org/download/waq98828/01_98828.pdf,
+    https://www.archive.org/download/waq98828/02_98829.pdf
+90#VERS#ANNOTATOR:
+90#VERS#COMMENT##: OCRed through Kraken:
+    * Kraken version: 3.0.0.0b21.dev6
+    * segmentation model: DEFAULT
+    * OCR model: 12-24-2021_ArabPersGeneralized.mlmodel
+    NOTE: URI change to 0351AbuTayyibLughawi.Ibdal submitted
+90#VERS#DATE#####: 2022-04-13
+90#VERS#ISSUES###: UNCORRECTED_OCR

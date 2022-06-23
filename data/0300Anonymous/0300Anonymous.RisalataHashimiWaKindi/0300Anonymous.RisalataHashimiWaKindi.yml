@@ -1,0 +1,28 @@
+00#BOOK#URI######: 0300Anonymous.RisalataHashimiWaKindi
+10#BOOK#GENRES###: CHRISTIANITY
+10#BOOK#TITLEA#AR: Risālaŧ ʿAbd Allāh b. Ismāʿīl al-Hāšimī ilá ʿAbd al-
+    Masīḥ b. Isḥāq al-Kindī
+    yadʿūhu bihā ilá al-islām wa-risālaŧ al-Kindī ilá al-Hāšimī yaruddu
+    bihā ʿalayhi
+    wa-yadʿūhu ilá al-naṣrāniyyaŧ
+10#BOOK#TITLEB#AR: Risālaŧ al-Kindī
+20#BOOK#WROTE####: URIs from Althurayya, comma separated
+30#BOOK#WROTE##AH: YEAR-MON-DA (X+ for unknown)
+40#BOOK#RELATED##: URI of a book from OpenITI, or [Author's Title],
+    followed by abbreviation for relation type between brackets (see
+    book_relations repo). Only include relations with older books. Separate
+    related books with semicolon.
+80#BOOK#EDITIONS#: permalink, permalink, permalink
+80#BOOK#LINKS####: permalink, permalink, permalink
+80#BOOK#MSS######: permalink, permalink, permalink
+80#BOOK#STUDIES##:
+    https://www.academia.edu/36443580/The_Apology_of_Al_Kindi
+80#BOOK#TRANSLAT#: permalink, permalink, permalink
+90#BOOK#COMMENT##: Christian polemical text, posing as an exchange of
+    letters
+    between a Christian and a Muslim. The author and date of writing are
+    unknown,
+    but the text is referred to by al-Bīrūnī in his al-Āthār al-Bāqiya.
+    Van Koningsveld
+    (https://www.academia.edu/36443580/The_Apology_of_Al_Kindi)
+    dates the text to the latter half of the 9th C CE.

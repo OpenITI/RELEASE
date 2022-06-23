@@ -1,0 +1,15 @@
+00#VERS#CLENGTH##: 227154
+00#VERS#LENGTH###: 59797
+00#VERS#URI######: 0321Tahawi.IkhtilafFuqaha.Kraken220410202738-ara1
+80#VERS#BASED####: NOT_FOUND
+80#VERS#COLLATED#:
+80#VERS#LINKS####:
+90#VERS#ANNOTATOR:
+90#VERS#COMMENT##: OCRed through Kraken:
+    * Kraken version: 3.0.0.0b21.dev6
+    * segmentation model: DEFAULT
+    * OCR model: 12-24-2021_ArabPersGeneralized.mlmodel
+    NOTE: https://down.ketabpedia.com/files/bkb/bkb-fi10711-ketabpedia.com.pdf has
+    only 42 pages, the document on the server has 282
+90#VERS#DATE#####: 2022-04-10
+90#VERS#ISSUES###: UNCORRECTED_OCR
