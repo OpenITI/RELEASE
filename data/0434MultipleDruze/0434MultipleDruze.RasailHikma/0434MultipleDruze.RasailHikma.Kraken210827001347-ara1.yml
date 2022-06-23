@@ -1,0 +1,16 @@
+00#VERS#CLENGTH##: 244667
+00#VERS#LENGTH###: 55047
+00#VERS#URI######: 0434MultipleDruze.RasailHikma.Kraken210827001347-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/494751059
+80#VERS#COLLATED#:
+80#VERS#LINKS####:
+90#VERS#ANNOTATOR: LMN
+90#VERS#COMMENT##: OCRed through Kraken:
+    * Kraken version: 3.0.0.0b21.dev6
+    * segmentation model: DEFAULT
+    * OCR model: 04-01-2021_ArabPersGeneralized.mlmodel
+    contains only the first 40 rasāʾil up to the "shiʿr al-nafs;" footnotes
+    removed; some lines missed by OCR added; close postcorrection urgently required;
+    major issues with OCR output if scans too skewed;
+90#VERS#DATE#####: 2021-08-27
+90#VERS#ISSUES###: UNCORRECTED_OCR

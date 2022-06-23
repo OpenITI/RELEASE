@@ -1,0 +1,13 @@
+00#VERS#CLENGTH##: 132974
+00#VERS#LENGTH###: 32587
+00#VERS#URI######: 0430AbuZaydDabusi.TasisNazar.Kraken211129080600-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/957296078
+80#VERS#COLLATED#:
+80#VERS#LINKS####: https://archive.org/details/FP93381
+90#VERS#ANNOTATOR:
+90#VERS#COMMENT##: OCRed through Kraken:
+    * Kraken version: 3.0.0.0b21.dev6
+    * segmentation model: DEFAULT
+    * OCR model: 04-01-2021_ArabPersGeneralized.mlmodel
+90#VERS#DATE#####: 2021-11-29
+90#VERS#ISSUES###: UNCORRECTED_OCR
