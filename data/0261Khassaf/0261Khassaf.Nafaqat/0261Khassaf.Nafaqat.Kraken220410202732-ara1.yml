@@ -1,0 +1,13 @@
+00#VERS#CLENGTH##: 143294
+00#VERS#LENGTH###: 37469
+00#VERS#URI######: 0261Khassaf.Nafaqat.Kraken220410202732-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/4770034056
+80#VERS#COLLATED#:
+80#VERS#LINKS####: https://archive.org/details/491-pdf_202105
+90#VERS#ANNOTATOR:
+90#VERS#COMMENT##: OCRed through Kraken:
+    * Kraken version: 3.0.0.0b21.dev6
+    * segmentation model: DEFAULT
+    * OCR model: 12-24-2021_ArabPersGeneralized.mlmodel
+90#VERS#DATE#####: 2022-04-10
+90#VERS#ISSUES###: UNCORRECTED_OCR

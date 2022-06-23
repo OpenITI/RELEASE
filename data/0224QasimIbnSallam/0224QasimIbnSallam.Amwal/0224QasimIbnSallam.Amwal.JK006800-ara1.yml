@@ -1,0 +1,27 @@
+00#VERS#CLENGTH##: 467626
+00#VERS#LENGTH###: 119823
+00#VERS#URI######: 0224QasimIbnSallam.Amwal.JK006800-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/4770230379
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/4770230379
+80#VERS#LINKS####:
+    https://www.noorlib.ir/view/fa/book/bookview/text/31924
+90#VERS#ANNOTATOR: HRH
+90#VERS#COMMENT##: 1- The link in VERS#LINKS (which is exactly the same
+    as the JK edition) leads you to a payment-based website and you must
+    have an account to see the contents. If you can’t access this link, two
+    other editions of the book that are accessible on the internet can be
+    found here: https://archive.org/details/FP77409/mode/1up;
+    https://www.almeshkat.net/book/4095. 2- The sign “&” is placed instead
+    of “صلی الله” in the text, and sometimes redundantly at the end of
+    sentences. Moreover, the pipe symbols (|) inside the text signify the
+    end of the sentences in the PDF and must be deleted. 3- The text
+    consists of four sections (“جزء”). I did not tag the beginning of these
+    sections since they have no effect on the structure of the text
+    (nevertheless, there is an editorial section at the beginning of the
+    sections and they can be found easily). 4- There is a descriptive table
+    of contents at the end of the book which cannot be used for tagging the
+    text; however it is useful for understanding the structure and contents
+    of the text. 5- The editorial sections (except the last one) are the
+    notes of the scribe.
+90#VERS#DATE#####: 2020-02-15
+90#VERS#ISSUES###: RANDOM_CHARS, EDITORIAL_SECTIONS

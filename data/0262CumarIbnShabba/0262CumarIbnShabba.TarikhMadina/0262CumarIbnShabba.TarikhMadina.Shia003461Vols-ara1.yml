@@ -1,0 +1,36 @@
+00#VERS#CLENGTH##: 1289324
+00#VERS#LENGTH###: 331018
+00#VERS#URI######: 0262CumarIbnShabba.TarikhMadina.Shia003461Vols-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/24897736
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/24897736
+80#VERS#LINKS####: https://archive.org/details/tareekh_shba
+90#VERS#ANNOTATOR: HRH
+90#VERS#COMMENT##: As the editor of the text states at the beginning of
+    the Table of Contents (page 1331), there are two types of headers in the
+    book. The first type is the ones that appear in the original manuscript,
+    and the second type is the ones that the editor had to add them because
+    the first type of headers are too general and are mostly irrelevant to
+    their contents. So, the editor has added a kind of conceptual headers to
+    show the beginning of a new subject. I have tagged all the first type
+    headers (the ones that appear in the original manuscript) as second-
+    level headers and all the second type headers (the ones that have been
+    added by the editor) as third-level headers (which are just headers
+    without any text, since annotators are not allowed to add anything to
+    the text). Tagging these third-level headers was extremely difficult.
+    Many of the pages have more than one header and since the contents of
+    the paragraphs are sometimes very similar, you cannot say for sure to
+    which paragraph the conceptual header of the editor exactly belongs. The
+    situations even worsen when you realize that the page numbers in the
+    table of contents is not very accurate and sometimes the subject begins
+    one page before or after the page mentioned in the table of contents or,
+    even worse, when you find other mistakes in the table of contents (like
+    “حذیفه” instead of “خزیمه” which is mentioned in the table of contents
+    for page 1000). Anyway, although I had to read most of the text to
+    decide about annotating third-level headers, I didn’t have enough time
+    to read the text in detail; if anybody does this, he/she might decide to
+    change the positions of some third-level headers. Besides, I tried to
+    put the titles at the beginning of the respective paragraphs;
+    nevertheless, this was not sometimes possible as some paragraphs have
+    two titles and need to be broken into two parts.
+90#VERS#DATE#####: 2019-08-26
+90#VERS#ISSUES###: EDITORIAL_SECTIONS
