@@ -1,0 +1,15 @@
+00#VERS#CLENGTH##: 2833471
+00#VERS#LENGTH###: 695365
+00#VERS#URI######: 1021ShihabDinShalabi.HashiyaCalaTabyinHaqaiq.Shamela0023023BK2-ara1
+80#VERS#BASED####: permalink, permalink, permalink
+80#VERS#COLLATED#: permalink, permalink, permalink
+80#VERS#LINKS####: all@id, vol1@id, vol2@id, vol3@id, volX@id
+90#VERS#ANNOTATOR: the name of the annotator (latin characters; please
+    use consistently)
+90#VERS#COMMENT##: The original text file (Shamela0023023) contained two texts:
+    the main text (0743FakhrDinZaylaci.TabyinHaqaiq)
+    and a marginal commentary (1021ShihabDinShalabi.HashiyaCalaTabyinHaqaiq).
+    PV split off the main text from the commentary
+    (see also 0743FakhrDinZaylaci.TabyinHaqaiq.Shamela0023023BK1-ara1)
+90#VERS#DATE#####: YYYY-MM-DD
+90#VERS#ISSUES###: formalized issues, separated with commas
