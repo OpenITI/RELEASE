@@ -1,0 +1,22 @@
+00#AUTH#URI######: 0180Sibawayhi
+10#AUTH#ISM####AR: ʿAmrů
+10#AUTH#KUNYA##AR: Abū Bišr
+10#AUTH#LAQAB##AR:
+10#AUTH#NASAB##AR: b. ʿUṯmān b. Qanbar
+10#AUTH#NISBA##AR:
+10#AUTH#SHUHRA#AR: Sībawayhi
+20#AUTH#BORN#####: Fars_RE, SHIRAZ_525E296N_S
+20#AUTH#DIED#####: URIs from Althurayya, comma separated
+20#AUTH#RESIDED##: URIs from Althurayya, comma separated
+20#AUTH#VISITED##: URIs from Althurayya, comma separated
+30#AUTH#BORN###AH: 0140-XXX-XX (approximately)
+30#AUTH#DIED###AH: 0180-XXX-XX (approximately)
+40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
+40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
+90#AUTH#COMMENT##: EI2: "pioneer Arabic grammarian, the author of a single,
+    untitled work, known only as Kitāb Sībawayhi and acknowledged as the founding
+    text of Arabic grammatical science. All else, his name, origins, dates and
+    originality, is uncertain, Sībawayhi having died too young and too far away from
+    the cultural centres of ʿIrāḳ to establish himself in the scholarly biographical
+    tradition.": http://dx.doi.org/10.1163/1573-3912_islam_COM_1068
