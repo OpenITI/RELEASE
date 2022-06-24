@@ -22,21 +22,16 @@ The most up-to-date detailed description of the **OpenITI** project can be found
 
 
 
-# OpenITI, ver. 2022.1.6 \
-—Release Notes—
+# OpenITI, ver. 2022.1.6: Release Notes
 
 
-# 
-Corpus Metadata
+# Corpus Metadata
 
 
 The current release metadata is available in the `OpenITI_metadata_2022-1-6.csv` and `OpenITI_metadata_2022-1-6_merged.csv `(merged[^1] version)` `files.
 
 
-# 
-Folder Structure
-
-
+# Folder Structure
 
 * `data`: main data folder with _Author > Book > Versions_ structure;
 * `metadata `
@@ -46,12 +41,9 @@ Folder Structure
     * `OpenITI_release-notes_2022-1-6.pdf`: these release notes;
     * `release-notes_files_2022-1-6.zip`: csv files including the provided list of new changes in the current release (see the description of each file in this release notes).
 
-# 
 
 
-
-# 
-Corpus Statistics
+# Corpus Statistics
 
 
 <table>
@@ -97,7 +89,6 @@ Corpus Statistics
    </td>
   </tr>
 </table>
-
 
 
 ## Length of texts (all books)
@@ -204,7 +195,7 @@ Corpus Statistics
 
 
 
-## Length of texts (primary books[^3])
+## Length of texts (primary books)
 
 
 <table>
@@ -400,6 +391,7 @@ For more information on the OpenITI mARkdown and the extensions please see [here
 * Fatemeh Shams (_structural annotation_)
 
 <!-- Footnotes themselves at the bottom. -->
+
 ## Notes
 
 [^1]:
@@ -408,7 +400,5 @@ For more information on the OpenITI mARkdown and the extensions please see [here
 [^2]:
 <p>
      The uncorrected OCRed texts are specified by the “UNCORRECTED_OCR” tag in the “tags” column of the metadata files. 
-
-[^3]:
      
 
