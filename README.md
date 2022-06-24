@@ -14,7 +14,8 @@ Currently, **OpenITI** contains almost exclusively Arabic texts, which were firs
 
 In this repository, we publish OpenITI releases and the folder structure of each release is described in the latest release note. The releases will be published on Zenodo as well. To access a specific release, please use the Zenodo link, which is updated above on this page. To access a specific release through github, please use the corresponding [tag](https://github.com/OpenITI/RELEASE/tags) that points to the release number.
 
-The most up-to-date detailed description of the **OpenITI** project can be found at [the website of the KITAB Project](https://kitab-project.org/docs/openITI).
+The most up-to-date detailed description of the **OpenITI** project can be found at [the website of the KITAB Project](https://kitab-project.org/docs/openITI). Detailed metadata on the **OpenITI** corpus can be found at <https://kitab-corpus-metadata.azurewebsites.net/>.
+
 
 
 [comment]: <> (Link to Zenodo: <https://zenodo.org/record/3082464>)
