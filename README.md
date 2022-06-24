@@ -25,13 +25,13 @@ The most up-to-date detailed description of the **OpenITI** project can be found
 # OpenITI, ver. 2022.1.6: Release Notes
 
 
-# Corpus Metadata
+## Corpus Metadata
 
 
 The current release metadata is available in the `OpenITI_metadata_2022-1-6.csv` and `OpenITI_metadata_2022-1-6_merged.csv `(merged[^1] version)` `files.
 
 
-# Folder Structure
+## Folder Structure
 
 * `data`: main data folder with _Author > Book > Versions_ structure;
 * `metadata `
@@ -43,7 +43,7 @@ The current release metadata is available in the `OpenITI_metadata_2022-1-6.csv`
 
 
 
-# Corpus Statistics
+## Corpus Statistics
 
 
 <table>
@@ -301,8 +301,7 @@ Number of pages (300 w/p)</p>
 
 
 
-## 
-Annotation statistics
+## Annotation statistics
 
 
 <table>
@@ -334,22 +333,19 @@ Annotation statistics
 
 
 
-## 
-Book Ids 
+## Book Ids 
 
 
 The list of the new book ids in this version is available in the `ids.csv` file. It includes the newly added book ids and modified ids. The URI includes the information of the new book (i.e., date, author, and book title).
 
 
-## 
-Modified URIs
+## Modified URIs
 
 
 List of modified URIs in the current release is available in `modified_uris.csv`. Changes typically affect such fields as year, author, and title. These changes are applied to the entire metadata (book IDs remain unchanged). 
 
 
-## 
-Annotation Update
+## Annotation Update
 
 
 The list of texts that have been structurally annotated or where the annotation has changed (can be tracked by the file extensions) since our previous release (version [2021.2.5](https://zenodo.org/record/5550338)) is provided in `annotation_update.csv`. This file shows URIs of texts together with their current extension, which is a part of the `local_path` in the metadata file.
@@ -358,10 +354,10 @@ The list of texts that have been structurally annotated or where the annotation 
 For more information on the OpenITI mARkdown and the extensions please see [here](https://maximromanov.github.io/mARkdown/).
 
 
-# Credits
+## Credits
 
 
-## Current contributors (_alphabetically_):
+### Current contributors (_alphabetically_):
 
 
 
@@ -378,7 +374,7 @@ For more information on the OpenITI mARkdown and the extensions please see [here
 * Aslisho Qurboniev (_structural annotation_)
 
 
-## Past contributors:
+### Past contributors:
 
 
 
@@ -392,7 +388,7 @@ For more information on the OpenITI mARkdown and the extensions please see [here
 
 <!-- Footnotes themselves at the bottom. -->
 
-## Notes
+### Notes
 
 [^1]:
      The corpus contains a number of texts that are too big for GitHub and had to be split into multiple files (currently only two versions of the book _Biḥār al-anwār_ (`1111Majlisi.BiharAnwar`)). The metadata file contains statistics on each part of this split text. We also provide a separate metadata file in which the statistics for the separate parts of those books that have been merged. Since the merged metadata for these split files does not refer to an existing file, the `local_path` field for these virtual texts will be “NA”.
