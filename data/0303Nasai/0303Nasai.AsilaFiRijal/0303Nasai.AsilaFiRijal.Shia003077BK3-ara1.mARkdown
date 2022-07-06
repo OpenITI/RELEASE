@@ -1,0 +1,60 @@
+﻿######OpenITI#
+
+
+#META# 000.SortField	:: Shia_003077
+#META# 000.BookURI	:: #0303.IbnShucaybNasai.TasmiyaManLamYarwi
+#META# 010.AuthorAKA	:: NODATA
+#META# 010.AuthorNAME	:: النسائي
+#META# 011.AuthorBORN	:: NOTGIVEN
+#META# 011.AuthorDIED	:: 303
+#META# 019.AuthorDIED	:: NODATA
+#META# 020.BookTITLE	:: من لم يرو عنه غير واحد
+#META# 020.BookTITLESUB	:: NODATA
+#META# 021.BookSUBJ	:: أهم مصادر رجال الحديث عند السنة
+#META# 022.BookVOLS	:: 1
+#META# 025.BookLANG	:: NODATA
+#META# 029.BookTITLEalt	:: NODATA
+#META# 030.LibURI	:: Shia_003077
+#META# 030.LibURIextra	:: NODATA
+#META# 031.LibREADONLINE	:: http://shiaonlinelibrary.com/الكتب/3077_من-لم-يرو-عنه-غير-واحد-النسائي
+#META# 031.LibURL	:: NODATA
+#META# 031.LibURLFILE	:: NODATA
+#META# 031.LibURLextra	:: NODATA
+#META# 040.EdALL	:: NODATA
+#META# 040.EdEDITOR	:: محمود إبراهيم زايد
+#META# 041.EdNUMBER	:: الأولى
+#META# 041.EdNumber	:: NODATA
+#META# 043.EdPUBLISHER	:: NODATA
+#META# 044.EdPLACE	:: NODATA
+#META# 045.EdYEAR	:: 1406
+#META# 049.EdISBN	:: NODATA
+#META# 049.EdPAGES	:: NODATA
+#META# 049.EdPHYSICAL	:: NODATA
+#META# 049.EdVOLUME	:: NODATA
+#META# 090.RecMISC	:: NODATA
+#META# 999.MiscINFO	:: NODATA
+
+
+
+#####SUBJECT#BIBLIOGRAPHY#
+
+#META#Header#End#
+
+### | [أسئلة للنسائي في الرجال]
+# أخبرنا على بن منير قال: أخبرنا أبو محمد الحسن بن رشيق قال: قال
+~~أبو عبد الرحمن النسائي:
+### || أمناء الله - عز وجل - على علم رسول الله صلى الله عليه وسلم ثلاثة:
+# شعبة بن الحجاج، ويحيى بن سعيد القطان، ومالك بن أنس.
+
+### || 
+# وسئل أبو عبد الرحمن، عن زغبة، فقال: هو أنكد من أن يكذب.
+### || 
+# وسئل عن محمد بن عبد الله بن عبد الحكم، فقال: هو أظرف من أن يكذب.
+# وقال لنا أبو عبد الرحمن ولا يعاب على المحدثين. PageV00P264
+# قد كان إسماعيل بن خالد، وسفيان، ومالك بن أنس وغيرهم من المحدثين.
+### || والكذابون المعروفون بوضع الحديث على رسول الله صلى الله عليه وسلم أربعة:
+# ابن أبي يحيى بالمدينة،
+# والواقدي ببغداد،
+# ومقاتل بن سليمان بخراسان،
+# ومحمد بن السعيد بالشام، يعرف بالمصلوب.
+PageV00P265 ms1

@@ -1,0 +1,15 @@
+00#VERS#CLENGTH##: 850736
+00#VERS#LENGTH###: 210744
+00#VERS#URI######: 0381IbnBabawayhSaduq.KamalDin.Shia001146-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/952099493 (1405 edition)
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/952099493 (1429 edition)
+80#VERS#LINKS####: http://www.mahdi-lib.com/node/841
+90#VERS#ANNOTATOR: HRH
+90#VERS#COMMENT##: 1- I used a newer edition of the text, but the pages
+    are totally different in this newer edition. 2- I realized that in a few
+    pages, the footnotes are interred into the text without any sign (see
+    PageV00P139 for example). 3- The number of the volumes does not appear
+    in pagination. 4- RANDOM_CHARS appear just in ENDNOTES.
+90#VERS#DATE#####: 2020-01-06
+90#VERS#ISSUES###: EDITORIAL_SECTIONS, RANDOM_CHARS, FOOTNOTES,
+    PAGINATION
