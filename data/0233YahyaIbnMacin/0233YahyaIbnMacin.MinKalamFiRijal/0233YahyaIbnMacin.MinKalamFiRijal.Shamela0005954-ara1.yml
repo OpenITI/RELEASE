@@ -1,0 +1,22 @@
+00#VERS#CLENGTH##: 18269
+00#VERS#LENGTH###: 4849
+00#VERS#URI######: 0233YahyaIbnMacin.MinKalamFiRijal.Shamela0005954-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/18956351
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/18956351
+80#VERS#LINKS####: https://k-tb.com/book/hadeeth3620-من-كلام-أبي-زكريا-يحيى-بن-معين-في-الرجال
+90#VERS#ANNOTATOR: HRH
+90#VERS#COMMENT##: Most of the numbers explain about a specific person.
+    Although some of such names do not appear at the beginning of the
+    sentences, I tagged all of them as names (i.e. ### $) because the main
+    theme of the book is to explain about these names and their reliability
+    to quote Hadiths; but there are some other numbers that are not about
+    one person. They might be about more than one person or may be just a
+    hadith or some explanations. I untagged such numbers and tagged them as
+    a simple paragraph, but with an asterisk (i.e. # *; so that they are
+    distinguishable from other paragraphs). I am not entirely sure about
+    tagging all the numbers correctly. So, the text needs to be reviewed by
+    a specialist in Hadith literature (In addition, the text includes a lot
+    of names that cannot be tagged structurally, since they are inside the
+    lines).
+90#VERS#DATE#####: 2019-10-29
+90#VERS#ISSUES###: PAGINATION, PARATEXT, REVIEW_NEEDED

@@ -1,0 +1,14 @@
+00#VERS#CLENGTH##: 502039
+00#VERS#LENGTH###: 122019
+00#VERS#URI######: 0279Baladhuri.FutuhBuldan.Shia003465Vols-ara2
+80#VERS#BASED####:
+80#VERS#COLLATED#:
+80#VERS#LINKS####:
+90#VERS#ANNOTATOR: HRH
+90#VERS#COMMENT##: Although the text had a MARKDOWN version, I tagged this
+    version for Sarah. Unfortunately, the edition of the Shia version is not
+    accessible on the internet. So, I tagged it by collating it with the Markdown
+    version. I also didn’t add a completed extension to the file since it has not
+    been collated with a PDF anyway.
+90#VERS#DATE#####: 2021-04-10
+90#VERS#ISSUES###: EDITORIAL_SECTIONS

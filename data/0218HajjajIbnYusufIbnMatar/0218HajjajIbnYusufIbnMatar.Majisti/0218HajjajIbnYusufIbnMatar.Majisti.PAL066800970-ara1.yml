@@ -1,0 +1,24 @@
+00#VERS#CLENGTH##: 363620
+00#VERS#LENGTH###: 84253
+00#VERS#URI######: 0218HajjajIbnYusufIbnMatar.Majisti.PAL066800970-ara1
+80#VERS#BASED####: https://ptolemaeus.badw.de/work/200
+80#VERS#COLLATED#: https://ptolemaeus.badw.de/work/200
+80#VERS#LINKS####: https://ptolemaeus.badw.de/work/200
+90#VERS#ANNOTATOR: PV
+90#VERS#COMMENT##: Transcription of the Leiden ms. (Or. 680) of al-
+    Ḥajjāj's translation of the Almagest by Josep Casulleras
+    (https://ptolemaeus.badw.de/team/9).  Text digitized by the Ptolemaeus
+    Arabus et Latinus project at the Bayerische Akademie der Wissenschaften.
+    Both transliteration and photographs are available on the link above.
+    The text was converted to OpenITI mARkdown by PV. New lines in the
+    manuscript are indicated in the transcription with `//` The manuscript
+    uses circles to divide sections;  these were transcribed in the
+    transcription with ❊ (`U+274A : EIGHT TEARDROP-SPOKED PROPELLER
+    ASTERISK`; cannot be rendered in many fonts).  PV has kept these
+    characters in the mARkdown version,  but they could perhaps better be
+    replaced by paragraph marks `# `. Arabic characters representing a
+    number  (or points on a line in geometrical explanations) are overlined
+    in the manuscript and tagged as `<u class="num">` in the
+    transliteration;  PV has tagged these characters with a `@NUM@` tag.
+90#VERS#DATE#####: 2020-12-02
+90#VERS#ISSUES###:

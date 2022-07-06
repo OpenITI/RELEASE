@@ -1,0 +1,42 @@
+00#VERS#CLENGTH##: 44837
+00#VERS#LENGTH###: 10233
+00#VERS#URI######: 0200YahyaIbnBitriq.SirrAsrar.NH001-ara1
+80#VERS#BASED####: permalink, permalink, permalink
+80#VERS#COLLATED#: permalink, permalink, permalink
+80#VERS#LINKS####: https://gallica.bnf.fr/ark:/12148/btv1b11001632n
+90#VERS#ANNOTATOR: PV
+90#VERS#COMMENT##: This text file contains an edition of the
+    Short Form recension in 8 maqālāt ("SF8") of the Sirr al-Asrār.
+    The edition was prepared by Neelam Hussain,
+    curator of the Mingana Collection of Middle Eastern Manuscripts,
+    University of Birmingham. The edition was provided to OpenITI
+    as a MS Word document.
+    It is based on the 12th/18th C manuscript Paris BnF Arabe 2421
+    (online at https://gallica.bnf.fr/ark:/12148/btv1b11001632n),
+    which the editor collated with another manuscript,
+    Leiden Universiteitsbibliotheek MS Or. 749
+    (10th/17th C, copied in Istanbul; catalogue entry at
+    https://catalogue.leidenuniv.nl/permalink/f/n95gpj/UBL_ALMA71324052910002711).
+    Empty spaces in the Paris ms. (left blank for rubrication?)
+    are filled in from the Leiden ms. and indicated in the original edition
+    as red text between black curly braces; in the OpenITI text,
+    those are indicated with pointed brackets ( < > ).
+    Alternative text inserted from Leiden 749 is indicated in the
+    original edition as blue text between blue curly braces;
+    in the OpenITI text, this is indicated with single curly braces ( { } ).
+    The editor's own suggestions are indicated in the original edition
+    as red text between red curly braces. These have been rendered
+    in the OpenITI text as double curly braces ( {{ }} ).
+    In the original edition, the folio page numbers of the Paris ms.
+    were inserted at the end of a paragraph, and the location of
+    the start of the new folio in the text was indicated with a pipe ( | );
+    PV moved the page numbers to their correct location in the text.
+    PV also added structural annotation.
+    PV copied the images from the edition and added links to them in the text.
+    The Paris manuscript contains three separate colophons:
+    one by the translator, Yaḥyā b. al-Biṭrīq;
+    one by a copyist, dated Saturday 6 Jumādā II 1119 (3 September 1707), in Fez;
+    one by another copyist, dated 25 Shaʿbān 1144 (21 February 1732), in Jerusalem.
+    PV marked each colophon with a ### |PARATEXT| tag.
+90#VERS#DATE#####: 2021-11-16
+90#VERS#ISSUES###: NO_MAJOR_ISSUES, IMAGES, PARATEXT

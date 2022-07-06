@@ -1,0 +1,29 @@
+00#VERS#CLENGTH##: 210102
+00#VERS#LENGTH###: 56443
+00#VERS#URI######: 0288ThabitIbnQurra.Majisti.PAL066900971-ara1
+80#VERS#BASED####: https://ptolemaeus.badw.de/work/201
+80#VERS#COLLATED#: https://ptolemaeus.badw.de/work/201
+80#VERS#LINKS####: https://ptolemaeus.badw.de/work/201
+90#VERS#ANNOTATOR: PV
+90#VERS#COMMENT##: Transcription of the Tunis ms. (Dār al-kutub al-
+    waṭaniyya 7116) of an Arabic translation of the Almagest by Isḥāq b.
+    Ḥunayn, revised by Thābit b. Qurra.  Transcription by Pouyan Rezvani
+    (https://ptolemaeus.badw.de/team/46).  Text digitized by the Ptolemaeus
+    Arabus et Latinus project at the Bayerische Akademie der Wissenschaften.
+    Citation: ‘Ptolemy, al-Majisṭī (tr. Isḥāq b. Ḥunayn/Thābit b. Qurra)’
+    (update: 31.07.2020), Ptolemaeus Arabus et Latinus. Works,  URL =
+    http://ptolemaeus.badw.de/work/201. The text was converted to OpenITI
+    mARkdown by PV.  The text contains numerous tables and images
+    (diagrams).  The tables are very complicated and have been converted
+    into markdown (for cells spanning multiple columns, PV used the approach
+    outlined here: https://stackoverflow.com/a/49212652). PV also created
+    images for each table (`img/jadwalxx.jpg`). Standard markdown links have
+    been used to link to the images. The transcription contains references
+    to Toomer’s English translation and Heiberg’s Greek edition of the
+    Almagest; PV has kept these in the mARkdown text for now as `/Txxx/` and
+    `/Hxxx/`. Arabic characters representing a number  (or points on a line
+    in geometrical explanations) are overlined in the manuscript and tagged
+    as `<u class="num">` in the transliteration;  PV has tagged these
+    characters with a `@NUM@` tag.
+90#VERS#DATE#####: 2020-12-02
+90#VERS#ISSUES###: IMAGES, TABLES

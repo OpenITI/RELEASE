@@ -1,0 +1,17 @@
+00#AUTH#URI######: 0245MuhammadIbnHabib
+10#AUTH#ISM####AR: Muḥammad
+10#AUTH#KUNYA##AR: Abū Ǧaʿfar
+10#AUTH#LAQAB##AR:
+10#AUTH#NASAB##AR: b. Ḥabīb b. Umayyaŧ b. ʿAmrů
+10#AUTH#NISBA##AR: al-Hāšimī, al-Baġdādī
+10#AUTH#SHUHRA#AR: Muḥammad  b. Ḥabīb
+20#AUTH#BORN#####: Iraq_RE, BAGHDAD_443E333N_S
+20#AUTH#DIED#####: URIs from Althurayya, comma separated
+20#AUTH#RESIDED##: URIs from Althurayya, comma separated
+20#AUTH#VISITED##: URIs from Althurayya, comma separated
+30#AUTH#BORN###AH: YEAR-MON-DA (X+ for unknown)
+30#AUTH#DIED###AH: 0245-DHH-23
+40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
+40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
+90#AUTH#COMMENT##: EI2: "Abū D̲j̲aʿfar , an Arabie philologist of the school of Bag̲h̲dād. Only scant facts of his life are known to us. Ḥabīb ¶ is said to have been the name of his mother, a manumitted slave of the family of Muḥammad b. ʿAbbās b. Muḥammad al-Hāshimī; his nisba of al-Hāshimī is derived from this family whose mawlā he was. However, the Fihrist, and following it, Yāḳūt and al-Suyūṭī, call him Muḥammad b. Ḥabīb b. Umayya b. ʿAmr. The only known date of his life is that of his death on 23 D̲h̲u ’l-Ḥid̲j̲d̲j̲a 245/21 March 860.": http://dx.doi.org/10.1163/1573-3912_islam_SIM_5350
