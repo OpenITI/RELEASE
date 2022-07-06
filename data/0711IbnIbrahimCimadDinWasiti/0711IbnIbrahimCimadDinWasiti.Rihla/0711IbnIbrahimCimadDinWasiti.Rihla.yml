@@ -1,9 +1,7 @@
 00#BOOK#URI######: 0711IbnIbrahimCimadDinWasiti.Rihla
 10#BOOK#GENRES###: src@keyword, src@keyword, src@keyword
-10#BOOK#TITLEA#AR: Riḥlaŧ ʿImād al-dīn Aḥmad b. Ibrāhīm al-Wāsiṭī wa-
-    šarḥ taqallubātihi fī ʿumrihi
-10#BOOK#TITLEB#AR: Riḥlaŧ al-imām ibn šayḫ al-ḥazzāmiyyīn min al-
-    taṣawwuf al-munḥarif ilá taṣawwuf ahl al-ḥadīṯ wa-l-aṯar
+10#BOOK#TITLEA#AR: Riḥlaŧ ʿImād al-dīn Aḥmad b. Ibrāhīm al-Wāsiṭī wa-šarḥ taqallubātihi fī ʿumrihi
+10#BOOK#TITLEB#AR: Riḥlaŧ al-imām ibn šayḫ al-ḥazzāmiyyīn min al-taṣawwuf al-munḥarif ilá taṣawwuf ahl al-ḥadīṯ wa-l-aṯar
 20#BOOK#WROTE####: URIs from Althurayya, comma separated
 30#BOOK#WROTE##AH: YEAR-MON-DA (X+ for unknown)
 40#BOOK#RELATED##: URI of a book from OpenITI, or [Author's Title],
