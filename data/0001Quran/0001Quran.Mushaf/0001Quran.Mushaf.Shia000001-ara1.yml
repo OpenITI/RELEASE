@@ -1,0 +1,14 @@
+00#VERS#CLENGTH##: 332837
+00#VERS#LENGTH###: 78245
+00#VERS#URI######: 0001Quran.Mushaf.Shia000001-ara1
+80#VERS#BASED####: 
+80#VERS#COLLATED#: 
+80#VERS#LINKS####: all@id, vol1@id, vol2@id, vol3@id, volX@id
+90#VERS#ANNOTATOR: PV
+90#VERS#COMMENT##: PV added sura numbers
+    and tagged every aya as a separate paragraph.
+    He also removed html tags and tildes.
+    Aya number are between parentheses at the end of the aya.
+   NOTE OF THE REVIEWER (HRH): All three completed files turned into mARkdown without any change. It might be interesting to know that unlike the two other files, QuranAnalysis001-ara1 does not have bismillah at the beginning of Ayas, which much explain for difference in word numbers.
+90#VERS#DATE#####: 2021-07-28
+90#VERS#ISSUES###: NO_MAJOR_ISSUES
