@@ -1,0 +1,17 @@
+00#AUTH#URI######: 1060IbnQaysar
+10#AUTH#ISM####AR: ʿAbd Allāh
+10#AUTH#KUNYA##AR: 
+10#AUTH#LAQAB##AR: 
+10#AUTH#NASAB##AR: b. Ḫalfān b. Qayṣar b. Sulaymān
+10#AUTH#NISBA##AR: al-Ṣuḥārī
+10#AUTH#SHUHRA#AR: Ibn Qayṣar
+20#AUTH#BORN#####: URIs from Althurayya, comma separated
+20#AUTH#DIED#####: URIs from Althurayya, comma separated
+20#AUTH#RESIDED##: URIs from Althurayya, comma separated
+20#AUTH#VISITED##: URIs from Althurayya, comma separated
+30#AUTH#BORN###AH: YEAR-MON-DA (X+ for unknown)
+30#AUTH#DIED###AH: YEAR-MON-DA (X+ for unknown)
+40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
+40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+80#AUTH#BIBLIO###: http://www.taddart.org/?cat=39&paged=220
+90#AUTH#COMMENT##: Died after 1050.
