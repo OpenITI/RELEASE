@@ -1,0 +1,17 @@
+00#VERS#CLENGTH##: 111658
+00#VERS#LENGTH###: 26645
+00#VERS#URI######: 0696SharafDinBusiri.Diwan.ShamAY0037846-ara1
+80#VERS#BASED####: permalink, permalink, permalink
+80#VERS#COLLATED#: permalink, permalink, permalink
+80#VERS#LINKS####: all@id, vol1@id, vol2@id, vol3@id, volX@id
+90#VERS#ANNOTATOR: the name of the annotator (latin characters; please
+    use consistently)
+90#VERS#COMMENT##: a free running comment here; you can add as many
+    lines as you see fit; the main goal of this comment section is to have a
+    place to record valuable information, which is difficult to formalize
+    into the above given categories.
+    NB: check lines of poetry that seem too short: line numbers 195, 368, 534,
+    1103, 1208, 1419, 1425, 1450, 1628, 1635, 1647, 2155, 2526, 2579, 2709, 2794
+    NB: check lines of poetry that seem too long: line numbers 563
+90#VERS#DATE#####: YYYY-MM-DD
+90#VERS#ISSUES###: formalized issues, separated with commas

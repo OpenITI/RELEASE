@@ -1,0 +1,15 @@
+00#VERS#CLENGTH##: 379610
+00#VERS#LENGTH###: 94288
+00#VERS#URI######: 0606IbnMamati.QawaninDawawin.Kraken22032302241500-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/868651367
+80#VERS#COLLATED#:
+80#VERS#LINKS####: https://www.noor-book.com/كتاب-قوانين-الدواوين-
+    pdf-1593174029,
+    http://mc.dlib.nyu.edu/files/books/nyu_aco001505/nyu_aco001505_lo.pdf
+90#VERS#ANNOTATOR:
+90#VERS#COMMENT##: OCRed through Kraken:
+    * Kraken version: 3.0.0.0b21.dev6
+    * segmentation model: DEFAULT
+    * OCR model: 12-24-2021_ArabPersGeneralized.mlmodel
+90#VERS#DATE#####: 2022-03-23
+90#VERS#ISSUES###: UNCORRECTED_OCR

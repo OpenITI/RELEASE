@@ -1,0 +1,18 @@
+00#AUTH#URI######: 0630IbnAthirCizzDin
+10#AUTH#ISM####AR: ʿAlī
+10#AUTH#KUNYA##AR: Abū-al-Ḥasan
+10#AUTH#LAQAB##AR: ʿIzz-al-dīn
+10#AUTH#NASAB##AR: b. Abī-al-Karam Muḥammad b. Muḥammad b. ʿAbd-al-Karīm b. ʿAbd-al-wāḥid
+10#AUTH#NISBA##AR: al-Šaybānī, al-Ǧazarī
+10#AUTH#SHUHRA#AR: Ibn al-Aṯīr
+20#AUTH#BORN#####: JAZIRAIBNUMAR_421E372N_S, Sham_RE, MAWSIL_431E363N_S
+20#AUTH#DIED#####: MAWSIL_431E363N_S
+20#AUTH#RESIDED##: JAZIRAIBNUMAR_421E372N_S, MAWSIL_431E363N_S,
+    HALAB_371E361N_S, DIMASHQ_363E335N_S
+20#AUTH#VISITED##: BAGHDAD_443E333N_S
+30#AUTH#BORN###AH: 0555-JU1-04
+30#AUTH#DIED###AH: 0630-XXX-XX (SHC or RAM)
+40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
+40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
+90#AUTH#COMMENT##: EI2: http://dx.doi.org/10.1163/1573-3912_islam_SIM_3094

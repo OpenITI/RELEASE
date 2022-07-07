@@ -1,0 +1,15 @@
+00#VERS#CLENGTH##: 52701
+00#VERS#LENGTH###: 12213
+00#VERS#URI######: 0600CammarBidlisi.SawmQalb.Kraken220413202141-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/1159601093
+80#VERS#COLLATED#:
+80#VERS#LINKS####: https://menadoc.bibliothek.uni-
+    halle.de/inhouse/content/titleinfo/2368811
+90#VERS#ANNOTATOR:
+90#VERS#COMMENT##: OCRed through Kraken:
+    * Kraken version: 3.0.0.0b21.dev6
+    * segmentation model: DEFAULT
+    * OCR model: 12-24-2021_ArabPersGeneralized.mlmodel
+    NOTE: died between 590 AH and 604 AH, see introduction, p. 1
+90#VERS#DATE#####: 2022-04-13
+90#VERS#ISSUES###: UNCORRECTED_OCR
