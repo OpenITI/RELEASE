@@ -1,0 +1,15 @@
+00#BOOK#URI######: 0800CabdRahimTabib.SharhLiWasailWusul
+10#BOOK#GENRES###: _TIBB
+10#BOOK#TITLEA#AR: Kitāb al-Muʾallif
+10#BOOK#TITLEB#AR: Risālaŧ al-Muʾallif
+20#BOOK#WROTE####: URIs from Althurayya, comma separated
+30#BOOK#WROTE##AH: YEAR-MON-DA (X+ for unknown)
+40#BOOK#RELATED##: 0001Hippocrates.Aphorismoi (COMM.sharh)
+    > 0750IbrahimKishi.WasailWusul
+80#BOOK#EDITIONS#: permalink, permalink, permalink
+80#BOOK#LINKS####: permalink, permalink, permalink
+80#BOOK#MSS######: permalink, permalink, permalink
+80#BOOK#STUDIES##: permalink, permalink, permalink
+80#BOOK#TRANSLAT#: permalink, permalink, permalink
+90#BOOK#COMMENT##: According to the Kashf al-Ẓunun, 
+    ʿAbd al-Raḥīm finished his commentary in the year 785 AH.

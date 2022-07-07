@@ -1,0 +1,20 @@
+00#AUTH#URI######: 0855BadrDinCayni
+10#AUTH#ISM####AR: Maḥmūd
+10#AUTH#KUNYA##AR: Abū Muḥammad
+10#AUTH#LAQAB##AR: Badr al-Dīn
+10#AUTH#NASAB##AR: b. Aḥmad b. Mūsá b. Aḥmad
+10#AUTH#NISBA##AR: al-ʿAynī, al-Ḥanafī
+10#AUTH#SHUHRA#AR: Badr al-Dīn al-ʿAynī
+20#AUTH#BORN#####: AYNTABXXXYYY, Sham_RE
+20#AUTH#DIED#####: QAHIRA_312E300N_S
+20#AUTH#RESIDED##: AYNTABXXXYYY, QAHIRA_312E300N_S, DIMASHQ_363E335N_S
+20#AUTH#VISITED##: HALAB_371E361N_S, BAYTMAQDIS_352E317N_S, Rum_RE
+30#AUTH#BORN###AH: YEAR-MON-DA (X+ for unknown)
+30#AUTH#DIED###AH: YEAR-MON-DA (X+ for unknown)
+40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
+40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
+90#AUTH#COMMENT##: a free running comment here; you can add as many
+    lines as you see fit; the main goal of this comment section is to have a
+    place to record valuable information, which is difficult to formalize
+    into the above given categories.
