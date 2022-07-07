@@ -1,0 +1,17 @@
+00#AUTH#URI######: 0150AbuHanifa
+10#AUTH#ISM####AR: al-Nuʿmān
+10#AUTH#KUNYA##AR: Abū Ḥanīfaŧ
+10#AUTH#LAQAB##AR:
+10#AUTH#NASAB##AR: b. Ṯābit b. Zūṭā
+10#AUTH#NISBA##AR: al-Fārisī
+10#AUTH#SHUHRA#AR: Abū Ḥanīfaŧ
+20#AUTH#BORN#####: Iraq_RE, KUFA_443E320N_S
+20#AUTH#DIED#####: URIs from Althurayya, comma separated
+20#AUTH#RESIDED##: URIs from Althurayya, comma separated
+20#AUTH#VISITED##: URIs from Althurayya, comma separated
+30#AUTH#BORN###AH: 150-XXX-XX
+30#AUTH#DIED###AH: 80-XXX-XX
+40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
+40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
+90#AUTH#COMMENT##: EI2: "b. T̲h̲ābit , theologian and religious lawyer, the eponym of the school of the Ḥanafīs [q.v.]. He died in 150/767 at the age of 70, and was therefore born about the year 80/699. His grandfather Zūṭā is said to have been brought as a slave from Kābul to Kūfa": http://dx.doi.org/10.1163/1573-3912_islam_SIM_0194
