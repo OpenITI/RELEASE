@@ -1,0 +1,14 @@
+00#VERS#CLENGTH##: 29933
+00#VERS#LENGTH###: 7573
+00#VERS#URI######: 0385Daraqutni.ArbacunaMinMusnadBurayd.Shamela0026441-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/4770391622
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/4770391622
+80#VERS#LINKS####: http://wadod.net/bookshelf/book/809
+90#VERS#ANNOTATOR: HRH
+90#VERS#COMMENT##: 1- The page numbers at the top of the pages are
+    interred into the text (and that is the correct pagination for the book;
+    the automatic pagination is wrong). I just untagged them. They must be
+    deleted and the automatic pagination must be corrected. 2- The editorial
+    section at the end of the book is the note of the scribe.
+90#VERS#DATE#####: 2020-01-25
+90#VERS#ISSUES###: EDITORIAL_SECTIONS, PAGINATION

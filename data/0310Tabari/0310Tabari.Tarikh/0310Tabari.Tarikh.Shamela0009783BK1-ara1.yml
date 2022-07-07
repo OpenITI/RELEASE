@@ -1,0 +1,74 @@
+00#VERS#CLENGTH##: 5904741
+00#VERS#LENGTH###: 1458897
+00#VERS#URI######: 0310Tabari.Tarikh.Shamela0009783BK1-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/934442375
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/978646375
+80#VERS#LINKS####: https://archive.org/details/08_20201127_202011/تاريخ الطبري -
+    تاريخ الرسل والملوك ج00
+90#VERS#ANNOTATOR: Mathew Barber
+90#VERS#COMMENT##:
+    NOTE OF THE ANNOTATOR (MAB):
+    This text already had structural annotation when I began annotation. I cleaned
+    the text and added to it
+    for the Digital Sira Project. As the aim of the project was to put the text into
+    the Digital Arabic Reader (DAR),
+    I added additional headers to aid navigation of long sections (but only for
+    sections prior to the death of the Prophet)
+    The Shamela metadata states that this text is based on the Beirut edition. I was
+    unable to consult this edition, but
+    the pagination matches the Cairo Dar al-Macarif edition (full ref in worldcat
+    permalink) and I believe the Beirut edition
+    is a reprint of this.
+    Summary of key changes:
+    1 - removed page headers from middle of text (e.g. سن 281),
+    2 - Added more subheadings headings based on divisions used by the Leiden
+    edition
+    (to ease navigation in DAR).
+    3 - Added more subheadings based on consultation with the Tabari translation (to
+    ease navigation in DAR).
+    4 - Removed headings marked /### === (headings added by shamela) or turned them
+    into mARkdown headings placing heading between [] to
+    indicate it was added by shamela.
+    NOTE OF THE REVIEWER (HRH):
+    1- The first-level headers for volumes removed and
+    all headers moved up by one level.
+    2- Major changes in levelling of the headers
+    made, mostly in the first two volumes.
+    3- Two titles in PageV01P009 and
+    PageV01P032 broken to make the structure clearer.
+    4- PARATEXT added.
+    5- The annotator has separated the sub-chapters by blank header tags. Since
+    blank
+    headers does not tell us anything about the structure, titles should be added
+    here in square brackets.
+    6- Another edition of the text is accessible here:
+    https://archive.org/details/1879p.d.f1709
+    PV: Further cleaning done by PV and HRH:
+    1- continuation of paragraphs after page numbers indicated with "~~"
+    2- removed traces of original encoding and html tags
+    3- tried to make sure all isnāds are starting on a new paragraph
+    (if they indeed do start a new paragraph)
+    4- added PARATEXT marker for volume information and basmallah
+    5- converted "..." into "%~%" poetry tags.
+    Remaining problems, noted during the cleaning process:
+    1- new paragraphs are not always indicated with a hashtag
+    (PV only consistently fixed the cases where a paragraph
+    starts with qāla Abu Jaʿfar, wa-fīhā or wa-fī hādhihi al-sana;
+    there are definitely other cases remaining where a new paragraph is not tagged).
+    Also, many paragraphs are split into multiple parts by hashtags
+    that should not be there (especially after a colon).
+    2- some poetry is not tagged as poetry (especially when only a half verse
+    is quoted, but sometimes also longer segments of poetry are not tagged;
+    PV fixed those he came across, but there must be cases remaining)
+    3- the edition contains a number of untitled sections
+    (indicated in the printed edition, but not the digital text, with "* * *");
+    these usually mark the transition from one topic to another.
+    PV has tried to add these as blank `### || ` headers as he came across such
+    cases,
+    and more consistently for vol. 1 pp. 1-216,
+    but has not gone through all volumes to add those markers.
+    It must be noted that these untitled sections are not
+    consistently inserted in the printed edition.
+    4- The structural tagging of sections and subsections needs more work.
+90#VERS#DATE#####: YYYY-MM-DD
+90#VERS#ISSUES###: PARAGRAPHS, POETRY

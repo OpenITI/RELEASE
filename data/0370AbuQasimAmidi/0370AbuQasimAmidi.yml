@@ -1,0 +1,17 @@
+00#AUTH#URI######: 0370AbuQasimAmidi
+10#AUTH#ISM####AR: Ḥasan
+10#AUTH#KUNYA##AR: Abū al-Qāsim
+10#AUTH#LAQAB##AR:
+10#AUTH#NASAB##AR: b. Bišr b. Yaḥyá
+10#AUTH#NISBA##AR:
+10#AUTH#SHUHRA#AR: al-Āmidī
+20#AUTH#BORN#####: Aqur_RE
+20#AUTH#DIED#####: URIs from Althurayya, comma separated
+20#AUTH#RESIDED##: URIs from Althurayya, comma separated
+20#AUTH#VISITED##: URIs from Althurayya, comma separated
+30#AUTH#BORN###AH: YEAR-MON-DA (X+ for unknown)
+30#AUTH#DIED###AH: 0370-XXX-XX
+40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
+40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
+90#AUTH#COMMENT##: No EI2 entry.

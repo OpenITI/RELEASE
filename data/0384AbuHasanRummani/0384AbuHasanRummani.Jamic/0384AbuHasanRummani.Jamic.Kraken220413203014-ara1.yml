@@ -1,0 +1,15 @@
+00#VERS#CLENGTH##: 400010
+00#VERS#LENGTH###: 99289
+00#VERS#URI######: 0384AbuHasanRummani.Jamic.Kraken220413203014-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/392644502
+80#VERS#COLLATED#:
+80#VERS#LINKS####: https://www.noor-book.com/كتاب-تفسير-الرماني-دار-ال-العلميه-
+    pdf, https://archive.org/download/20200129_20200129_1511/تفسير الرماني - دار
+    الكتب العلمية.pdf
+90#VERS#ANNOTATOR:
+90#VERS#COMMENT##: OCRed through Kraken:
+    * Kraken version: 3.0.0.0b21.dev6
+    * segmentation model: DEFAULT
+    * OCR model: 12-24-2021_ArabPersGeneralized.mlmodel
+90#VERS#DATE#####: 2022-04-13
+90#VERS#ISSUES###: UNCORRECTED_OCR
