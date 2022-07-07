@@ -1,0 +1,31 @@
+00#VERS#CLENGTH##: 162014
+00#VERS#LENGTH###: 37524
+00#VERS#URI######: 0420Musabbihi.AkhbarMisr.MAB07012022-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/1107144190
+80#VERS#COLLATED#:
+80#VERS#LINKS####: https://www.noor-
+    book.com/%D9%83%D8%AA%D8%A7%D8%A8-%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1-%D9%85%D8%B5%D8%B1-%D9%81%D9%8A-%D8%B3%D9%86%D8%AA%D9%8A%D9%86-%D9%A4%D9%A1%D9%A4-%D9%A4%D9%A1%D9%A5-%D9%87-pdf
+90#VERS#ANNOTATOR: Mathew Barber
+90#VERS#COMMENT##: OCRed through Kraken:
+    * Kraken version: 3.0.0.0b21.dev6
+    * segmentation model: DEFAULT
+    * OCR model: 04-01-2021_ArabPersGeneralized.mlmodel
+    * Added annotation
+    * Minor corrections to OCR - there will be cases where I have missed
+    mistranscriptions and so some errors will remain.
+    * Removed editor's introduction
+    * Removed footnotes
+    * Corrected pagination
+    * Where two words are close together in the print they are sometimes elided -
+    attempted to add spaces where I have spotted  this
+    * Occasionall missing characters on the starts of lines
+    * Spaces in middle of words at starts of lines - fixed where I have spotted this
+    * Random chars - usually colons ':' - at ends of lines, produced by artefacts on
+    the pages
+    * Where multiple poems quoted on one page with different indentation -
+    transcription is very messy - resulting from poor line segmentation - these
+    instances have been corrected
+    * At the end of the work there are two collections of excerpts of al-Musabbihi's
+    text from al-Maqrizi's Itticaz and Khitat added by the editor. These have been
+    removed in this version.
+90#VERS#ISSUES###:
