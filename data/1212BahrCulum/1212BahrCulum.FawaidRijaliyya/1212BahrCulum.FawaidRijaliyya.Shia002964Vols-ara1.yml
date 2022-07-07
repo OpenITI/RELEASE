@@ -1,0 +1,20 @@
+00#VERS#CLENGTH##: 1367652
+00#VERS#LENGTH###: 326201
+00#VERS#URI######: 1212BahrCulum.FawaidRijaliyya.Shia002964Vols-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/13828496
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/13828496
+80#VERS#LINKS####: https://ketabpedia.com/تحميل/رجال-السيد-بحر-العلوم-المعروف-
+    بالفوائ/
+90#VERS#ANNOTATOR: HRH
+90#VERS#COMMENT##: In volume 2, from page 50 to 95, all the biographical tags
+    that have asterisks (### $ *) are a subsection (actually the teachers) of the
+    previous biographical tag. I showed them by an asterisk so that they are
+    distinguishable from the other names that are sorted alphabetically. Besides,
+    this part needs some headers. I showed the place of the needed headers with
+    “#:section:”. The headers must be added by a specialist in front of my blank
+    tags (using the table of contents at the end of the book) to make the
+    categorization of this part more accurate. 2- In volume 3, I see a few pages in
+    which the footnotes are interred into the text without any footnote marker (see
+    Page 271 and 280 for example).
+90#VERS#DATE#####: 2020-12-12
+90#VERS#ISSUES###: EDITORIAL_SECTIONS, FOOTNOTE
