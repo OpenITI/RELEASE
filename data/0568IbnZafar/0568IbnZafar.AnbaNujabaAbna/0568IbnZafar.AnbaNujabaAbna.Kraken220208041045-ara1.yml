@@ -1,0 +1,14 @@
+00#VERS#CLENGTH##: 136075
+00#VERS#LENGTH###: 32656
+00#VERS#URI######: 0568IbnZafar.AnbaNujabaAbna.Kraken220208041045-ara1
+80#VERS#BASED####: NOT_FOUND
+80#VERS#COLLATED#:
+80#VERS#LINKS####: https://ia600300.us.archive.org/12/items/waq82060/82060.pdf
+90#VERS#ANNOTATOR:
+90#VERS#COMMENT##: OCRed through Kraken:
+    * Kraken version: 3.0.0.0b21.dev6
+    * segmentation model: DEFAULT
+    * OCR model: 12-24-2021_ArabPersGeneralized.mlmodel
+    NOTE: no worldcat link found; edition unclear
+90#VERS#DATE#####: 2022-02-08
+90#VERS#ISSUES###: UNCORRECTED_OCR

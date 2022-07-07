@@ -1,0 +1,15 @@
+00#VERS#CLENGTH##: 242246
+00#VERS#LENGTH###: 54360
+00#VERS#URI######: 0580IbnCawwam.Filaha.Kraken220413202957-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/1123870457
+80#VERS#COLLATED#:
+80#VERS#LINKS####: https://www.noor-book.com/كتاب-الفلاحه-الاندلسيه-ج-1-pdf,
+    https://archive.org/download/Tokyo.Elektro_20170731/ الفلاحة الأندلسية ج1.pdf
+90#VERS#ANNOTATOR:
+90#VERS#COMMENT##: OCRed through Kraken:
+    * Kraken version: 3.0.0.0b21.dev6
+    * segmentation model: DEFAULT
+    * OCR model: 12-24-2021_ArabPersGeneralized.mlmodel
+    NOTE: images split by LMN
+90#VERS#DATE#####: 2022-04-13
+90#VERS#ISSUES###: UNCORRECTED_OCR

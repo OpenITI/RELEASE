@@ -1,0 +1,22 @@
+00#VERS#CLENGTH##: 463639
+00#VERS#LENGTH###: 110054
+00#VERS#URI######: 0500MultipleCoptic.SiyarAbaBatarika.Kraken220321170803-ara1
+80#VERS#BASED####: NOT_FOUND
+80#VERS#COLLATED#:
+80#VERS#LINKS####:
+    https://archive.org/details/patrologiaorient01pari/page/n125/mode/2up?view=theater,
+    https://archive.org/details/patrologiaorient01pari/page/n407/mode/2up?view=theater,
+    https://archive.org/details/patrologiaorien05pari,
+    https://archive.org/details/patrologiaorien10pari
+90#VERS#ANNOTATOR:
+90#VERS#COMMENT##: OCRed through Kraken:
+    * Kraken version: 3.0.0.0b21.dev6
+    * segmentation model: DEFAULT
+    * OCR model: 12-24-2021_ArabPersGeneralized.mlmodel
+    NOTE: BK1: St. Mark to Theonas (d. 300); BK2: Peter I to Benjamin I (d. 661);
+    BK3: Agathon to Michael I (d. 766); BK4: Mennas I to Joseph I (d. 849); NB:
+    BK1-BK4 corresponds the the four parts out of twelve parts that were translated
+    into English by Evetts; for details, see https://copticliterature.wordpress.com
+    /history-of-the-coptic-patriarchs/#_edn2
+90#VERS#DATE#####: 2022-03-21
+90#VERS#ISSUES###: UNCORRECTED_OCR
