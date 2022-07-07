@@ -1,0 +1,21 @@
+00#VERS#CLENGTH##: 211882
+00#VERS#LENGTH###: 51550
+00#VERS#URI######: 0776IbnAbiHajala.DiwanSababa.Shamela0000580-ara1
+80#VERS#BASED####: permalink, permalink, permalink
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/4770173255
+80#VERS#LINKS####: https://archive.org/details/DewaanAlsababa
+90#VERS#ANNOTATOR: Gowaart Van Den Bosschhe
+90#VERS#COMMENT##: JK and Shamela versions are the same text, I picked the
+    Shamela version as it already had some tagging in place. Unclear which edition
+    was used for this, so I have annotated based on the edition found on archive.org
+    (this is also the one noted in "collated" above). It's likely that this is not
+    the same edition however, as the pagination is different (however, note that
+    pages seem unusually long in the digital editions). As the text matches and the
+    textual structure is rather easy to follow, I have annotated on textual logic,
+    as also outlined in the introduction. However, the text quality is not super
+    high, I came across quite a lot of typos. I have corrected some when I saw them.
+    On the last 2 pages the long final poem of the text has not been preserved in
+    full: after the first two lines only the first half of each line is included
+    here, the rest is missing (also in the JK version).
+90#VERS#DATE#####: 2021-11-11
+90#VERS#ISSUES###: MANY_TYPOS, MISSING_PARTS

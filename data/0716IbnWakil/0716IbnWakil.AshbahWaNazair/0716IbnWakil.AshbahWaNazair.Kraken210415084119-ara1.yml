@@ -1,0 +1,20 @@
+00#VERS#CLENGTH##: 329510
+00#VERS#LENGTH###: 78786
+00#VERS#URI######: 0716IbnWakil.AshbahWaNazair.Kraken210415084119-ara1
+80#VERS#BASED####:
+80#VERS#COLLATED#:
+80#VERS#LINKS####: https://ia800504.us.archive.org/23/items/FP65087/65087.pdf
+90#VERS#ANNOTATOR: SPL (CnC)
+90#VERS#COMMENT##: OCRed through Kraken:
+    * segmentation model: DEFAULT
+    * OCR model: arabPers-WithDiffTypefaces.mlmodel۔ The text and collated is
+    based on the Dar al-Kutub al-'Ilmiyya edition from 2002. Unusually, there is no
+    Worldcat record of this. Pagination is out by -2. There is not a consistent way
+    to introduce a qa'ida. Qa'ida's are in separate sections, but each section may
+    contain several qa'ida's. They are not introduced uniformly. Sometimes the qaida
+    immediately follows the title on the next line (e.g., pg. 166; 164 in digital
+    text). Other times it will be embedded further in the paragraph. If there are a
+    series of qa'ida's these might be introduced with numbered entries, e.g, ahadun
+    minha.
+90#VERS#DATE#####: 2021-04-15
+90#VERS#ISSUES###: PAGINATION, UNCORRECTED_OCR

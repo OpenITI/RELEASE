@@ -1,0 +1,30 @@
+00#VERS#CLENGTH##: 342152
+00#VERS#LENGTH###: 83317
+00#VERS#URI######: 0750SafiDinHilli.Diwan.ShamAY0037951-ara1
+80#VERS#BASED####: permalink, permalink, permalink
+80#VERS#COLLATED#: permalink, permalink, permalink
+80#VERS#LINKS####: all@id, vol1@id, vol2@id, vol3@id, volX@id
+90#VERS#ANNOTATOR: the name of the annotator (latin characters; please
+    use consistently)
+90#VERS#COMMENT##: a free running comment here; you can add as many
+    lines as you see fit; the main goal of this comment section is to have a
+    place to record valuable information, which is difficult to formalize
+    into the above given categories.
+    NB: check lines of poetry that seem too short: line numbers 251, 257, 260,
+    385, 394, 397, 412, 421, 439, 445, 448, 451, 502, 671, 749, 764, 1398, 1401,
+    1404, 1407, 1410, 1425, 1428, 1431, 1434, 1437, 1446, 1449, 1458, 1461, 1464,
+    1470, 1473, 1476, 1479, 1482, 1485, 1488, 1491, 1497, 1584, 1748, 2503, 2913,
+    2918, 2922, 2927, 2928, 2933, 2934, 2935, 2938, 2948, 2950, 2954, 2955, 2957,
+    2959, 2960, 2962, 2963, 2964, 2967, 2968, 2969, 2970, 3150, 3171, 3174, 3186,
+    3189, 3204, 3207, 3216, 3225, 3226, 3227, 3228, 3230, 3231, 3235, 3238, 3240,
+    3241, 3243, 3247, 3251, 3255, 3301, 3358, 3361, 3367, 3370, 3376, 3379, 3388,
+    3391, 3397, 3400, 3403, 3409, 3421, 3427, 3435, 3438, 3441, 3564, 3583, 3603,
+    3757, 4479, 4954, 4957, 4996, 4999, 5008, 5014, 5677, 5681, 5999, 6191, 6194,
+    6203, 6209, 6218, 6224, 6227, 6233, 6236, 6239, 6242, 6245, 6248, 6257, 6263,
+    6268, 6271, 6273, 6274, 6276, 6277, 6280, 6281, 6283, 6353, 6354, 6391, 6403,
+    6443, 6457, 6458, 6461, 6464, 6465, 6466, 7147, 7251, 7260, 7534, 7537, 7717,
+    10020
+    NB: check lines of poetry that seem too long: line numbers 1128, 2514, 4866,
+    6411, 6418, 6426, 8000, 8019, 8290, 8679, 8808, 9650
+90#VERS#DATE#####: YYYY-MM-DD
+90#VERS#ISSUES###: formalized issues, separated with commas

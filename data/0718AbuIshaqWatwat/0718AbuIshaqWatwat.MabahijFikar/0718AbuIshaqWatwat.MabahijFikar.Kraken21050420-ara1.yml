@@ -1,0 +1,13 @@
+00#VERS#CLENGTH##: 268005
+00#VERS#LENGTH###: 62058
+00#VERS#URI######: 0718AbuIshaqWatwat.MabahijFikar.Kraken21050420-ara1
+80#VERS#BASED####: 
+80#VERS#COLLATED#: 
+80#VERS#LINKS####: 
+90#VERS#ANNOTATOR: SPL, LMN
+90#VERS#COMMENT##: OCRed through Kraken; arabPers-WithDiffTypefaces.mlmodel;
+    default segmenter; partial post-correction by SPL;
+  re-keying of poetry by SPL; additional corrections by LMN
+   NOTE OF THE REVIEWER (HRH): I couldn’t find the PDF of the text and reviewed the text based on its structure which is clear, and I just made a few minor changes and added PARATEXT. As it is obvious from the last lines of the text, it is just the third chapter (fann) of a more extensive text. So, I added INCOMPLETE_TEXT label. A manuscript of the text is accessible here: https://ketabpedia.com/%D8%AA%D8%AD%D9%85%D9%8A%D9%84/%D9%85%D8%AE%D8%B7%D9%88%D8%B7%D8%A9-%D9%85%D8%A8%D8%A7%D9%87%D8%AC-%D8%A7%D9%84%D9%81%D9%83%D8%B1-%D9%88%D9%85%D9%86%D8%A7%D9%87%D8%AC-%D8%A7%D9%84%D8%B9%D8%A8%D8%B1-%D9%81%D9%8A-%D8%A5%D8%A8%D8%B1/
+90#VERS#DATE#####: 2021-05-04
+90#VERS#ISSUES###: PAGINATION, UNCORRECTED_OCR, INCOMPLETE_TEXT 

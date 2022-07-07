@@ -1,0 +1,27 @@
+00#VERS#CLENGTH##: 10708
+00#VERS#LENGTH###: 2573
+00#VERS#URI######: 0750Anonymous.SirajZulma.GVDB20200219-ara1
+80#VERS#BASED####: Manuscript
+80#VERS#COLLATED#: Manuscript
+80#VERS#LINKS####: Manuscript
+90#VERS#ANNOTATOR: Gowaart Van Den Bossche
+90#VERS#COMMENT##: This text has been typed up based on one known
+    manuscript source  (in a composite manuscript held by al-Azhar
+    (49091/Majamic 1003  -- same manuscript as the main version of
+    0710IbnRifca.Nafais)  by Gowaart. The author of the text is not
+    mentioned,  nor is the text known from other sources.  The death date of
+    the author is no more than an educated guess.
+   NOTE OF THE REVIEWER (HRH): All the tags for third-level and forth-level
+    headers are definitely wrong as these are the few words at the beginning of the
+    sentences and cannot be tagged. I think the annotator has tagged them because
+    they signify the beginning of new subject matters. If so, they should be
+    replaced by titles in square brackets added by the editor of the text. Since
+    there is no PDF for this text and it’s a manuscript typed by the annotator, I
+    did not change anything. A specialist should edit the text first and add the
+    necessary titles in square brackets so that we can tag it. Therefore, I did not
+    change the extension to mARkdown and just raised a ‘review finished’ issue for
+    it to make the case clear (Besides, the levelling of the headers should be moved
+    up by one level, and the first-level header which is just the title of the text
+    should be transferred to the METADATA section).
+90#VERS#DATE#####: 2020-02-19
+90#VERS#ISSUES###: ASSESSMENT_NEEDED
