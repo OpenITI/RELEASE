@@ -1,0 +1,18 @@
+00#VERS#CLENGTH##: 3923421
+00#VERS#LENGTH###: 943601
+00#VERS#URI######: 1359FarajAllahZakiKurdi.MajmucFatawaIbnTaymiyya.Kraken220413194022-ara1
+80#VERS#BASED####: NOT_FOUND
+80#VERS#COLLATED#:
+80#VERS#LINKS####:
+    http://mc.dlib.nyu.edu/files/books/columbia_aco001745/columbia_aco001745_lo.pdf,
+    http://mc.dlib.nyu.edu/files/books/columbia_aco001746/columbia_aco001746_lo.pdf,
+    http://mc.dlib.nyu.edu/files/books/columbia_aco001747/columbia_aco001747_lo.pdf,
+    http://mc.dlib.nyu.edu/files/books/columbia_aco001748/columbia_aco001748_lo.pdf,
+    http://mc.dlib.nyu.edu/files/books/columbia_aco001749/columbia_aco001749_lo.pdf
+90#VERS#ANNOTATOR:
+90#VERS#COMMENT##: OCRed through Kraken:
+    * Kraken version: 3.0.0.0b21.dev6
+    * segmentation model: DEFAULT
+    * OCR model: 12-24-2021_ArabPersGeneralized.mlmodel
+90#VERS#DATE#####: 2022-04-13
+90#VERS#ISSUES###: UNCORRECTED_OCR
