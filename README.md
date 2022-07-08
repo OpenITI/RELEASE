@@ -28,7 +28,7 @@ The most up-to-date detailed description of the **OpenITI** project can be found
 ## Corpus Metadata
 
 
-The current release metadata is available in the `OpenITI_metadata_2022-1-6.csv` and `OpenITI_metadata_2022-1-6_merged.csv `(merged[^1] version)` `files.
+The current release metadata is available in the `OpenITI_metadata_2022-1-6.csv` and `OpenITI_metadata_2022-1-6_merged.csv `(merged\[1\] version)` `files.
 
 
 ## Folder Structure
@@ -46,306 +46,61 @@ The current release metadata is available in the `OpenITI_metadata_2022-1-6.csv`
 ## Corpus Statistics
 
 
-<table>
-  <tr>
-   <td>
-<strong>Category</strong>
-   </td>
-   <td><p style="text-align: right">
-<strong>Stats</strong></p>
-
-   </td>
-  </tr>
-  <tr>
-   <td>Number of unique titles
-   </td>
-   <td><p style="text-align: right">
-6,768</p>
-
-   </td>
-  </tr>
-  <tr>
-   <td>Number of authors
-   </td>
-   <td><p style="text-align: right">
-2,832</p>
-
-   </td>
-  </tr>
-  <tr>
-   <td>Number of book titles (all versions/editions)
-   </td>
-   <td><p style="text-align: right">
-11,177</p>
-
-   </td>
-  </tr>
-  <tr>
-   <td>Number of uncorrected OCRed texts[^2]
-   </td>
-   <td><p style="text-align: right">
-246</p>
-
-   </td>
-  </tr>
-</table>
+| **Category**                                  | **Stats** |
+| --------------------------------------------- | --------- |
+| Number of unique titles                       | 6,785     |
+| Number of authors                             | 2,843     |
+| Number of book titles (all versions/editions) | 11,195    |
+| Number of uncorrected OCRed texts\[2\]        | 246       |
 
 
-## Length of texts (all books)
+### Length of texts (all books)
+
+|         | **Number of words** | **Number of pages (300 w/p)** |
+| ------- | ------------------- | ----------------------------- |
+| Total   | 2,251,035,992       | 7,503,454                     |
+| Min.    | 47                  | 1                             |
+| 1st Qu. | 8,502               | 29                            |
+| Median  | 41,022              | 137                           |
+| Mean    | 201,076             | 671                           |
+| 3rd Qu. | 149,797             | 500                           |
+| Max*.*  | 11,912,693          | 39,709                        |
+
+# 
+
+### Length of texts (unique books)
+
+|         | Number of words | Number of pages (300 w/p) |
+| ------- | --------------- | ------------------------- |
+| Total   | 1,080,907,744   | 3,603,026                 |
+| Min.    | 48              | 1                         |
+| 1st Qu. | 7,638           | 26                        |
+| Median  | 33,211          | 111                       |
+| Mean    | 159,309         | 532                       |
+| 3rd Qu. | 121,789         | 406                       |
+| Max.    | 11,912,693      | 39,709                    |
+
+### Annotation statistics
+
+| *Number of texts with extension* .mARkdown   | 479 |
+| -------------------------------------------- | --- |
+| *Number of texts with extension* .completed  | 646 |
+| *Number of texts with extension* .inProgress | 10  |
 
 
-<table>
-  <tr>
-   <td><strong> </strong>
-   </td>
-   <td><p style="text-align: right">
-<strong>Number of words</strong></p>
-
-   </td>
-   <td><p style="text-align: right">
-<strong>Number of pages (300 w/p)</strong></p>
-
-   </td>
-  </tr>
-  <tr>
-   <td>Total
-   </td>
-   <td><p style="text-align: right">
-2,249,885,657</p>
-
-   </td>
-   <td><p style="text-align: right">
-7,499,619</p>
-
-   </td>
-  </tr>
-  <tr>
-   <td>Min.
-   </td>
-   <td><p style="text-align: right">
-47</p>
-
-   </td>
-   <td><p style="text-align: right">
-1</p>
-
-   </td>
-  </tr>
-  <tr>
-   <td>1st Qu.
-   </td>
-   <td><p style="text-align: right">
-8,497</p>
-
-   </td>
-   <td><p style="text-align: right">
-29</p>
-
-   </td>
-  </tr>
-  <tr>
-   <td>Median
-   </td>
-   <td><p style="text-align: right">
-40,944</p>
-
-   </td>
-   <td><p style="text-align: right">
-137</p>
-
-   </td>
-  </tr>
-  <tr>
-   <td>Mean
-   </td>
-   <td><p style="text-align: right">
-201,297</p>
-
-   </td>
-   <td><p style="text-align: right">
-671</p>
-
-   </td>
-  </tr>
-  <tr>
-   <td>3rd Qu.
-   </td>
-   <td><p style="text-align: right">
-150,110</p>
-
-   </td>
-   <td><p style="text-align: right">
-501</p>
-
-   </td>
-  </tr>
-  <tr>
-   <td>Max<em>.</em>
-   </td>
-   <td><p style="text-align: right">
-11,912,693</p>
-
-   </td>
-   <td><p style="text-align: right">
-39,709</p>
-
-   </td>
-  </tr>
-</table>
-
-
-
-## Length of texts (primary books)
-
-
-<table>
-  <tr>
-   <td><p style="text-align: right">
- </p>
-
-   </td>
-   <td><p style="text-align: right">
-Number of words</p>
-
-   </td>
-   <td><p style="text-align: right">
-Number of pages (300 w/p)</p>
-
-   </td>
-  </tr>
-  <tr>
-   <td>Total
-   </td>
-   <td><p style="text-align: right">
-1,079,709,426</p>
-
-   </td>
-   <td><p style="text-align: right">
-3,599,032</p>
-
-   </td>
-  </tr>
-  <tr>
-   <td>Min.
-   </td>
-   <td><p style="text-align: right">
-48</p>
-
-   </td>
-   <td><p style="text-align: right">
-1</p>
-
-   </td>
-  </tr>
-  <tr>
-   <td>1st Qu.
-   </td>
-   <td><p style="text-align: right">
-7,589</p>
-
-   </td>
-   <td><p style="text-align: right">
-26</p>
-
-   </td>
-  </tr>
-  <tr>
-   <td>Median
-   </td>
-   <td><p style="text-align: right">
-33,088</p>
-
-   </td>
-   <td><p style="text-align: right">
-111</p>
-
-   </td>
-  </tr>
-  <tr>
-   <td>Mean
-   </td>
-   <td><p style="text-align: right">
-159,532</p>
-
-   </td>
-   <td><p style="text-align: right">
-532</p>
-
-   </td>
-  </tr>
-  <tr>
-   <td>3rd Qu.
-   </td>
-   <td><p style="text-align: right">
-121,834</p>
-
-   </td>
-   <td><p style="text-align: right">
-407</p>
-
-   </td>
-  </tr>
-  <tr>
-   <td>Max.
-   </td>
-   <td><p style="text-align: right">
-11,912,693</p>
-
-   </td>
-   <td><p style="text-align: right">
-39,709</p>
-
-   </td>
-  </tr>
-</table>
-
-
-
-## Annotation statistics
-
-
-<table>
-  <tr>
-   <td><em>Number of texts with extension <code>.mARkdown</code></em>
-   </td>
-   <td><p style="text-align: right">
-479</p>
-
-   </td>
-  </tr>
-  <tr>
-   <td><em>Number of texts with extension <code>.completed</code></em>
-   </td>
-   <td><p style="text-align: right">
-630</p>
-
-   </td>
-  </tr>
-  <tr>
-   <td><em>Number of texts with extension <code>.inProgress</code></em>
-   </td>
-   <td><p style="text-align: right">
-10</p>
-
-   </td>
-  </tr>
-</table>
-
-
-
-## Book Ids 
+### Book Ids 
 
 
 The list of the new book ids in this version is available in the `ids.csv` file. It includes the newly added book ids and modified ids. The URI includes the information of the new book (i.e., date, author, and book title).
 
 
-## Modified URIs
+### Modified URIs
 
 
 List of modified URIs in the current release is available in `modified_uris.csv`. Changes typically affect such fields as year, author, and title. These changes are applied to the entire metadata (book IDs remain unchanged). 
 
 
-## Annotation Update
+### Annotation Update
 
 
 The list of texts that have been structurally annotated or where the annotation has changed (can be tracked by the file extensions) since our previous release (version [2021.2.5](https://zenodo.org/record/5550338)) is provided in `annotation_update.csv`. This file shows URIs of texts together with their current extension, which is a part of the `local_path` in the metadata file.
@@ -390,11 +145,15 @@ For more information on the OpenITI mARkdown and the extensions please see [here
 
 ### Notes
 
-[^1]:
-     The corpus contains a number of texts that are too big for GitHub and had to be split into multiple files (currently only two versions of the book _Biḥār al-anwār_ (`1111Majlisi.BiharAnwar`)). The metadata file contains statistics on each part of this split text. We also provide a separate metadata file in which the statistics for the separate parts of those books that have been merged. Since the merged metadata for these split files does not refer to an existing file, the `local_path` field for these virtual texts will be “NA”.
+1.  The corpus contains a number of texts that are too big for GitHub
+    and had to be split into multiple files (currently only two versions
+    of the book *Biḥār al-anwār* (1111Majlisi.BiharAnwar)). The metadata
+    file contains statistics on each part of this split text. We also
+    provide a separate metadata file in which the statistics for the
+    separate parts of those books that have been merged. Since the
+    merged metadata for these split files does not refer to an existing
+    file, the local\_path field for these virtual texts will be “NA”.
 
-[^2]:
-<p>
-     The uncorrected OCRed texts are specified by the “UNCORRECTED_OCR” tag in the “tags” column of the metadata files. 
-     
+2.  The uncorrected OCRed texts are specified by the “UNCORRECTED\_OCR”
+    tag in the “tags” column of the metadata files.
 
