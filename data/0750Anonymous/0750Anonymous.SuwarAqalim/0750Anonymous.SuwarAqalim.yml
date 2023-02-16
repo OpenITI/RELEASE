@@ -1,0 +1,22 @@
+00#BOOK#URI######: 0750Anonymous.SuwarAqalim
+10#BOOK#GENRES###: _BULDAN, _JUGHRAFIYA
+10#BOOK#TITLEA#AR: Ṣuwar al-aqālīm
+10#BOOK#TITLEB#AR: Haft Kišwar
+20#BOOK#WROTE####: Kirman_RE
+30#BOOK#WROTE##AH: 748-XXX-XX
+40#BOOK#RELATED##: URI of a book from OpenITI, or [Author's Title],
+    followed by abbreviation for relation type between brackets (see
+    book_relations repo). Only include relations with older books. Separate
+    related books with semicolon.
+80#BOOK#EDITIONS#: permalink, permalink, permalink
+80#BOOK#LINKS####: permalink, permalink, permalink
+80#BOOK#MSS######: permalink, permalink, permalink
+80#BOOK#STUDIES##: permalink, permalink, permalink
+80#BOOK#TRANSLAT#: permalink, permalink, permalink
+90#BOOK#COMMENT##: Sezgin, Geschichte des arabischen Schrifttums 14.299:
+    "This in multiple manuscripts anonymously extant geographical work
+    was written in the year 748/1347 in Kirman and dedicated to the 
+    Muẓaffarid ruler Mubarriz al-Dīn Muḥammad b. Muẓaffar 
+    (r. 713-759/1314-1358). (...) The book consists of two parts: 
+    the first deals with general geographical problems,
+    the second discusses the seven climes of the oecumene in 7 chapters."

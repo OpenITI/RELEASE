@@ -1,0 +1,35 @@
+00#VERS#CLENGTH##: 121132
+00#VERS#LENGTH###: 27643
+00#VERS#URI######: 0725CabdAllahSiwasi.CumdatFuhul.ArabCommAph052132655Vols-ara1
+80#VERS#BASED####: permalink, permalink, permalink
+80#VERS#COLLATED#: permalink, permalink, permalink
+80#VERS#LINKS####: vol1@https://doi.org/10.3927/52132655,
+    vol2@https://doi.org/10.3927/52132693,
+    vol3@https://doi.org/10.3927/52132791,
+    vol4@https://doi.org/10.3927/52132854,
+    vol5@https://doi.org/10.3927/52132886,
+    vol6@https://doi.org/10.3927/52132921,
+    vol7@https://doi.org/10.3927/52136029
+90#VERS#ANNOTATOR: PV
+90#VERS#COMMENT##: Text provided by the ERC-funded project
+    "Arabic Commentaries on the Hippocratic Aphorisms"
+    (2012-2017; PI: Peter Pormann, University of Manchester).
+    Converted from TEI XML by PV.
+    Cleaning of the structural annotation by PV
+    (without access to (scans of) the original manuscripts).
+    Folio numbers of the different witnesses were
+    converted to OpenITI mARkdown page numbers.
+    NB: the XML versions of these maqālas (except maqālas 1 and 7)
+    have many problems, especially in footnotes and page numbers,
+    but also the text itself seems not up to date with the PDF and rtf versions.
+    In maqāla 3, occasional page numbers in the original xml file
+    refer to an otherwise not mentioned witness V3;
+    PV took this to be a mistake for V4 and converted the page numbers accordingly.
+    In maqāla 2, there is only one page number in the original XML,
+    which refers to witness E5 (while the TEI header states the only witness
+    for this maqāla is V4). PV converted this page number to PageV00P143B.
+    PV replaced the xml version of maqāla 2, which seemed especially bad,
+    with a version based on the RTF text. Consider doing this for
+    all maqālas (except perhaps 1 and 7?).
+90#VERS#DATE#####: 2022-07-05
+90#VERS#ISSUES###: formalized issues, separated with commas

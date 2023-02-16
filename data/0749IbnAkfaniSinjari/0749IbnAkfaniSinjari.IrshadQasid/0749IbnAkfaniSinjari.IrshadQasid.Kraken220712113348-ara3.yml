@@ -1,0 +1,16 @@
+00#VERS#CLENGTH##: 97663
+00#VERS#LENGTH###: 20489
+00#VERS#URI######: 0749IbnAkfaniSinjari.IrshadQasid.Kraken220712113348-ara3
+80#VERS#BASED####: http://www.worldcat.org/oclc/470784046
+80#VERS#COLLATED#:
+80#VERS#LINKS####: http://www.islamicmanuscripts.info/reference/books/Ibn%20al-
+    Akfani-12%20Arabische%20tekst%20p.%201-29.pdf,
+    http://www.islamicmanuscripts.info/reference/books/Ibn%20al-
+    Akfani-13%20Arabische%20tekst-Inhoudsopgave%20p.%2030-70.pdf
+90#VERS#ANNOTATOR: PV
+90#VERS#COMMENT##: OCRed through Kraken:
+    * Kraken version: 3.0.0.0b21.dev6
+    * segmentation model: DEFAULT
+    * OCR model: 12-24-2021_ArabPersGeneralized.mlmodel
+90#VERS#DATE#####: 2022-07-12
+90#VERS#ISSUES###: UNCORRECTED_OCR

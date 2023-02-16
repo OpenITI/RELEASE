@@ -1,0 +1,13 @@
+00#VERS#CLENGTH##: 19205
+00#VERS#LENGTH###: 4438
+00#VERS#URI######: 0749IbnMaktum.Risala.Kraken230112160108-ara1
+80#VERS#BASED####: https://www.worldcat.org/title/9494577893
+80#VERS#COLLATED#: https://www.worldcat.org/title/9494577893
+80#VERS#LINKS####: https://iasj.net/iasj/download/8f802a8fd9001568
+90#VERS#ANNOTATOR:
+90#VERS#COMMENT##: OCRed through Kraken:
+    * Kraken version: 3.0.0.0b21.dev6
+    * segmentation model: DEFAULT
+    * OCR model: 10-2022_ArabicTestOutputModel_New_20_0.mlmodel
+90#VERS#DATE#####: 2023-01-12
+90#VERS#ISSUES###: UNCORRECTED_OCR

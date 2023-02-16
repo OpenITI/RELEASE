@@ -1,0 +1,27 @@
+00#VERS#CLENGTH##: 647634
+00#VERS#LENGTH###: 151827
+00#VERS#URI######: 0725IbnCidhariMarrakushi.BayanMughrib.Shamela0011782-ara1
+80#VERS#BASED####: https://worldcat.org/en/title/25842780
+80#VERS#COLLATED#: https://worldcat.org/en/title/25842780
+80#VERS#LINKS####: Vol 1: https://ia902701.us.archive.org/11/items/AlBayan-
+    ibnIdariT1/1.pdf; Vol 2: https://ia802608.us.archive.org/0/items/AlBayan-
+    ibnIdariT2/2.pdf; Vol 3: https://ia802604.us.archive.org/7/items/AlBayan-
+    ibnIdariT3/3.pdf; Vol 4: https://ia600709.us.archive.org/2/items/AlBayan-
+    ibnIdariT4/4.pdf
+90#VERS#ANNOTATOR: AQ
+90#VERS#COMMENT##: no scanned copy is available for this edition.
+    However the following e-copy follows is based on this edition https://m.
+    marefa.org/images/7/7f/كتاب_البيان_المُغْرِب_في_أخبار_الأندلس_والمغرب.pd
+    f. the text is based on Provencal/Colin's 1948 Leidben
+    edition; generally free from typos and clean; minor discrepancies such
+    as [ibn] in the text and [bin] in the printed edition.
+    NOTE OF THE REVIEWER (HRH): I found the PDF and changed the VERS#LINKS#### and
+    collated the text with it and made some changes. 2. Our digital version is just
+    the first two volumes and volumes three and four are completely missing. So, I
+    raised a ‘Text Quality’ issue for this and did not change the extension to
+    mARkdown. Besides, PageV01P024-33 are missing as well. 3. It seems to me that
+    some of the headers can be levelled. However, the text should be read carefully
+    for this and this should be done by a specialist. 4. A different edition is
+    accessible here: https://archive.org/details/FP144597/00_144597/mode/1up
+90#VERS#DATE#####: 2020-03-04
+90#VERS#ISSUES###: INCOMPLETE_TEXT, MISSING_PARTS

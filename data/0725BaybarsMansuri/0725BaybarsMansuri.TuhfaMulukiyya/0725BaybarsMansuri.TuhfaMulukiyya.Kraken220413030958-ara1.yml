@@ -1,0 +1,23 @@
+00#VERS#CLENGTH##: 209895
+00#VERS#LENGTH###: 45511
+00#VERS#URI######: 0725BaybarsMansuri.TuhfaMulukiyya.Kraken220413030958-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/776284094
+80#VERS#COLLATED#:
+    https://digital.onb.ac.at/RepViewer/viewer.faces?doc=DTL_5646498
+80#VERS#LINKS####: https://gowaart.stackstorage.com/s/VTmgbs60KqCvZIVo
+90#VERS#ANNOTATOR: Gowaart Van Den Bossche
+90#VERS#COMMENT##: OCRed through Kraken:
+    * Kraken version: 3.0.0.0b21.dev6
+    * segmentation model: DEFAULT
+    * OCR model: 12-24-2021_ArabPersGeneralized.mlmodel
+    
+    Corrected by Gowaart. Collated link is the MS of the text. Footnotes removed,
+    text annotated, poetry tagged. Structure of the text is not quite clear, it's
+    mostly annalistic, but there are a few headers for sections as well, I have
+    tagged the years as first level and other sections as second level. Here and
+    there a few lines were not digitised, so I have typed them where I spotted them.
+    Similarly, I have corrected mistakes where I saw them, but doutblessly several
+    remain, especially as the PDF quality available for OCR was not of the highest
+    possible quality. Generally speaking the OCR results are quite good though.
+90#VERS#DATE#####: 2022-04-13
+90#VERS#ISSUES###: UNCORRECTED_OCR

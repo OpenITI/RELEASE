@@ -1,0 +1,28 @@
+00#VERS#CLENGTH##: 171210
+00#VERS#LENGTH###: 40287
+00#VERS#URI######: 0749IbnJabirWadiAshi.Barnamaj.Shamela0010740-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/1107067850
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/1107067850
+80#VERS#LINKS####:
+    https://ketabpedia.com/%D8%AA%D8%AD%D9%85%D9%8A%D9%84/%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D8%AC-%D8%A7%D9%84%D9%88%D8%A7%D8%AF%D9%8A-%D8%A2%D8%B4%D9%8A-%D8%B7-%D8%AF%D8%A7%D8%B1-%D8%A7%D9%84%D8%BA%D8%B1%D8%A8-%D8%A7%D9%84%D8%A5%D8%B3%D9%84%D8%A7%D9%85%D9%8A/
+90#VERS#ANNOTATOR: LMN
+90#VERS#COMMENT##: The author's opening remarks indicate that the two
+    parts form part of the original structure of the work; "[al-juzʾ al-
+    awwal min barnāmaj Wādī Āshī]" has been added by the annotator in square
+    brackets to make that clearer;  the underlying print edition is not
+    consistent with regard to paragraphs;  the numbers preceding the
+    individuals listed in the text were shifted by the annotator; this way,
+    each dictionary item includes terms such as muḥaddith, shaykh, zāhid
+    (etc.), a number of which almost always precedes the name of the
+    individual properly speaking.
+    NOTE OF THE REVIEWER (HRH): Editorial removed. Women’s biographies tagged. 2-
+    The bibliographical entries in the second part of the text are the books the
+    author has studied under the supervision of his teachers during his lifetime,
+    and therefore gives information about the author and his teachers rather than
+    the books themselves. So, I don’t think they should be tagged as bibliographical
+    entries since they do not include much information about the books. However, I
+    didn’t remove the tags in this part since I’m not sure if such entries should be
+    tagged or not. 3- A different edition can be found here:
+    https://ia802705.us.archive.org/9/items/aeohaeoh/pgwa.pdf
+90#VERS#DATE#####: 2020-05-19
+90#VERS#ISSUES###: NO_MAJOR_ISSUES
