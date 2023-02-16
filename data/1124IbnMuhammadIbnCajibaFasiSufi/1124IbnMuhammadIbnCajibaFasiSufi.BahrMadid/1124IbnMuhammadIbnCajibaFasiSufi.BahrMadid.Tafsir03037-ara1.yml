@@ -1,0 +1,16 @@
+00#VERS#CLENGTH##: 4422127
+00#VERS#LENGTH###: 1033186
+00#VERS#URI######: 1124IbnMuhammadIbnCajibaFasiSufi.BahrMadid.Tafsir03037-ara1
+80#VERS#BASED####: permalink, permalink, permalink
+80#VERS#COLLATED#: permalink, permalink, permalink
+80#VERS#LINKS####: all@id, vol1@id, vol2@id, vol3@id, volX@id
+90#VERS#ANNOTATOR: the name of the annotator (latin characters; please
+    use consistently)
+90#VERS#COMMENT##: Incomplete text: text scraped from altafsir.com (by
+    Alicia González Martínez of the COBHUNI project, Hamburg University),
+    which contains only the parts of the text that are Quran commentary (no
+    introductions etc.). The texts also don't refer to a specific edition
+    and pagination is not present. The advantage of these texts is that
+    there is a clear indication of the Quran passages explained by the text.
+90#VERS#DATE#####: YYYY-MM-DD
+90#VERS#ISSUES###: INCOMPLETE_VERSION, PAGINATION

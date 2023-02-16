@@ -1,0 +1,19 @@
+00#BOOK#URI######: 1127KhayrDinIbnIlyas.FalahFallah
+10#BOOK#GENRES###: فلاحة
+10#BOOK#TITLEA#AR: Kitāb al-falāḥ al-fallāḥ
+10#BOOK#TITLEB#AR:
+20#BOOK#WROTE####: MADINA_396E244N_S
+30#BOOK#WROTE##AH: 11XX-XX-XX (X+ for unknown)
+40#BOOK#RELATED##: URI of a book from OpenITI, or [Author's Title],
+    followed by abbreviation for relation type between brackets (see
+    book_relations repo). Only include relations with older books. Separate
+    related books with semicolon.
+80#BOOK#EDITIONS#: http://www.worldcat.org/oclc/48047699
+80#BOOK#LINKS####:
+    http://filaha.org/FalahAlFalahArabicTranscription.html
+80#BOOK#MSS######:
+    http://makhtota.ksu.edu.sa/makhtota/1119/1#.XkZojmhKhPa, https://al-
+    mostafa.info/data/arabic/depot/gap.php?file=m013342.pdf
+80#BOOK#STUDIES##: permalink, permalink, permalink
+80#BOOK#TRANSLAT#: permalink, permalink, permalink
+90#BOOK#COMMENT##:
