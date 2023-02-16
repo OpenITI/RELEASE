@@ -1,0 +1,18 @@
+00#AUTH#URI######: 0222IbnBakkarDabi
+10#AUTH#ISM####AR: al-Walīd
+10#AUTH#KUNYA##AR: 
+10#AUTH#LAQAB##AR: 
+10#AUTH#NASAB##AR: b. Hišām b. Qaḥḏam
+10#AUTH#NISBA##AR: al-Qaḥḏamī
+10#AUTH#SHUHRA#AR: al-Qaḥḏamī
+20#AUTH#BORN#####: 
+20#AUTH#DIED#####: URIs from Althurayya, comma separated
+20#AUTH#RESIDED##: URIs from Althurayya, comma separated
+20#AUTH#VISITED##: URIs from Althurayya, comma separated
+30#AUTH#BORN###AH: YEAR-MON-DA (X+ for unknown)
+30#AUTH#DIED###AH: YEAR-MON-DA (X+ for unknown)
+40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
+40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
+90#AUTH#COMMENT##: Traditionist who transmitted poetry and akhbār. 
+    Wrote a (lost) book about Baṣra, often quoted by Balādhurī. See GAS 14.344-345.

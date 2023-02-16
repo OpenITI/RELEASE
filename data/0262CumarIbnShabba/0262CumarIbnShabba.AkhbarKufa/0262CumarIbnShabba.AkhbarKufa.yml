@@ -1,0 +1,16 @@
+00#BOOK#URI######: 0262CumarIbnShabba.AkhbarKufa
+10#BOOK#GENRES###: _TARIKH, _JUGHRAFIYA
+10#BOOK#TITLEA#AR: Aḫbār al-Kūfaŧ
+10#BOOK#TITLEB#AR: Taʾrīḫ al-Kūfaŧ
+20#BOOK#WROTE####: URIs from Althurayya, comma separated
+30#BOOK#WROTE##AH: YEAR-MON-DA (X+ for unknown)
+40#BOOK#RELATED##: URI of a book from OpenITI, or [Author's Title],
+    followed by abbreviation for relation type between brackets (see
+    book_relations repo). Only include relations with older books. Separate
+    related books with semicolon.
+80#BOOK#EDITIONS#: permalink, permalink, permalink
+80#BOOK#LINKS####: permalink, permalink, permalink
+80#BOOK#MSS######: permalink, permalink, permalink
+80#BOOK#STUDIES##: permalink, permalink, permalink
+80#BOOK#TRANSLAT#: permalink, permalink, permalink
+90#BOOK#COMMENT##: Lost work on the city of al-Kūfa. See GAS 14.354.

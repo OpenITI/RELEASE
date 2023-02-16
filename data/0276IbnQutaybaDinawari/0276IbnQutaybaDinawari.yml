@@ -1,0 +1,17 @@
+00#AUTH#URI######: 0276IbnQutaybaDinawari
+10#AUTH#ISM####AR: ʿAbd Allāh
+10#AUTH#KUNYA##AR: Abū Muḥammad
+10#AUTH#LAQAB##AR:
+10#AUTH#NASAB##AR: b. Muslim b. Qutaybaŧ
+10#AUTH#NISBA##AR: al-Dīnawarī, al-Kūfī, al-Marwazī
+10#AUTH#SHUHRA#AR: Ibn Qutaybaŧ, al-Dīnawarī
+20#AUTH#BORN#####: Iraq_RE
+20#AUTH#DIED#####: URIs from Althurayya, comma separated
+20#AUTH#RESIDED##: URIs from Althurayya, comma separated
+20#AUTH#VISITED##: URIs from Althurayya, comma separated
+30#AUTH#BORN###AH: 0213-XXX-XX
+30#AUTH#DIED###AH: 0276-XXX-XX
+40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
+40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
+90#AUTH#COMMENT##: EI2: "Abū Muḥammad ʿAbd Allāh b. Muslim al-Dīnawarī (some add al-Kūfī , which refers to his place of birth, and al-Marwazī , which is probably the ethnic name of his father), one of the great Sunnī polygraphs of the 3rd/9th century, being both a theologian and a writer of adab." http://dx.doi.org/10.1163/1573-3912_islam_COM_0333

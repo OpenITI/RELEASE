@@ -1,0 +1,33 @@
+00#BOOK#URI######: 0230IbnSacd.TabaqatKubra
+10#BOOK#GENRES###: src@keyword, src@keyword, src@keyword
+10#BOOK#TITLEA#AR: al-Ṭabaqāt al-kubrá
+10#BOOK#TITLEB#AR: 
+20#BOOK#WROTE####: URIs from Althurayya, comma separated
+30#BOOK#WROTE##AH: YEAR-MON-DA (X+ for unknown)
+40#BOOK#RELATED##: URI of a book from OpenITI, or [Author's Title],
+    followed by abbreviation for relation type between brackets (see
+    book_relations repo). Only include relations with older books. Separate
+    related books with semicolon.
+80#BOOK#EDITIONS#: permalink, permalink, permalink
+80#BOOK#LINKS####: permalink, permalink, permalink
+80#BOOK#MSS######: permalink, permalink, permalink
+80#BOOK#STUDIES##: permalink, permalink, permalink
+80#BOOK#TRANSLAT#: permalink, permalink, permalink
+90#BOOK#COMMENT##: There is no full edition of the work yet.  Two
+    editions in the corpus contain most of the text: * ed. Iḥsān ʿAbbās,
+    Beirut (JK000530, Shamela0009351, Shia003044Vols) * ed. Muḥammad
+    ʿAbd
+    al-Qādir ʿAṭā, Beirut (Shamela0001686) Additional parts (al-juz' al-
+    mutammim, al-qism al-mutammim) of the work, from other manuscripts,
+    have
+    been edited (no overlap between the editions): * Tābiʿī ahl al-
+    Madīna,
+    ed. Ziyād Manṣūr  (JK000744, Shamela009352, Shamela0007666):  This
+    part
+    is included in the ʿAṭā' ed. but not in the ʿAbbās ed. * al-Ṭabaqa
+    al-
+    khāmisa fī man qabaḍa rasūl Allāh, ed. al-Sulamī, Ṭā'if
+    (Shamela0001689): This part is not included in the ʿAbbās and ʿAṭā
+    editions * al-Ṭabaqa al-rābiʿa min al-ṣaḥāba, ed. al-Sallūmī, Ṭā'if
+    (Shamela0012416): 10 pct. of this work is in the ʿAbbās and ʿĀṭā
+    editions.

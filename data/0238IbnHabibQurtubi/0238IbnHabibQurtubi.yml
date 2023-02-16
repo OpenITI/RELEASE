@@ -1,0 +1,17 @@
+00#AUTH#URI######: 0238IbnHabibQurtubi
+10#AUTH#ISM####AR: ʿAbd al-Malik
+10#AUTH#KUNYA##AR: Abū Marwān
+10#AUTH#LAQAB##AR: 
+10#AUTH#NASAB##AR: b. Ḥabīb b. Ḥabīb b. Sulaymān b. Hārūn
+10#AUTH#NISBA##AR: al-Sulamī, al-Ilbīrī, al-Qurṭubī
+10#AUTH#SHUHRA#AR: Ibn Ḥabīb, al-Qurṭubī
+20#AUTH#BORN#####: Andalus_RE
+20#AUTH#DIED#####: URIs from Althurayya, comma separated
+20#AUTH#RESIDED##: URIs from Althurayya, comma separated
+20#AUTH#VISITED##: URIs from Althurayya, comma separated
+30#AUTH#BORN###AH: 0180-XXX-XX
+30#AUTH#DIED###AH: 0238-XXX-XX
+40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
+40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
+90#AUTH#COMMENT##: EI2: "Abū Marwān ʿAbd al-Malik b. Ḥabīb al-Sulamī , Andalusian scholar claiming descent from the Arab family of Sulaym b. Manṣūr; he was born at Ḥiṣn Wāṭ (identified by Simonet with Huétor Vega), about 180/796 and died at Cordova in 238/853.": http://dx.doi.org/10.1163/1573-3912_islam_SIM_3175

@@ -1,0 +1,15 @@
+00#VERS#CLENGTH##: 30915
+00#VERS#LENGTH###: 8250
+00#VERS#URI######: 0288ThabitIbnQurra.SanatShamsBiArsad.ALCorpus00005-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/462103388
+80#VERS#COLLATED#: permalink, permalink, permalink
+80#VERS#LINKS####: all@id, vol1@id, vol2@id, vol3@id, volX@id
+90#VERS#ANNOTATOR: the name of the annotator (latin characters; please
+    use consistently)
+90#VERS#COMMENT##: Text digitized by the Arabic and Latin Corpus project
+    at the University of Würzburg (https://www.arabic-latin-
+    corpus.philosophie.uni-wuerzburg.de/text/Thab_Ann_ar.index.xhtml)
+    Transcribed by Azzam Hasan and Peter Tarras. The text was converted to
+    OpenITI mARkdown by PV.
+90#VERS#DATE#####: YYYY-MM-DD
+90#VERS#ISSUES###: formalized issues, separated with commas
