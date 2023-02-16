@@ -1,0 +1,16 @@
+00#VERS#CLENGTH##: 85220
+00#VERS#LENGTH###: 20497
+00#VERS#URI######: 0458YahyaIbnSacidAntaki.Tarikh.Kraken220808165913-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/490824593
+80#VERS#COLLATED#:
+80#VERS#LINKS####:
+    https://archive.org/download/patrologiaorient18pariuoft/patrologiaorient18pariuoft.pdf
+90#VERS#ANNOTATOR:
+90#VERS#COMMENT##: OCRed through Kraken:
+    * Kraken version: 3.0.0.0b21.dev6
+    * segmentation model: DEFAULT
+    * OCR model: 12-24-2021_ArabPersGeneralized.mlmodel
+    NOTE: requested by Thomas A. Carlson (in 2017!); the work is in the meantime in
+    the corpus, from Shamela.
+90#VERS#DATE#####: 2022-08-08
+90#VERS#ISSUES###: UNCORRECTED_OCR

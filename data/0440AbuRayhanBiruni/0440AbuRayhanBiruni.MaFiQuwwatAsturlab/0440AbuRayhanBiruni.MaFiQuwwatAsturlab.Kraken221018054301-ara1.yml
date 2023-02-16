@@ -1,0 +1,16 @@
+00#VERS#CLENGTH##: 68985
+00#VERS#LENGTH###: 16855
+00#VERS#URI######: 0440AbuRayhanBiruni.MaFiQuwwatAsturlab.Kraken221018054301-ara1
+80#VERS#BASED####: https://worldcat.org/title/8177283189
+80#VERS#COLLATED#:
+80#VERS#LINKS####:
+    https://dspace.library.uu.nl/bitstream/handle/1874/381551/finalversion.pdf?sequence=1&isAllowed=y
+90#VERS#ANNOTATOR:
+90#VERS#COMMENT##: OCRed through Kraken:
+    * Kraken version: 3.0.0.0b21.dev6
+    * segmentation model: DEFAULT
+    * OCR model: 10-2022_ArabicTestOutputModel_New_20_0.mlmodel
+    NOTE: This is an edition of two manuscripts, from Rezvani's PhD (Arabic part,
+    pp. 94-144)
+90#VERS#DATE#####: 2022-10-18
+90#VERS#ISSUES###: UNCORRECTED_OCR

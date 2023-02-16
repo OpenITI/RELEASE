@@ -1,0 +1,20 @@
+00#VERS#CLENGTH##: 443753
+00#VERS#LENGTH###: 107449
+00#VERS#URI######: 0449AbuCalaMacarri.Diwan.JK007580-ara1
+80#VERS#BASED####: permalink, permalink, permalink
+80#VERS#COLLATED#: permalink, permalink, permalink
+80#VERS#LINKS####: all@id, vol1@id, vol2@id, vol3@id, volX@id
+90#VERS#ANNOTATOR: the name of the annotator (latin characters; please
+    use consistently)
+90#VERS#COMMENT##: a free running comment here; you can add as many
+    lines as you see fit; the main goal of this comment section is to have a
+    place to record valuable information, which is difficult to formalize
+    into the above given categories.
+    NB: check lines of poetry that seem too short: line numbers 359, 1635, 1677,
+    1787, 2455, 2668, 3958, 4031, 4038, 4552, 4714, 4748, 5461, 5590, 7188, 7225,
+    7423, 7772, 7778, 7780, 7879, 8511, 10114, 12394, 13023, 13231, 13467, 13585,
+    13703
+    NB: check lines of poetry that seem too long: line numbers 555, 4043, 4415,
+    5455, 8331, 10374, 11087
+90#VERS#DATE#####: YYYY-MM-DD
+90#VERS#ISSUES###: formalized issues, separated with commas

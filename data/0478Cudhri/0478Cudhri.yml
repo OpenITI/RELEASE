@@ -1,0 +1,29 @@
+00#AUTH#URI######: 0478Cudhri
+10#AUTH#ISM####AR: Aḥmad
+10#AUTH#KUNYA##AR: Abū al-ʿAbbās
+10#AUTH#LAQAB##AR: 
+10#AUTH#NASAB##AR: b. ʿUmar b. Anas
+10#AUTH#NISBA##AR: al-ʿUḏrī al-Dalaʾī
+10#AUTH#SHUHRA#AR: al-ʿUḏrī
+20#AUTH#BORN#####: Andalus_RE,MARIYYA_025W368N_S, 
+20#AUTH#DIED#####: Andalus_RE,MARIYYA_025W368N_S
+20#AUTH#RESIDED##: URIs from Althurayya, comma separated
+20#AUTH#VISITED##: URIs from Althurayya, comma separated
+30#AUTH#BORN###AH: YEAR-MON-DA (X+ for unknown)
+30#AUTH#DIED###AH: YEAR-MON-DA (X+ for unknown)
+40#AUTH#STUDENTS#: 0456IbnHazm,0463IbnCabdBarr,0488IbnFutuhHumaydi
+40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
+90#AUTH#COMMENT##: Sezgin, Geschichte des arabischen Schrifttums 14.258:
+    al-ʿUdhrī "was born in Dalias, a village belonging to Almería.
+    He travelled in 407/1016 with his father to Mecca, where he spent a
+    number of years studying before returning to his homeland. 
+    Among his students in Andalusia are Ibn Ḥazm, Ibn ʿAbdalbarr and
+    Abū ʿAbdallāh al-Ḥumaidī. He died in 478/1085 in Almería. His scientific
+    interests were ḥadīth, history and geography. While his historic interest
+    found its expression in a Kitāb Aʿlām al-nubuwwa or Dalā'il al-nubuwwa
+    (not extant), he wrote a large book on geography with a tendency for mirabilia
+    under the title Tarṣīʿ al-akhbār wa-tanwīʿ al-āthār wa-al-bustān fī gharā'ib al-buldān
+    wa-al-masālik ilā jamīʿ al-mamālik. From this book, which was often used by later 
+    geographers like al-Idrīsī, Yāqūt and al-Qazwīnī, only the part on Andalusia
+    is extant."

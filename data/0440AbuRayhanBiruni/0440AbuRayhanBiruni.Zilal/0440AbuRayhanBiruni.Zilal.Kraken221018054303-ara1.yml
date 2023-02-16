@@ -1,0 +1,26 @@
+00#VERS#CLENGTH##: 185950
+00#VERS#LENGTH###: 44178
+00#VERS#URI######: 0440AbuRayhanBiruni.Zilal.Kraken221018054303-ara1
+80#VERS#BASED####: https://worldcat.org/title/13541853
+80#VERS#COLLATED#:
+80#VERS#LINKS####: http://www.jphogendijk.nl/biruni/ShadowsAr1.pdf;
+    http://www.jphogendijk.nl/biruni/ShadowsAr2.pdf
+90#VERS#ANNOTATOR:
+90#VERS#COMMENT##: OCRed through Kraken:
+    * Kraken version: 3.0.0.0b21.dev6
+    * segmentation model: DEFAULT
+    * OCR model: 10-2022_ArabicTestOutputModel_New_20_0.mlmodel
+    NOTE: Risāla no. 2 in the Hyderabad edition; "Note that a fragment of the text
+    (corresponding to six pages in the Arabic manuscript Bankipore 2468, namely ff.
+    125-130) is missing in this edition, but was printed elsewhere. Thus, on p. 5
+    line 10, between (a.haduhA) and (bi-annahA), one should place the text from p.
+    34 line 8 (min al-Akhar) until p. 63 line 4 tu.sifa from tract no. 3, "Fi
+    harakat al-shams" [On the motions of the sun] in the publication Rasa'ilu ibn-i
+    Sinan, by Ibrahim ibn Sinan b. Thabit b. Qurra al-Harrani, Containing Six
+    Tracts, Hyderabad: Osmania Oriental Publication Bureau, 1367 H./1948 A.D
+    (reprinted in IMA 27). We also note that the pages 212-226 at the end of the
+    edition have been wrongly numbered 112-126."
+    (http://www.jphogendijk.nl/biruni.html). Hogendijk produced a PDF in which the
+    missing pages are inserted.
+90#VERS#DATE#####: 2022-10-18
+90#VERS#ISSUES###: UNCORRECTED_OCR

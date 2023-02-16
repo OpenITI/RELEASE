@@ -1,0 +1,13 @@
+00#VERS#CLENGTH##: 20552
+00#VERS#LENGTH###: 4599
+00#VERS#URI######: 0440AbuRayhanBiruni.RashikatHind.Kraken221018054255-ara1
+80#VERS#BASED####: https://worldcat.org/title/13541853
+80#VERS#COLLATED#:
+80#VERS#LINKS####: http://www.jphogendijk.nl/biruni/Rashikat.pdf
+90#VERS#ANNOTATOR:
+90#VERS#COMMENT##: OCRed through Kraken:
+    * Kraken version: 3.0.0.0b21.dev6
+    * segmentation model: DEFAULT
+    * OCR model: 10-2022_ArabicTestOutputModel_New_20_0.mlmodel
+90#VERS#DATE#####: 2022-10-18
+90#VERS#ISSUES###: UNCORRECTED_OCR

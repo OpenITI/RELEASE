@@ -1,0 +1,15 @@
+00#VERS#CLENGTH##: 36876
+00#VERS#LENGTH###: 9590
+00#VERS#URI######: 0440AbuRayhanBiruni.Tacdil.Kraken221018054300-ara1
+80#VERS#BASED####: https://worldcat.org/title/13541853
+80#VERS#COLLATED#:
+80#VERS#LINKS####: http://www.jphogendijk.nl/biruni/Solareq.pdf
+90#VERS#ANNOTATOR:
+90#VERS#COMMENT##: OCRed through Kraken:
+    * Kraken version: 3.0.0.0b21.dev6
+    * segmentation model: DEFAULT
+    * OCR model: 10-2022_ArabicTestOutputModel_New_20_0.mlmodel
+    NOTE: Only a fragment of the text is extant, edited inside another risāla.
+    Hogendijk prepared a PDF with only the relevant text and images.
+90#VERS#DATE#####: 2022-10-18
+90#VERS#ISSUES###: UNCORRECTED_OCR

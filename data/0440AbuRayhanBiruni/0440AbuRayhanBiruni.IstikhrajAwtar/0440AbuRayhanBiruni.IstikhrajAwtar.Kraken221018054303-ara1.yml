@@ -1,0 +1,16 @@
+00#VERS#CLENGTH##: 58315
+00#VERS#LENGTH###: 16195
+00#VERS#URI######: 0440AbuRayhanBiruni.IstikhrajAwtar.Kraken221018054303-ara1
+80#VERS#BASED####: https://worldcat.org/title/13541853
+80#VERS#COLLATED#:
+80#VERS#LINKS####: http://www.jphogendijk.nl/biruni/Chords-purified.pdf
+90#VERS#ANNOTATOR:
+90#VERS#COMMENT##: OCRed through Kraken:
+    * Kraken version: 3.0.0.0b21.dev6
+    * segmentation model: DEFAULT
+    * OCR model: 10-2022_ArabicTestOutputModel_New_20_0.mlmodel
+    NOTE: The PDF is a cleaned version of the first risāla printed in this edition,
+    which contained another risāla mixed in with the Istikhrāj (see
+    http://www.jphogendijk.nl/biruni.html)
+90#VERS#DATE#####: 2022-10-18
+90#VERS#ISSUES###: UNCORRECTED_OCR

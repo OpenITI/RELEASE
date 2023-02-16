@@ -1,0 +1,14 @@
+00#VERS#CLENGTH##: 80784
+00#VERS#LENGTH###: 18370
+00#VERS#URI######: 0440AbuRayhanBiruni.TamhidMustaqarr.Kraken221018054301-ara1
+80#VERS#BASED####: https://worldcat.org/title/13541853
+80#VERS#COLLATED#:
+80#VERS#LINKS####: http://www.wdl.org/en/item/7433/
+90#VERS#ANNOTATOR:
+90#VERS#COMMENT##: OCRed through Kraken:
+    * Kraken version: 3.0.0.0b21.dev6
+    * segmentation model: DEFAULT
+    * OCR model: 10-2022_ArabicTestOutputModel_New_20_0.mlmodel
+    NOTE: Risāla no. 3 in the Hyderabad edition
+90#VERS#DATE#####: 2022-10-18
+90#VERS#ISSUES###: UNCORRECTED_OCR

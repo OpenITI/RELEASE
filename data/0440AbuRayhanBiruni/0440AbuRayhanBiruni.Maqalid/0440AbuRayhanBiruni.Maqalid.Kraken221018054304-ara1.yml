@@ -1,0 +1,13 @@
+00#VERS#CLENGTH##: 91903
+00#VERS#LENGTH###: 24933
+00#VERS#URI######: 0440AbuRayhanBiruni.Maqalid.Kraken221018054304-ara1
+80#VERS#BASED####: https://worldcat.org/title/610721395
+80#VERS#COLLATED#:
+80#VERS#LINKS####: https://archive.org/download/ilmetauqeet_gmail_640/640.pdf
+90#VERS#ANNOTATOR:
+90#VERS#COMMENT##: OCRed through Kraken:
+    * Kraken version: 3.0.0.0b21.dev6
+    * segmentation model: DEFAULT
+    * OCR model: 10-2022_ArabicTestOutputModel_New_20_0.mlmodel
+90#VERS#DATE#####: 2022-10-18
+90#VERS#ISSUES###: UNCORRECTED_OCR

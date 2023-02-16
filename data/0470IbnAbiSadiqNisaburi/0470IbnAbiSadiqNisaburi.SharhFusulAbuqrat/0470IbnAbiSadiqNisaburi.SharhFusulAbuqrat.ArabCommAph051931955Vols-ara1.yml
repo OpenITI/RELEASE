@@ -1,0 +1,24 @@
+00#VERS#CLENGTH##: 355941
+00#VERS#LENGTH###: 82865
+00#VERS#URI######: 0470IbnAbiSadiqNisaburi.SharhFusulAbuqrat.ArabCommAph051931955Vols-ara1
+80#VERS#BASED####: permalink, permalink, permalink
+80#VERS#COLLATED#: permalink, permalink, permalink
+80#VERS#LINKS####: vol1@https://doi.org/10.3927/51931955,
+    vol2@https://doi.org/10.3927/51931994,
+    vol3@https://doi.org/10.3927/51932105,
+    vol4@https://doi.org/10.3927/51932186,
+    vol5@https://doi.org/10.3927/51932253,
+    vol6@https://doi.org/10.3927/51932337,
+    vol7@https://doi.org/10.3927/51116988,
+    vol8@https://doi.org/10.3927/51932414
+90#VERS#ANNOTATOR: PV
+90#VERS#COMMENT##: Text provided by the ERC-funded project
+    "Arabic Commentaries on the Hippocratic Aphorisms"
+    (2012-2017; PI: Peter Pormann, University of Manchester).
+    Converted from TEI XML by PV.
+    Cleaning of the structural annotation by PV
+    (without access to (scans of) the original manuscripts).
+    Folio numbers of the different witnesses were
+    converted to OpenITI mARkdown page numbers.
+90#VERS#DATE#####: 2022-07-05
+90#VERS#ISSUES###: formalized issues, separated with commas

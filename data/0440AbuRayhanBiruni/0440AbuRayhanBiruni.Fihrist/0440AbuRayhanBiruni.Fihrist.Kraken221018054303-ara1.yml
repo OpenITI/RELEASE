@@ -1,0 +1,25 @@
+00#VERS#CLENGTH##: 3487
+00#VERS#LENGTH###: 799
+00#VERS#URI######: 0440AbuRayhanBiruni.Fihrist.Kraken221018054303-ara1
+80#VERS#BASED####: https://worldcat.org/title/1025597689
+80#VERS#COLLATED#:
+80#VERS#LINKS####: https://gallica.bnf.fr/ark:/12148/bpt6k72901q/f38.highres;
+    https://gallica.bnf.fr/ark:/12148/bpt6k72901q/f39.highres;
+    https://gallica.bnf.fr/ark:/12148/bpt6k72901q/f40.highres;
+    https://gallica.bnf.fr/ark:/12148/bpt6k72901q/f41.highres;
+    https://gallica.bnf.fr/ark:/12148/bpt6k72901q/f42.highres;
+    https://gallica.bnf.fr/ark:/12148/bpt6k72901q/f43.highres;
+    https://gallica.bnf.fr/ark:/12148/bpt6k72901q/f44.highres;
+    https://gallica.bnf.fr/ark:/12148/bpt6k72901q/f45.highres;
+    https://gallica.bnf.fr/ark:/12148/bpt6k72901q/f46.highres;
+    https://gallica.bnf.fr/ark:/12148/bpt6k72901q/f47.highres;
+    https://gallica.bnf.fr/ark:/12148/bpt6k72901q/f48.highres
+90#VERS#ANNOTATOR:
+90#VERS#COMMENT##: OCRed through Kraken:
+    * Kraken version: 3.0.0.0b21.dev6
+    * segmentation model: DEFAULT
+    * OCR model: 10-2022_ArabicTestOutputModel_New_20_0.mlmodel
+    NOTE: Biruni's list of his own works; from the introduction to Sachau's edition
+    of the Āthār al-Bāqiya
+90#VERS#DATE#####: 2022-10-18
+90#VERS#ISSUES###: UNCORRECTED_OCR

@@ -1,0 +1,15 @@
+00#VERS#CLENGTH##: 15847
+00#VERS#LENGTH###: 3897
+00#VERS#URI######: 0440AbuRayhanBiruni.TashilTastihAsturlabi.Kraken221018054304-ara1
+80#VERS#BASED####: https://worldcat.org/title/812879241
+80#VERS#COLLATED#:
+80#VERS#LINKS####: http://www.jphogendijk.nl/biruni/Dallal.pdf
+90#VERS#ANNOTATOR:
+90#VERS#COMMENT##: OCRed through Kraken:
+    * Kraken version: 3.0.0.0b21.dev6
+    * segmentation model: DEFAULT
+    * OCR model: 10-2022_ArabicTestOutputModel_New_20_0.mlmodel
+    NOTE: The original pdf contains a facing translation (only the Arabic has been
+    fed to OCR)
+90#VERS#DATE#####: 2022-10-18
+90#VERS#ISSUES###: UNCORRECTED_OCR
