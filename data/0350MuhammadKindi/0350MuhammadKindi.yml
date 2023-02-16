@@ -1,0 +1,17 @@
+00#AUTH#URI######: 0350MuhammadKindi
+10#AUTH#ISM####AR: Muḥammad
+10#AUTH#KUNYA##AR: Abū ʿUmar
+10#AUTH#LAQAB##AR: 
+10#AUTH#NASAB##AR: b. Yūsuf b. Yaʿqūb b. Ḥafṣ
+10#AUTH#NISBA##AR: al-Tuǧībī al-Kindī
+10#AUTH#SHUHRA#AR: Muḥammad al-Kindī
+20#AUTH#BORN#####: Misr_RE
+20#AUTH#DIED#####: URIs from Althurayya, comma separated
+20#AUTH#RESIDED##: URIs from Althurayya, comma separated
+20#AUTH#VISITED##: URIs from Althurayya, comma separated
+30#AUTH#BORN###AH: 0283-DHH-10
+30#AUTH#DIED###AH: 0350-RAM-03
+40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
+40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
+90#AUTH#COMMENT##: EI2: "b. Yūsuf al-Tud̲j̲ībī , historian of Egypt, was born on yawm al-naḥr (10 D̲h̲u ’l-Ḥid̲j̲d̲j̲a) 283/18 January 897 and died on Tuesday, 3 Ramaḍān 350/Wednesday, 16 October 961.": http://dx.doi.org/10.1163/1573-3912_islam_SIM_4379

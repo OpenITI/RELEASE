@@ -1,0 +1,13 @@
+00#VERS#CLENGTH##: 505115
+00#VERS#LENGTH###: 125879
+00#VERS#URI######: 0306CumarIbnSurayj.Wadaic.Kraken22041020273101-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/4771362251
+80#VERS#COLLATED#:
+80#VERS#LINKS####:
+90#VERS#ANNOTATOR:
+90#VERS#COMMENT##: OCRed through Kraken:
+    * Kraken version: 3.0.0.0b21.dev6
+    * segmentation model: DEFAULT
+    * OCR model: 12-24-2021_ArabPersGeneralized.mlmodel
+90#VERS#DATE#####: 2022-04-10
+90#VERS#ISSUES###: UNCORRECTED_OCR

@@ -1,0 +1,23 @@
+00#BOOK#URI######: 0335Suli.KhilafatWathiq
+10#BOOK#GENRES###: src@keyword, src@keyword, src@keyword
+10#BOOK#TITLEA#AR: Kitāb al-Awrāq
+10#BOOK#TITLEB#AR: Ḫilāfaŧ al-Wāṯiq wa-al-Mutawakkil wa-al-Muntaṣir wa-al-Mustaʿīn wa-al-Muʿtazz wa-al-Muhtadī
+20#BOOK#WROTE####: URIs from Althurayya, comma separated
+30#BOOK#WROTE##AH: YEAR-MON-DA (X+ for unknown)
+40#BOOK#RELATED##: URI of a book from OpenITI, or [Author's Title],
+    followed by abbreviation for relation type between brackets (see
+    book_relations repo). Only include relations with older books. Separate
+    related books with semicolon.
+80#BOOK#EDITIONS#: permalink, permalink, permalink
+80#BOOK#LINKS####: permalink, permalink, permalink
+80#BOOK#MSS######: permalink, permalink, permalink
+80#BOOK#STUDIES##: permalink, permalink, permalink
+80#BOOK#TRANSLAT#: permalink, permalink, permalink
+90#BOOK#COMMENT##: A fragment of al-Ṣūlī's unfinished work that 
+    is referred to as Kitāb al-Awrāq. This fragment covers
+    the caliphates of al-Wāthiq (r. 227-232),
+    al-Mutawakkil (r. 232-247), al-Muntaṣir (r. 247-248), 
+    al-Mustaʿīn (r. 248-252), al-Muʿtazz (r. 252-255) and al-Muhtadī (r. 255-256).
+    This manuscript was edited by Kratchkovsky's student Belyaev (d. 1976)
+    but never published; finally, Belyaev's student Anas Khalidov published it,
+    with a Russian translation, in 1993.

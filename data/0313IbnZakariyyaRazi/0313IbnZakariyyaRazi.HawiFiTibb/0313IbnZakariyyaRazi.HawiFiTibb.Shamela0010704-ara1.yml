@@ -1,0 +1,30 @@
+00#VERS#CLENGTH##: 4787602
+00#VERS#LENGTH###: 1109772
+00#VERS#URI######: 0313IbnZakariyyaRazi.HawiFiTibb.Shamela0010704-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/646354713
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/646354713
+80#VERS#LINKS####: http://iqra.ahlamontada.com/t6281-topic
+90#VERS#ANNOTATOR: HRH
+90#VERS#COMMENT##: In Vol 7, pages 27 -322 are missing, but these pages
+    could not be considered a missing part. Since all of these pages just
+    include tables and the typist has intentionally left them out since they
+    could not be typed in a simple text file. There are a few other pages
+    that are really missing: PageV02P150-51; PageV04P034-35; PageV04P051-55;
+    PageV04P465; PageV07P27-30. In addition, a part of PageV02P149 is copied
+    into the PageV02P144. A part of PageV04P463 is inserted into
+    PageV04P464, and in PageV04P353, there is a redundant part at the end of
+    the page. Besides, in all pages that I checked, there were a few missing
+    words or typos and this includes even the titles in some cases (in both
+    Shamela and JK texts). A redundant word “ألف” also appears in many
+    places, and a redundant numberer "3" appears in many titles. The text is
+    clearly typed carelessly. 2- In some volumes, the text has some extra
+    third-level-headers which are very occasional and don’t cover the whole
+    subject under discussion; nevertheless, I tried to keep them, since they
+    are useful and help the reader understand the text. I put an asterisk
+    after these extra third-level headers (i.e: ### ||| *) so that they can
+    be easily deleted if they are not necessary (these tags include all
+    third-level headers in Vol 2 and 3 and a few third-level headers in Vol
+    4 and 5).
+90#VERS#DATE#####: 2019-09-12
+90#VERS#ISSUES###: EDITORIAL_SECTIONS, MISSING_PARTS, REDUNDANT_PARTS,
+    MANY_TYPOS

@@ -1,0 +1,14 @@
+00#VERS#CLENGTH##: 634256
+00#VERS#LENGTH###: 158987
+00#VERS#URI######: 0321AbuJacfarTahawi.Mukhtasar.Kraken210826162339-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/49680632
+80#VERS#COLLATED#:
+80#VERS#LINKS####: https://archive.org/details/waq70342
+90#VERS#ANNOTATOR:
+90#VERS#COMMENT##: OCRed through Kraken:
+    * Kraken version: 3.0.0.0b21.dev6
+    * segmentation model: DEFAULT
+    * OCR model: 04-01-2021_ArabPersGeneralized.mlmodel
+    NOTE: ed. al-Afghani
+90#VERS#DATE#####: 2021-08-26
+90#VERS#ISSUES###: UNCORRECTED_OCR

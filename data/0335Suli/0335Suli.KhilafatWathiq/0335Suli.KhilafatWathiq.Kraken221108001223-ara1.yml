@@ -1,0 +1,21 @@
+00#VERS#CLENGTH##: 245626
+00#VERS#LENGTH###: 60162
+00#VERS#URI######: 0335Suli.KhilafatWathiq.Kraken221108001223-ara1
+80#VERS#BASED####: https://www.worldcat.org/title/611465938
+80#VERS#COLLATED#: https://www.worldcat.org/title/611465938
+80#VERS#LINKS####: NONE
+90#VERS#ANNOTATOR: PV
+90#VERS#COMMENT##: Fragment from al-Ṣulī's Kitāb al-Awrāq,
+    edited from the St Petersburg manuscript by Belyaev and Khalidov.
+    The text begins in the middle of a description of the
+    reign of al-Wāthiq (r. 227-232), and covers also the reigns of
+    al-Mutawakkil (r. 232-247), al-Muntaṣir (r. 247-248),
+    al-Mustaʿīn (r. 248-252), al-Muʿtazz (r. 252-255)
+    and al-Muhtadī (r. 255-256).
+    OCRed through Kraken:
+    * Kraken version: 3.0.0.0b21.dev6
+    * segmentation model: DEFAULT
+    * OCR model: 10-2022_ArabicTestOutputModel_New_20_0.mlmodel
+    PV added structural tagging.
+90#VERS#DATE#####: 2022-11-10
+90#VERS#ISSUES###: PARTIAL_TEXT, UNCORRECTED_OCR, FOOTNOTES

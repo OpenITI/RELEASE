@@ -1,0 +1,18 @@
+00#VERS#CLENGTH##: 174730
+00#VERS#LENGTH###: 42938
+00#VERS#URI######: 0319AbuQasimBalkhi.CuyunMasail.Kraken220410202739BK2-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/1056194556
+80#VERS#COLLATED#:
+80#VERS#LINKS####:
+    https://ia601803.us.archive.org/28/items/20210123_20210123_1452/کتاب_المقالات_و_معه_عیون_المسائل_و_الجوابات.pdf
+90#VERS#ANNOTATOR:
+90#VERS#COMMENT##: OCRed through Kraken:
+    * Kraken version: 3.0.0.0b21.dev6
+    * segmentation model: DEFAULT
+    * OCR model: 12-24-2021_ArabPersGeneralized.mlmodel
+    The original edition contained two different texts:
+    - 0319AbuQasimBalkhi.Maqalat
+    - 0319AbuQasimBalkhi.CuyunMasail
+    PV split the texts into separate files.
+90#VERS#DATE#####: 2022-04-10
+90#VERS#ISSUES###: UNCORRECTED_OCR

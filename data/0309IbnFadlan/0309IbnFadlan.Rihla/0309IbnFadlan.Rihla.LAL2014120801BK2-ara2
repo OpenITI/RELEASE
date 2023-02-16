@@ -1,0 +1,1305 @@
+######OpenITI#
+
+#META# العنوان: كتاب أحمد بن فضلان بن العنّاس بن راشد بن حمّاد
+#META# Title (EN): Mission to the Volga
+#META# المؤلف: أحمد بن فضلان
+#META# Author: Aḥmad ibn Faḍlān
+#META# المحقق: جيمس مونتغنري
+#META# Editor: James E. Montgomery
+#META# Publisher: New York University Press
+#META# Place of publication: New York
+#META# Witness: الأصل: Mashhad Library of the Mausoleum of Imām ʿAlī al-Riḍā
+#META# Witness: ياقوت: Yāqūt al-Ḥamawī al-Rūmī. Kitāb Muʿjam al-buldān. Edited by F. Wüstenfeld. Leipzig: Brockhaus, 1866.
+#META# Editorial declaration: LAL Arabic texts are based upon original manuscript research. For each text, a base manuscript is selected, and notable variants from other consulted manuscripts provided. Details of the manuscripts are provided in the source Desc; the first manuscript listed therein in the base. Arabic ḥarakāt other than shaddah are only provided for disambiguation of possible readings or for unusual words; however all shaddahs except those arising from the assimilation of the definite article are included. Orthography may be standardized to modern style.
+#META# Editorial declaration: Texts are divided into numbered sections, which in the bilingual version are used to align the Arabic text with the English translation. The majority of manuscripts will not, of course, have been written with modern paragraph structures: the division of the text into such is for readability and to align with the translation, and is entirely the choice of the editor(s).
+#META# Editorial declaration: The Arabic text of Ibn Faḍlān’s book exists in two formats: as part of a manuscript contained in the library attached to the Mausoleum of the imam ʿAlī al-Riḍā in Mashhad, Iran, discovered in 1923 by A. Zeki Validi Togan; and as five quotations in Yāqūt’s Muʿjam al-buldān. The relationship between the Arabic of the Mashhad manuscript and Yāqūt’s quotations is not clear.
+#META# Editorial declaration: The version of the text contained in the Mashhad manuscript is part of a volume containing four works donated to the library as a waqf bequest in 1067/1656–57 by a certain Ibn Khātūn. It contains 212 folios, is written in a clear naskh hand, nineteen lines to each folio, and is undated. There is no indication of the identity of the individual who commissioned the compilation. The manuscript is incomplete: the text of Ibn Faḍlān contains the first few lines of an account of the Khazars, but the last extant folio is damaged, and some material has clearly been lost. Furthermore, the last extant folios of the manuscript, containing Ibn Faḍlān’s description of the Rūs, have been severely damaged and are illegible in many places.
+#META# Editorial declaration: The manuscript contains copies of: two travelogue epistles by the globetrotter and poet Abū Dulaf Misʿar ibn Muhalhil al-Khazrajī (fl. 331–41/943–52); an excerpt from Ibn al-Faqīh al-Hamadhānī’s (fl. late 3rd/9th c.) Kitāb al-buldān; the account of Ibn Faḍlān. It is evident, however, that the general geographical focus of the volume is east of Baghdad, in Khurasan, Transoxania, and Central Asia.
+#META# Editorial declaration: I have not examined the manuscript in person. Three photographic reproductions are available in: Majmūʿ fī l-jughrāfiyā mimmā allafahu Ibn al-Faqīh wa-Ibn Faḍlān wa-Abū Dulaf al-Khazrajī, edited by Fuat Sezgin, with Mazen Amawi, Carl Ehrig-Eggert, and Eckhard Neubauer (1994); in Kovalevskiĭ, Kniga (1956); and in Czeglédy, “Zur Meschheder Handschrift” (1950–51). I have relied principally on Kovalevskiĭ’s reproduction.
+#META# Editorial declaration: The Mashhad copy of Ibn Faḍlān’s book is messy. It displays the standard avoidance of hamzah, disregard for ‎the rules governing the use of numbers—as far as I can see only a few of the numbers given in the manuscript ‎are grammatically correct—and the cheerful neglect of whether verbs in the imperfective should, for example, ‎be dotted as third person masculine or feminine singular or first person plural. There are also occasions when ‎the syntax of the text copied in the manuscript may raise an eyebrow of the reader expecting fuṣḥā Arabic. ‎And this is to say nothing of the numerous foreign words and names with which Ibn Faḍlān’s account is so ‎liberally scattered.‎
+#META# Editorial declaration: The geographical dictionary of Yāqūt (d. 626/1229) includes excerpts from Ibn Faḍlān’s book in six lemmata: Itil: Wüstenfeld 1.112.16–113.15 = Mashhad 208a.4–208b.9 → §68 of the present edition. Bāshghird: Wüstenfeld 1.468.17–469.15 = Mashhad 203a.7–203b.3 → §§37–38 of the present edition. Bulghār: Wüstenfeld 1.723.6–19 = Mashhad 196b.18–197a.12; 1.723.19–725.4 = Mashhad 203b.5–204b.7; 1.725.5–726.16 = 205b.1–206a.12; 1.726.16–727.1 = 206b.2–10; 1.727.2–3 = 206b.14–16; 1.727.3–10 = 206b.17–207a.5; 1.727.10–12 = 207a.9–11; 1.727.12–13 = 207a.16–17; 1.727.14–21 = 207b.4–11; → §§1–4, 39–44, 48, 51, 53–56, 59, 61–63 respectively of the present edition. Khazar: Wüstenfeld 2.436.20–440.6 (only 2.438.11–14 matches the extant text in the Mashhad manuscript) = Mashhad 212b.15–19 → §90 of the present edition (and §§90A–98 of the Khazar section appended to the present edition). Khwārazm: Wüstenfeld 2.484.10–485.23 = Mashhad 198a.17–199a.3 → §§8–11 of the present edition. Rūs: Wüstenfeld 2.834.18–840.12 = Mashhad 209b.17–212b.15 → §§74–89 of the present edition.
+#META# Editorial declaration: I have not consulted any manuscripts of Yāqūt’s work but have relied exclusively on Wüstenfeld’s edition‎.
+#META# Editorial declaration: Yāqūt frequently remarks that he has abbreviated Ibn Faḍlān’s account, occasionally criticizes him, and expresses disbelief in his version of events. He stresses that his quotation of Ibn Faḍlān’s passage on the Rūs is accurate and implies that it is a verbatim quotation. This raises, in my mind, the possibility that Yāqūt may not be quoting Ibn Faḍlān so accurately in the other five lemmata. And a close comparison between the passage on the Rūs in both sources reveals that, here too, Yāqūt’s ‎quotation may not, strictly speaking, be verbatim but may have been subjected to modification, paraphrasing, ‎and rewording. (I say “may have been” because it is likely that Yāqūt was quoting from an ancestor to the actual Mashhad ‎manuscript.) Furthermore, on two occasions, in the lemma devoted to the Khazars, Yāqūt confuses quotations drawn from al-Iṣṭakhrī’s mid-fourth/tenth century work Kitāb al-Masālik wa-l-mamālik with the quotation he took from Ibn Faḍlān.
+#META# Editorial declaration: When the Arabic of the Mashhad manuscript is compared with the Arabic of the same passages recorded by ‎Yāqūt, the differences between them, in their linguistic chastity, are evident. Of course, I have not consulted ‎the manuscripts of Yāqūt’s text, so my impression may be the result of the editorial work carried out by ‎Wüstenfeld, though the differences comprise syntax as well as orthography and grammar. My impression—and ‎I say this without having completed a thorough analysis of the data and as someone who is not a specialist in ‎historical linguistics—is that the closest analogue to the Arabic of the Mashhad manuscript is a nonformal ‎type of Arabic that often bears comparison with that variety of the language generally denoted as “Middle ‎Arabic.”
+#META# Editorial declaration: I am unable to ‎say whether or not the Arabic of the Mashhad manuscript represents the Arabic of Ibn Faḍlān. Despite this, my working hypothesis has been that the Mashhad manuscript may represent a version of ‎the text written (or dictated) in an idiom (perhaps spoken) that is not a fully inflected ʿArabiyyah. The syntax ‎is often loose—indeed, it can be quite “rough and ready.” Several words suggest an idiomatic and spoken ‎usage, such as wāfā in the sense of to arrive, jāza used with the meaning of jāʾa, laysa as an undeclined negative, ‎and ṣāra for sāra.‎
+#META# Editorial declaration: Because the Arabic of the Mashhad manuscript is rough and ready and the Arabic of ‎Yāqūt’s versions is formal and chaste, editors, confronted by divergences between the two sources, tend to ‎allow Yāqut’s versions to dominate the Mashhad manuscript. Editions (and translations) of the manuscript ‎are thus repeatedly altered and replaced or supplemented by the readings of Yāqūt. The result is that the ‎versions of Ibn Faḍlān’s book in circulation are ones that, whenever possible, jettison the Mashhad ‎manuscript in favor of Yāqūt’s versions. So, for all the attention it has attracted from scholars, the Mashhad ‎manuscript has not really been viewed as anything other than a poor substitute for a lost, more pristine ‎original, shards of which can be gleaned from Yāqūt’s quotations.
+#META# Editorial declaration: When editing the work and working from the assumption that the Mashhad manuscript may be closer to ‎the Arabic that Ibn Faḍlān wrote than are Yāqūt’s quotations, I have often found myself concluding that Ibn ‎Faḍlān was indeed using an informal type of Arabic, one less chaste than the rarified ʿArabiyyah we expect from ‎classical writers. In fact I found myself wondering what precisely standard Arabic usage might have been for ‎an official such as Ibn Faḍlān, writing in the early fourth/tenth century. In other words, I found myself asking, does the Mashhad manuscript preserve a type of unpolished and private-life writing that we sometimes ‎encounter in Arabic? Or does this use of a non-formal Arabic indicate that Ibn Faḍlān was not a proper ‎scholar but rather an individual who wrote on the margins of scholarship? Should we study this work as ‎an early (fourth/tenth century) example of Middle Arabic?
+#META# Editorial declaration: In view of these intuitions, my approach to the Mashhad manuscript is informed by the conviction that it warrants serious and close attention. My edition of the manuscript—note that this is an edition of the manuscript and not a transcription—does not automatically emend the Arabic of the manuscript in favor of the Arabic given by Yāqūt or in preference for proper usage. As a rule of thumb, if I have the sense that the Arabic works, however loosely that working may be in terms of syntax, I have let it stand. I have not automatically presumed the ubiquity of mistakes in reading the skeleton or the diacritical pointing of a word (taṣḥīf) or the corruption of words or phrases by altering the skeleton (taḥrīf). I first tried to mount a defense of the manuscript reading; if I concluded that the pointing or the wording of the manuscript worked, I would let it stand. I have, however, tried not to let any obvious grammatical or syntactical howlers remain in the edited text (even when they represent standard Middle Arabic practice). In such cases I have erred on the side of caution and noted in the apparatus when the manuscript has been corrected. I have followed standard modern Arabic orthographical practices. All the hamzahs and alifs missing from the manuscript, for example, have been added.
+#META# Editorial declaration: Although I have endeavored to keep the apparatus as light as possible, and while the apparatus does not list every instance of the usual slips and mistakes encountered in manuscripts, such as undotted or incorrectly dotted verbal prefixes, loose usage in writing numerals, and so on, the apparatus does record many of the instances when Yāqūt’s versions differ from the Mashhad manuscript and those occasions when I have felt it necessary to normalize the syntax (e.g., when chaste Arabic usage requires the subjunctive and not, as is common in Middle Arabic, the imperfective after the conjunction ḥattā).
+#META# Editorial declaration: In my use of Yāqūt’s versions I have made one important exception—in the passage on the Rūs, when the manuscript is lacunose, in order to fill in the gaps of the Mashhad manuscript I relied on Yāqūt’s Arabic more than was the case for his other lemmata. In such cases, I have included in the apparatus the lacunose reading of the Mashhad manuscript. And for the sake of completeness, I added a supplement to the truncated Mashhad manuscript in the form of the continuation of the passage on the Khazars as given by Yāqūt in his Muʿjam al-buldān. In my edition and translation, I make it clear that this is so by ending the text when the manuscript ends and then repeating the passage from the manuscript in the continuation of the passage I have taken from Yāqūt; see §§90 and 90A–98.
+#META# Editorial declaration: The current edition of Ibn Faḍlān’s book conforms to the standards set by the Library of Arabic Literature. ‎Therefore, in view of the nonformal Arabic of the manuscript, my edition has basically become a hybrid—it ‎recognizes, to a limited extent, the nonformal features of the Arabic of the text contained in the ‎Mashhad manuscript but corrects many of these features in order to produce a modernized version of the ‎work that does not violate completely what we expect of fuṣḥā Arabic. The majority of my corrections has ‎been recorded in the apparatus, in order that the linguist interested in nonformal Arabic and in Middle Arabic can ‎follow the choices I have made. The scholar in me, however, could not let the situation rest there. On the website of the ‎Library of Arabic Literature, I make available an alternate edition of the Mashhad manuscript that ‎does not correct the grammatical and syntactical peculiarities (e.g., I have not corrected any of the numbers) ‎and preserves many of the orthographical practices of pre-modern Arabic (especially the absence of hamzah, ‎the writing of terminal yāʾ, the regular omission of long ālif, the inconsistent dotting of tāʾ marbūṭah, etc.). I ‎have also appended to this critical edition a short list of the features of the manuscript consistent with the ‎characteristics of Middle Arabic. I hope that one day the Arabic of the Mashhad manuscript will secure the ‎attention of a specialist. In the interim, I trust I have made enough materials available to the community.‎
+
+#META#Header#End#
+
+### | 1
+### || 1.1
+# [1]
+# هذا كتاب أحمد بن فضلان بن العباس بن راشد بن حماد مولى محمد بن سليمان
+# ~~رسول المقتدر إلى ملك الصقالبة يذكر فيه ما شاهد في بلد الترك والخزر
+# ~~والروس والصقالبة والباشغرد وغيرهم من اختلاف مذاهبهم وأخبار ملوكهم
+# ~~وأحوالهم في كثير من أمورهم.
+### || 1.2
+# [2]
+# قال أحمد بن فضلان لما وصل كتاب الحسن بن يلطوار ملك الصقالبة إلى أمير
+# ~~المؤمنين المقتدر يسأله فيه البعثة إليه ممن يفقهه في الدين ويعرفه
+~~شرائع
+# ~~الإسلام ويبني له مسجدا وينصب له منبرا ليقيم عليه الدعوة له في بلده
+~~وجميع
+# ~~مملكته ويسأله بناء حصن يتحصن فيه من الملوك المخالفين له أجيب إلى ما
+~~سأل
+# ~~من ذلك وكان السفير فيه نذير الحرمي فندبت أنا لقراءة الكتاب عليه
+~~وتسليم
+# ~~ما أهدي إليه والإشراف على الفقهاء والمعلمين وسبب له بالمال المحمول
+~~إليه
+# ~~لبناء ما ذكرناه وللجراية على الفقهاء والمعلمين على الضيعة المعروفة
+# ~~بأرثخشميثن من أرض خوارزم من ضياع ابن الفرات.
+# [3]
+# وكان الرسول إلى المقتدر من صاحب الصقالبة رجل يقال له عبد الله بن
+~~باشتوا
+# ~~الخزري والرسول من جهة السلطان سوسن الرسي مولى نذير الحرمي وتكين
+~~التركي
+# ~~وبارس الصقلابي وأنا معهم على ما ذكرت فسلمت إليه الهدايا له ولامرأته
+# ~~ولأولاده وإخوته وقواده وأدوية كان كتب إلى نذير يطلبها.
+# [4]
+# فرحلنا من مدينة السلام يوم الخميس لإحدى عشرة ليلة خلت من صفر سنة تسع
+# ~~وثلاثمائة فأقمنا بالنهروان يوما واحدا ورحلنا مجدين حتى وافينا
+~~الدسكرة
+# ~~فأقمنا بها ثلاثة أيام ثم رحلنا قاصدين لا نكون على شيء حتى صرنا إلى
+~~حلوان
+# ~~فأقمنا بها يومين وسرنا منها إلى قرميسين فأقمنا بها يومين ثم رحلنا
+~~فسرنا
+# ~~حتى وصلنا إلى همذان فأقمنا بها ثلاثة أيام ثم سرنا حتى قدمنا ساوة
+~~فأقمنا
+# ~~بها يومين ومنها إلى الري فأقمنا بها أحد عشر يوما ننتظر أحمد بن علي
+~~أخا
+# ~~صعلوك لأنه كان بخوار الري ثم رحلنا إلى خوار الري فأقمنا بها ثلاثة
+~~أيام
+# ~~ثم رحلنا إلى سمنان ثم منها إلى الدامغان وصادفنا بها ابن قارن من قبل
+# ~~الداعي فتنكرنا في القافلة وسرنا ms01 مجدين حتى قدمنا نيسابور وقد قتل ليلي
+~~بن
+# ~~نعمان فأصبنا بها حمويه كوسا صاحب جيش خراسان ثم رحلنا إلى سرخس ثم
+~~منها
+# ~~إلى مرو ثم منها إلى قشمهان وهي طرف مفازة آمل فأقمنا بها ثلاثة أيام
+~~نزيح
+# ~~الجمال لدخول المفازة ثم قطعنا المفازة إلى آمل ثم عبرنا جيحون وصرنا
+~~إلى
+# ~~آفرٮن رباط طاهر بن علي.
+### || 1.3
+# [5]
+# ثم رحلنا إلى بيكند ثم دخلنا بخارى وصرنا إلى الجيهاني وهو كاتب أمير
+# ~~خراسان وهو يدعى بخراسان الشيخ العميد فتقدم بأخذ دار لنا وأقام لنا
+~~رجلا
+# ~~يقضي حوائجنا ويريح عللنا في كل ما نريد فأقمنا أياما ثم استأذن لنا
+~~على
+# ~~نصر بن أحمد فدخلنا إليه وهو غلام أمرد فسلمنا عليه بالإمرة وأمرنا
+~~بالجلوس
+# ~~فكان أول ما بدأنا به أن قال كيف خلفتم مولاي أمير المؤمنين أطال الله
+~~بقاءه
+# ~~وسلامته في نفسه وفتيانه وأوليائه فقلنا بخير قال زاده الله خيرا ثم
+~~قرئ
+# ~~الكتاب عليه بتسليم أرثخشميثن من الفضل بن موسى النصراني وكيل ابن
+~~الفرات
+# ~~وتسليمها إلى أحمد بن موسى الخوارزمي وإنفاذنا والكتاب إلى صاحبه
+~~بخوارزم
+# ~~يترك العرض لنا والكتاب بباب الترك ببذرقتنا وترك العرض لنا فقال وأين
+~~أحمد
+# ~~بن موسى فقلنا خلفناه بمدينة السلام ليخرج خلفنا لخمسة أيام فقال سمعا
+# ~~وطاعة لما أمر به مولاي أمير المؤمنين أطال الله بقاءه.
+# [6]
+# قال واتصل الخبر بالفضل بن موسى النصراني وكيل ابن الفرات فأعمل الحيلة
+# ~~في أمر أحمد بن موسى وكتب إلى عمال المعاون بطريق خراسان من جند سرخس
+~~إلى
+# ~~بيكند أن أذكوا العيون على أحمد بن موسى الخوارزمي في الخانات والمراصد
+~~وهو
+# ~~رجل من صفته ونعته فمن ظفر به فليعتلقه إلى أن يرد عليه كتابنا بالمثلة
+# ~~فأخذ بمرو واعتقل وأقمنا نحن ببخارى ثمانية وعشرين يوما وقد كان الفضل
+~~بن
+# ~~موسى أيضا واطأ عبد الله بن باشتوا وغيره من أصحابنا يقولون إن أقمنا
+~~هجم
+# ~~الشتاء وفاتنا الدخول وأحمد بن موسى إذا وافانا لحق بنا.
+# [7]
+# قال ورأيت الدراهم ببخارى ألوانا شتى منها دراهم يقال لها الغطريفية وهي
+# ~~نحاس وشبه وصفر ms02 يؤخذ منها عدد بلا وزن مائة منها بدرهم فضة وإذا شروطهم
+~~في
+# ~~مهور نسائهم تزوج فلان بن فلان فلانة بنت فلان على كذا وكذا ألف درهم
+# ~~غطريفية وكذلك أيضا شراء عقارهم وشراء عبيدهم لا يذكرون غيرها من
+~~الدراهم
+# ~~ولهم دراهم أخر صفر وحده أربعون منها بدانق ولهم أيضا دراهم صفر يقال
+~~لها
+# ~~السمرقندية ستة منها بدانق.
+### || 1.4
+# [8]
+# فلما سمعت كلام عبد الله بن باشتوا وكلام غيره يحذروني من هجوم الشتاء
+~~رحلنا
+# ~~من بخارا راجعين إلى النهر فتكارينا سفينة إلى خوارزم والمسافة إليها
+~~من
+# ~~الموضع الذي اكترينا منه السفينة أكثر من مائتي فرسخ فكنا نسير بعض
+~~النهار
+# ~~ولا يستوي لنا سيره كله من البرد وشدته إلى أن قدمنا خوارزم فدخلنا على
+# ~~أميرها محمد بن عراق خوارزم شاه فأكرمنا وقربنا وأنزلنا دارا فلما كان
+~~بعد
+# ~~ثلاثة أيام أحضرنا وناظرنا في الدخول إلى بلد الترك وقال لا آذن لكم في
+~~ذلك
+# ~~ولا يحل إلي ترككم تغررون بدمائكم وأنا أعلم أنها حيلة أوقعها هذا
+~~الغلام
+# ~~يعني تكين لأنه كان عندنا حدادا وقد وقف على بيع الحديد ببلد الكفار
+~~وهو
+# ~~الذي غر نذيرا وحمله على كلام أمير المؤمنين وإيصال كتاب ملك الصقالبة
+~~إليه
+# ~~والأمير الأجل يعني أمير خراسان كان أحق بإقامة الدعوة لأمير المؤمنين
+~~في
+# ~~ذلك البلد لو وجد محيصا ومن بعد فبينكم وبين هذا البلد الذي تذكرون ألف
+# ~~قبيلة من الكفار وهذا تمويه على السلطان وقد نصحتكم ولا بد من الكتاب
+~~إلى
+# ~~الأمير الأجل حتى يراجع السلطان أيده الله في المكاتبة وتقيمون أنتم
+~~إلى وقت
+# ~~يعود الجواب فانصرفنا عنه ذلك اليوم ثم عاودناه ولم نزل نرفق به
+~~ونداريه
+# ~~ونقول هذا أمر أمير المؤمنين وكتابه فما وجه المراجعة فيه حتى أذن لنا
+# ~~فانحدرنا من خوارزم إلى الجرجانية وبينها وبين خوارزم في الماء خمسون
+~~فرسخا.
+# [9]
+# ورأيت دراهم خوارزم مزيفة ورصاصا وزيوفا وصفرا ويسمون الدرهم طازجة ووزنه
+# ~~أربعة دوانيق ونصف والصيرفي منهم يبيع الكعاب والدوامات والدراهم وهم
+~~أوحش
+# ~~الناس كلاما وطبعا كلامهم أشبه شيء بصياح الزرازير وبها قرية ms03 على يوم
+~~يقال
+# ~~لها أردكوا أهلها يقال لهم الكردلية كلامهم أشبه شيء بنقيق الضفادع وهم
+# ~~يتبرءون من أمير المؤمنين علي بن أبي طالب رضي الله عنه في دبر كل
+~~صلاة.
+### || 1.5
+# [10]
+# فأقمنا بالجرجانية أياما وجمد نهر جيحون من أوله إلى آخره وكان سمك الجمد
+# ~~سبعة عشر شبرا وكانت الخيل والبغال والحمير والعجل تجتاز عليه كما
+~~تجتاز
+# ~~على الطرق وهو ثابت لا يتخلخل فأقام على ذلك ثلاثة أشهر فرأينا بلدا ما
+# ~~ظننا إلا أن بابا من الزمهرير قد فتح علينا منه ولا يسقط فيه الثلج إلا
+# ~~ومعه ريح عاصف شديدة.
+# [11]
+# وإذا أتحف الرجل من أهله صاحبه وأراد بره قال له تعال إلي حتى نتحدث فإن
+# ~~عندي نارا طيبة هذا إذا بلغ في بره وصلته إلا أن الله تعالى قد لطف بهم
+~~في
+# ~~الحطب وأرخصه عليهم حمل عجلة من حطب الطاغ بدرهمين من دراهم تكون زهاء
+# ~~ثلاثة آلاف رطل ورسم سؤالهم أن لا يقف السائل على الباب بل يدخل إلى
+~~دار
+# ~~الواحد منهم فيقعد ساعة عند ناره يصطلي ثم يقول بكند يعني الخبز.
+# [12]
+# وتطاول مقامنا بالجرجانية وذاك أنا أقمنا بها أياما من رجب وشعبان وشهر
+# ~~رمضان وشوال وكان طول مقامنا من جهة البرد وشدته ولقد بلغني أن رجلين
+~~ساقا
+# ~~اثني عشر جملا ليحملا عليها حطبا من بعض الغياض فنسيا أن يأخذا معهما
+~~قداحة
+# ~~وحراقة وأنهما باتا بغير نار فأصبحا والجمال موتى لشدة البرد ولقد رأيت
+# ~~لهواء بردها أن السوق بها والشوارع لتخلو حتى يطوف الإنسان أكثر
+~~الشوارع
+# ~~والأسواق فلا يجد أحدا ولا يستقبله إنسان ولقد كنت أخرج من الحمام فإذا
+# ~~دخلت إلى البيت نظرت إلى لحيتي وهي قطعة واحدة من الثلج حتى كنت أدنيها
+~~إلى
+# ~~النار ولقد كنت أنام في بيت جوف بيت وفيه قبة لبود تركية وأنا مدثر
+# ~~بالأكسية والفرى فربما التصق خدي على المخدة ولقد رأيت الجباب بها تكسى
+# ~~البوستينات من جلود الغنم لئلا تتشقق وتنكسر فلا يغني ذلك شيئا ولقد
+~~رأيت
+# ~~الأرض تنشق وبها أودية عظام لشدة البرد وأن الشجرة ms04 العظيمة العادية
+~~لتنفلق
+# ~~بنصفين لذلك.
+# [13]
+# فلما انتصف شوال من سنة تسع وثلاثمائة أخذ الزمان في التغيير وانحل نهر
+# ~~جيحون وأخذنا نحن في ما نحتاج إليه من آلة السفر واشترينا الجمال
+~~التركية
+# ~~واستعملنا السفر من جلود الجمال لعبور الأنهار التي نحتاج أن نعبرها في
+~~بلد
+# ~~الترك وتزودنا الخبز والجاورس والنمكسوذ لثلاثة أشهر وأمرنا من كنا
+~~نأنس به
+# ~~من أهل البلد بالاستظهار في الثياب والاستكثار منها وهولوا علينا الأمر
+# ~~وعظموا القصة فلما شاهدنا ذلك كان أضعاف ما وصف لنا فكان كل رجل منا
+~~عليه
+# ~~قرطق وفوقه خفتان وفوقه بوستين وفوقه لبادة وبرنس لا تبدو منه إلا
+~~عيناه
+# ~~وسراويل طاق وآخر مبطن وران وخف كيمخت وفوق الخف خف آخر فكان الواحد
+~~منا
+# ~~إذا ركب الجمل لم يقدر أن يتحرك لما عليه من الثياب وتأخر عنا الفقيه
+# ~~والمعلم والغلمان الذين خرجوا معنا من مدينة السلام فزعا من الدخول إلى
+~~ذلك
+# ~~البلد وسرت أنا والرسول وسلف له والغلامان تكين وبارس.
+# [14]
+# فلما كان في اليوم الذي عزمنا فيه على المسير قلت لهم يا قوم معكم غلام
+# ~~الملك وقد وقف على أمركم كله ومعكم كتب السلطان ولا أشك فيها ذكر توجيه
+# ~~أربعة آلاف دينار المسيبية له وتصيرون إلى ملك أعجمي فيطالبكم بذلك
+~~فقالوا
+# ~~لا تخش من هذا فإنه غير مطالب لنا فحذرتهم وقلت أنا أعلم أنه يطالبكم
+~~فلم
+# ~~يقبلوا واستدف أمر القافلة واكترينا دليلا يقال له فلوس من أهل
+~~الجرجانية
+# ~~ثم توكلنا على الله عز وجل وفوضنا أمرنا إليه.
+# [15]
+# ورحلنا من الجرجانية يوم الاثنين لليلتين خلتا من ذي القعدة سنة تسع
+# ~~وثلاثمائة فنزلنا رباطا يقال له زمجان وهو باب الترك ثم رحلنا الغد
+~~فنزلنا
+# ~~منزلا يقال له جيت وجاءنا الثلج حتى مشت الجمال إلى ركبها فيه فأقمنا
+~~بهذا
+# ~~المنزل يومين ثم أوغلنا في بلد الترك لا نلوي على شيء ولا يلقانا أحد
+~~في
+# ~~برية قفر بغير جبل فسرنا فيها عشرة أيام ولقد لقينا من الضر والجهد
+~~والبرد
+# ~~الشديد وتواصل الثلوج الذي كان برد خوارزم عنده مثل أيام ms05 الصيف ونسينا
+~~كل
+# ~~ما مر بنا وأشرفنا على تلف الأنفس.
+# [16]
+# ولقد أصابنا في بعض الأيام برد شديد وكان تكين يسايرني وإلى جانبه رجل من
+# ~~الأتراك يكلمه بالتركية فضحك تكين وقال إن هذا التركي يقول لك أي شيء
+~~يريد
+# ~~ربنا منا هو ذا يقتلنا بالبرد ولو علمنا ما يريد لرفعناه إليه فقلت له
+~~قل
+# ~~له يريد منكم أن تقولوا لا إله إلا الله فضحك وقال لو علمنا لفعلنا.
+# [17]
+# ثم صرنا بعد ذلك إلى موضع فيه من حطب الطاغ شيء عظيم فنزلناه وأوقدت
+# ~~القافلة واصطلوا ونزعوا ثيابهم وشرروها ثم رحلنا فما زلنا نسير في كل
+~~ليلة
+# ~~من نصف الليل إلى وقت العصر أو إلى الظهر بأشد سير يكون وأعظمه ثم ننزل
+# ~~فلما سرنا خمس عشرة ليلة وصلنا إلى جبل عظيم كثير الحجارة وفيه عيون
+~~تنحرف
+# ~~عبره وبالجفرة الماء.
+### || 1.6
+# [18]
+# فلما قطعناه وأفضينا إلى قبيلة من الأتراك يعرفون بالغزية وإذا هم بادية
+# ~~لهم بيوت شعر يحلون ويرتحلون ترى منهم الأبيات في مكان ومثلها في مكان
+~~آخر
+# ~~على عمل البادية وتنقلهم وإذا هم في شقاء وهم مع ذلك كالحمير الضالة لا
+# ~~يدينون لله بدين ولا يرجعون إلى عقل ولا يعبدون شيئا بل يسمون كبراءهم
+# ~~أربابا فإذا استشار أحدهم رئيسه في شيء قال له يا رب إيش أعمل في كذا
+~~وكذا
+# ~~)وأمرهم شورى بينهم( غير أنهم متى اتفقوا على شيء وعزموا عليه ثم جاء
+# ~~أرذلهم وأخسهم فنقض ما قد أجمعوا عليه وسمعتهم يقولون لا إله إلا الله
+~~محمد
+# ~~رسول الله تقربا بهذا القول إلى من يجتاز بهم من المسلمين لا اعتقادا
+~~لذلك
+# ~~وإذا ظلم أحد منهم أو جرى عليه أمر يكرهه رفع رأسه إلى السماء وقال بير
+# ~~تنكري وهو بالتركية بالله بالواحد لأن بير بالتركية واحد وتنكري الله
+~~بلغة
+# ~~الترك ولا يستنجون من غائط ولا بول ولا يغتسلون من جنابة ولا غير ذلك
+~~وليس
+# ~~بينهم وبين الماء عمل خاصة في الشتاء.
+# [19]
+# ولا يستتر نساؤهم من رجالهم ولا من غيرهم وكذلك لا تستر المرأة شيئا من
+# ~~بدنها ms06 عن أحد من الناس ولقد نزلنا يوما على رجل منهم فجلسنا وامرأة
+~~الرجل
+# ~~معنا فبينا هي تحدثنا إذ كشفت فرجها وحكته ونحن ننظر إليها فسترنا
+~~وجوهنا
+# ~~وقلنا أستغفر الله فضحك زوجها وقال للترجمان قل لهم نكشفه بحضرتكم
+~~فترونه
+# ~~وتصونه فلا يوصل إليه هو خير لمن أن تغطيه وتمكن منه وليس يعرفون الزنا
+~~ومن
+# ~~ظهروا منه على شيء من فعله شقوه بنصفين وذلك أنهم يجمعون بين أغصان
+~~شجرتين
+# ~~ثم يشدونه بالأغصان ويرسلون الشجرتين فينشق الذي يشد إليهما.
+# [20]
+# وقال بعضهم وسمعني قرآنا فاستحسن القرآن وأقبل يقول للترجمان قل له لا
+# ~~تسكت وقال لي هذا الرجل يوما على لسان الترجمان قل لهذا العربي ألربنا
+~~عز
+# ~~وجل امرأة فاستعظمت ذلك وسبحت الله واستغفرته فسبح واستغفر كما فعلت
+~~وكذلك رسم
+# ~~التركي كلما سمع المسلم يسبح ويهلل قال مثله.
+# [21]
+# ورسوم تزويجهم وهو أن يخطب الواحد منهم إلى الآخر بعض حرمه إما ابنته أو
+# ~~أخته أو بعض من يملك أمره على كذا وكذا ثوب خوارزمي فإذا وافاه حملها
+~~إليه
+# ~~وربما كان المهر جمالا أو دواب أو غير ذلك وليس يصل الواحد إلى امرأته
+~~حتى
+# ~~يوفي الصداق الذي قد واقف وليها عليه فإذا وافاه إياه جاء غير محتشم
+~~حتى
+# ~~يدخل إلى المنزل الذي هي فيه فيأخذها بحضرة أبيها وأمها وإخوتها فلا
+# ~~يمنعونه من ذلك.
+# [22]
+# وإذا مات الرجل وله زوجة وأولاد تزوج الأكبر من ولده بامرأته إذا لم تكن
+# ~~أمه ولا يقدر أحد من التجار ولا غيرهم أن يغتسل من جنابة بحضرتهم إلا
+~~ليلا
+# ~~من حيث لا يرونه وذلك أنهم يغضبون ويقولون هذا يريد أن يسحرنا لأنه قد
+~~تغرس
+# ~~في الماء ويغرمونه مالا.
+# [23]
+# ولا يقدر أحد من المسلمين يجتاز ببلدهم حتى يجعل له منهم صديقا ينزل عليه
+# ~~ويحمل له من بلد الإسلام ثوبا ولامرأته مقنعة وشيئا من فلفل وجاورس
+~~وزبيب
+# ~~وجوز فإذا قدم على صديقه ضرب له قبة وحمل إليه من الغنم على قدره حتى
+~~يتولى
+# ~~المسلم ذبحها لأن الترك لا يذبحون وإنما يضرب الواحد منهم رأس الشاة
+~~حتى ms07
+# ~~تموت وإذا أراد الرجل منهم الرحيل وقد قام عليه شيء من جماله أو دوابه
+~~أو
+# ~~احتاج إلى مال ترك ما قد قام عند صديقه التركي وأخذ من جماله ودوابه
+~~وماله
+# ~~حاجته ورحل فإذا عاد من الوجه الذي يقصده قضاه ماله ورد إليه جماله
+~~ودوابه
+# ~~وكذلك لو اجتاز بالتركي إنسان لا يعرفه ثم قال أنا ضيفك وأنا أريد من
+~~جمالك
+# ~~ودوابك ودراهمك دفع إليه ما يريد فإن مات التاجر في وجهه ذلك وعادت
+~~القافلة
+# ~~لقيهم التركي وقال أين ضيفي فإن قالوا مات حط القافلة ثم جاء إلى أنبل
+~~تاجر
+# ~~يراه فيهم فحل متاعه وهو ينظر فأخذ من دراهمه مثل ماله عند ذلك التاجر
+~~بغير
+# ~~زيادة حبة وكذلك يأخذ من دوابه وجماله وقال ذلك ابن عمك وأنت أحق من
+~~غرم
+# ~~عنه وإن فر فعل أيضا ذلك الفعل وقال له ذلك مسلم مثلك خذ أنت منه وإن
+~~لم
+# ~~يوافق المسلم ضيفه في الجادة سأل عنه ثلاثة أين هو فإذا أرشد إليه سار
+~~في
+# ~~طلبه مسيرة أيام حتى يصير إليه ويرفع ماله عنده وكذلك ما يهديه له وهذه
+# ~~أيضا سبيل التركي إذا دخل الجرجانية سأل عن ضيفه فنزل عليه حتى يرتحل
+~~ومتى
+# ~~مات التركي عند صديقه المسلم واجتازت القافلة وفيها صديقه قتلوه وقالوا
+~~أنت
+# ~~قتلته بحبسك إياه ولو لم تحبسه لما مات وكذلك إن سقاه نبيذا فتردى من
+~~حائط
+# ~~قتلوه به فإن لم يكن في القافلة عمدوا إلى أجل من فيها فقتلوه.
+# [24]
+# وأمر اللواط عندهم عظيم جدا ولقد نزل على حي كوذركين وهو خليفة ملك الترك
+# ~~رجل من أهل خوارزم فأقام عند ضيف له مدة في ابتياع غنم وكان للتركي ابن
+# ~~أمرد فلم يزل الخوارزمي يداريه ويراوده عن نفسه حتى طاوعه على ما أراد
+~~وجاء
+# ~~التركي فوجدهما في بنيانهما فرفع التركي ذلك إلى كوذركين فقال له اجمع
+# ~~الترك فجمعهم فيما اجتمعوا قال للتركي بالحق تحب أن أحكم أم بالباطل
+~~قال
+# ~~بالحق قال أحضر ابنك فأحضره فقال يجب عليه وعلى التاجر أن يقتلا جميعا
+# ~~فامتعض ms08 للتركي من ذلك وقال لا أسلم ابني فقال فيفتدي التاجر نفسه ففعل
+~~ودفع
+# ~~للتركي غنما للفعل بابنه ورفع إلى كوذركين أربعمائة شاة لما رفع عنه
+~~وارتحل
+# ~~عن بلد الترك.
+# [25]
+# فأول من لقينا من ملوكهم ورؤسائهم ينال الصغير وقد كان أسلم فقيل له إن
+# ~~أسلمت لم ترؤسنا فرجع عن إسلامه فلما وصلنا إلى الموضع الذي هو فيه قال
+~~لا
+# ~~أترككم تجوزون لأن هذا شيء ما سمعنا به قط ولا ظننا أنه يكون فرفقنا به
+~~إلى
+# ~~أن رضي بخفتان جرجاني يساوي عشرة دراهم وشقة باي باف وأقراص خبز وكف
+~~زبيب
+# ~~ومائة جوزة فلما دفعنا هذا إليه سجد لنا وهذا رسمهم إذا أكرم الرجل
+~~الرجل
+# ~~سجد له وقال لولا أن بيوتي نائية عن الطريق لحملت إليكم غنما وبرا
+~~وانصرف
+# ~~عنا وارتحلنا.
+# [26]
+# فلما كان من غد لقينا رجل واحد من الأتراك ذميم الخلقة رث الهيئة قميء
+# ~~المنظر خسيس المخبر وقد أخذنا مطر شديد فقال قفوا فوقفت القافلة بأسرها
+~~وهي
+# ~~نحو ثلاثة آلاف دابة وخمسة آلاف رجل ثم قال ليس يجوز منكم أحد فوقفنا
+~~طاعة
+# ~~لأمره فقلنا له نحن أصدقاء كوذركين فأقبل يضحك ويقول من كوذركين أما
+~~أخرى
+# ~~على لحية كوذركين؟ ثم قال بكند يعني الخبز بلغة خوارزم فدفعت إليه
+~~أقراصا
+# ~~فأخذها وقال مروا قد رحمتكم.
+# [27]
+# قال وإذا مرض الرجل منهم وكان له جوار وعبيد خدموه ولم يقربه أحد من أهل
+# ~~بيته ويضربون له خيمة ناحية من البيوت فلا يزال فيها إلى أن يموت أو
+~~يبرأ
+# ~~وإن كان عبدا أو فقيرا رموا به في الصحراء وارتحلوا عنه وإذا مات الرجل
+# ~~منهم حفروا له حفيرة كبيرة كهيئة البيت وعمدوا إليه فألبسوه قرطقه
+~~ومنطقته
+# ~~وقوسه .... وجعلوا في يده قدحا من خشب فيه نبيذ وتركوا بين يديه إناء
+~~من
+# ~~خشب فيه نبيذ وجاءوا بكل ماله فجعلوه معه في ذلك البيت ثم أجلسوه فيه
+# ~~فسقفوا البيت عليه وجعلوا فوقه مثل القبة من الطين وعمدوا إلى دوابه
+~~على
+# ~~قدر كثرتها فقتلوا منها مائة رأس إلى مائتي رأس إلى رأس واحد ms09 وأكلوا
+~~لحومها
+# ~~إلا الرأس والقوائم والجلد والذنب فإنهم يصلبون ذلك على الخشب وقالوا
+~~هذه
+# ~~دوابه يركبها إلى الجنة فإن كان قتل إنسانا وكان شجاعا نحتوا صورا من
+~~خشب
+# ~~على عدد من قتل وجعلوها على قبره وقالوا هؤلاء غلمانه يخدمونه في الجنة
+# ~~وربما تغافلوا على قتل الدواب يوما أو يومين فيحثهم شيخ من كبارهم
+~~فيقول
+# ~~رأيت فلانا يعني الميت في النوم فقال لي هوذا تراني وقد سبقني أصحابي
+~~وشققت
+# ~~رجلاي من اتباعي لهم ولست ألحقهم وقد بقيت وحدي فعندها يعمدون إلى
+~~دوابه
+# ~~فيقتلونها ويصلبونها عند قبره فإذا كان بعد يوم أو اثنين جاءهم ذلك
+~~الشيخ
+# ~~وقال قد رأيت فلانا وقال عرف أهلي وأصحابي أني قد لحقتهم من تقدمني
+~~واسترحت
+# ~~من التعب.
+# [28]
+# قال والترك كلهم ينتفون لحاهم إلا أسبلتهم وربما رأيت الشيخ الهرم منهم
+# ~~وقد نتف لحيته وترك شيئا منها تحت ذقنه وعليه البوستين فإذا رآه إنسان
+~~من
+# ~~بعد لم يشك أنه تيس.
+# [29]
+# وملك الترك الغزية يقال له يبغوا وهو اسم الأمير وكل من ملك هذه القبيلة
+# ~~فبهذا الاسم يسمى ويقال لخليفته كوذركين وكذا كل من يخلف رئيسا منهم
+~~يقال
+# ~~له كوذركين.
+# [30]
+# ثم نزلنا عند ارتحالنا من ناحية هؤلاء بصاحب جيشهم ويقال له اترك بن
+# ~~القطغان فضرب لنا قبابا تركية وأنزلنا فيها وإذا له ضبنة وحاشية وبيوت
+# ~~كبيرة وساق إلينا غنما وقادوا دواب لنذبح الغنم ونركب الدواب ودعا هو
+~~جماعة
+# ~~من أهل بيته وبني عمه فقتل لهم غنما كثيرة وكنا قد أهدينا إليه هدية من
+# ~~ثياب وزبيب وجوز وفلفل وجاورس فرأيت امرأته وقد كانت امرأة أبيه وقد
+~~أخذت
+# ~~لحما ولبنا وشيئا مما ألحقناه به وخرجت من البيوت إلى الصحراء فحفرت
+~~حفيرة
+# ~~ودفنت الذي كان معها فيها وتكلمت بكلام فقلت للترجمان ما تقول قال تقول
+~~هذه
+# ~~هدية للقطغان أبي اترك أهدوها له العرب.
+# [31]
+# فلما كان في الليل دخلت أنا والترجمان إليه وهو في قبته جالس ومعنا كتاب
+# ~~نذير الحرمي إليه يأمره فيه بالإسلام ويحضه عليه ووجه إليه خمسين
+~~دينارا
+# ~~فيها عدة دنانير مسيبية ms10 وثلاثة مثاقيل مسك وجلود أديم وثوبين مروية
+~~وقطعنا
+# ~~له منهما قرطقين وخف أديم وثوب ديباج وخمسة أثواب حرير فدفعنا إليه
+~~هديته
+# ~~ودفعنا إلى امرأته مقنعة وخاتما وقرأت عليه الكتاب فقال للترجمان لست
+~~أقول
+# ~~لكم شيئا حتى ترجعون وأكتب إلى السلطان بما أنا عازم عليه ونزع
+~~الديباجة
+# ~~التي كانت عليه ليلبس الخلع التي ذكرنا فرأيت القرطق الذي تحتها وتقطع
+~~وسخا
+# ~~لأن رسومهم أن لا ينزع الواحد منهم الثوب الذي يلي جسده حتى ينتثر
+~~قطعا.
+# [32]
+# وإذا هو قد نتف لحيته كلها وسباله فبقي كالخادم ورأيت الترك يذكرون أنه
+# ~~أفرسهم ولقد رأيت يوما وهو يسايرنا على فرسه إذ مرت وزة طائرة فأوتر
+~~قوسه
+# ~~وحرك دابته تحتها ثم رماها فإذا هو قد أنزلها.
+# [33]
+# فلما كان في بعض الأيام وجه خلف القواد الذين يلونه وهم طرخان وينال وابن
+# ~~أخيهما ويغلز وكان طرخان أنبلهم وأجلهم وكان أعرج أعمى أشل فقال لهم إن
+# ~~هؤلاء رسل ملك العرب إلى صهري المش بن شلكي ولم يخير لي أن أطلقهم إلا
+~~عن
+# ~~مشورتكم فقال طرخان هذا شيء ما رأيناه قط ولا سمعنا به ولا اجتاز بنا
+~~رسول
+# ~~سلطان مذ كنا نحن وآباؤنا وما أظن إلا أن السلطان قد أعمل الحيلة ووجه
+# ~~هؤلاء إلى الخزر ليستجيش بهم علينا والوجه أن يقطع هؤلاء الرسل نصفين
+~~نصفين
+# ~~ونأخذ ما معهم وقال آخر منهم لا بل نأخذ ما معهم ونتركهم عراة يرجعون
+~~من
+# ~~حيث جاءوا وقال آخر لا ولكن لنا عند ملك الخزر أسراء فنبعث بهؤلاء
+~~نفادي
+# ~~بهم أولئك فما زالوا يتراجعون بينهم هذه الأشياء سبعة أيام ونحن في
+~~حالة
+# ~~الموت حتى أجمع دأبهم على أن يخلوا سبيلنا ونمضي فخلعنا على طرخان
+~~خفتانا
+# ~~مرويا وشقتين باي باف وعلى أصحابه قرطقا قرطقا وكذلك على ينال ودفعنا
+~~إليهم
+# ~~فلفلا وجاورس وأقراصا من خبز وانصرفوا عنا.
+# [34]
+# ورحلنا حتى صرنا إلى نهر بغندي فأخرج الناس سفرهم وهي من جلود الجمال
+# ~~فبسطوها وأخذوا بأثاث الجمال التركية لأنها مدورة فجعلوها في جوفها حتى
+# ~~تمتد ثم حشوها بالثياب والمتاع فإذا امتلأت ms11 جلس في كل سفرة جماعة من
+~~خمسة
+# ~~وستة وأربعة وأقل وأكثر ويأخذون بأيديهم خشب الخذنك فيجعلونه كالمجاريف
+~~ولا
+# ~~يزالون يجذفون والماء يحملها وهي تدور حتى نعبر فأما الدواب والجمال
+~~فإنه
+# ~~يصاح بها فتعبر سباحة ولا بد أن تعبر جماعة من المقاتلة ومعهم السلاح
+~~قبل
+# ~~أن يعبر شيء من القافلة ليكونوا طليعة للناس خيفة من الباشغرد أن
+~~يكبسوا
+# ~~الناس وهم يعبرون فعبرنا بغندي على هذه الصفة التي ذكرنا ثم عبرنا بعد
+~~ذلك
+# ~~نهرا يقال له جام في السفر أيضا ثم عبرنا جاخش ثم اذل ثم اردن ثم وارش
+~~ثم
+# ~~اختى ثم وبنا وهذه كلها أنهار كبار.
+### || 1.7
+# [35]
+# ثم صرنا بعد ذلك إلى البجناك وإذا هم نزلوا على ماء شبيه بالبحر غير جار
+# ~~وإذا هم سمر شديدو السمرة وإذا هم محلقو اللحى فقراء خلاف الغزية لأني
+~~رأيت
+# ~~من الغزية من يملك عشرة آلاف دابة ومائة ألف رأس من الغنم وأكثر ما
+~~ترعى من
+# ~~الغنم ما بين الثلج تبحث بأظلافها تطلب الحشيش فإذا لم تجده قضمت الثلج
+# ~~فسمنت غاية السمن فإذا كان الصيف وأكلت الحشيش هزلت.
+# [36]
+# فنزلنا على البجناك يوما واحدا ثم ارتحلنا فنزلنا على نهر جيخ وهو أكبر
+# ~~نهر رأيناه وأعظمه وأشده جرية ولقد رأيت سفرة انقلبت فيه فغرق من كان
+~~فيها
+# ~~وذهبت رجال كثير من الناس وغرقت عدة جمال ودواب ولم نعبره إلا بجهد ثم
+~~سرنا
+# ~~أياما وعبرنا نهر جاخا ثم بعده نهر ازخن ثم باجاع ثم سمور ثم كنال ثم
+~~نهر
+# ~~سوح ثم نهر كيجلوا.
+### || 1.8
+# [37]
+# فوقفنا في بلد قوم من الأتراك يقال لهم الباشغرد فحذرناهم أشد الحذر وذلك
+# ~~أنهم شر الأتراك وأقذرهم وأشدهم إقداما على القتل يلقى الرجل الرجل
+~~فيقور
+# ~~هامته ويأخذها ويتركه وهم يحلقون لحاهم ويأكلون القمل يتتبع الواحد
+~~منهم
+# ~~درز قرطقه فيقرض القمل بأسنانه ولقد كان معنا منهم واحد قد أسلم وكان
+# ~~يخدمنا فرأيته وجد قملة في ثوبه فقصعها بظفره ثم لحسها وقال لما رآني
+~~جيد.
+# [38]
+# وكل واحد منهم ينحت خشبة على قدر الإحليل ويعلقها عليه فإذا أراد سفرا ms12 أو
+# ~~لقي عدوا قبلها وسجد لها وقال يا رب افعل في كذا وكذا فقلت للترجمان سل
+# ~~بعضهم ما حجتهم في هذا ولم جعله ربه قال لأني خرجت من مثله وليس أعرف
+~~لنفسي
+# ~~خالقا غيره ومنهم من يزعم أن له اثني عشر ربا للشتاء رب وللصيف رب
+~~وللمطر
+# ~~رب وللريح رب وللشجر رب وللناس رب وللدواب رب وللماء رب ولليل رب
+~~وللنهار
+# ~~رب وللموت رب وللأرض رب والرب الذي في السماء أكبرهم إلا أنه يجتمع مع
+# ~~هؤلاء باتفاق ويرضى كل واحد منهم بما يعمل شريكه تعالى الله عما يقول
+~~الظالمون
+# ~~علوا كبيرا ورأينا طائفة منهم تعبد الحيات وطائفة تعبد السمك وطائفة
+~~تعبد
+# ~~الكراكي فعرفوني أنهم كانوا يحاربون قوما من أعدائهم فهزموهم وأن
+~~الكراكي
+# ~~صاحت وراءهم ففزعوا وانهزموا بعدما هزموا فعبدوا الكراكي لذلك وقالوا
+~~هذه
+# ~~ربنا لأنه هزم أعداءنا فهم يعبدونها لذلك قال وسرنا من بلد هؤلاء
+~~فعبرنا
+# ~~نهر جرمشان ثم نهر اورن ثم نهر اورم ثم نهر بايناج ثم نهر وتيع ثم نهر
+# ~~بناسنه ثم نهر جاوشين وبين النهر والنهر مما ذكرنا اليومان والثلاثة
+# ~~والأربعة وأقل من ذلك وأكثر.
+### || 1.9
+# [39]
+# فلما كنا من ملك الصقالبة وهو الذي قصدناه على مسيرة يوم وليلة وجه
+# ~~لاستقبالنا الملوك الأربعة الذين تحت يده وإخوانه وأولاده فاستقبلونا
+~~ومعهم
+# ~~الخبز واللحم والجاورس وساروا معنا فلما صرنا منه على فرسخين تلقانا هو
+# ~~بنفسه فلما رآنا نزل فخر ساجدا شكرا لله جل وعز وكان في كمه دراهم
+~~فنثرها
+# ~~علينا ونصب لنا قبابا فنزلناها وكان وصولنا إليه يوم الأحد لاثنتي عشرة
+# ~~ليلة خلت من المحرم سنة عشر وثلاثمائة فكانت المسافة من الجرجانية إلى
+~~بلده
+# ~~سبعين يوما فأقمنا يوم الأحد ويوم الاثنين ويوم الثلاثاء ويوم الأربعاء
+~~في
+# ~~القباب التي ضربت لنا حتى جمع الملوك والقواد وأهل بلده ليسمعوا قراءة
+# ~~الكتاب.
+# [40]
+# فلما كان يوم الخميس واجتمعوا نشرنا المطردين اللذين كانا معنا وأسرجنا
+# ~~الدابة بالسرج الموجه إليه وألبسناه السواد وعممناه وأخرجت كتاب
+~~الخليفة
+# ~~وقلت له لا يجوز أن نجلس والكتاب يقرأ فقام على قدميه ms13 هو ومن حضر من
+~~وجوه
+# ~~أهل مملكته وهو رجل بدين بطين جدا وبدأت فقرأت صدر الكتاب فلما بلغت
+~~منه
+# ~~سلام عليك فإني أحمد إليك الله الذي لا إله إلا هو قلت رد على أمير
+~~المؤمنين
+# ~~السلام فرد وردوا جميعا بأسرهم ولم يزل الترجمان يترجم لنا حرفا حرفا
+~~فلما
+# ~~استتممنا قراءته كبروا تكبيرة ارتجت لها الأرض.
+# [41]
+# ثم قرأت كتاب الوزير حامد بن العباس وهو قائم ثم أمرته بالجلوس فجلس عند
+# ~~قراءة كتاب نذير الحرمي فلما استتممته نثر أصحابه عليه الدراهم الكثيرة
+~~ثم
+# ~~أخرجت الهدايا من الطيب والثياب واللؤلؤ له ولامرأته فلم أزل أعرض عليه
+# ~~وعليها شيئا شيئا حتى فرغنا من ذلك ثم خلعت على امرأته بحضرة الناس
+~~وكانت
+# ~~جالسة إلى جنبه وهذه سنتهم وزيهم فلما خلعت عليها نثر النساء عليها
+~~الدراهم
+# ~~وانصرفنا.
+# [42]
+# فلما كان بعد ساعة وجه إلينا فدخلنا إليه وهو في قبته والملوك عن يمينه
+# ~~وأمرنا أن نجلس عن يساره وإذا أولاده جلوس بين يديه وهو وحده على سرير
+~~مغشى
+# ~~بالديباج الرومي فدعا بالمائدة فقدمت وعليها اللحم المشوي وحده فابتدأ
+~~هو
+# ~~فأخذ سكينا وقطع لقمة وأكلها وثانية وثالثة ثم احتز قطعة دفعها إلى
+~~سوسن
+# ~~الرسول فلما تناولها جاءته مائدة صغيرة فجعلت بين يديه وكذلك الرسم لا
+~~يمد
+# ~~أحد يده إلى الأكل حتى يناوله الملك لقمة فساعة يتناولها قد جاءته
+~~مائدة ثم
+# ~~ناولني فجاءتني مائدة ثم ناول الملك الرابع فجاءته مائدة ثم ناول
+~~أولاده
+# ~~فجاءتهم الموائد وأكلنا كل واحد من مائدته لا يشركه فيها أحد ولا
+~~يتناول من
+# ~~مائدة غيره شيئا فإذا فرغ من الطعام حمل كل واحد منهم ما يبقى على
+~~مائدته
+# ~~إلى منزله.
+# [43]
+# فلما أكلنا دعا بشراب العسل وهم يسمونه السجو ليومه وليلته فشرب قدحا ثم
+# ~~قام قائما فقال هذا سروري بمولاي أمير المؤمنين أطال الله بقاءه وقام
+~~الملوك
+# ~~الأربعة وأولاده لقيامه وقمنا نحن أيضا حتى إذا فعل ذلك ثلاث مرات ثم
+# ~~انصرفنا من عنده.
+# [44]
+# وقد كان يخطب له على منبره قبل قدومي اللهم وأصلح الملك يلطوار ملك بلغار ms14
+# ~~فقلت أنا له إن الله هو الملك ولا يسمى على المنبر بهذا الاسم غيره جل
+~~وعز
+# ~~وهذا مولاك أمير المؤمنين قد رضي لنفسه أن يقال على منابره في الشرق
+~~والغرب
+# ~~اللهم أصلح عبدك وخليفتك جعفر الإمام المقتدر بالله أمير المؤمنين وكذا
+~~من
+# ~~كان قبله من آبائه الخلفاء وقد قال النبي صلى الله عليه وسلم لا تطروني
+~~كما
+# ~~أطرت النصارى عيسى بن مريم فإنما أنا عبد الله ورسوله فقال لي فكيف
+~~يجوز أن
+# ~~يخطب لي قلت باسمك واسم أبيك قال إن أبي كان كافرا ولا أحب أن أذكر
+~~اسمه
+# ~~على المنبر وأنا أيضا فما أحب أن يذكر اسمي إذا كان الذي سماني كافرا
+~~ولكن
+# ~~ما اسم مولاي أمير المؤمنين قلت جعفر قال فيجوز أن أتسمى باسمه قلت نعم
+~~قال
+# ~~قد جعلت اسمي جعفرا واسم أبي عبد الله فتقدم إلى الخطيب بذلك ففعلت
+~~فكان يخطب
+# ~~له اللهم وأصلح عبدك جعفر بن عبد الله أمير بلغار مولى أمير المؤمنين.
+# [45]
+# ولما كان بعد قراءة الكتاب وإيصال الهدايا بثلاثة أيام بعث إلي وقد كان
+# ~~بلغه أمر الأربعة آلاف دينار وما كان من حيلة النصراني في تأخيرها وكان
+# ~~خبرها في الكتاب فلما دخلت إليه أمرني بالجلوس فجلست ورمى إلي كتاب
+~~أمير
+# ~~المؤمنين فقال من جاء بهذا الكتاب قلت أنا ثم رمى إلي كتاب الوزير فقال
+# ~~وهذا أيضا قلت أنا قال فالمال الذي ذكر فيهما ما فعل قلت تعذر جمعه
+~~وضاق
+# ~~الوقت وخشينا فوت الدخول فتركنا ليلحق بنا فقال إنما جئتم بأجمعكم
+~~وأنفق
+# ~~عليكم مولاي ما أنفق لحمل هذا المال إلي حتى أبني به حصنا يمنعني من
+~~اليهود
+# ~~الذين قد استعبدوني فأما الهدية فغلامي قد كان يحسن أن يجيء بها قلت هو
+# ~~كذاك إلا أنا قد اجتهدنا فقال للترجمان قل له أنا لا أعرف هؤلاء إنما
+~~أعرفك
+# ~~أنت وذلك أن هؤلاء قوم عجم ولو علم الأستاذ أيده الله أنهم يبلغون ما
+~~تبلغ ما
+# ~~بعث بك حتى تحفظ علي وتقرأ كتابي وتسمع جوابي وليس أطالب غيرك بدرهم
+~~فاخرج ms15
+# ~~من المال فهو أصلح لك فانصرفت من بين يديه مذعورا مغموما وكان رجلا له
+~~منظر
+# ~~وهيبة بدين عريض كأنما يتكلم من خابية فخرجت من عنده وجمعت أصحابي
+~~وعرفتهم
+# ~~ما جرى بيني وبينه وقلت لهم من هذا حذرت.
+# [46]
+# وكان مؤذنه يثني الإقامة إذا أذن فقلت له إن مولاك أمير المؤمنين يفرد في
+# ~~داره الإقامة فقال للمؤذن اقبل ما يقوله لك ولا تخالفه فأقام المؤذن
+~~على
+# ~~ذلك أياما وهو يسائلني عن المال ويناظرني فيه وأنا أويسه منه وأحتج فيه
+# ~~فلما يئس منه تقدم إلى المؤذن أن يثني الإقامة ففعل وأراد بذلك أن
+~~يجعله
+# ~~طريقا إلى مناظرتي فلما سمعت تثنيته للإقامة نهيته وصحت عليه فعرف
+~~الملك
+# ~~ذلك فأحضرني وأحضر أصحابي.
+# [47]
+# فلما اجتمعنا قال للترجمان قل له يعنيني ما يقول في مؤذنين أفرد أحدهما
+# ~~وثنى الآخر ثم صلى كل واحد منهما بقوم أتجوز الصلاة أم لا قلت الصلاة
+~~جائزة
+# ~~فقال باختلاف أم بإجماع قلت بإجماع قال قل له فما يقول في رجل دفع إلى
+~~قوم
+# ~~مالا لأقوام ضعفى محاصرين مستعبدين فخانوه فقلت هذا لا يجوز وهؤلاء قوم
+~~سوء
+# ~~قال باختلاف أم بإجماع قلت بإجماع فقال للترجمان قل له تعلم أن الخليفة
+# ~~أطال الله بقاءه لو بعث إلي جيشا كان يقدر علي قلت لا قال فأمير خراسان
+~~قلت لا
+# ~~قال أليس لبعد المسافة وكثرة من بيننا من قبائل الكفار قلت بلى قال قل
+~~له
+# ~~فوالله إني لبمكاني البعيد الذي تراني فيه وإني لخائف من مولاي أمير
+~~المؤمنين
+# ~~وذلك أني أخاف أن يبلغه عني شيء يكرهه فيدعو علي فأهلك بمكاني وهو في
+# ~~مملكته وبيني وبينه البلدان الشاسعة وأنتم تأكلون خبزه وتلبسون ثيابه
+# ~~وترونه في كل وقت خنتموه في مقدار رسالة بعثكم بها إلي إلى قوم ضعفى
+~~وخنتم
+# ~~المسلمين لا أقبل منكم أمر ديني حتى يجيئني من ينصح لي في ما يقول فإذا
+# ~~جاءني إنسان بهذه الصورة قبلت منه فألجمنا وما أحرنا جوابا وانصرفنا من
+# ~~عنده قال فكان بعد هذا القول يؤثرني ويقربني ويباعد أصحابي ويسميني أبا ms16
+~~بكر
+# ~~الصديق.
+# [48]
+# ورأيت في بلده من العجائب ما لا أحصيها كثرة من ذلك أن أول ليلة بتناها
+# ~~في بلده رأيت قبل مغيب الشمس بساعة قياسية أفق السماء وقد احمرت
+~~احمرارا
+# ~~شديدا وسمعت في الجو أصواتا شديدة وهمهمة عالية فرفعت رأسي فإذا غيم
+~~أحمر
+# ~~مثل النار قريب مني وإذا تلك الهمهمة والأصوات منه وإذا فيه أمثال
+~~الناس
+# ~~والدواب وإذا في الأشباح التي فيه تشبه الناس رماح وسيوف أتبينها
+~~وأتخيلها
+# ~~وإذا قطعة أخرى مثلها أرى فيها أيضا رجالا ودواب وسلاحا فأقبلت هذه
+~~القطعة
+# ~~تحمل على هذه كما تحمل الكتيبة على الكتيبة ففزعنا من ذلك وأقبلنا على
+# ~~التضرع والدعاء وهم يضحكون منا ويتعجبون من فعلنا قال وكنا ننظر إلى
+~~القطعة
+# ~~تحمل على القطعة فتختلطان جميعا ساعة ثم تفترقان فما زال الأمر كذلك
+~~ساعة
+# ~~من الليل ثم غايبنا فسألنا الملك عن ذلك فزعم أن أجداده كانوا يقولون
+~~إن
+# ~~هؤلاء من مؤمني الجن وكفارهم وهم يقتتلون في كل عشية وأنهم ما عدموا
+~~هذا مذ
+# ~~كانوا في كل ليلة.
+# [49]
+# قال ودخلت أنا وخياط كان للملك من أهل بغداد قد وقع إلى تلك الناحية قبتي
+# ~~لنتحدث فتحدثنا بمقدار ما يقرأ إنسان أقل من نصف سبع ونحن ننتظر أذان
+# ~~العتمة فإذا بالأذان فخرجنا من القبة وقد طلع الفجر فقلت للمؤذن أي شيء
+# ~~أذنت قال أذان الفجر قلت فالعشاء الآخرة قال نصليها مع المغرب قلت
+~~فالليل
+# ~~قال كما ترى وقد كان أقصر من هذا إلا أنه قد أخذ في الطول وذكر أنه منذ
+~~شهر
+# ~~ما نام خوفا أن تفوته صلاة الغداة وذلك أن الإنسان يجعل القدر على
+~~النار
+# ~~وقت المغرب ثم يصلي الغداة وما آن لها أن تنضج قال ورأيت النهار عندهم
+# ~~طويلا جدا وإذا أنه يطول عندهم مدة من السنة ويقصر الليل ثم يطول الليل
+# ~~ويقصر النهار.
+# [50]
+# فلما كانت الليلة الثانية جلست خارج القبة وراقبت السماء فلم أر فيها من
+# ~~الكواكب إلا عددا يسيرا ظننت أنه نحو الخمسة عشر كوكبا متفرقة وإذا
+~~الشفق
+# ~~الأحمر الذي قبل المغرب لا ms17 يغيب بتة وإذا الليل قليل الظلمة يعرف الرجل
+# ~~الرجل فيه من أكثر من غلوة سهم قال ورأيت القمر لا يتوسط السماء بل
+~~يطلع في
+# ~~أرجائها ساعة ثم يطلع الفجر فيغيب القمر وحدثني الملك أن وراء بلده
+~~بمسيرة
+# ~~ثلاثة أشهر قوم يقال لهم ويسوا الليل عندهم أقل من ساعة قال ورأيت
+~~البلد
+# ~~عند طلوع الشمس يحمر كل شيء فيه من الأرض والجبال وكل شيء ينظر الإنسان
+# ~~إليه وتطلع الشمس كأنها غمامة كبرى فلا تزال الحمرة كذلك حتى تتكبد
+~~السماء
+# ~~وعرفني أهل البلد أنه إذا كان الشتاء عاد الليل في طول النهار وعاد
+~~النهار
+# ~~في قصر الليل حتى أن الرجل منا ليخرج إلى موضع يقال له إتل بيننا وبينه
+~~أقل
+# ~~من مسيرة فرسخ وقت طلوع الفجر فلا يبلغه إلى وقت العتمة وتطلع الكواكب
+~~كلها
+# ~~حتى تطبق السماء فما برحنا من البلد حتى امتد الليل وقصر النهار.
+# [51]
+# ورأيتهم يتبركون بعواء الكلاب جدا ويفرحون به ويقولون سنة خصب وبركة
+# ~~وسلامة ورأيت الحيات عندهم كثيرة حتى إذا الغصن من الشجرة لتلتف عليه
+# ~~العشرة منها والأكثر ولا يقتلونها ولا تؤذيهم حتى لقد رأيت في بعض
+~~المواضع
+# ~~شجرة طويلة يكون طولها أكثر من مائة ذراع وقد سقطت وإذا بدنها عظيم جدا
+# ~~فوقفت أنظر إليه إذ تحرك فراعني ذلك وتأملته فإذا عليه حية قريبة منه
+~~في
+# ~~الغلظ والطول فلما رأتني سقطت عنه وغابت بين الشجر فجئت فزعا فحدثت
+~~الملك
+# ~~ومن كان في مجلسه فلم يكترثوا لذلك وقال لا تجزع فليس تؤذيك.
+# [52]
+# ونزلنا مع الملك منزلا فدخلت أنا وأصحابي تكين وسوسن وبارس ومعنا رجل من
+# ~~أصحاب الملك بين الشجر فإذا أنا بعود صغير أخضر كرقة المغزل وأطول فيه
+~~عرق
+# ~~أخضر على رأس العرق ورقة عريضة مبسوطة على الأرض مفروش عليها مثل
+~~النابت
+# ~~فيها حب لا يشك من يأكله أنه رمان أمليسي فأكلنا منه فإذا به من اللذة
+~~أمر
+# ~~عظيم فما زلنا نتبعه ونأكله.
+# [53]
+# ورأيت لهم تفاحا أخضر شديد الخضرة وأشد حموضة من خل الخمر تأكله الجواري
+# ~~فتسمى عليه ولم ms18 أر في بلدهم أكثر من شجر البندق لقد رأيت منه غياضا
+~~تكون
+# ~~الغيضة أربعين فرسخا في مثلها ورأيت لهم شجرا لا أدري ما هو مفرط الطول
+# ~~وساقه أجرد من الورق ورؤوسه كرؤوس النخل له خوص دقاق إلا أنه مجتمع
+~~يجوزون
+# ~~إلى موضع يعرفونه من ساقه فيثقبونه ويجعلون تحته إناء فتجري إليه من
+~~ذلك
+# ~~الثقب ماء أطيب من العسل إن أكثر الإنسان منه أسكره كما يسكر الخمر.
+# [54]
+# وأكثر أكلهم الجاورس ولحم الدابة على أن الحنطة والشعير كثير وكل من زرع
+# ~~شيئا أخذه لنفسه ليس للملك فيه حق غير أنهم يؤدون إليه في كل سنة من كل
+~~بيت
+# ~~جلد سمور وإذا أمر سرية بالغارة على بعض البلدان فغنمت كان له معهم حصة
+~~ولا
+# ~~بد لكل من يعترس أو يدعو دعوة من زلة للملك على قدر الوليمة وساخرج من
+~~نبيذ
+# ~~العسل وحنطة ردية لأن أرضهم سوداء منتنة.
+# [55]
+# وليس لهم مواضع يجمعون فيها طعامهم ولكنهم يحفرون في الأرض آبارا ويجعلون
+# ~~الطعام فيها فليس يمضي عليه إلا أيام يسيرة حتى يتغير ويريح فلا ينتفع
+~~به
+# ~~وليس لهم زيت ولا شيرج ولا دهن بتة وإنما يقيمون مقام هذه الأدهان دهن
+# ~~السمك فكل شيء يستعملونه فيه يكون زفرا ويعملون من الشعير حساء يحسونه
+# ~~الجواري والغلمان وربما طبخوا الشعير باللحم فأكل الموالي اللحم
+~~وأطعموا
+# ~~الجواري الشعير إلا أن يكون رأس تيس فيطعم من اللحم.
+# [56]
+# وكلهم يلبسون القلانس فإذا ركب الملك ركب وحده بغير غلام ولا أحد يكون
+# ~~معه فإذا اجتاز في السوق لم يبق أحد إلا قام وأخذ قلنسوته عن رأسه
+~~فجعلها
+# ~~تحت إبطه فإذا جاوزهم ردوا قلانسهم إلى رؤوسهم وكذلك كل من يدخل إلى
+~~الملك
+# ~~من صغير وكبير حتى أولاده وإخوته ساعة ينظرون إليه قد أخذوا قلانسهم
+# ~~فجعلوها تحت آباطهم ثم أوموا إليه برؤوسهم وجلسوا ثم قاموا حتى يأمرهم
+# ~~بالجلوس وكل من يجلس بين يديه فإنما يجلس باركا ولا يخرج قلنسوته ولا
+# ~~يظهرها حتى يخرج من بين يديه فيلبسها عند ذلك.
+# [57]
+# وكلهم في قباب إلا أن قبة ms19 الملك كبيرة جدا تسع ألف نفس وأكثر مفروشة
+# ~~بالفرش الأرمني وله في وسطها سرير مغشى بالديباج الرومي.
+# [58]
+# ومن رسومهم أنه إذا ولد لابن الرجل مولود أخذه جده دون أبيه وقال أنا أحق
+# ~~به من أبيه في حضنه حتى يصير رجلا وإذا مات منهم الرجل ورثه أخوه دون
+~~ولده
+# ~~فعرفت الملك أن هذا غير جائز وعرفته كيف المواريث حتى فهمها.
+# [59]
+# وما رأيت أكثر من الصواعق في بلدهم وإذا وقعت الصاعقة على بيت لم يقربوه
+# ~~ويتركونه على حالته وجميع ما فيه من رجل ومال وغير ذلك حتى يتلفه
+~~الزمان
+# ~~ويقولون هذا بيت مغضوب عليهم.
+# [60]
+# وإذا قتل الرجل منهم الرجل عمدا أقادوه به وإذا قتله خطأ صنعوا له صندوقا
+# ~~من خشب الخذنك وجعلوه في جوفه وسمروه عليه وجعلوا معه ثلاثة أرغفة وكوز
+~~ماء
+# ~~ونصبوا له ثلاث خشبات مثل الشبائح وعلقوه بينها وقالوا نجعله بين
+~~السماء
+# ~~والأرض يصيبه المطر والشمس لعل الله أن يرحمه فلا يزال معلقا حتى يبليه
+~~الزمان
+# ~~وتهب به الرياح.
+# [61]
+# وإذا رأوا إنسانا له حركة ومعرفة بالأشياء قالوا هذا حقه أن يكون يخدم
+# ~~ربنا فأخذوه وجعلوا في عنقه حبلا وعلقوه في شجرة حتى ينقطع ولقد حدثني
+# ~~ترجمان الملك أن سنديا سقط إلى ذلك البلد فأقام عند الملك برهة من
+~~الزمان
+# ~~يخدمه وكان خفيفا فهما فأراد جماعة منهم الخروج في مجازات لهم فاستأذن
+# ~~السندي الملك في الخروج معهم فنهاه عن ذلك وألح عليه حتى أذن له فخرج
+~~معهم
+# ~~في سفينة فرأوه حركا كيسا فتآمروا بينهم وقالوا هذا يصلح لخدمة ربنا
+~~فنوجه
+# ~~به إليه واجتازوا في طريقهم بغيضة فأخرجوه إليها وجعلوا في عنقه حبلا
+~~وشدوه
+# ~~في رأس شجرة عالية وتركوه ومضوا.
+# [62]
+# وإذا كانوا يسيرون في طريق فأراد أحدهم البول فبال وعليه سلاحه انتهبوه
+# ~~وأخذوا ثيابه وجميع ما معه وهذا رسم لهم ومن حط عنه سلاحه وجعله ناحية
+~~وبال
+# ~~لم يعرضوا له.
+# [63]
+# وينزل الرجال والنساء إلى النهر فيغتسلون جميعا عراة لا يستتر بعضهم بعضا
+# ~~ولا يزنون بوجه ولا سبب ومن زنا منهم كائنا من ms20 كان ضربوا له أربع سكك
+~~وشدوا
+# ~~يديه ورجليه إليها وقطعوا بالفأس من رقبته إلى فخذيه وكذلك يفعلون
+~~بالمرأة
+# ~~أيضا ثم يعلق كل قطعة منهم ومنها على شجرة وما زلت أجتهد أن يستتر
+~~النساء
+# ~~من الرجال فما استوى لي ذلك ويقتلون السارق كما يقتلون الزاني.
+# [64]
+# وفي غياضهم عسل كثير في مساكن النحل يعرفونها فيخرجون لطلب ذلك فربما وقع
+# ~~عليهم قوم من أعدائهم فقتلوهم.
+# [65]
+# وفيهم تجار كثير يخرجون إلى أرض الترك فيجلبون الغنم وإلى بلد يقال له
+# ~~ويسوا فيجلبون السمور والثعلب الأسود.
+# [66]
+# ورأينا فيهم أهل بيت يكونون خمسة آلاف نفس من امرأة ورجل قد أسلموا كلهم
+# ~~يعرفون بالبرنجار وقد بنوا لهم مسجدا من خشب يصلون فيه ولا يعرفون
+~~القراءة
+# ~~فعلمت جماعة ما يصلون به ولقد أسلم على يدي رجل يقال له طالوت فأسميته
+~~عبد
+# ~~الله فقال أريد أن تسميني باسمك محمدا ففعلت وأسلمت امرأته وأمه
+~~وأولاده فسموا
+# ~~كلهم محمدا وعلمته @QUR@02 {الحمد لله} و @QUR@04 {قل هو الله أحد}
+~~فكان فرحه
+# ~~بهاتين السورتين أكثر من فرحه إن صار ملك الصقالبة.
+# [67]
+# وكنا لما وافينا الملك وجدناه نازلا على ماء يقال له خلجه وهي ثلاث
+# ~~بحيرات منها اثنتان كبار وواحدة صغيرة إلا أن ليس في جميعها شيء يلحق
+~~غوره
+# ~~وبين هذا الموضع وبين نهر لهم عظيم يصب إلى بلاد الخزر يقال له نهر إتل
+~~نحو
+# ~~الفرسخ وعلى هذا النهر موضع سوق تقوم في كل مديدة ويباع فيها المتاع
+~~الكثير
+# ~~النفيس.
+# [68]
+# وكان تكين حدثني أن في بلد الملك رجلا عظيم الخلق جدا فلما صرت إلى البلد
+# ~~سألت الملك عنه فقال نعم قد كان في بلدنا ومات ولم يكن من أهل البلد
+~~ولا من
+# ~~الناس أيضا وكان من خبره أن قوما من التجار خرجوا إلى نهر إتل كما
+~~يخرجون
+# ~~وهذا النهر قد مد وطغى ماؤه فلم أشعر يوما إلا وقد وافاني جماعة من
+~~التجار
+# ~~فقالوا أيها الملك قد قفا على الماء رجل إن كان من أمة بقرب منا فلا
+~~مقام
+# ~~لنا في هذه الديار وليس غير التحويل فركبت ms21 معهم حتى صرت إلى النهر فإذا
+~~أنا
+# ~~بالرجل وإذا هو بذراعي اثنا عشر ذراعا وإذا له رأس أكبر ما يكون من
+~~القدور
+# ~~وأنف أكثر من شبر وعينان عظيمتان وأصابع تكون أكثر من شبر شبر فراعني
+~~أمره
+# ~~وداخلني ما داخل القوم من الفزع وأقبلنا نكلمه ولا يكلمنا إلا ينظر
+~~إلينا
+# ~~فحملته إلى مكاني وكتبت إلى أهل ويسوا وهم منا على ثلاثة أشهر أسألهم
+~~عنه
+# ~~فكتبوا إلي يعرفوني أن هذا الرجل من ياجوج وماجوج وهم منا على ثلاثة
+~~أشهر
+# ~~عراة يحول بيننا وبينهم البحر لأنهم على شطه وهم مثل البهائم ينكح
+~~بعضهم
+# ~~بعضا يخرج الله عز وجل لهم كل يوم سمكة من البحر فيجيء الواحد منهم
+~~ومعه مدية
+# ~~فيحتز منها قدر ما يكفيه ويكفي عياله فإن أخذ فوق ما يقنعهم اشتكى بطنه
+# ~~وكذلك عياله يشتكون بطونهم وربما مات وماتوا بأسرهم فإذا أخذوا منها
+~~حاجتهم
+# ~~انقلبت ورفعت في البحر فهم في كل يوم على ذلك وبيننا وبينهم البحر من
+~~جانب
+# ~~والجبال محيطة بهم من جوانب أخر والسد أيضا قد حال بينهم وبين الباب
+~~الذي
+# ~~كانوا يخرجون منه فإذا أراد الله عز وجل أن يخرجهم إلى العمارات سبب
+~~لهم فتح
+# ~~السد ونضب البحر وانقطع عنهم السمك قال فسألته عن الرجل فقال أقام عندي
+~~مدة
+# ~~فلم يكن ينظر إليه صبي إلا مات ولا حامل إلا طرحت حملها وكان إن تمكن
+~~من
+# ~~إنسان عصره بيديه حتى يقتله فلما رأيت ذلك علقته في شجرة عالية حتى مات
+~~إن
+# ~~أردت أن تنظر إلى عظامه ورأسه مضيت معك حتى تنظر إليها فقلت أنا والله
+~~أحب ذاك
+# ~~فركب معي إلى غيضة كبيرة فيها شجر عظام فقذفني إلى شجرة سقطت عظامه
+~~ورأسه
+# ~~تحتها فرأيت رأسه مثل القفير الكبير وإذا أضلاعه مثل أكبر عراجين النخل
+# ~~وكذلك عظام ساقيه وذراعيه فتعجبت منه وانصرفت.
+# [69]
+# قال وارتحل الملك من الماء الذي يسمى خلجه إلى نهر يقال له جاوشير فأقام
+# ~~به شهرين ثم أراد الرحيل فبعث إلى قوم يقال لهم سواز يأمرهم بالرحيل
+~~معه
+# ~~فأبوا عليه ms22 وافترقوا فرقتين فرقة مع ختنه وكان قد تملك عليهم واسمه
+~~وٮرع
+# ~~فبعث إليهم الملك وقال إن الله عز وجل قد من علي بالإسلام وبدولة أمير
+# ~~المؤمنين فأنا عبده وهذا الأمر قد قلدنيه فمن خالفني لقيته بالسيف
+~~وكانت
+# ~~الفرقة الأخرى مع ملك من قبيلة يعرف ملك اسكل وكان في طاعته إلا أنه لم
+~~يكن
+# ~~داخل في الإسلام فلما وجه إليهم هذه الرسالة خافوا ناحيته فرحلوا
+~~بأجمعهم
+# ~~معه إلى نهر جاوشير وهو نهر قليل العرض يكون عرضه خمسة أذرع وماؤه إلى
+# ~~السرة وفيه مواضع إلى الترقوة وأكثره قامة وحوله شجر .... كثير من
+~~الشجر
+# ~~الخذنك وغيره.
+# [70]
+# وبالقرب منه صحراء واسعة يذكرون أن بها حيوانا دون الجمل في الكبر وفوق
+# ~~الثور رأسه رأس جمل وذنبه ذنب ثور وبدنه بدن بغل وحوافره مثل أظلاف
+~~الثور
+# ~~له في وسط رأسه قرن واحد غليظ مستدير كلما ارتفع دق حتى يصير مثل سنان
+# ~~الرمح فمنه ما يكون طوله خمسة أذرع إلى ثلاثة أذرع إلى أكثر وأقل يرتعي
+~~ورق
+# ~~الشجر جيد الخضر إذا رأى الفارس قصده فإن كان تحته جواد أمنت منه بجهد
+~~وإن
+# ~~لحقه أخذه من ظهر دابته بقرنه ثم زج به في الهواء واستقبله بقرنه فلا
+~~يزال
+# ~~كذلك حتى يقتله ولا يعرض للدابة بوجه ولا سبب وهم يطلبونه في الصحراء
+# ~~والغياض حتى يقتلوه وذلك أنه يصعدون الشجر العالية التي يكون بينها
+~~ويجتمع
+# ~~لذلك عدة من الرماة بالسهام المسمومة فإذا توسطهم رموه حتى يثخنوه
+~~ويقتلوه
+# ~~ولقد رأيت عند الملك ثلاث طيفوريات كبار تشبه الجزع اليماني عرفني أنها
+# ~~معمولة من أصل قرن هذا الحيوان وذكر بعض أهل البلد أنه الكركدن.
+# [71]
+# قال وما رأيت منهم إنسانا يحمر بل أكثرهم معلول وربما يموت أكثرهم
+# ~~بالقولنج حتى أنه ليكون بالطفل الرضيع منهم وإذا مات المسلم عندهم وإذا
+# ~~امرأة خوارزمية وغسلوه غسل المسلمين ثم حملوه على عجلة تجره وبين يديه
+~~مطرد
+# ~~حتى يصيروا به إلى المكان الذي يدفنونه فيه فإذا صار إليه أخذوه عن
+~~العجلة
+# ~~وجعلوه على الأرض ثم خطوا حوله خطا ونحوه ms23 ثم حفروا داخل ذلك الخط قبره
+# ~~وجعلوا له لحدا ودفنوه وكذلك يفعلون بموتاهم ولا تبكي النساء على الميت
+~~بل
+# ~~الرجال منهم يبكون عليه يجوزون في اليوم الذي مات فيه فيقفون على باب
+~~قبته
+# ~~فيضجون بأقبح بكاء يبكون وأوحشه هؤلاء للأحرار فإذا انقضى بكاؤهم وافى
+# ~~العبيد ومعهم جلود مضفورة فلا يزالون يبكون ويضربون جنوبهم وما ظهر من
+# ~~أبدانهم بتلك السيور حتى تصير في أجسادهم مثل ضرب السوط ولا بد من أن
+# ~~ينصبوا على باب قبته مطردا ويحضرون سلاحه فيجعلونها حول قبره ولا
+~~يقطعون
+# ~~البكاء سنتين فإذا انقضت السنتان حطوا المطرد وأخذوا من شعورهم ودعا
+~~أقرباء
+# ~~الميت دعوة يعرف بها خروجهم من الحزن وإن كانت له زوجة تزوجت هذا إذا
+~~كان
+# ~~من الرؤساء فأما العامة فيفعلون بعض هذا بموتاهم.
+# [72]
+# وعلى ملك الصقالبة ضريبة يؤديها إلى ملك الخزر من كل بيت في مملكته جلد
+# ~~سمور وإذا قدمت السفينة من بلد الخزر إلى بلد الصقالبة ركب الملك فأحصى
+~~ما
+# ~~فيها وأخذ من جميع ذلك العشر وإذا قدم الروس أو غيرهم من سائر الأجناس
+# ~~برقيق فللملك أن يختار من كل عشرة أرؤس رأسا وابن ملك الصقالبة رهينة
+~~عند
+# ~~ملك الخزر وقد كان اتصل بملك الخزر عن ابنة ملك الصقالبة جمال فوجه
+~~يخطبها
+# ~~فاحتج عليه ورده فبعث وأخذها غصبا وهو يهودي وهي مسلمة فماتت عنده فوجه
+# ~~يطلب سأله أخرى فساعة اتصل ذلك بملك الصقالبة بادر فزوجها لملك اسكل
+~~وهو من
+# ~~تحت يده خيفة أن يغتصبه إياها كما فعل بأختها وإنما دعا ملك الصقالبة
+~~أن
+# ~~يكاتب السلطان ويسأله أن يبني له حصنا خوفا من ملك الخزر.
+# [73]
+# قال وسألته يوما فقلت له مملكتك واسعة وأموالك جمة وخراجك كثير فلم سألت
+# ~~السلطان أن يبني حصنا بمال من عنده لا مقدار له فقال رأيت دولة الإسلام
+# ~~مقبلة وأموالهم يؤخذ من حلها فالتمست ذلك لهذه العلة ولو أني أردت أن
+~~أبني
+# ~~حصنا من أموالي من فضة أو ذهب لما تعذر ذلك علي وإنما تبركت بمال أمير
+# ~~المؤمنين فسألته ذلك.
+### || 1.10
+# [74]
+# قال ورأيت ms24 الروسية وقد وافوا في تجاراتهم ونزلوا على نهر إتل فلم أر أتم
+# ~~أبدانا منهم كأنهم النخل شقر حمر لا يلبسون القراطق ولا الخفاتين ولكن
+~~يلبس
+# ~~الرجل منهم كساء يشتمل به على أحد شقيه وتخرج إحدى يديه منه ومع كل
+~~واحد
+# ~~منهم فأس وسيف وسكين لا يفارقه جميع ما ذكرنا وسيوفهم صفائح مشطبة
+~~إفرنجية
+# ~~ومن حد ظفر الواحد منهم إلى عنقه مخضر شجر وصور وغير ذلك.
+# [75]
+# وكل امرأة منهم فعلى ثديها حقة مشدودة إما من حديد وإما من فضة وإما نحاس
+# ~~وإما ذهب على قدر مال زوجها ومقداره وفي كل حقة حلقة فيها سكين مشدود
+~~على
+# ~~الثدي أيضا وفي أعناقهم أطواق من ذهب وفضة لأن الرجل إذا ملك عشرة آلاف
+# ~~درهم صاغ لامرأته طوقا وإن ملك عشرين ألفا صاغ لها طوقين وكذلك كل عشرة
+# ~~آلاف يزدادها يزداد طوقا لامرأته بما كان في عنق الواحدة منهن الأطواق
+# ~~الكثيرة وأجل الحلي عندهم الخرز الأخضر من الخزف الذي يكون على السفن
+# ~~يبايعون فيه ويشترون الخرزة بدرهم وينظمونه عقودا لنسائهم.
+# [76]
+# وهم أقذر خلق الله لا يستحيون من غائط ولا بول ولا يغتسلون من جنابة ولا
+# ~~يغسلون أيديهم من الطعام بل هم كالحمير الضالة يجوزون من بلدهم فيرسون
+# ~~سفنهم بإتل وهو نهر كبير ويبنون على شطه بيوتا كبارا من الخشب ويجتمع
+~~في
+# ~~البيت الواحد العشرة والعشرون والأقل والأكثر ولكل واحد سرير يجلس عليه
+# ~~ومعهم الجواري الروقة للتجار فينكح الواحد جاريته ورفيقه ينظر إليه
+~~وربما
+# ~~اجتمعت الجماعة منهم على هذه الحال بعضهم بحذاء بعض ويدخل التاجر
+~~ليشتري من
+# ~~بعضهم جارية فيصادفه ينكحها فلا يزول عنها حتى يقضي أربه ولا بد لهم في
+~~كل
+# ~~يوم من غسل وجوههم ورؤوسهم بأقذر ماء يكون وأطفسه وذلك أن الجارية
+~~توافي كل
+# ~~يوم بالغداة ومعها قصعة كبيرة فيها ماء فتدفعها إلى مولاها فيغتسل منها
+# ~~يديه ووجهه وشعر رأسه فيغسله ويسرحه بالمشط في القصعة ثم يمتخط ويبصق
+~~فيها
+# ~~ولا يدع شيئا من القذر إلا فعله في ذلك الماء فإذا فرغ مما يحتاج إليه ms25
+~~حملت
+# ~~الجارية القصعة إلى الذي إلى جانبه ففعل مثل فعل صاحبه ولا تزال ترفعها
+~~من
+# ~~واحد إلى واحد حتى تديرها على جميع من في البيت وكل واحد منهم يمتخط
+~~ويبصق
+# ~~ويغسل وجهه وشعره فيها.
+# [77]
+# وساعة توافي سفنهم إلى هذا المرسى قد خرج كل واحد منهم ومعه خبز ولحم
+# ~~وبصل ولبن ونبيذ حتى يوافي خشبة طويلة منصوبة لها وجه يشبه وجه الإنسان
+# ~~وحولها صور صغار وخلف تلك الصور خشب طوال قد نصبت في الأرض فيوافي إلى
+# ~~الصورة الكبيرة ويسجد لها ثم يقول لها يا رب قد جئت من بلد بعيد ومعي
+~~من
+# ~~الجواري كذا وكذا رأسا ومن السمور كذا وكذا جلدا حتى يذكر جميع ما قدم
+~~معه
+# ~~من تجارته وجئتك بهذه الهدية ثم يترك الذي معه بين يدي الخشبة فأريد أن
+# ~~ترزقني تاجرا معه دنانير ودراهم كثيرة فيشتري مني كما أريد ولا يخالفني
+~~في
+# ~~ما أقول ثم ينصرف فإن تعسر عليه بيعه وطالت أيامه عاد بهدية ثانية
+~~وثالثة
+# ~~فإن تعذر ما يريد حمل إلى كل صورة من تلك الصور الصغار هدية وسألهم
+~~الشفاعة
+# ~~وقال هؤلاء نساء ربنا وبناته وبنوه فلا يزال يطلب إلى صورة صورة يسألها
+# ~~ويستشفع بها ويتضرع بين يديها فربما تسهل له البيع فباع فيقول قد قضى
+~~ربي
+# ~~حاجتي وأحتاج أن أكافيه فيعمد إلى عدة من الغنم أو البقر فيقتلها
+~~ويتصدق
+# ~~ببعض اللحم ويحمل الباقي فيطرحه بين تلك الخشبة الكبيرة والصغار التي
+~~حولها
+# ~~ويعلق رؤوس البقر أو الغنم على ذلك الخشب المنصوب في الأرض فإذا كان
+~~الليل
+# ~~وافت الكلاب فأكلت جميع ذلك ويقول الذي فعله قد رضي ربي عني وأكل
+~~هديتي.
+# [78]
+# وإذا مرض منهم الواحد ضربوا له خيمة ناحية عنهم وطرحوه فيها وجعلوا معه
+# ~~شيئا من الخبز والماء ولا يقربونه ولا يكلمونه بل لا يتعاهدونه في كل
+~~أيام
+# ~~لا سيما إن كان ضعيفا أو مملوكا فإن برئ وقام رجع إليهم وإن مات أحرقوه
+~~فإن
+# ~~كان مملوكا تركوه على حاله تأكله الكلاب وجوارح الطير.
+# [79]
+# وإذا أصابوا سارقا أو لصا جاءوا ms26 به إلى شجرة غليظة وشدوا في عنقه حبلا
+# ~~وثيقا وعلقوه فيها ويبقى معلقا حتى ينقطع بالرياح والأمطار.
+# [80]
+# وكان يقال إنهم يفعلون برؤسائهم عند الموت أمورا أقلها الحرق فكنت أحب أن
+# ~~أقف على ذلك حتى بلغني موت رجل منهم جليل فجعلوه في قبره وسقفوه عليه
+~~عشرة
+# ~~أيام حتى فرغوا من قطع ثيابه وخياطتها وذلك أن الرجل الفقير منهم
+~~يعملون له
+# ~~سفينة صغيرة ويجعلونه فيها ويحرقونها والغني يجمعون ماله ويجعلونه
+~~ثلاثة
+# ~~أثلاث فثلث لأهله وثلث يقطعون له به ثيابا وثلث ينبذون به نبيذا
+~~يشربونه
+# ~~يوم تقتل جاريته نفسها وتحرق مع مولاها وهم مستهترون بالنبيذ يشربونه
+~~ليلا
+# ~~ونهارا وربما مات الواحد منهم والقدح في يده وإذا مات الرئيس قال أهله
+# ~~لجواريه وغلمانه من منكم يموت معه فيقول بعضهم أنا فإذا قال ذلك فقد
+~~وجب لا
+# ~~يستوي له أن يرجع ولو أراد ذلك ما ترك وأكثر من يفعل الجواري.
+# [81]
+# فلما مات ذلك الرجل الذي قدمت ذكره قالوا لجواريه من يموت معه فقال أحدهن
+# ~~أنا فوكلوا بها جاريتين تحفظانها وتكونان معها حيث سلكت حتى أنهما ربما
+# ~~غسلتا رجليها بأيديهما وأخذوا في شأنه وقطع الثياب له وإصلاح ما يحتاج
+~~إليه
+# ~~والجارية في كل يوم تشرب وتغني فرحة مستبشرة.
+# [82]
+# فلما كان في اليوم الذي يحرق فيه هو والجارية حضرت إلى النهر سفينته فيه
+# ~~وإذا هي قد أخرجت وجعل لها أربعة أركان من خشب الخذنك وغيره وجعل أيضا
+# ~~حولها مثل الأنابير الكبار من الخشب ثم مدت حتى جعلت على ذلك الخشب
+~~وأقبلوا
+# ~~يذهبون ويجيئون ويتكلمون بكلام لا أفهم وهو بعد في قبره لم يخرجوه ثم
+~~جاءوا
+# ~~بسرير فجعلوه على السفينة وغشوه بالمضربات الديباج الرومي والمساند
+~~الديباج
+# ~~الرومي وجاءت امرأة عجوز يقولون لها ملك الموت ففرشت على السرير الفرش
+~~التي
+# ~~ذكرنا وهي وليت خياطته وإصلاحه وهي تقتل الجواري ورأيتها جوان بيرة
+~~ضخمة
+# ~~مكفهرة.
+# [83]
+# فلما وافوا قبره نحوا التراب عن الخشب ونحوا الخشب واستخرجوه في الإزار
+# ~~الذي مات فيه فرأيته قد اسود لبرد البلد وقد كانوا جعلوا معه في قبره ms27
+~~نبيذا
+# ~~وفاكهة وطنبورا فأخرجوا جميع ذلك فإذا هو لم ينتن ولم يتغير منه شيء
+~~غير
+# ~~لونه فألبسوه سراويل ورانا وخفا وقرطقا وخفتان ديباج له أزرار ذهب
+~~وجعلوا
+# ~~على رأسه قلنسوة ديباج سمورية وحملوه حتى أدخلوه القبة التي على
+~~السفينة
+# ~~وأجلسوه على المضربة وسندوه بالمساند وجاءوا بالنبيذ والفاكهة والريحان
+# ~~فجعلوه معه وجاءوا بخبز ولحم وبصل فطرحوه بين يديه وجاءوا بكلب فقطعوه
+# ~~بنصفين وألقوه في السفينة ثم جاءوا بجميع سلاحه فجعلوه إلى جانبه ثم
+~~أخذوا
+# ~~دابتين فأجروهما حتى عرقتا ثم قطعوهما بالسيف وألقوا لحمهما في السفينة
+~~ثم
+# ~~جاءوا ببقرتين فقطعوهما أيضا وألقوهما فيها ثم أحضروا ديكا ودجاجة
+~~فقتلوهما
+# ~~وطرحوهما فيها.
+# [84]
+# والجارية التي تريد تقتل ذاهبة وجائية تدخل قبة قبة من قبابهم فيجامعها
+# ~~صاحب القبة ويقول لها قولي لمولاك إنما فعلت هذا من محبتك فلما كان وقت
+# ~~العصر من يوم الجمعة جاءوا بالجارية إلى شيء قد عملوه مثل ملبن الباب
+~~فوضعت
+# ~~رجليها على أكف الرجال وأشرقت على ذلك الملبن وتكلمت بكلام ما فأنزلوها
+~~ثم
+# ~~أصعدوها الثانية ففعلت كفعلها في المرة الأولى ثم أنزلوها وأصعدوها
+~~ثالثة
+# ~~ففعلت فعلها في المرتين ثم دفعوا إليها دجاجة فقطعت رأسها ورمت به
+~~وأخذوا
+# ~~الدجاجة فألقوها في السفينة فسألت الترجمان عن فعلها فقال قالت في أول
+~~مرة
+# ~~أصعدوها هوذا أرى أبي وأمي وقالت في الثانية هوذا جميع قرابتي الموتى
+~~قعودا
+# ~~وقالت الثالثة هوذا أرى مولاي قاعدا في الجنة والجنة حسنة خضراء ومعه
+# ~~الرجال والغلمان وهوذا يدعوني فاذهبوا إليه فمروا بها نحو السفينة
+~~فنزعت
+# ~~سوارين كانا عليها ودفعتهما إلى المرأة التي تسمى ملك الموت وهي التي
+# ~~تقتلها ونزعت خلخالين كانا عليها ودفعتهما إلى الجاريتين اللتين كانتا
+# ~~تخدمانها وهما ابنتا المرأة المعروفة بملك الموت.
+# [85]
+# ثم أصعدوها إلى السفينة ولم يدخلوها إلى القبة وجاء الرجال معهم التراس
+# ~~والخشب ودفعوا إليها قدحا نبيذا فغنت عليه وشربته فقال لي الترجمان
+~~إنها
+# ~~تودع صواحباتها بذلك ثم دفع إليها قدح آخر فأخذته وطولت الغناء والعجوز
+# ~~تستحثها على شربه والدخول إلى القبة التي فيها مولاها فرأيتها وقد ms28
+~~تبلدت
+# ~~وأرادت دخول القبة فأدخلت رأسها بينها وبين السفينة فأخذت العجوز رأسها
+# ~~وأدخلته القبة ودخلت معها وأخذ الرجال يضربون بالخشب على التراس لأن لا
+# ~~يسمع صوت صياحها فيجزع غيرها من الجواري ولا يطلبن الموت مع مواليهن.
+# [86]
+# ثم دخل إلى القبة ستة رجال فجامعوا بأسرهم الجارية ثم أضجعوها إلى جانب
+# ~~مولاها وأمسك اثنان رجليها واثنان يديها وجعلت العجوز التي تسمى ملك
+~~الموت
+# ~~في عنقها حبلا مخالفا ودفعته إلى اثنين ليجذباه وأقبلت ومعها خنجر عريض
+# ~~النصل فأقبلت تدخله بين أضلاعها وتخرجه والرجلان يخنقانها بالحبل حتى
+~~ماتت.
+# [87]
+# ثم وافى أقرب الناس إلى ذلك الميت فأخذ خشبة وأشعلها بالنار ثم مشى
+# ~~القهقرى قفاه إلى السفينة ووجهه إلى الناس والخشبة المشعلة في يده
+~~الواحدة
+# ~~ويده الأخرى على باب استه وهو عريان حتى أحرق الخشب المعبأ الذي تحت
+# ~~السفينة ثم وافى الناس بالخشب والحطب ومع كل واحد خشبة قد ألهب رأسها
+# ~~فيلقيها في ذلك الخشب وتأخذ النار في الحطب ثم في السفينة ثم في القبة
+# ~~والرجل والجارية وجميع ما فيها ثم هبت ريح عظيمة هائلة فاشتد لهب النار
+# ~~واضطرم تسعرها.
+# [88]
+# وكان إلى جانبي رجل من الروسية فسمعته يكلم الترجمان الذي معي فسألته عما
+# ~~قال له فقال إنه يقول أنتم يا معاشر العرب حمقى فقلت لم ذلك قال إنكم
+# ~~تعمدون إلى أحب الناس إليكم وأكرمهم عليكم فتطرحونه في التراب وتأكله
+# ~~التراب والهوام والدود ونحن نحرقه في لحظة فيدخل الجنة من وقته وساعته
+# ~~فسألت عن ذلك فقال من محبة ربه له قد بعث الريح حتى تأخذه في ساعة فما
+~~مضت
+# ~~على الحقيقة ساعة حتى صارت السفينة والحطب والجارية والمولى رمادا ثم
+~~رمددا
+# ~~ثم بنوا على موضع السفينة قد أخرجوها من النهر شبيها بالتل المدور
+~~ونصبوا
+# ~~في وسطه خشبة كبيرة خذنك وكتبوا عليها اسم الرجل واسم ملك الروس
+~~وانصرفوا.
+# [89]
+# قال ومن رسم ملك الروس أن يكون معه في قصره أربعمائة رجل من صناديد
+# ~~أصحابه وأهل الثقة عنده فهم يموتون بموته ويقتلون دونه ومع كل واحد
+~~منهم
+# ~~جارية تخدمه وتغسل ms29 رأسه وتضع له ما يأكل ويشرب وجارية أخرى يطؤها
+~~وهؤلاء
+# ~~الأربعمائة يجلسون تحت سريره وسريره عظيم مرصع بنفيس الجوهر ويجلس معه
+~~على
+# ~~السرير أربعون جارية له وربما وطئ الواحدة منهن بحضرة أصحابه الذين
+~~ذكرنا
+# ~~ولا ينزل عن سريره فإن أراد قضاء حاجة قضاها في طشت وإذا أراد الركوب
+~~قدم
+# ~~دابته إلى السرير فركبها منه وإذا النزول قدم دابته حتى نزل من دابته
+~~وله
+# ~~خليفة يسوس الجيوش ويواقع الأعداء ويخلفه في رعيته.
+### || 1.11
+# [90]
+# فأما ملك الخزر واسمه خاقان فإنه لا يظهر إلا في كل أربعة أشهر متنزها
+# ~~ويقال له خاقان الكبير ويقال لخليفته خاقان به وهو الذي يقود الجيوش
+# ~~ويسوسها ويدبر أمر المملكة ويقوم بها ويظهر ويغزو وله تذعن الملوك
+~~الذين
+# ~~يصاقبونه ويدخل ....
+### | 2 قال ياقوت الحموي في كتاب معجم البلدان إنه نقل هذا الفصل في وصف الخزر من كتاب ابن فضلان
+
+# [90.1]
+# فأما ملك الخزر واسمه خاقان فإنه لا يظهر إلا في كل أربعة أشهر متنزها
+# ~~ويقال له خاقان الكبير ويقال لخليفته خاقان به وهو الذي يقود الجيش
+~~ويسوسها
+# ~~ويدبر أمر المملكة ويقوم بها ويظهر ويغزو وله تذعن الملوك الذين
+~~يصاقبونه
+# ~~ويدخل في كل يوم إلى خاقان الأكبر متواضعا يظهر الإخبات والسكينة ولا
+~~يدخل
+# ~~عليه إلا حافيا وبيده حطب فإذا سلم عليه أوقد بين يديه ذلك الحطب فإذا
+~~فرغ
+# ~~من الوقود جلس مع الملك على سريره عن يمينه ويخلفه رجل يقال له كندر
+~~خاقان
+# ~~ويخلف هذا أيضا رجل يقال له جاوشيغر ورسم الملك الأكبر أن لا يجلس
+~~للناس
+# ~~ولا يكلمهم ولا يدخل عليه أحد غير من ذكرنا والولايات في الحل والعقد
+# ~~والعقوبات وتدبير المملكة على خليفته خاقان به.
+# [91]
+# ورسم الملك الأكبر إذا مات أن يبنى له دار كبيرة فيها عشرون بيتا ويحفر
+# ~~له في كل بيت منها قبر وتكسر الحجارة حتى تصير مثل الكحل وتفرش فيه
+~~وتطرح
+# ~~النورة فوق ذلك وتحت الدار نهر والنهر نهر كبير يجري ويجعلون القبر فوق
+~~ذلك
+# ~~النهر ويقولون حتى لا يصل إليه شيطان ولا إنسان ولا دود ولا ms30 هوام وإذا
+~~دفن
+# ~~ضربت أعناق الذين يدفنونه حتى لا يدرى أين قبره من تلك البيوت ويسمى
+~~قبره
+# ~~الجنة ويقولون قد دخل الجنة وتفرش البيوت كلها بالديباج المنسوج
+~~بالذهب.
+# [92]
+# ورسم ملك الخزر أن يكون له خمس وعشرون امرأة كل امرأة منهن ابنة ملك من
+# ~~الملوك الذين يحاذونه يأخذها طوعا أو كرها وله من الجواري السراري
+~~لفراشه
+# ~~ستون ما منهن إلا فائقة الجمال وكل واحدة منها الحرائر والسراري في قصر
+# ~~مفرد لها قبة مغشاة بالساج وحول كل قبة مضرب ولكل واحدة منهن خادم
+~~يحجبها
+# ~~فإذا أراد أن يطأ بعضهن بعث إلى الخادم الذي يحجبها فيوافي بها في أسرع
+~~من
+# ~~لمح البصر حتى يجعلها في فراشه ويقف الخادم على باب قبة الملك فإذا
+~~وطئها
+# ~~أخذ بيدها وانصرف ولم يتركها بعد ذلك لحظة واحدة.
+# [93]
+# وإذا ركب هذا الملك الكبير ركب سائر الجيوش لركوبه ويكون بينه وبين
+# ~~المواكب ميل فلا يراه أحد من رعيته إلا خر لوجهه ساجدا له لا يرفع رأسه
+~~حتى يجوزه.
+# [94]
+# ومدة ملكهم أربعون سنة إذا جاوزها يوما واحدا قتلته الرعية وخاصته وقالوا
+# ~~هذا قد نقص عقله واضطرب رأيه.
+# [95]
+# وإذا بعث سرية لم تول الدبر بوجه ولا بسبب فإن انهزمت قتل كل من ينصرف
+# ~~إليه منها فأما القواد وخليفته فمتى انهزموا أحضرهم وأحضر نساءهم
+~~وأولادهم
+# ~~فوهبهم بحضرتهم لغيرهم وهم ينظرون وكذلك دوابهم ومتاعهم وسلاحهم ودورهم
+# ~~وربما قطع كل واحد منهم قطعتين وصلبهم وربما علقهم بأعناقهم في الشجر
+~~وربما
+# ~~جعلهم إذا أحسن إليهم ساسة.
+# [96]
+# ولملك الخزر مدينة عظيمة على نهر إتل وهي جانبان في أحد الجانبين
+# ~~المسلمون وفي الجانب الآخر الملك وأصحابه وعلى المسلمين رجل من غلمان
+~~الملك
+# ~~يقال له خز وهو مسلم وأحكام المسلمين المقيمين في بلد الخزر والمختلفين
+# ~~إليهم في التجارات مردودة إلى ذلك الغلام المسلم لا ينظر في أمورهم ولا
+# ~~يقضي بينهم غيره.
+# [97]
+# وللمسلمين في هذه المدينة مسجد جامع يصلون فيه الصلاة ويحضرون فيه أيام
+# ~~الجمع وفيه منارة عالية وعدة مؤذنين فلما اتصل بملك الخزر في سنة 310
+~~أن
+# ~~المسلمين هدموا ms31 الكنيسة التي كانت في دار البابونج أمر بالمنارة فهدمت
+~~وقتل
+# ~~المؤذنين وقال لولا أني أخاف أن لا يبقى في بلاد الإسلام كنيسة إلا
+~~هدمت
+# ~~لهدمت المسجد والخزر وملكهم كلهم يهود وكان الصقالبة وكل من يجاورهم في
+# ~~طاعته ويخاطبهم بالعبودية ويدينون له بالطاعة.
+# [98]
+# وقد ذهب بعضهم إلى أن ياجوج وماجوج هم الخزر. PageV01P000 ms32

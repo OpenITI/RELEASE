@@ -1,0 +1,18 @@
+00#AUTH#URI######: 0329IbnYacqubKulayni
+10#AUTH#ISM####AR: Muḥammad
+10#AUTH#KUNYA##AR: Abū Ǧaʿfar
+10#AUTH#LAQAB##AR: Ṯiqaŧ al-ʾIslām
+10#AUTH#NASAB##AR: b. Yaʿqūb b. Isḥāq
+10#AUTH#NISBA##AR: al-Kulaynī/al-Kulīnī al-Rāzī
+10#AUTH#SHUHRA#AR: al-Kulaynī
+20#AUTH#BORN#####: RAYY_515E356N_S, Jibal_RE
+20#AUTH#DIED#####: BAGHDAD_443E333N_S
+20#AUTH#RESIDED##: RAYY_515E356N_S, QUMM_509E346N_S, BAGHDAD_443E333N_S,
+    NAYSABUR_587E361N_S.?
+20#AUTH#VISITED##: URIs from Althurayya, comma separated
+30#AUTH#BORN###AH: XXXX-XXX-XX
+30#AUTH#DIED###AH: 0329-XXX-XX
+40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
+40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
+90#AUTH#COMMENT##: EI2: "b. YaʿḲūb b. Isḥāḳ al-Rāzī , Imāmī traditionist. He originated from a village located 38 km. southwest of Rayy in the district of ¶ Pas̲h̲āpūya whose Persian name Kolēn, with imāla , was Arabicised as Kulayn and Kulīn. His nisba is thus variously given in the sources as al-Kulaynī, al-Kulīnī, or, erroneously, al-Kalīnī.": http://dx.doi.org/10.1163/1573-3912_islam_SIM_4495
