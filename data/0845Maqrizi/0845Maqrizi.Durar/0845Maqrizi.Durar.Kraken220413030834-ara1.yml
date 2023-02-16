@@ -1,0 +1,18 @@
+00#VERS#CLENGTH##: 2083289
+00#VERS#LENGTH###: 481849
+00#VERS#URI######: 0845Maqrizi.Durar.Kraken220413030834-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/1075253380
+80#VERS#COLLATED#:
+80#VERS#LINKS####: https://waqfeya.net/book.php?bid=1415,
+    https://ia801305.us.archive.org/19/items/FPdomtam/domtam0.pdf,
+    https://ia801305.us.archive.org/19/items/FPdomtam/domtam1.pdf,
+    https://ia801305.us.archive.org/19/items/FPdomtam/domtam2.pdf,
+    https://ia801305.us.archive.org/19/items/FPdomtam/domtam3.pdf,
+    https://ia801305.us.archive.org/19/items/FPdomtam/domtam4.pdf
+90#VERS#ANNOTATOR:
+90#VERS#COMMENT##: OCRed through Kraken:
+    * Kraken version: 3.0.0.0b21.dev6
+    * segmentation model: DEFAULT
+    * OCR model: 12-24-2021_ArabPersGeneralized.mlmodel
+90#VERS#DATE#####: 2022-04-13
+90#VERS#ISSUES###: UNCORRECTED_OCR
