@@ -1,0 +1,15 @@
+00#VERS#CLENGTH##: 76127
+00#VERS#LENGTH###: 18472
+00#VERS#URI######: 0638IbnCarabi.TajTarajim.Kraken220208170551-ara1
+80#VERS#BASED####: NOT_FOUND
+80#VERS#COLLATED#:
+80#VERS#LINKS####:
+    https://archive.org/details/elhilalymohamad_gmail_20170909/mode/2up
+90#VERS#ANNOTATOR:
+90#VERS#COMMENT##: OCRed through Kraken:
+    * Kraken version: 3.0.0.0b21.dev6
+    * segmentation model: DEFAULT
+    * OCR model: 12-24-2021_ArabPersGeneralized.mlmodel
+    NOTE: no worldcat link; edition unclear
+90#VERS#DATE#####: 2022-02-08
+90#VERS#ISSUES###: UNCORRECTED_OCR

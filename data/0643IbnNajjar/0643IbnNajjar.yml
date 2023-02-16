@@ -1,0 +1,19 @@
+00#AUTH#URI######: 0643IbnNajjar
+10#AUTH#ISM####AR: Muḥammad
+10#AUTH#KUNYA##AR: Abū ʿAbd Al-lãh
+10#AUTH#LAQAB##AR: Ḥāfiẓ Muḥib al-dīn
+10#AUTH#NASAB##AR: b. Maḥmūd b. al-Ḥasan
+10#AUTH#NISBA##AR: al-Baġdādī
+10#AUTH#SHUHRA#AR: Ibn Naǧǧār
+20#AUTH#BORN#####: Iraq_RE_Auto
+20#AUTH#DIED#####: URIs from Althurayya, comma separated
+20#AUTH#RESIDED##: URIs from Althurayya, comma separated
+20#AUTH#VISITED##: URIs from Althurayya, comma separated
+30#AUTH#BORN###AH: 0578-DHQ-23
+30#AUTH#DIED###AH: 0643-SHC-05
+40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
+40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
+90#AUTH#COMMENT##: EI2: "Muḥibb Allāh b. Maḥāsin al-Bag̲h̲dādī , historian and
+    leading S̲h̲āfiʿī muḥaddit̲h̲ of his age, was born in Bag̲h̲dād in 578/1183.":
+    http://dx.doi.org/10.1163/1573-3912_islam_SIM_3318

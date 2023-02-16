@@ -1,0 +1,25 @@
+00#VERS#CLENGTH##: 137424
+00#VERS#LENGTH###: 31441
+00#VERS#URI######: 0677IbnMuyassar.AkhbarMisr.Kraken210528115855-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/745237299 (first edition of the
+    text)
+80#VERS#COLLATED#:
+80#VERS#LINKS####: https://www.noor-
+    book.com/%D9%83%D8%AA%D8%A8-%D8%A7%D8%A8%D9%86-%D9%85%D9%8A%D8%B3%D8%B1-pdf
+90#VERS#ANNOTATOR: Mathew Barber
+90#VERS#COMMENT##: OCRed through Kraken:
+    * kraken version: 3.0.0.0b21.dev6
+    * segmentation model: DEFAULT
+    * OCR model: arabPers-WithDiffTypefaces.mlmodel
+    * Deleted editor's introduction to the text
+    * Removed footnotes
+    * small corrections to the text, where I have spotted them
+    * Mistakes at beginning and start of lines (missing characters, usually) -
+    corrected these where I saw them
+    * added lines missing from OCR on several pages
+    * Added QB and QE tags where Qur'anic citations clearly demarcated in edition
+    * One section after - PARATEXT - unclear if this should be attributed to Ibn
+    Muyassar or al-Maqrizi
+    * Removed indices
+90#VERS#DATE#####: 2021-05-28
+90#VERS#ISSUES###: PRIMARY_VERSION

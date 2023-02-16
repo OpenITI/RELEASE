@@ -1,0 +1,29 @@
+00#BOOK#URI######: 0600PseudoMascudi.AkhbarZaman
+10#BOOK#GENRES###: _TARIKH
+10#BOOK#TITLEA#AR: Aḫbār al-zamān wa man abādahu al-ḥidṯān wa ʿaǧāʾib al-buldān
+    wa-l-ġāmir bi-al-māʾ wa-l-ʿumrān
+10#BOOK#TITLEB#AR:
+20#BOOK#WROTE####: URIs from Althurayya, comma separated
+30#BOOK#WROTE##AH: YEAR-MON-DA (X+ for unknown)
+40#BOOK#RELATED##: URI of a book from OpenITI, or [Author's Title],
+    followed by abbreviation for relation type between brackets (see
+    book_relations repo). Only include relations with older books. Separate
+    related books with semicolon.
+80#BOOK#EDITIONS#: permalink, permalink, permalink
+80#BOOK#LINKS####: permalink, permalink, permalink
+80#BOOK#MSS######: permalink, permalink, permalink
+80#BOOK#STUDIES##: permalink, permalink, permalink
+80#BOOK#TRANSLAT#: permalink, permalink, permalink
+90#BOOK#COMMENT##: According to al-Masʿūdī's introduction to his Murūj al-
+    dhahab,
+    Akhbār al-Zamān was his earliest book on history and geography,
+    and Pellat thinks it may have taken the form of an annalistic work (EI2 s.v.
+    "al-Masʿūdī").
+    Charles Pellat writes in EI2 s.v. "al-Masʿūdī": "The K. Akhbār al-zamān
+    published in Cairo, in 1938, by Ṣāwī, has nothing in
+    common with that of al-Masʿūdī."
+    Michael Cooperson (https://www.iranicaonline.org/articles/masudi)
+    agrees: "A work under this title has been published,
+    but it is far too abbreviated and far too divergent in style
+    from the Moruj and the Tanbih to be considered authentic.
+    Its author may nevertheless have had access to now-lost works by Masʿudi."

@@ -1,0 +1,35 @@
+00#VERS#CLENGTH##: 90388
+00#VERS#LENGTH###: 19749
+00#VERS#URI######: 0692IbnCabdZahir.AltafKhafiyya.GVDB20220302-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/935749022
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/1150868594
+80#VERS#LINKS####: https://www.digitale-
+    sammlungen.de/en/view/bsb00073576?page=,1
+90#VERS#ANNOTATOR: Gowaart Van Den Bossche
+90#VERS#COMMENT##: OCR on eScriptorium. The text exists in one manuscript,
+    but its publication history is complicated:
+    the first half of it was edited by Axel Moberg in his PhD thesis (see
+    VERS#BASED).
+    The second half, which consists of extensive citation of two waqf documents,
+    was edited in part by the same editor in a separate article
+    (see worldcat link in VERS#COLLATED, VERS#LINKS is to the digitised manuscript),
+    but he omitted large sections of it which he did not think were interesting.
+    I have merged both edited parts and the omitted sections from the manuscript
+    here
+    to better reflect the original text, using PageV01 for the text edition,
+    PageV03 for the article, and PageV02 for the manuscript folios that have not
+    been edited
+    (the first part of which is situated between the two edited parts).
+    For PageV01: pages 3 to 48 were OCR'd using arabPersPrBigMixed_best model,
+    the remainder using the much better 12-24-2021_ArabPersGeneralized model,
+    which I also used for PageV02 and PageV03.
+    Postcorrected by Gowaart, but typos undoubtedly remain.
+    I have corrected some of the editions' orthography but not always,
+    so it will be best to take this into account when doing searches on the text.
+    The text edition follows the manuscript by marking rhymed prose with asterisks.
+    I have left this in, as it can be analytically useful and furthermore represents
+    the manuscript transmission of the text.
+    On PageV02P116a 1,5 lines in the manuscript have been blotted out.
+    I have not tried to reconstruct them.
+90#VERS#DATE#####: 2022-03-02
+90#VERS#ISSUES###: NO_MAJOR_ISSUES

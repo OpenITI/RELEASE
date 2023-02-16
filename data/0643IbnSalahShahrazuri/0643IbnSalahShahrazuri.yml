@@ -1,0 +1,17 @@
+00#AUTH#URI######: 0643IbnSalahShahrazuri
+10#AUTH#ISM####AR: ʿUṯmān
+10#AUTH#KUNYA##AR: Abū ʿAmrů
+10#AUTH#LAQAB##AR: Taqī al-dīn
+10#AUTH#NASAB##AR: b. ʿAbd al-Raḥmãn
+10#AUTH#NISBA##AR: al-Šahrazūrī al-Kūrdī
+10#AUTH#SHUHRA#AR: Ibn Ṣalāḥ
+20#AUTH#BORN#####: SHAHRAZUR_460E352N_R, Jibal_RE
+20#AUTH#DIED#####: DIMASHQ_363E335N_S
+20#AUTH#RESIDED##: IRBIL_440E361N_S, MAWSIL_431E363N_S, HALAB_371E361N_S, BAYTMAQDIS_352E317N_S, DIMASHQ_363E335N_S
+20#AUTH#VISITED##: BAGHDAD_443E333N_S, QAZWIN_500E362N_S,  MARW_621E376N_S, NAYSABUR_587E361N_S, HAMADHAN_485E347N_S, MAKKA_398E213N_S
+30#AUTH#BORN###AH: 0577-XXX-XX
+30#AUTH#DIED###AH: 0643-XXX-XX
+40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
+40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
+90#AUTH#COMMENT##: EI2: "Taḳī ’l-Dīn Abū ʿAmr ʿUt̲h̲mān b. ʿAbd al-Raḥmān al-Kurdī al-S̲h̲ahrazūrī , who belonged to the S̲h̲āfiʿī mad̲h̲hab , was born in 577/1181 at S̲h̲arak̲h̲ān, a village in the Irbil district near S̲h̲ahrazūr, and died in Damascus in 643/1245.": http://dx.doi.org/10.1163/1573-3912_islam_SIM_3353
