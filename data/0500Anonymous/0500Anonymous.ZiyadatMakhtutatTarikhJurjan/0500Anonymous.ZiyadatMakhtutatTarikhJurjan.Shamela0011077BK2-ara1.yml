@@ -1,0 +1,36 @@
+00#VERS#CLENGTH##: 9405
+00#VERS#LENGTH###: 2474
+00#VERS#URI######: 0500Anonymous.ZiyadatMakhtutatTarikhJurjan.Shamela0011077BK2-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/4770042058
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/4770042058
+80#VERS#LINKS####: https://archive.org/details/p.d.f4449
+90#VERS#ANNOTATOR: LeipzigTeam
+90#VERS#COMMENT##: The text has been tagged, but needs to be reviewed
+    and vetted following the new workflow and the missing data to be
+    supplied.
+    NOTE OF THE REVIEWER (HRH):
+    1- Untagged all Juz’
+    (which has no effect on the structure of the text).
+    Levelling of the headers corrected.
+    2- Pages 550 onwards is some extra text on the main manuscript,
+    which is not part of this text. This part should be separated.
+    I raised an issue for this.
+    3- A different edition can be found here:
+    https://archive.org/details/alfirdwsiy2018_gmail_0364
+    PV: the original text file contained the Tārīkh Jurjān,
+    followed by additional text and marginal notes
+    that were found in the same manuscript but do not belong
+    to the Tārīkh Jurjān itself (pages 550ff.).
+    PV split the additions off as 0500Anonymous.ZiyadatMakhtutatTarikhJurjan
+    See p. 503 in the alternative edition noted by HRH:
+    "qāla al-muʾtamin: lammā balagha hunā samiʿtu hādhihi al-ziyādāt
+    wa-hiya fī ākhir al-rābiʿ ʿashr min ajzāʾ hādhā al-kitāb
+    wa-hiya ijāza li-al-shaykh Abī al-Qāsim al-Sahmī bi-qirāʾat
+    Muḥammad b. Aḥmad b. al-Khāḍiba - wa-dhakara jamāʿa ākhirhum
+    Ismāʿīl al-Samarqandī - min shawwāl sanat ithnatayn wa-sabʿīn
+    wa-arbaʿa miʾa. Ākhirhu, wa-ṣalā Allāh ʿalā Muḥammad wa-ālihi wa-sallam"
+    And on p. 517, the editor remarks: "Kitāb Tārīkh Jurjān khutima fī ṣafḥa
+    504 - wa-lākin kāna fī al-nuskha al-aṣl ziyādāt mufīda laysat min al-kitāb
+    wa-lidhā athbatnāhā fī al-ākhir min ṣafḥat 505 - 517".
+90#VERS#DATE#####: 2019-09-30
+90#VERS#ISSUES###: NO_MAJOR_ISSUES

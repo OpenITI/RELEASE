@@ -1,0 +1,20 @@
+00#AUTH#URI######: 0535QawwamSunna
+10#AUTH#ISM####AR: Ismāʿīl
+10#AUTH#KUNYA##AR: Abū al-Qāsim
+10#AUTH#LAQAB##AR: Qawwām al-Sunnaŧ
+10#AUTH#NASAB##AR: b. Muḥammad b. al-Faḍl b. ʿAlī b. Ṭāhir b. Aḥmad
+10#AUTH#NISBA##AR: al-Qurašī al-Tayyamī thumma al- al-Iṣbahānī al-Ṭalḥī
+10#AUTH#SHUHRA#AR: Qawwām al-Sunnaŧ
+20#AUTH#BORN#####: ISBAHAN_516E326N_S, Jibal_RE
+20#AUTH#DIED#####: ISBAHAN_516E326N_S
+20#AUTH#RESIDED##: BAGHDAD_443E333N_S
+20#AUTH#VISITED##: BAGHDAD_443E333N_S, NAYSABUR_587E361N_S, RAYY_515E356N_S,
+    QAZWIN_500E362N_S, MAKKA_398E213N_S
+30#AUTH#BORN###AH: 457-SHW-09 (X+ for unknown)
+30#AUTH#DIED###AH: YEAR-MON-DA (X+ for unknown)
+40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
+40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
+90#AUTH#COMMENT##: Info compiled from introduction to Siyar al-Salaf which is
+    very detailed and can be mined for more data. Birth year is sometimes given as
+    458 or 459.

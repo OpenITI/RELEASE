@@ -1,0 +1,17 @@
+00#AUTH#URI######: 0526IbnAbiYacla
+10#AUTH#ISM####AR: Muḥammad
+10#AUTH#KUNYA##AR: Abū al-Ḥusayn
+10#AUTH#LAQAB##AR: 
+10#AUTH#NASAB##AR: b. Muḥammad b. al-Ḥusayn b. Muḥammad b. Ḫalaf b. Aḥmad b. al-Farrāʾ
+10#AUTH#NISBA##AR: al-Farrāʾ al-Baġdādī al-Ḥanbalī
+10#AUTH#SHUHRA#AR: Ibn Abī Yaʿlá
+20#AUTH#BORN#####: URIs from Althurayya, comma separated
+20#AUTH#DIED#####: URIs from Althurayya, comma separated
+20#AUTH#RESIDED##: URIs from Althurayya, comma separated
+20#AUTH#VISITED##: URIs from Althurayya, comma separated
+30#AUTH#BORN###AH: 0451-XXX-XX
+30#AUTH#DIED###AH: 0526-XXX-XX
+40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
+40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
+90#AUTH#COMMENT##: He is the son of 0458AbuYaclaIbnFarra

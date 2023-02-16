@@ -1,0 +1,29 @@
+00#BOOK#URI######: 0550AbuCabdAllahZuhri.Jughrafiya
+10#BOOK#GENRES###: _BULDAN, _JUGHRAFIYA
+10#BOOK#TITLEA#AR: Kitāb al-Juġrāfiyā
+10#BOOK#TITLEB#AR: Kitāb al-Jaʿrāfiyā
+20#BOOK#WROTE####: URIs from Althurayya, comma separated
+30#BOOK#WROTE##AH: YEAR-MON-DA (X+ for unknown)
+40#BOOK#RELATED##: URI of a book from OpenITI, or [Author's Title],
+    followed by abbreviation for relation type between brackets (see
+    book_relations repo). Only include relations with older books. Separate
+    related books with semicolon.
+80#BOOK#EDITIONS#: permalink, permalink, permalink
+80#BOOK#LINKS####: permalink, permalink, permalink
+80#BOOK#MSS######: permalink, permalink, permalink
+80#BOOK#STUDIES##: permalink, permalink, permalink
+80#BOOK#TRANSLAT#: permalink, permalink, permalink
+90#BOOK#COMMENT##: Sezgin, Geschichte des arabischen Schrifttums 14.265-267:
+    al-Zuhrī "has reworked the
+    the geography that about 70 scholars had created for the caliph al-Ma'mun,
+    ca. 300 year earlier, and which was available to him in the Geography of
+    a certain al-Fazārī. (...) It is difficult to define the relationship
+    between the extant work of Abu ʿAbd Allāh al-Zuhrī and the Geography of
+    al-Ma'mun's geographers. It is neither an extract, nor a revision in the
+    real sense of the word. Looking at the entire book and the author's way 
+    of citation gives the impression that he wanted to create a compilation,
+    based in the first place on the Ma'mun work. He did not have a special
+    sense for uniformity in relation to the selection of his sources and the
+    material he took from them, but he does display a conspicuous inclination
+    to mirabilia. In any case, it is hard to say what he took over from the
+    work of al-Ma'mun's geographers."

@@ -1,0 +1,14 @@
+00#VERS#CLENGTH##: 90784
+00#VERS#LENGTH###: 21316
+00#VERS#URI######: 0542IbnMunjibTajRiyasaIbnSayrafi.Ishara.Kraken210223142003-ara1
+80#VERS#BASED####:
+80#VERS#COLLATED#:
+80#VERS#LINKS####:
+90#VERS#ANNOTATOR:
+90#VERS#COMMENT##: OCRed through Kraken:
+    * segmentation model: DEFAULT
+    * OCR model: arabPers-WithDiffTypefaces.mlmodel
+    * raw-OCR needed review - MAB
+    * order of Pdf pages is right-to-left, order will need to be flipped - MAB
+90#VERS#DATE#####: 2021-02-23
+90#VERS#ISSUES###:

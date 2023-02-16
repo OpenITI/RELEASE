@@ -1,0 +1,17 @@
+00#AUTH#URI######: 0535QadiMaristan
+10#AUTH#ISM####AR: Muḥammad
+10#AUTH#KUNYA##AR: Abū Bakr
+10#AUTH#LAQAB##AR: 
+10#AUTH#NASAB##AR: b. ʿAbd al-Bāqī b. Muḥammad
+10#AUTH#NISBA##AR: al-Anṣārī al-Kaʿbī
+10#AUTH#SHUHRA#AR: Qāḍī al-Māristān
+20#AUTH#BORN#####: URIs from Althurayya, comma separated
+20#AUTH#DIED#####: URIs from Althurayya, comma separated
+20#AUTH#RESIDED##: URIs from Althurayya, comma separated
+20#AUTH#VISITED##: URIs from Althurayya, comma separated
+30#AUTH#BORN###AH: 0442-SAF-10
+30#AUTH#DIED###AH: 0535-XXX-XX
+40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
+40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
+90#AUTH#COMMENT##: No EI2 entry. The information about him is taken from the introduction to Mashyakha.

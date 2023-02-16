@@ -1,0 +1,15 @@
+00#VERS#CLENGTH##: 4973874
+00#VERS#LENGTH###: 1173838
+00#VERS#URI######: 0537AbuHafsNasafi.TaysirFiTafsir.Meshkat00057178-ara1
+80#VERS#BASED####: NOT_FOUND
+80#VERS#COLLATED#: NOT_FOUND
+80#VERS#LINKS####: https://archive.org/details/tysirftfs
+90#VERS#ANNOTATOR: PV
+90#VERS#COMMENT##: PV converted the text from Meshkat's BOK file,
+    tagged sura and aya headings and removed editorial material.
+    NB: the pagination of the digital text follows the pagination
+    in the PDF file, but the page and volume numbers are different.
+    The start of each new volume in the pdf is indicated in the text
+    using ### [VOL 2], ### [VOL 3], etc.
+90#VERS#DATE#####: 2022/07/26
+90#VERS#ISSUES###: PAGINATION

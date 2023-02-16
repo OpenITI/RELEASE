@@ -1,0 +1,15 @@
+00#VERS#CLENGTH##: 27905
+00#VERS#LENGTH###: 6630
+00#VERS#URI######: 0536IbnCarif.MahasinMajalis.Kraken22021817402402-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/614032036
+80#VERS#COLLATED#:
+80#VERS#LINKS####: https://www.quranicthought.com/books/محاسن-المجالس-لابن-
+    العريف-طبعة-باريس-1933/
+90#VERS#ANNOTATOR:
+90#VERS#COMMENT##: OCRed through Kraken:
+    * Kraken version: 3.0.0.0b21.dev6
+    * segmentation model: DEFAULT
+    * OCR model: 12-24-2021_ArabPersGeneralized.mlmodel
+    NOTE: modern edition with several appendices exists
+90#VERS#DATE#####: 2022-02-18
+90#VERS#ISSUES###: UNCORRECTED_OCR

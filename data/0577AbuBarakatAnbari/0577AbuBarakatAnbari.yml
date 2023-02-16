@@ -1,0 +1,17 @@
+00#AUTH#URI######: 0577AbuBarakatAnbari
+10#AUTH#ISM####AR: ʿAbd al-Raḥmān
+10#AUTH#KUNYA##AR: Kamāl al-dīn
+10#AUTH#LAQAB##AR: Abū al-barakāt
+10#AUTH#NASAB##AR: b. Muḥammad b. ʿUbayd Al-lãh b. Abī Saʿīd
+10#AUTH#NISBA##AR: al-Anbārī
+10#AUTH#SHUHRA#AR: Ibn al-Anbārī
+20#AUTH#BORN#####: BAGHDAD_443E333N_S, Iraq_RE_Auto
+20#AUTH#DIED#####: BAGHDAD_443E333N_S
+20#AUTH#RESIDED##: URIs from Althurayya, comma separated
+20#AUTH#VISITED##: URIs from Althurayya, comma separated
+30#AUTH#BORN###AH: 0513-RA2-XX (X+ for unknown)
+30#AUTH#DIED###AH: 0577-SHC-09 (X+ for unknown)
+40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
+40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
+90#AUTH#COMMENT##: EI2: "ʿabd al-raḥmān b. muḥ. b. ʿubayd allāh b. abī saʿīd kamāl al-dīn (properly ibn al-anbārī ), Arabic philologian, b. Rabiʾ II 513/July 1119, studied philology at the Niẓāmiyya in Bad̲j̲dād under al-Ḏj̲awālīḳī and Ibn al-S̲h̲ad̲j̲arī and himself became a professor for this subject in the same madrasa ; subsequently, however, he retired from public life in order to devote himself entirely to his studies and pious exercises. He died on 9 S̲h̲aʿbān 577/19 Dec. 1181.": http://dx.doi.org/10.1163/1573-3912_islam_SIM_0661

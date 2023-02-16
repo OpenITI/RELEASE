@@ -1,0 +1,20 @@
+00#AUTH#URI######: 0548Shahrastani
+10#AUTH#ISM####AR: Muḥammad
+10#AUTH#KUNYA##AR: Abū al-Fatḥ
+10#AUTH#LAQAB##AR: Tāǧ al-dīn
+10#AUTH#NASAB##AR: b. ʿAbd al-Karīm b. Abī Bakr Aḥmad
+10#AUTH#NISBA##AR: al-Šahrastānī
+10#AUTH#SHUHRA#AR: al-Šahrastānī
+20#AUTH#BORN#####: Daylam_RE
+20#AUTH#DIED#####: URIs from Althurayya, comma separated
+20#AUTH#RESIDED##: URIs from Althurayya, comma separated
+20#AUTH#VISITED##: URIs from Althurayya, comma separated
+30#AUTH#BORN###AH: 0479-XXX-XX
+30#AUTH#DIED###AH: 0548-SHC-XX
+40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
+40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
+90#AUTH#COMMENT##: EI2: "Abu ’l-Fatḥ Muḥammad b. ʿAbd al-Karīm b. Aḥmad, Tād̲j̲
+    al-Dīn, thinker and historian of religious and philosophical doctrines, who
+    lived in Persia in the first half of the 6th/12th century.":
+    http://dx.doi.org/10.1163/1573-3912_islam_SIM_6769

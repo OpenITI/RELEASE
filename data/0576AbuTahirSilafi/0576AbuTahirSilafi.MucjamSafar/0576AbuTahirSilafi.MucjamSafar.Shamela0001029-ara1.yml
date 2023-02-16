@@ -1,0 +1,17 @@
+00#VERS#CLENGTH##: 56219
+00#VERS#LENGTH###: 13155
+00#VERS#URI######: 0576AbuTahirSilafi.MucjamSafar.Shamela0001029-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/4770858391
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/4770858391
+80#VERS#LINKS####: PHYSICAL_OBJECT
+90#VERS#ANNOTATOR: HRH
+90#VERS#COMMENT##: Some of the numbers in the text include information
+    about poets; however, it is not possible to tag the names of these poets
+    structurally. They need to be tagged inside the text. I showed the
+    beginning of each number by an asterisk (i.e. # *) so that they can
+    easily be found. 2- There is an appendix at the end of the book, but
+    there is no information at its beginning to show what kind of appendix
+    it is and why the editor has separated this part, while the numbers are
+    continuing.
+90#VERS#DATE#####: 2020-07-04
+90#VERS#ISSUES###: EDITORIAL_SECTIONS, APPENDIX

@@ -1,0 +1,22 @@
+00#AUTH#URI######: 0520IbnWalidTurtushi
+10#AUTH#ISM####AR: Muḥammad
+10#AUTH#KUNYA##AR: Abū Bakr
+10#AUTH#LAQAB##AR:
+10#AUTH#NASAB##AR: b. al-Walīd b. Muḥammad b. Ḫalaf b. Sulaymān b. Ayyūb
+10#AUTH#NISBA##AR: al-Qurašī, al-Fihrī, al-Mālikī, al-Ṭurṭūšī, al-Andalūsī
+10#AUTH#SHUHRA#AR: al-Ṭurṭūšī, Ibn Abī Randaqaŧ (or Rundaqaŧ)
+20#AUTH#BORN#####: Andalus_RE, TURTUSHA_006E407N_S
+20#AUTH#DIED#####: URIs from Althurayya, comma separated
+20#AUTH#RESIDED##: URIs from Althurayya, comma separated
+20#AUTH#VISITED##: URIs from Althurayya, comma separated
+30#AUTH#BORN###AH: 0451-XXX-XX
+30#AUTH#DIED###AH: 0520-XXX-XX
+40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
+40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
+90#AUTH#COMMENT##: EI2: " Abu Bakr Muḥammad b. al-Walīd b. Muḥammad b. K̲h̲alaf
+    b. Sulaymān b. Ayyūb al-Ḳuras̲h̲ī al-Fihrī al-Andalusī al-Mālikī, also known as
+    Ibn Abī Randaḳa (Rundaḳa according to Ibn Farḥūn in al-Dībād̲j̲ ), Arabic writer
+    born ca. 451/1059 at Tortosa [see ṭurṭūs̲h̲a ] on the Spanish Mediterranean
+    coast, died probably in 520/1126":
+    http://dx.doi.org/10.1163/1573-3912_islam_SIM_7650
