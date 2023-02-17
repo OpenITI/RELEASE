@@ -1,0 +1,20 @@
+00#VERS#CLENGTH##: 11221
+00#VERS#LENGTH###: 2525
+00#VERS#URI######: 1400MuhammadNadim.TaysirQiraaCarabiyya.Kraken221125160356-ara1
+80#VERS#BASED####: https://www.worldcat.org/title/1341997606
+80#VERS#COLLATED#:
+80#VERS#LINKS####:
+    https://library.oapen.org/bitstream/handle/20.500.12657/59662/9783110776485.pdf?sequence=1&isAllowed=y
+90#VERS#ANNOTATOR:
+90#VERS#COMMENT##: OCRed through Kraken:
+    * Kraken version: 3.0.0.0b21.dev6
+    * segmentation model: DEFAULT
+    * OCR model: 10-2022_ArabicTestOutputModel_New_20_0.mlmodel
+    NOTE: This is a transcription of a memo  on a proposal for the simplification of
+    the Arabic script, written by the then director of the Press  of the Dār al-
+    Kutub in Cairo in 1948, and directed to the Egyptian Royal Academy of the Arabic
+    Language.  The manuscript was discovered in 2010 by Natalia Kasprzak Suit, and
+    edited with a translation in Studies in Manuscript Cultures 26, 97-137. PV
+    combined the pages with the Arabic text into a single PDF and fed it to Kraken.
+90#VERS#DATE#####: 2022-11-25
+90#VERS#ISSUES###: UNCORRECTED_OCR

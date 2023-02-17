@@ -1,0 +1,18 @@
+00#VERS#CLENGTH##: 801157
+00#VERS#LENGTH###: 171089
+00#VERS#URI######: 1450MuhammadKhayrRamadan.TakmilatMucjamMuallifin.Shamela0036031-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/4771411052
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/4771411052
+80#VERS#LINKS####:
+    https://ia803105.us.archive.org/24/items/1397141519771995/تكملة معجم المؤلفين
+    (وفيات 1397 - 1415هـ = 1977 - 1995م).pdf
+90#VERS#ANNOTATOR: HRH
+90#VERS#COMMENT##: Each page number is repeated three times. This is
+    because the PDF is written in three columns and the page numbers are
+    repeated at the end of each column. 2- Many of the name entries (### $)
+    have subsetions. Most of these subsections are to introduce the writings
+    of the person under discussion. These subsections are not bold in the
+    PDF, but they were pre-tagged. So, I kept the tags because they are
+    useful. I just changed the automatic tags to “#~:section”:.
+90#VERS#DATE#####: 2020-08-21
+90#VERS#ISSUES###: EDITORIAL_SECTIONS, PAGINATION, HTML_TAGS
