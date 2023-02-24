@@ -1,0 +1,20 @@
+00#AUTH#URI######: 1107QadiSacidQummi
+10#AUTH#ISM####AR: Muḥammad Saʿīd
+10#AUTH#KUNYA##AR: 
+10#AUTH#LAQAB##AR: 
+10#AUTH#NASAB##AR: b. Muḥammad Mufīd
+10#AUTH#NISBA##AR: al-Qummī
+10#AUTH#SHUHRA#AR: al-Qāḍī Saʿīd al-Qummī
+20#AUTH#BORN#####: QUMM_509E346N_S, Jibal_RE
+20#AUTH#DIED#####: URIs from Althurayya, comma separated
+20#AUTH#RESIDED##: ISBAHAN_516E326N_S
+20#AUTH#VISITED##: URIs from Althurayya, comma separated
+30#AUTH#BORN###AH: 1049-DHQ-10
+30#AUTH#DIED###AH: YEAR-MON-DA (X+ for unknown)
+40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
+40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+80#AUTH#BIBLIO###: https://iranicaonline.org/articles/qazi-said-qomi
+90#AUTH#COMMENT##: a free running comment here; you can add as many
+    lines as you see fit; the main goal of this comment section is to have a
+    place to record valuable information, which is difficult to formalize
+    into the above given categories.
