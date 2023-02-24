@@ -1,0 +1,17 @@
+00#VERS#CLENGTH##: 6881020
+00#VERS#LENGTH###: 1622701
+00#VERS#URI######: 1204SulaymanJamal.FutuhatIlahiyya.Kraken220727035853-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/929481529
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/929481529
+80#VERS#LINKS####: https://ia802802.us.archive.org/17/items/0_20200111/0ملف
+    واحد.pdf
+90#VERS#ANNOTATOR:
+90#VERS#COMMENT##: OCRed through Kraken:
+    * Kraken version: 3.0.0.0b21.dev6
+    * segmentation model: DEFAULT
+    * OCR model: 12-24-2021_ArabPersGeneralized.mlmodel
+    Uncorrected OCR; the pages contain both the main text and the commentary;
+    but the OCR did not pick up on this division, making it impossible to
+    divide the texts into parts.
+90#VERS#DATE#####: 2022-07-27
+90#VERS#ISSUES###: UNCORRECTED_OCR, MULTIPLE_TEXTS

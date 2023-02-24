@@ -1,0 +1,12 @@
+00#VERS#CLENGTH##: 15179922
+00#VERS#LENGTH###: 3578658
+00#VERS#URI######: 1270ShihabDinAlusi.RuhMacani.Shia002702Vols-ara1
+80#VERS#BASED####: permalink, permalink, permalink
+80#VERS#COLLATED#: permalink, permalink, permalink
+80#VERS#LINKS####: all@id, vol1@id, vol2@id, vol3@id, volX@id
+90#VERS#ANNOTATOR: MB, PV
+90#VERS#COMMENT##: Tagged the original parts of text (as provided by Pieter Coppens)
+    as first-level sections, and the suras as second-level sections.
+    Not checked against the edition yet (this should be the Iraqi edition). 
+90#VERS#DATE#####: 2022-03-25
+90#VERS#ISSUES###: formalized issues, separated with commas

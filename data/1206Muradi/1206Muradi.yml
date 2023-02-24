@@ -1,0 +1,17 @@
+00#AUTH#URI######: 1206Muradi
+10#AUTH#ISM####AR: Muḥammad Ḫalīl 
+10#AUTH#KUNYA##AR: Abū al-Muwaddaŧ
+10#AUTH#LAQAB##AR: 
+10#AUTH#NASAB##AR: b. Alī b. Muḥammad b. Muḥammad Murād b. Alī
+10#AUTH#NISBA##AR: al-Murādī al-Ḥusaynī al-Ḥanafī
+10#AUTH#SHUHRA#AR: al-Murādī
+20#AUTH#BORN#####: URIs from Althurayya, comma separated
+20#AUTH#DIED#####: URIs from Althurayya, comma separated
+20#AUTH#RESIDED##: URIs from Althurayya, comma separated
+20#AUTH#VISITED##: URIs from Althurayya, comma separated
+30#AUTH#BORN###AH: YEAR-MON-DA (X+ for unknown)
+30#AUTH#DIED###AH: 1206-XXX-XX
+40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
+40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
+90#AUTH#COMMENT##: EI2: "abu ’l-mawadda muḥammad k̲h̲alīl al-muradī , son of Sayyid ʿAlī, succeeded his uncle as Ḥanafī muftī and raʾīs of Damascus and was appointed also to the office of naḳīb al-as̲h̲rāf there.": http://dx.doi.org/10.1163/1573-3912_islam_COM_0799
