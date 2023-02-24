@@ -1,0 +1,28 @@
+00#VERS#CLENGTH##: 171087
+00#VERS#LENGTH###: 41863
+00#VERS#URI######: 0335Suli.MaLamYunshar.EScript221025-ara1
+80#VERS#BASED####: https://worldcat.org/en/title/45148905
+80#VERS#COLLATED#: https://worldcat.org/en/title/45148905
+80#VERS#LINKS####: none
+90#VERS#ANNOTATOR:
+90#VERS#COMMENT##: This text file contains parts of the Kitāb al-Awrāq that
+    are absent from Heyworth Dunne's edition, edited by Hilāl Nājī (d. 1432/2011)
+    from a manuscript in the library of al-Azhar in Cairo
+    (number 847 khāṣṣ, 7083 Abāẓa-Adab), covering the years 295-315AH.
+    The text begins with the death of the caliph al-Muktafī
+    and the accession of al-Muqtadir.
+    Nājī writes (introduction p. 12) that he had edited the years 316-318 AH
+    from the same manuscript in a publication titled "Qiṭʿa nādira min Awrāq al-
+    Ṣūlī"
+    ["Qiṭʿa nādira min Kitāb al-Awrāq li-Abī Bakr al-Ṣūlī. Ṣafḥa majhūla min tārīḫ
+    al-ʿIrāq",
+    published in 1990 in Baghdād; perhaps also published as
+    "Qiṭʿa lam tunshar min Kitāb al-Awrāq li-al-Ṣūlī",
+    in Dirāsāt Sharqiyya/Etudes Orientales 1990/5-6, Paris].
+    OCRed in eScriptorium with 2022_10_arabictestoutputmodel_new_20_0;
+    PDF provided by user LO;
+    segmentation and region annotation fixed by LMN;
+    editorial material and indices removed by LMN.
+    PV added structural tagging.
+90#VERS#DATE#####:
+90#VERS#ISSUES###: UNCORRECTED_OCR, PARTIAL_TEXT

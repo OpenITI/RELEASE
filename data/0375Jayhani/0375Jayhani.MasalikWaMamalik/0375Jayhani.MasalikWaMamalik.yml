@@ -1,0 +1,18 @@
+00#BOOK#URI######: 0375Jayhani.MasalikWaMamalik
+10#BOOK#GENRES###: _BULDAN, _DJUGHRAFIYA
+10#BOOK#TITLEA#AR: Kitāb al-Masālik wa-al-mamālik
+10#BOOK#TITLEB#AR: 
+20#BOOK#WROTE####: URIs from Althurayya, comma separated
+30#BOOK#WROTE##AH: YEAR-MON-DA (X+ for unknown)
+40#BOOK#RELATED##: URI of a book from OpenITI, or [Author's Title],
+    followed by abbreviation for relation type between brackets (see
+    book_relations repo). Only include relations with older books. Separate
+    related books with semicolon.
+80#BOOK#EDITIONS#: permalink, permalink, permalink
+80#BOOK#LINKS####: permalink, permalink, permalink
+80#BOOK#MSS######: permalink, permalink, permalink
+80#BOOK#STUDIES##: permalink, permalink, permalink
+80#BOOK#TRANSLAT#: permalink, permalink, permalink
+90#BOOK#COMMENT##: Lost geographical work. A work with the title "Ashkāl al-ʿĀlam"
+    attributed to al-Jayhānī was edited by Fīrz Manṣūrī, but is in fact a Persian
+    translation of al-Iṣṭakhrī's Kitāb al-Masālik wa-al-mamālik.

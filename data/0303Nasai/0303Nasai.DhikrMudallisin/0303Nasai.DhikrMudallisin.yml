@@ -1,0 +1,31 @@
+00#BOOK#URI######: 0303Nasai.DhikrMudallisin
+10#BOOK#GENRES###: src@keyword, src@keyword, src@keyword
+10#BOOK#TITLEA#AR: Ḏikr al-Mudallisīn
+10#BOOK#TITLEB#AR:
+20#BOOK#WROTE####: URIs from Althurayya, comma separated
+30#BOOK#WROTE##AH: YEAR-MON-DA (X+ for unknown)
+40#BOOK#RELATED##: URI of a book from OpenITI, or [Author's Title],
+    followed by abbreviation for relation type between brackets (see
+    book_relations repo). Only include relations with older books. Separate
+    related books with semicolon.
+80#BOOK#EDITIONS#: http://www.worldcat.org/oclc/53341518
+80#BOOK#LINKS####:
+    https://ia802709.us.archive.org/32/items/tmnszm/tmnszm.pdf
+80#BOOK#MSS######: permalink, permalink, permalink
+80#BOOK#STUDIES##: permalink, permalink, permalink
+80#BOOK#TRANSLAT#: permalink, permalink, permalink
+90#BOOK#COMMENT##: Two witnesses exist for this short text, both
+    embedded in other texts: (see the editor's preface, Ḥātim b. ʿĀrif
+    al-
+    ʿAwnī, Makka 1423, pp. 113-115):
+    * Su'ālāt Abī ʿAbd al-Raḥmān Muḥammad b. al-Ḥusayn b. Mūsā  al-
+    Sulamī [d. 412] li-al-Dāraquṭnī (d. 385), ms. Istanbul Ahmad III
+    12/624:
+    in this manuscript, the full text of the risāla (except one
+    authority)
+    is quoted at the end by al-Sulamī on authority of al-Dāraquṭnī  (the
+    Abū
+    al-Ḥasan in the paratext is al-Dāraquṭnī)
+    * Mīzān al-Iʿtidāl, by al-Dhahabī: quotes the full text of the
+    risāla  in his report on Ḥajjāj b. Arṭāh (who is mentioned in the
+    risāla).

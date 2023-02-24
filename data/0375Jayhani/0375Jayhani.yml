@@ -1,0 +1,19 @@
+00#AUTH#URI######: 0375Jayhani
+10#AUTH#ISM####AR: Aḥmad
+10#AUTH#KUNYA##AR: Abū ʿAbd Allāh
+10#AUTH#LAQAB##AR: 
+10#AUTH#NASAB##AR: b. Muḥammad b. Naṣr
+10#AUTH#NISBA##AR: al-Ǧayhānī
+10#AUTH#SHUHRA#AR: al-Ǧayhānī
+20#AUTH#BORN#####: URIs from Althurayya, comma separated
+20#AUTH#DIED#####: URIs from Althurayya, comma separated
+20#AUTH#RESIDED##: URIs from Althurayya, comma separated
+20#AUTH#VISITED##: URIs from Althurayya, comma separated
+30#AUTH#BORN###AH: 
+30#AUTH#DIED###AH: 
+40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
+40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
+90#AUTH#COMMENT##: Worked as secretary for the Samānid Naṣr b. Aḥmad b. Ismāʿīl (d. 331/943),
+    and until 367/978 as vizier for Nūḥ b. Manṣūr al-Sāmānī (d. 387/997).
+    See GAS 14.184-185.

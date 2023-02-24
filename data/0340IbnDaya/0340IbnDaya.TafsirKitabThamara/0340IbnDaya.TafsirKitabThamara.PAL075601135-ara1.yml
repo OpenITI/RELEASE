@@ -1,0 +1,22 @@
+00#VERS#CLENGTH##: 64143
+00#VERS#LENGTH###: 14677
+00#VERS#URI######: 0340IbnDaya.TafsirKitabThamara.PAL075601135-ara1
+80#VERS#BASED####: http://ptolemaeus.badw.de/work/191
+80#VERS#COLLATED#: http://ptolemaeus.badw.de/work/191
+80#VERS#LINKS####: http://ptolemaeus.badw.de/work/191
+90#VERS#ANNOTATOR: PV
+90#VERS#COMMENT##: Transcription of the Tehran ms. (Malik 5924) of a
+    commentary on the (pseudo-)Ptolemaic aphorism collection  Kitāb al-
+    Thamara (http://ptolemaeus.badw.de/work/190). Text digitized by the
+    Ptolemaeus Arabus et Latinus project at the Bayerische Akademie der
+    Wissenschaften Transcription by Emanuele Rovati
+    (https://ptolemaeus.badw.de/team/47). Emanuele Rovati, ‘Abū Jaʿfar Aḥmad
+    ibn Yūsuf ibn al-Dāya,  Tafsīr Kitāb al-Thamara, transcribed from MS
+    Tehran,  Kitābkhāna wa-mūza-yi millī-yi Malik, 5924’, Ptolemaeus Arabus
+    et Latinus, URL=http://ptolemaeus.badw.de/ms/756/1135/transcription/1
+    The text was converted to OpenITI mARkdown by PV.  Arabic characters
+    representing a number  (or points on a line in geometrical explanations)
+    are overlined in the manuscript and tagged as `<u class="num">` in the
+    transliteration;  PV has tagged these characters with a `@NUM@` tag.
+90#VERS#DATE#####: 2020-12-02
+90#VERS#ISSUES###: NO_MAJOR_ISSUES

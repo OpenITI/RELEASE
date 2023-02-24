@@ -1,0 +1,44 @@
+00#VERS#CLENGTH##: 106126
+00#VERS#LENGTH###: 24462
+00#VERS#URI######: 0300IbnKhurdadhbih.MasalikWaMamalik.Shamela0011800BK1-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/34550537
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/219686645
+80#VERS#LINKS####: https://archive.org/details/almaslk-walmmalk/mode/2up
+90#VERS#ANNOTATOR: PV
+90#VERS#COMMENT##: The Dār Ṣādir edition this text file is based on
+    is a photographic reproduction of the classic De Goeje edition
+    (volume 6 in his Bibliotheca Geographorum Arabicorum),
+    which contains two texts:
+    - Ibn Khurdādhbih's al-Masālik wa-al-mamālik
+    - selections from Qudāma's Kitāb al-Kharāj, related to geography.
+    PV split the text file and tagged the structure of Ibn Khurdādhbih's book.
+    The basic structure of the text is quite simple: after a short introduction,
+    the author divides his work into 5 main chapters:
+    a chapter on the Sawād / al-ʿIrāq, the centre of the Sasanian empire,
+    followed by a chapter each on (the current situation in)
+    the four quarters of the Sasanian empire: al-Mashriq, al-Maghrib,
+    al-Jarbī (North) and al-Tayammun (South).
+    These are followed by a shorter chapter that contains various information
+    that did not fit easily in the previous chapters.
+    Within the chapters, the structure is more complex.
+    The first chapter, on the Sawād, contains a list of its geographical
+    units and the tax income derived from them.
+    The next four chapters are organized along routes from al-ʿIrāq
+    to the furthest parts of each quarter; once a route reaches a new
+    region, its geographical units and tax income are listed,
+    sometimes along with other topics of interest.
+    PV has tagged subsections within these chapters; some of these
+    are given headings by the author himself, for others PV added headings
+    between square brackets.
+    Much of the work consists of itineraries and lists of places;
+    PV has put each item in a list and each stage in an itinerary
+    on a new line and tagged it with a hashtag;
+    digressions about an item are tagged with two tildes.
+    The digital text contained quite a number of typos, related to the quaint font
+    used in these Brill publications; PV corrected recurrent typos
+    (e.g., البحر was almost consistently mistranscribed الجر).
+    De Goeje sometimes uses undotted letters when he is not sure about a reading;
+    these had been replaced with a question mark in the digital text,
+    PV restored the undotted letters.
+90#VERS#DATE#####: 2022-08-18
+90#VERS#ISSUES###: NO_MAJOR_ISSUES

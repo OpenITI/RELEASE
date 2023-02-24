@@ -1,0 +1,15 @@
+00#VERS#CLENGTH##: 13434
+00#VERS#LENGTH###: 3298
+00#VERS#URI######: 0317AbuQasimBaghawi.TarikhWafatShuyukh.Shamela0027106-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/1107070620
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/1107070620
+80#VERS#LINKS####: http://k-tb.com/book/hadeeth8509-تاريخ-وفاة-الشيوخ-
+    الذين-أدركهم-البغوي
+90#VERS#ANNOTATOR: HRH
+90#VERS#COMMENT##: The book contains 282 numbers and each number is
+    about the date of death of a person. Since these are not biographies, I
+    avoided tagging them as ### $; however (as Maxim pointed out) it’s
+    possible to automatically add this tag to the beginning of each number,
+    if needed.
+90#VERS#DATE#####: 2019-09-18
+90#VERS#ISSUES###: EDITORIAL_SECTIONS

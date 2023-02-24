@@ -1,0 +1,19 @@
+00#VERS#CLENGTH##: 83238
+00#VERS#LENGTH###: 20924
+00#VERS#URI######: 0335Suli.AkhbarAbiTammam.Shamela0000515-ara1
+80#VERS#BASED####: NO_DATA_IN_METADATA
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/1035573325
+80#VERS#LINKS####: http://www.ar.islamic-sources.com/book/أخبار-أبي-تمام/
+90#VERS#ANNOTATOR: HRH
+90#VERS#COMMENT##: 1- There is no data in METADATA section that shows
+    which edition is used. Although the edition I have used is different
+    from the Editpro edition, it is very similar to it and I didn’t see any
+    major differences. Another (different) edition can be found here:
+    https://www.libraryofarabicliterature.org/assets/Gruendler-The-Life-and-
+    Times-of-Abu-Tammam-Arabic-only-1.pdf. 2- The first treatise (“رسالة
+    الصولي إلى مزاحم بن فاتك”) in the PDF has a title in the beginning of
+    the text but it has no content. I guess that it must have been
+    intentionally removed from the text by our corpus manager since it is
+    not part of the main text. So I do not consider it a missing part.
+90#VERS#DATE#####: 2019-12-11
+90#VERS#ISSUES###: NO_MAJOR_ISSUES

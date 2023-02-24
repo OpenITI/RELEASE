@@ -1,0 +1,17 @@
+00#BOOK#URI######: 0322IbnAbiCawn.Nawahi
+10#BOOK#GENRES###: src@keyword, src@keyword, src@keyword
+10#BOOK#TITLEA#AR: Kitāb al-Nawāḥī wa-al-āfāq wa-al-aḫbār ʿan al-buldān
+10#BOOK#TITLEB#AR: 
+20#BOOK#WROTE####: URIs from Althurayya, comma separated
+30#BOOK#WROTE##AH: YEAR-MON-DA (X+ for unknown)
+40#BOOK#RELATED##: URI of a book from OpenITI, or [Author's Title],
+    followed by abbreviation for relation type between brackets (see
+    book_relations repo). Only include relations with older books. Separate
+    related books with semicolon.
+80#BOOK#EDITIONS#: permalink, permalink, permalink
+80#BOOK#LINKS####: permalink, permalink, permalink
+80#BOOK#MSS######: permalink, permalink, permalink
+80#BOOK#STUDIES##: permalink, permalink, permalink
+80#BOOK#TRANSLAT#: permalink, permalink, permalink
+90#BOOK#COMMENT##: Lost geographical work, mentioned by al-Masʿūdī (Tanbīh 75)
+    and Yāqūt (Buldān I 7). See Fuat Sezgin, Geschichte des arabischen Schrifttums 14.184.

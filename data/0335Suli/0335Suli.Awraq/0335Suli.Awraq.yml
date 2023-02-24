@@ -1,0 +1,58 @@
+00#BOOK#URI######: 0335Suli.Awraq
+10#BOOK#GENRES###: src@keyword, src@keyword, src@keyword
+10#BOOK#TITLEA#AR: Kitāb al-Awrāq
+10#BOOK#TITLEB#AR: 
+20#BOOK#WROTE####: URIs from Althurayya, comma separated
+30#BOOK#WROTE##AH: YEAR-MON-DA (X+ for unknown)
+40#BOOK#RELATED##: URI of a book from OpenITI, or [Author's Title],
+    followed by abbreviation for relation type between brackets (see
+    book_relations repo). Only include relations with older books. Separate
+    related books with semicolon.
+80#BOOK#EDITIONS#: permalink, permalink, permalink
+80#BOOK#LINKS####: permalink, permalink, permalink
+80#BOOK#MSS######: permalink, permalink, permalink
+80#BOOK#STUDIES##: permalink, permalink, permalink
+80#BOOK#TRANSLAT#: permalink, permalink, permalink
+90#BOOK#COMMENT##: The author left this book incompleted. 
+    Only fragments of this book are extant, 
+    in four manuscripts (see introduction to Heyworth Dunne's edition, p. ḥā';
+    and the Arabic introduction to Belyaev's edition, p. 304):
+    1. Cairo, Dār al-Kutub ms Tārīkh 594: 
+       fragment on the modern (muḥdath) poets.
+       Edited by Heyworth Dunne in 1934 (0335Suli.AkhbarShucara);
+       this manuscript is now in bad condition but a copy
+       was made of it in 1249AH by Muḥammad ʿAbd Allāh al-Zamrānī
+       and is now in Maktabat al-Azhar in the Abāẓa collection.
+    2. Istanbul, Sulaymaniye ms Shahid Ali 2141: 
+       * fragment on the poetry of the sons of the ʿAbbāsid caliphs
+       * fragment on al-Rāḍī (r. 322-329/934-940) and al-Muttaqī (r. 329-333/940-944).
+       Both fragments were edited by Heyworth Dunne in 1935-1936
+       (0335Suli.AshcarAwladKhulafa and 0335Suli.AkhbarRadi).
+    3. Cairo, Maktabat al-Azhar, ms 487 Khāṣṣ - 7083 Abāẓa Adab
+       (according to Belyaev: Tārīkh 6737 or Tārīkh 443): 
+       fragment covering the years 295-318AH 
+       (end of the reign of al-Muktafī (r. 289-295),
+       and reign of al-Muqtadir (r. 295-220));
+       Heyworth Dunne planned to publish it in the year 1937, 
+       but the edition never appeared. 
+       Hilāl ibn Nājī edited it in two parts
+       (0335Suli.MaLamYunshar and 0335Suli.QitcaNadira)
+    4. St Petersburg, National Library, ms Khanikof 60 
+       (copied in 506 AH by Aḥmad b. ʿAlī b. Muḥammad al-Dāmghānī).
+       Fragment on the reigns of al-Wāthiq (r. 227-232),
+       al-Mutawakkil (r. 232-247), al-Muntaṣir (r. 247-248), 
+       al-Mustaʿīn (r. 248-252), al-Muʿtazz (r. 252-255) and al-Muhtadī (r. 255-256).
+       This manuscript was edited by Kratchkovsky's student Belyaev (d. 1976)
+       but never published; finally, Belyaev's student Anas Khalidov published it,
+       with a Russian translation, in 1993.
+    There are a number of other manuscripts of parts of the text,
+    but they all seem to be modern copies of one of the above manuscripts
+    (incl. a manuscript in Astana, of which a photocopy exists 
+    in Cairo, Dār al-Kutub 3530).
+    The work had a historical and a poetical component;
+    Khalidov thinks it is possible that the two poetical parts that have been edited
+    are all that al-Ṣuli had written of the poetical component;
+    but of the historical component, only three out of ten parts may be extant,
+    judging from Ibn al-Nadīm's description of the work (Khalidov edition p. 303).
+    
+    

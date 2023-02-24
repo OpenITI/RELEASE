@@ -1,0 +1,25 @@
+00#VERS#CLENGTH##: 448041
+00#VERS#LENGTH###: 96740
+00#VERS#URI######: 0375IkhwanSafa.RisalatJamica.Kraken220610012301-ara1
+80#VERS#BASED####: https://www.worldcat.org/title/4771032056
+80#VERS#COLLATED#: https://www.worldcat.org/title/4771032056
+80#VERS#LINKS####:
+    http://mc.dlib.nyu.edu/files/books/aub_aco002207/aub_aco002207_lo.pdf,
+    http://mc.dlib.nyu.edu/files/books/aub_aco002208/aub_aco002208_lo.pdf
+90#VERS#ANNOTATOR: Gowaart Van Den Bossche
+90#VERS#COMMENT##: OCRed through Kraken:
+    * Kraken version: 3.0.0.0b21.dev6
+    * segmentation model: DEFAULT
+    * OCR model: 12-24-2021_ArabPersGeneralized.mlmodel
+    Corrected by Gowaart: footnotes deleted, some typos corrected, structure
+    annotated.
+    Here and there a line was missing. I have typed them when I came across them,
+    but there may be more. Pagination follows the PDF page numbering, not that of
+    the book.
+    Image on p.  not reproduced + secret alphabet and examples on vol. 1 pp. 548-9
+    also not rendered.
+    One page missing in PDF vol. 1 between 641 and 642.
+    The text contained many footnote markers, most of which have been deleted, but
+    not all.
+90#VERS#DATE#####: 2022-06-10
+90#VERS#ISSUES###: PAGINATION, UNCORRECTED_OCR
