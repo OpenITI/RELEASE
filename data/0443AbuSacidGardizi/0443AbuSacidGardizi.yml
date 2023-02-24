@@ -1,0 +1,17 @@
+00#AUTH#URI######: 0443AbuSacidGardizi
+10#AUTH#ISM####AR: ʿAbd al-Ḥayy
+10#AUTH#KUNYA##AR: Abū Saʿīd
+10#AUTH#LAQAB##AR: 
+10#AUTH#NASAB##AR: b. al-Ḍaḥḥāk b. Maḥmūd
+10#AUTH#NISBA##AR: al-Gardīzī / al-Ǧardīzī
+10#AUTH#SHUHRA#AR: Gardīzī
+20#AUTH#BORN#####: KARDIZ_691E336N_S
+20#AUTH#DIED#####: URIs from Althurayya, comma separated
+20#AUTH#RESIDED##: URIs from Althurayya, comma separated
+20#AUTH#VISITED##: URIs from Althurayya, comma separated
+30#AUTH#BORN###AH: XXXX-XXX-XX
+30#AUTH#DIED###AH: XXXX-XXX-XX
+40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
+40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
+90#AUTH#COMMENT##: EI2: "Abū Saʿīd ʿAbd al-Ḥayy b. al-Ḍaḥḥāk b. Maḥmūd , Persian historian who flourished in the middle of the 5th/11th century. Nothing is known of his life.": http://dx.doi.org/10.1163/1573-3912_islam_SIM_2423

@@ -1,0 +1,18 @@
+00#VERS#CLENGTH##: 251398
+00#VERS#LENGTH###: 60488
+00#VERS#URI######: 0412Sulami.TabaqatSufiyya.Shamela0006686BK1-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/4770228412
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/4771287992
+80#VERS#LINKS####: https://archive.org/details/Tabaqatesoufia
+90#VERS#ANNOTATOR: LeipzigTeam
+90#VERS#COMMENT##: The text was tagged before; from notes > PDF was
+    matched to this version; Some numbers were missing.
+    NOTE OF THE REVIEWER (HRH): PARATEXT added. Women’s entries tagged.
+    2- The second part which is for women’s biographies seems to be a separate
+    text. I raised an issue for it.
+    PV: the original text file contained two separate texts:
+    * 0412Sulami.DhikrNiswaMutacabbidat
+    * 0412Sulami.TabaqatSufiyya.Shamela0006686-ara1
+    PV split them off into separate text files
+90#VERS#DATE#####: YYYY-MM-DD
+90#VERS#ISSUES###: PAGINATION

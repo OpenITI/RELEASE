@@ -1,0 +1,24 @@
+00#BOOK#URI######: 0487AbuCubaydBakri.MucjamMaIstacjama
+10#BOOK#GENRES###: _BULDAN,  _JUGHRAFIYA
+10#BOOK#TITLEA#AR: Muʿǧam mā åstaʿǧama min asmāʾ al-amkinaŧ wa-al-biqāʾ
+10#BOOK#TITLEB#AR: 
+20#BOOK#WROTE####: URIs from Althurayya, comma separated
+30#BOOK#WROTE##AH: YEAR-MON-DA (X+ for unknown)
+40#BOOK#RELATED##: URI of a book from OpenITI, or [Author's Title],
+    followed by abbreviation for relation type between brackets (see
+    book_relations repo). Only include relations with older books. Separate
+    related books with semicolon.
+80#BOOK#EDITIONS#: permalink, permalink, permalink
+80#BOOK#LINKS####: permalink, permalink, permalink
+80#BOOK#MSS######: permalink, permalink, permalink
+80#BOOK#STUDIES##: permalink, permalink, permalink
+80#BOOK#TRANSLAT#: permalink, permalink, permalink
+90#BOOK#COMMENT##: A geographical dictionary of the Arabian Peninsula.
+    Sezgin, Geschichte des arabischen Schrifttums 15.25: 
+    "Probably the largest aphabetically ordered geographical lexicon
+    to originate in the West of the Islamic World. (...) The main merit
+    of the author lies exactly in the laborious synthesis of the material
+    from the sources (...) among these the relevant monographs of
+    al-Aṣmaʿī, Abū ʿUbayda, Hishām b. Muḥammad al-Kalbī, Abū Ḥātim al-Sijistānī,
+    Ibrāhīm al-Ḥarbī, al-Ḥasan b. Aḥmad b. Yaʿqūb al-Hamadhānī, ʿAmr b. Bishr al-Sakūnī,
+    ʿArrām b. al-Aṣbagh and others."

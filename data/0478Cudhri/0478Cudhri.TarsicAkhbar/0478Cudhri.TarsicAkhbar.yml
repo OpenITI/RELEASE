@@ -1,0 +1,22 @@
+00#BOOK#URI######: 0478Cudhri.TarsicAkhbar
+10#BOOK#GENRES###: src@keyword, src@keyword, src@keyword
+10#BOOK#TITLEA#AR: Tarṣīʿ al-aḫbār wa-tanwīʿ al-āṯār wa-al-bustān fī ġarāʾib al-buldān
+    wa-al-masālik ilā ǧamīʿ al-mamālik
+10#BOOK#TITLEB#AR: 
+20#BOOK#WROTE####: URIs from Althurayya, comma separated
+30#BOOK#WROTE##AH: YEAR-MON-DA (X+ for unknown)
+40#BOOK#RELATED##: URI of a book from OpenITI, or [Author's Title],
+    followed by abbreviation for relation type between brackets (see
+    book_relations repo). Only include relations with older books. Separate
+    related books with semicolon.
+80#BOOK#EDITIONS#: permalink, permalink, permalink
+80#BOOK#LINKS####: permalink, permalink, permalink
+80#BOOK#MSS######: permalink, permalink, permalink
+80#BOOK#STUDIES##: permalink, permalink, permalink
+80#BOOK#TRANSLAT#: permalink, permalink, permalink
+90#BOOK#COMMENT##: Sezgin, Geschichte des arabischen Schrifttums 14.258:
+    al-ʿUdhrī "wrote a large book on geography with a tendency for mirabilia
+    under the title Tarṣīʿ al-akhbār wa-tanwīʿ al-āthār wa-al-bustān fī gharā'ib al-buldān
+    wa-al-masālik ilā jamīʿ al-mamālik. From this book, which was often used by later 
+    geographers like al-Idrīsī, Yāqūt and al-Qazwīnī, only the part on Andalusia
+    is extant."
