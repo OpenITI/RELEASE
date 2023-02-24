@@ -1,0 +1,21 @@
+00#VERS#CLENGTH##: 1046684
+00#VERS#LENGTH###: 230405
+00#VERS#URI######: 1420MustafaAhmadZarqa.MadkhalFiqhi.Kraken210323052137-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/4771304564
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/4771304564
+80#VERS#LINKS####: https://ia600305.us.archive.org/35/items/FP109754/109754.pdf
+90#VERS#ANNOTATOR: SPL (CnC)
+90#VERS#COMMENT##: OCRed through Kraken:
+    * segmentation model: DEFAULT
+    * OCR model: arabPers-WithDiffTypefaces.mlmodel۔
+    NB: the 2004, 3rd edition, is not listed on worldcat, only the 1998 edition.
+    Pagination is -1.
+    There are some English and French passages, book references, etc.
+    Due to the OCR model, these are rendered as number strings.
+    Due to other numbers (e.g., footnotes), these have largely been left in
+    place.
+    Qawāʿid are introduced in a variety of ways, unfortunately, many are just
+    types in bold.
+    They are focused in the third part, which is dedicated to qawāʿid.
+90#VERS#DATE#####: 2021-04-14
+90#VERS#ISSUES###: PAGINATION, UNCORRECTED_OCR
