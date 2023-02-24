@@ -1,0 +1,20 @@
+00#AUTH#URI######: 0900IbnCabdMuncimHimyari
+10#AUTH#ISM####AR: Muḥammad
+10#AUTH#KUNYA##AR: Abū ʿAbd Al-lãh
+10#AUTH#LAQAB##AR:
+10#AUTH#NASAB##AR: b. Muḥammad b. ʿAbd Al-lãh b. ʿAbd al-Munʿim b. ʿAbd al-Nūr
+10#AUTH#NISBA##AR: al-Ḥimyarī
+10#AUTH#SHUHRA#AR: Ibn ʿAbd al-Munʿim al-Ḥimyarī
+20#AUTH#BORN#####: URIs from Althurayya, comma separated
+20#AUTH#DIED#####: URIs from Althurayya, comma separated
+20#AUTH#RESIDED##: URIs from Althurayya, comma separated
+20#AUTH#VISITED##: URIs from Althurayya, comma separated
+30#AUTH#BORN###AH: YEAR-MON-DA (X+ for unknown)
+30#AUTH#DIED###AH: 0900-XXX-XX
+40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
+40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
+90#AUTH#COMMENT##: EI2: "Abū ʿAbd Allāh Muḥammad b. Abī ʿAbd Allāh Muḥammad b.
+    Abī Muḥammad ʿAbd Allāh Ibn ʿAbd al-Munʿim b. ʿAbd al-Nūr al-Ḥimyarī , author of
+    the important Arabic geographical dictionary entitled Kitāb al-Rawḍ al-miʿṭār fi
+    k̲h̲abar al-aḳṭār.": http://dx.doi.org/10.1163/1573-3912_islam_SIM_3030

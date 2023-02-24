@@ -1,0 +1,15 @@
+00#VERS#CLENGTH##: 218998
+00#VERS#LENGTH###: 52185
+00#VERS#URI######: 0906IbnMajid.FawaidFiUsulCilmBahr.Kraken220808165912-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/4770942238
+80#VERS#COLLATED#:
+80#VERS#LINKS####: https://archive.org/download/al3oloum-alba7riya-3inda-
+    al3arab/2.pdf
+90#VERS#ANNOTATOR:
+90#VERS#COMMENT##: OCRed through Kraken:
+    * Kraken version: 3.0.0.0b21.dev6
+    * segmentation model: DEFAULT
+    * OCR model: 12-24-2021_ArabPersGeneralized.mlmodel
+    NOTE: requested by Juan Acevedo (Lisbon, ERC Rutter Project)
+90#VERS#DATE#####: 2022-08-08
+90#VERS#ISSUES###: UNCORRECTED_OCR

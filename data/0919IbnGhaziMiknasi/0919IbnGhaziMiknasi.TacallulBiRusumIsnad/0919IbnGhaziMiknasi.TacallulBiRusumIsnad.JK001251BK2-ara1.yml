@@ -1,0 +1,21 @@
+00#VERS#CLENGTH##: 34511
+00#VERS#LENGTH###: 7362
+00#VERS#URI######: 0919IbnGhaziMiknasi.TacallulBiRusumIsnad.JK001251BK2-ara1
+80#VERS#BASED####: permalink, permalink, permalink
+80#VERS#COLLATED#: permalink, permalink, permalink
+80#VERS#LINKS####: all@id, vol1@id, vol2@id, vol3@id, volX@id
+90#VERS#ANNOTATOR: the name of the annotator (latin characters; please
+    use consistently)
+90#VERS#COMMENT##: PV: the original edition contains two texts
+    (see introduction p. 61, and the footnote on p. 454):
+    1- an edition of Escorial ms. MDCCXX (currently no. 1725),
+    containing the Thabat by Ibn ʿAlī al-Balawī, in 55 folios
+    2- an edition of a separate text, Ibn al-Ghāzī's Taʿallul bi-rusum al-isnād,
+    extant in three manuscripts
+    (base of the edition: Riyad, Royal Library ms 3444; see p. 454, footnote).
+    An ijāza for the second text is written in the hand of its author (Ibn al-Ghāzī)
+    on the last page of the Thabat manuscript (see p. 450 n. 1),
+    which is the reason why Ibn al-Ghāzī's text is included in this edition.
+    PV split off the second text
+90#VERS#DATE#####: YYYY-MM-DD
+90#VERS#ISSUES###: formalized issues, separated with commas

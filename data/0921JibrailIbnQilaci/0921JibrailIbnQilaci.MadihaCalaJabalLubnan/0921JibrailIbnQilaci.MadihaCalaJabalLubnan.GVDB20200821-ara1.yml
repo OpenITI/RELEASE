@@ -1,0 +1,31 @@
+00#VERS#CLENGTH##: 20224
+00#VERS#LENGTH###: 4673
+00#VERS#URI######: 0921JibrailIbnQilaci.MadihaCalaJabalLubnan.GVDB20200821-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/784489194
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/784489194
+80#VERS#LINKS####: https://www.noor-book.com/كتاب-حروب-
+    المقدمين-1075-1450-pdf-1593183859
+90#VERS#ANNOTATOR: Gowaart Van Den Bossche
+90#VERS#COMMENT##: This text was digitised with Google OCR and corrected
+    by Gowaart. I have followed the edition's lack of consistently noting
+    the hamza and using a generic ha instead of ta marbuta. The edition of
+    the text is somewhat complicated. It interlaces the poem included here
+    with a 19th century anonymous mukhtasar (see Salibi, "Maronite
+    Historians of Medieval Lebanon", p. 39) as well as a commentary by the
+    editor. For OpenITI purposes I felt it was best to separate these three
+    layers, and assign separate URIs to the poem and the mukhtasar, while
+    deleting the editorial commentary. I have also deleted the titles, as
+    these seem to be part of the commentary rather than the poem. As a
+    result the pagination looks like the text has gaps, but this is entirely
+    due to my reorganisation of the texts.  The poem is a zajaliyya in
+    Lebanese colloquial. This poetic form is in quatrains, as opposed to the
+    usual Arabic two hemistiches. Currently mARkdown does not accommodate
+    this form (in which the first three hemistiches rhyme with one another,
+    while the last hemistich follows the endrhyme of each other quatrain in the
+    poem), so I have followed some other editors of other texts by splitting
+    the quatrain into two parts. This way it looks identical to other Arabic
+    poetry, except that the end rhyme only happens every two lines.
+    NB: check lines of poetry that seem too short: line numbers 437
+    NOTE OF THE REVIEWER (HRH): No changes.
+90#VERS#DATE#####: 2020-08-21
+90#VERS#ISSUES###: NO_MAJOR_ISSUES
