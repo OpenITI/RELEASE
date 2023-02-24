@@ -1,0 +1,31 @@
+00#VERS#CLENGTH##: 1089367
+00#VERS#LENGTH###: 251853
+00#VERS#URI######: 0749ZaynDinIbnWardi.Tarikh.Shamela0006624-ara1
+80#VERS#BASED####: https://worldcat.org/en/title/4770058462
+80#VERS#COLLATED#: https://worldcat.org/en/title/4770058462
+80#VERS#LINKS####:
+    https://archive.org/details/01-73107/history00066%20%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE%20%D8%A7%D8%A8%D9%86%20%D8%A7%D9%84%D9%88%D8%B1%D8%AF%D9%8A%20%D8%B7%20%D8%A7%D9%84%D8%B9%D9%84%D9%85%D9%8A%D8%A9%201%202/01_73107/
+90#VERS#ANNOTATOR: SP Loynes
+90#VERS#COMMENT##: The automated headings were almost all incorrect and they
+    seemed to be inserted whenever an em dash occurred. Very good correspondence to
+    base text.
+    NB: check lines of poetry that seem too short: line numbers 3616, 3617, 3618
+    NOTE OF THE REVIEWER (HRH): I retagged the text trying to chronologically
+    categorize the headers first based on the reign of the caliphs and then based on
+    years. So, I added two first-level headers to show the beginning of the
+    prophet’s life and the beginning of the reign of the Abbasids; and then I tagged
+    all the years and obituaries, and then I levelled the headers. 2- After the
+    period of Muqtafi (PageV02P039) there is no more header for the names of the
+    caliphs. Some second-level and first-level headers must be added here by closely
+    reading the text to show that the years mentioned are related to which caliph
+    and to which caliphate. 3- There are a few fourth-level headers that appear
+    before the third-level headers for years, and I tagged them with an asterisk
+    (### |||| *). Maybe it’s better to move them inside the years so that we have a
+    more consistent levelling for the headers. But I’m not sure about this. Someone
+    must read the text closely to see if this makes sense or not. 4- I have tagged
+    the obituaries. However, they do not necessarily appear after the events for
+    years. In some cases, I see that after an obituary, the author returns to the
+    rest of the events for that year without any header separating obituaries from
+    the events. Such parts can also be separated by closely reading the text.
+90#VERS#DATE#####: 2020-06-27
+90#VERS#ISSUES###: NO_MAJOR_ISSUES

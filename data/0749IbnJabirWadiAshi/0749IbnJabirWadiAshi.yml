@@ -1,0 +1,18 @@
+00#AUTH#URI######: 0749IbnJabirWadiAshi
+10#AUTH#ISM####AR: Muḥammad
+10#AUTH#KUNYA##AR: Abū ʿAbd Al-lãh
+10#AUTH#LAQAB##AR: Šams al-dīn
+10#AUTH#NASAB##AR: b. Ǧābir b. Muḥammad b. Qāsim b. Aḥmad b. Ibrāhīm b. Ḥassān
+10#AUTH#NISBA##AR: al-Qaysī al-Wādī Āšī
+10#AUTH#SHUHRA#AR: Ibn Ǧābir al-Wādī Āšī
+20#AUTH#BORN#####: Andalus_RE_Auto
+20#AUTH#DIED#####: URIs from Althurayya, comma separated
+20#AUTH#RESIDED##: URIs from Althurayya, comma separated
+20#AUTH#VISITED##: URIs from Althurayya, comma separated
+30#AUTH#BORN###AH: 0673-XXX-XX
+30#AUTH#DIED###AH: 0749-XXX-XX
+40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
+40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
+90#AUTH#COMMENT##: NI EI2 entry. The information about him is taken from the
+    introduction to Barnamaj.

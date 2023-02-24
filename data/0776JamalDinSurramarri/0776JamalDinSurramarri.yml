@@ -1,0 +1,17 @@
+00#AUTH#URI######: 0776JamalDinSurramarri
+10#AUTH#ISM####AR: Yūsuf
+10#AUTH#KUNYA##AR: Abū al-Muẓaffar
+10#AUTH#LAQAB##AR: Ǧamāl al-dīn 
+10#AUTH#NASAB##AR: b. Muḥammad b. Masʿūd
+10#AUTH#NISBA##AR: al-ʿIbādī al-Ḥanbalī al-Surramarrī
+10#AUTH#SHUHRA#AR: Ǧamāl al-dīn al-Surramarrī
+20#AUTH#BORN#####: URIs from Althurayya, comma separated
+20#AUTH#DIED#####: URIs from Althurayya, comma separated
+20#AUTH#RESIDED##: URIs from Althurayya, comma separated
+20#AUTH#VISITED##: URIs from Althurayya, comma separated
+30#AUTH#BORN###AH: 0696-RAJ-17
+30#AUTH#DIED###AH: 0776-JU1-21
+40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
+40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
+90#AUTH#COMMENT##: No EI2 entry. The information about him is taken from the introduction to Hamiyya. 

@@ -1,0 +1,19 @@
+00#VERS#CLENGTH##: 946143
+00#VERS#LENGTH###: 226475
+00#VERS#URI######: 0775IbnAbiWafa.JawahirMudiya.ShamAY0038014BK1-ara1
+80#VERS#BASED####: permalink, permalink, permalink
+80#VERS#COLLATED#: permalink, permalink, permalink
+80#VERS#LINKS####: https://archive.org/details/afaf8686_gmail_2/1/,
+    https://archive.org/details/afaf8686_gmail_2/2/
+90#VERS#ANNOTATOR: the name of the annotator (latin characters; please
+    use consistently)
+90#VERS#COMMENT##: The original text file was in disarray:
+    - the original text file had the even page numbers
+    from PageV02P416 onwards inserted at the end of volume one,
+    erroneously tagged as PageV01P418 etc. PV changed these even
+    page numbers to the end of volume 2,
+    and changed the volume number in the tag.
+    - from PageV02P450 onwards, the text file contained a dhayl.
+    PV reordered the pages from PageV02P416 onwards and split off the dhayl.
+90#VERS#DATE#####: YYYY-MM-DD
+90#VERS#ISSUES###: HTML_TAGS

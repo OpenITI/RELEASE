@@ -1,0 +1,20 @@
+00#VERS#CLENGTH##: 195567
+00#VERS#LENGTH###: 44864
+00#VERS#URI######: 0726IbnSuqaci.TaliWafayat.Kraken21040823-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/717743598
+80#VERS#COLLATED#:
+80#VERS#LINKS####:
+    https://ketabpedia.com/%D8%AA%D8%AD%D9%85%D9%8A%D9%84/%D8%AA%D8%A7%D9%84%D9%8A-%D9%83%D8%AA%D8%A7%D8%A8-%D9%88%D9%81%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%A3%D8%B9%D9%8A%D8%A7%D9%86/
+90#VERS#ANNOTATOR: SPL
+90#VERS#COMMENT##: OCRed through Kraken; arabPers-WithDiffTypefaces.mlmodel;
+    partial post-correction by SPL; issues with order of lines of poetry. PAGES THAT
+    REQUIRE SIGNIFICANT RE-KEYING OR RE-OCR'ING OR RE-ASSEMBLING; 26, 32, 40, 54,
+    65, 68, 70-72, 83-84
+    HRH: Deleted page 78 which was duplicate. All the numbers of biographical
+    entries were digitized wrongly. So, I added all the numbers and their tags
+    manually up to page 91. After this page, the text is not corrected as noted by
+    SPL in this page, and is in an unusable state. So, I stopped reviewing here. The
+    rest of the review should be done after careful correction of the rest of the
+    text.
+90#VERS#DATE#####: 2021-04-08
+90#VERS#ISSUES###: PAGINATION, UNCORRECTED_OCR

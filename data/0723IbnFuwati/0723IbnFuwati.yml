@@ -1,0 +1,17 @@
+00#AUTH#URI######: 0723IbnFuwati
+10#AUTH#ISM####AR: ʿAbd al-Razzāq
+10#AUTH#KUNYA##AR: Abū al-Faḍl
+10#AUTH#LAQAB##AR: Kamāl al-dīn
+10#AUTH#NASAB##AR: b. Aḥmad
+10#AUTH#NISBA##AR: al-Ṣābūnī, al-Šaybānī
+10#AUTH#SHUHRA#AR: Ibn al-Fuwaṭī
+20#AUTH#BORN#####: BAGHDAD_443E333N_S, Iraq_RE_Auto
+20#AUTH#DIED#####: BAGHDAD_443E333N_S
+20#AUTH#RESIDED##: MARAGHA_462E373N_S
+20#AUTH#VISITED##: 
+30#AUTH#BORN###AH: 0642-MUH-17
+30#AUTH#DIED###AH: 0723-MON-DA
+40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
+40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
+90#AUTH#COMMENT##: EI2: "Kamāl al-Dīn ʿAbd al-Razzāḳ b. Aḥmad , historian and librarian, born in Bag̲h̲dād on 17 Muḥarram 642/25 June 1244.": http://dx.doi.org/10.1163/1573-3912_islam_SIM_3165

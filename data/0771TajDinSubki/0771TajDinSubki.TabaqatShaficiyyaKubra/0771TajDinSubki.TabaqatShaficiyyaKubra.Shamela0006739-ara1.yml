@@ -1,0 +1,23 @@
+00#VERS#CLENGTH##: 2802625
+00#VERS#LENGTH###: 669540
+00#VERS#URI######: 0771TajDinSubki.TabaqatShaficiyyaKubra.Shamela0006739-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/4770823718
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/4770823718
+80#VERS#LINKS####: https://archive.org/details/WAQ5093/tshk00/page/n0/mode/2up
+90#VERS#ANNOTATOR: Omar Abdel-Ghaffar (ShariaSource)
+90#VERS#COMMENT##: The text follows the printed edition closely,
+    with only a few missing pages: 7:279, 8:48, 8:303-304, 9:331, 10:262-263.
+    Additionally, a missing section on page 3:400;
+    the numbers 6-19 which appear in the middle of the text
+    replace a few paragraphs of writing in the printed edition.
+    SPL replaced the missing pages except 10:262-263,
+    which are poetry and thus did not OCR very well
+    (an ongoing problem with the model).
+    As poetry is unlikely to be a focus of CnC research, this was deemed acceptable.
+    NOTE OF THE REVIEWER (HRH): Untagged headers tagged. Biographical tags
+    corrected.
+    Subsections of biographical sections tagged as #~:section:.
+    Levelling of the headers corrected. Headers that were tagged incompletely
+    corrected.
+90#VERS#DATE#####: 2021-10-21
+90#VERS#ISSUES###: PAGINATION, HTML_TAGS, MISSING_PARTS

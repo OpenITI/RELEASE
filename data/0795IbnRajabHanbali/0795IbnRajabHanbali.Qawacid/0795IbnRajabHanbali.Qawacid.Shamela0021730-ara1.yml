@@ -1,0 +1,24 @@
+00#VERS#CLENGTH##: 715146
+00#VERS#LENGTH###: 170884
+00#VERS#URI######: 0795IbnRajabHanbali.Qawacid.Shamela0021730-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/4770322240
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/4770322240
+80#VERS#LINKS####: https://ia800301.us.archive.org/7/items/FP58260/58260.pdf
+90#VERS#ANNOTATOR: SPL (CnC)
+90#VERS#COMMENT##: Good correspondence with the printed ed.
+    The metadata stated that the electronic edition is based upon
+    a Dar al-Kutub published text, but it is based upon a Dar al-Fikr edition.
+    The worldcat is for a Dar al-Fikr edition from 1900,
+    but there is no date on the pdf edition.
+    All qa'idas are introduced by al-qāʿida plus ordinal number,
+    e.g., القاعدة الأولى +, usually, ':' + qāʿida text on new line.
+    The scribe copied the entire qāʿida to make a title;
+    I have, however, removed this as it means each qāʿida is otherwise appearing
+    twice.
+    The scribe has also highlighted parts of the text that follows the main qāʿidas;
+    these appear to be different qāʿidas but whether they are all qawāʿid I am
+    unsure;
+    they are marked as subordinate sections.
+    Page divisions are erroneous occasionally after around pg. 300.
+90#VERS#DATE#####: 2020-05-04
+90#VERS#ISSUES###: PAGINATION

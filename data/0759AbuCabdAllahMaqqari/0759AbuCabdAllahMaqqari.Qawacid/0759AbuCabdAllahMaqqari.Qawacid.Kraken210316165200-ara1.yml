@@ -1,0 +1,14 @@
+00#VERS#CLENGTH##: 121093
+00#VERS#LENGTH###: 26842
+00#VERS#URI######: 0759AbuCabdAllahMaqqari.Qawacid.Kraken210316165200-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/1107066288
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/1107066288
+80#VERS#LINKS####: https://waqfeya.net/book.php?bid=10887
+90#VERS#ANNOTATOR: SPL (CnC)
+90#VERS#COMMENT##: OCRed through Kraken:
+    * segmentation model: DEFAULT
+    * OCR model: arabPers-WithDiffTypefaces.mlmodel The page is out -1 on the
+    PDF. Qawaids are generally in seperate sections delineated by an annotated
+    header.
+90#VERS#DATE#####: 2021-03-16
+90#VERS#ISSUES###: PAGINATION, UNCORRECTED_OCR

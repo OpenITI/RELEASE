@@ -1,0 +1,16 @@
+00#VERS#CLENGTH##: 754313
+00#VERS#LENGTH###: 177270
+00#VERS#URI######: 0726CallamaHilli.QawacidAhkam.Shia000134VolsBK1-ara1
+80#VERS#BASED####: permalink, permalink, permalink
+80#VERS#COLLATED#: permalink, permalink, permalink
+80#VERS#LINKS####: all@id, vol1@id, vol2@id, vol3@id, volX@id
+90#VERS#ANNOTATOR: PV
+90#VERS#COMMENT##: The original text file (Shia000134Vols) contained two texts:
+    the main text (0726CallamaHilli.QawacidAhkam)
+    and a commentary (0940IbnHusaynMuhaqqiqThaniKaraki.JamicMaqasid).
+    PV split off the main text from the commentary
+    (see also
+    0940IbnHusaynMuhaqqiqThaniKaraki.JamicMaqasid.Shia000134VolsBK2-ara1)
+    PV tagged the structure.
+90#VERS#DATE#####: 2021-08-27
+90#VERS#ISSUES###: formalized issues, separated with commas

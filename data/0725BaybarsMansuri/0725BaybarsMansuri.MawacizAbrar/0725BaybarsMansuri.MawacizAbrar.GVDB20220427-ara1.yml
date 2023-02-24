@@ -1,0 +1,25 @@
+00#VERS#CLENGTH##: 22604
+00#VERS#LENGTH###: 5548
+00#VERS#URI######: 0725BaybarsMansuri.MawacizAbrar.GVDB20220427-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/489878946
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/953200927
+80#VERS#LINKS####: https://gowaart.stackstorage.com/s/XCtFTPVv7Otnl9Ct
+90#VERS#ANNOTATOR: Gowaart Van Den Bossche
+90#VERS#COMMENT##: OCR on eScriptorium from a scan made by me.
+    The text exists in a single known manuscript, but only the first two of its
+    fifty chapters have been edited.
+    I have digitised these two chapters, and hope to digitise the remainder of the
+    manuscript once I get a copy of it.
+    The edition has a German translation on facing pages to the ones containing the
+    Arabic edition,
+    hence why the text seems to skip pages.
+    I closely corrected the first four pages but not the remaining ones as the OCR
+    quality was high with only few mistakes.
+    I did delete all the footnote markers and annotate the text.
+    The titles of the remaining 48 chapters I have taken from the catalogue
+    description of the manuscript
+    from the Khuda Bakhsh catalogue
+    (see collated, MS no. 2661, though I used the digitised version on the website
+    of the library).
+90#VERS#DATE#####: 2022-03-02
+90#VERS#ISSUES###: INCOMPLETE_VERSION
