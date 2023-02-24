@@ -1,0 +1,22 @@
+00#VERS#CLENGTH##: 708006
+00#VERS#LENGTH###: 174925
+00#VERS#URI######: 0643IbnNajjar.DhaylTarikhBaghdad.JK009150-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/4770162803
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/4770162803
+80#VERS#LINKS####:
+    https://archive.org/details/Theil_Tarikh_baghdad/ztb0/mode/1up
+90#VERS#ANNOTATOR: the name of the annotator (latin characters; please
+    use consistently)
+90#VERS#COMMENT##: the text was tagged before; no proper YML file yet.
+    See, README.md.
+    NOTE OF THE REVIEWER (HRH): PARATEXT added. 2. The pipelines inside the text
+    representing the end of the lines in the PDF should be removed. 3. The
+    information of the publisher in the METADATA section is wrong. It is published
+    by “Dar al-Kitab al-‘Arabi”, not “Dar al-Kutub al-‘Ilmiyya” (which is accessible
+    here:
+    https://archive.org/details/23_20220509/%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE%20%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF%20%2801%29/).
+    While the latter begins with the 16th volume, the former begins with the 15th
+    volume. So, the volume numbers in the digital text should be reduced by one (the
+    page numbers are correct).
+90#VERS#DATE#####: YYYY-MM-DD
+90#VERS#ISSUES###: RANDOM_CHARS (pipelines)

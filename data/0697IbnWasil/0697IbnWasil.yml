@@ -1,0 +1,17 @@
+00#AUTH#URI######: 0697IbnWasil
+10#AUTH#ISM####AR: Muḥammad
+10#AUTH#KUNYA##AR: Abū ʿAbdallāh
+10#AUTH#LAQAB##AR: Ǧamāl al-Dīn    
+10#AUTH#NASAB##AR: b. Sālim b. Naṣrallāh b. Sālim b. Wāṣil
+10#AUTH#NISBA##AR: al-Māzinī al-Tamīmī al-Ḥamawī al-Šāfiʿī
+10#AUTH#SHUHRA#AR: Ǧamāl al-Dīn Muḥammad Ibn Wāṣil
+20#AUTH#BORN#####: HAMA_367E351N_S
+20#AUTH#DIED#####: HAMA_367E351N_S
+20#AUTH#RESIDED##: QAHIRA_312E300N_S, 
+20#AUTH#VISITED##: DIMASHQ_363E335N_S,  BAYTMAQDIS_352E317N_S,  HALAB_371E361N_S, KARAK_356E311N_S, BAGHDAD_443E333N_S, MAKKA_398E213N_S,  MADINA_396E244N_S
+30#AUTH#BORN###AH: 0603-XXX-XX 
+30#AUTH#DIED###AH: 0697-XXX-XX 
+40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
+40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
+90#AUTH#COMMENT##: Author also went to Barletta in southern mainland Italy, but there is no Thurayya code for that. 

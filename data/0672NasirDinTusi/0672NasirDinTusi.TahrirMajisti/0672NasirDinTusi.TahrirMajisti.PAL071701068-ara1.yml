@@ -1,0 +1,23 @@
+00#VERS#CLENGTH##: 38929
+00#VERS#LENGTH###: 10617
+00#VERS#URI######: 0672NasirDinTusi.TahrirMajisti.PAL071701068-ara1
+80#VERS#BASED####:
+    https://ptolemaeus.badw.de/ms/717/1068/transcription/1
+80#VERS#COLLATED#:
+    https://ptolemaeus.badw.de/ms/717/1068/transcription/1
+80#VERS#LINKS####:
+    https://ptolemaeus.badw.de/ms/717/1068/transcription/1
+90#VERS#ANNOTATOR: PV
+90#VERS#COMMENT##: Transcription of the Istanbul ms. (Nurosmaniye 2941)
+    of Naṣīr al-Dīn al-Ṭūsī's commentary on the Almagest.  Transcription by
+    Paul Hullmeine (https://ptolemaeus.badw.de/team/38). Text digitized by
+    the Ptolemaeus Arabus et Latinus project at the Bayerische Akademie der
+    Wissenschaften. The text was converted to OpenITI mARkdown by PV. The
+    text contains images (diagrams). Standard markdown links have been used
+    to link to the images. Arabic characters representing a number  (or
+    points on a line in geometrical explanations) are overlined in the
+    manuscript and tagged as `<u class="num">` in the transliteration;  PV
+    has tagged these characters with a `@NUM@` tag. NB: the text contains
+    tables, which have not (yet) been transcribed by Paul Hullmeine!
+90#VERS#DATE#####: 2020-12-02
+90#VERS#ISSUES###: IMAGES

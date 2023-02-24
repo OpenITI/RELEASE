@@ -1,0 +1,14 @@
+00#VERS#CLENGTH##: 26361
+00#VERS#LENGTH###: 5895
+00#VERS#URI######: 0697Kazaruni.MaqamaFiQawacidBaghdad.Kraken22060217014103-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/48385123
+80#VERS#COLLATED#:
+80#VERS#LINKS####:
+    http://mc.dlib.nyu.edu/files/books/nyu_aco001460/nyu_aco001460_lo.pdf
+90#VERS#ANNOTATOR:
+90#VERS#COMMENT##: OCRed through Kraken:
+    * Kraken version: 3.0.0.0b21.dev6
+    * segmentation model: DEFAULT
+    * OCR model: 12-24-2021_ArabPersGeneralized.mlmodel
+90#VERS#DATE#####: 2022-06-02
+90#VERS#ISSUES###: UNCORRECTED_OCR

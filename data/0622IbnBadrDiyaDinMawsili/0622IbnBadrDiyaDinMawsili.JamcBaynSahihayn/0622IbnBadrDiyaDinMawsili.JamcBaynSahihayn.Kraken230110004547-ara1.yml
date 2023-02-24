@@ -1,0 +1,14 @@
+00#VERS#CLENGTH##: 780516
+00#VERS#LENGTH###: 207686
+00#VERS#URI######: 0622IbnBadrDiyaDinMawsili.JamcBaynSahihayn.Kraken230110004547-ara1
+80#VERS#BASED####: https://www.worldcat.org/title/897970156
+80#VERS#COLLATED#: https://www.worldcat.org/title/897970156
+80#VERS#LINKS####: https://ia600200.us.archive.org/1/items/waqgbs/01_85846.pdf,
+    https://ia800200.us.archive.org/1/items/waqgbs/02_85847.pdf
+90#VERS#ANNOTATOR:
+90#VERS#COMMENT##: OCRed through Kraken:
+    * Kraken version: 3.0.0.0b21.dev6
+    * segmentation model: DEFAULT
+    * OCR model: 10-2022_ArabicTestOutputModel_New_20_0.mlmodel
+90#VERS#DATE#####: 2023-01-10
+90#VERS#ISSUES###: UNCORRECTED_OCR; FOOTNOTES; PAGE_NUMBERS

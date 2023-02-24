@@ -1,0 +1,17 @@
+00#AUTH#URI######: 0685IbnSacidMaghribi
+10#AUTH#ISM####AR: ʿAlī
+10#AUTH#KUNYA##AR: Abū al-Ḥasan
+10#AUTH#LAQAB##AR: 
+10#AUTH#NASAB##AR: b. Mūsá b. Muḥammad b. ʿAbd al-Malik b. Saʿīd
+10#AUTH#NISBA##AR: al-Maġribī
+10#AUTH#SHUHRA#AR: Ibn Saʿīd al-Maġribī
+20#AUTH#BORN#####: Andalus_RE, GHARNATA_035W372N_S
+20#AUTH#DIED#####: URIs from Althurayya, comma separated
+20#AUTH#RESIDED##: URIs from Althurayya, comma separated
+20#AUTH#VISITED##: URIs from Althurayya, comma separated
+30#AUTH#BORN###AH: 0610-XXX-XX
+30#AUTH#DIED###AH: 0685-XXX-XX
+40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
+40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
+90#AUTH#COMMENT##: EI2: "Abu ’l-Ḥasan ʿAlī b. Mūsā b. Muḥ. b. ʿAbd al-Malik b. Saʿīd , Andalusian poet, anthologist, historian and geographer, born near Granada in 610/1213": http://dx.doi.org/10.1163/1573-3912_islam_SIM_3351
