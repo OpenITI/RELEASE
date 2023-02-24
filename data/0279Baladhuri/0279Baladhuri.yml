@@ -1,0 +1,19 @@
+00#AUTH#URI######: 0279Baladhuri
+10#AUTH#ISM####AR: Aḥmad
+10#AUTH#KUNYA##AR: Abū al-Ḥasan
+10#AUTH#LAQAB##AR: 
+10#AUTH#NASAB##AR: b. Yaḥyá b. Jābir b. Dāwůd
+10#AUTH#NISBA##AR: 
+10#AUTH#SHUHRA#AR: Balāḏurī
+20#AUTH#BORN#####: BAGHDAD_443E333N_S, Iraq_RE
+20#AUTH#DIED#####: BAGHDAD_443E333N_S (most probably; but it might also be Iraq_RE)
+20#AUTH#RESIDED##: BAGHDAD_443E333N_S
+20#AUTH#VISITED##: RABADHA_413E246N_S, DIMASHQ_363E335N_S, HIMS_367E347N_S,
+    ANTAKIYYA_361E361N_S, MANBIJ_379E365N_S, HALAB_371E361N_S, SAMARRA_438E342N_S,
+    Iraq_RE, Sham_RE
+30#AUTH#BORN###AH: XXXX-XXX-XX
+30#AUTH#DIED###AH: 0279-XXX-XX
+40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
+40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
+90#AUTH#COMMENT##: EI2: https://referenceworks.brillonline.com/entries/encyclopaedia-of-islam-2/al-baladhuri-COM_0094?s.num=0&s.rows=20&s.mode=DEFAULT&s.f.s2_parent=encyclopaedia-of-islam-2&s.start=0&s.q=baladhuri; Iranica: https://iranicaonline.org/articles/baladori-abul-hasan

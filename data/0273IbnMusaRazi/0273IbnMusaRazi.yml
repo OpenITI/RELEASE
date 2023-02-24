@@ -1,0 +1,20 @@
+00#AUTH#URI######: 0273IbnMusaRazi
+10#AUTH#ISM####AR: Muḥammad
+10#AUTH#KUNYA##AR: 
+10#AUTH#LAQAB##AR: 
+10#AUTH#NASAB##AR: b. Mūsá b. Bašīr
+10#AUTH#NISBA##AR: al-Rāzī
+10#AUTH#SHUHRA#AR: Muḥammad b. Mūsá al-Rāzī
+20#AUTH#BORN#####: RAYY_515E356N_S, Jibal_RE
+20#AUTH#DIED#####: URIs from Althurayya, comma separated
+20#AUTH#RESIDED##: URIs from Althurayya, comma separated
+20#AUTH#VISITED##: URIs from Althurayya, comma separated
+30#AUTH#BORN###AH: YEAR-MON-DA (X+ for unknown)
+30#AUTH#DIED###AH: YEAR-MON-DA (X+ for unknown)
+40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
+40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
+90#AUTH#COMMENT##: GAS 14.355: "Historian, businessman and father 
+    of the famous Andalusi historian Aḥmad al-Rāzī (...)
+    traveled apparently between the eastern part of the Islamic world
+    and Sapin as a delegat and businessman."

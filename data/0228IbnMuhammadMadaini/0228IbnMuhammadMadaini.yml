@@ -1,0 +1,20 @@
+00#AUTH#URI######: 0228IbnMuhammadMadaini
+10#AUTH#ISM####AR: ʿAlī
+10#AUTH#KUNYA##AR: Abū al-Ḥasan
+10#AUTH#LAQAB##AR:
+10#AUTH#NASAB##AR: b. Muḥammad b. ʿAbd Allāh
+10#AUTH#NISBA##AR: al-Madāʾinī
+10#AUTH#SHUHRA#AR: al-Madāʾinī
+20#AUTH#BORN#####: Iraq_RE, BASRA_477E304N_S
+20#AUTH#DIED#####: URIs from Althurayya, comma separated
+20#AUTH#RESIDED##: URIs from Althurayya, comma separated
+20#AUTH#VISITED##: URIs from Althurayya, comma separated
+30#AUTH#BORN###AH: 135-XXX-XX
+30#AUTH#DIED###AH: YEAR-MON-DA (X+ for unknown)
+40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
+40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
+90#AUTH#COMMENT##: Sezgin, Geschichte des arabischen Schrifttums 14.346:
+    "One of the most productive historians, literati and literary historians of his
+    time
+    (born 135/752 in Basra, died 235/80 or 215, 231, 234)."
