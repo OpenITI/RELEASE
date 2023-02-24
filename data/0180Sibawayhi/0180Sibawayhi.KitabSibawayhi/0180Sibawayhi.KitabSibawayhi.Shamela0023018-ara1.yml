@@ -1,0 +1,48 @@
+00#VERS#CLENGTH##: 1122761
+00#VERS#LENGTH###: 277570
+00#VERS#URI######: 0180Sibawayhi.KitabSibawayhi.Shamela0023018-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/4770914633
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/4770914633
+80#VERS#LINKS####: https://archive.org/details/WAQ54211
+90#VERS#ANNOTATOR: Gowaart Van Den Bossche
+90#VERS#COMMENT##: This edition includes some of the marginal commentary
+    by al-Akhfash al-Awsat according to Schoeler "The genesis of Literature
+    in Islam", p. 89. This may be either in footnotes or in the body text, I
+    haven't checked this. Poetry has been tagged, including half-lines where
+    I spotted them. Titles have been put on one line. I have kept all
+    headers at first level, but there may actually be a subdivision from
+    v03p192 onwards, although if I understand correctly from the footnote,
+    this is a volume-division taken from the Bulaq edition. Someone with a
+    better understanding of the text might want to impose some hierarchy
+    here.  REDUNDANT_PARTS: Lines 13351-13373 do not appear at this place in
+    the pdf and create an abnormally long page. I have noticed no other
+    obvious gaps (but also wasn't looking for one), so this part may need to
+    be deleted.  The PDF page order was messed up between pages 260-290 of
+    the second volume (these pages are substituted by later pages which
+    appear again further on in the pdf) so I have annotated according to
+    textual logic here.  Text is generally of pretty good quality, but I
+    came across a few small cases of word variation between pdf and digital
+    text: line 50 has akhadha-hu instead of rawa-hu. Line 406 "akhir" is not
+    part of pdf. Also quite often the chapter-titles are just "bab" in the
+    digital text, but in the PDF most often you find "hadha bab". This last
+    divergence is especially present in the fourth volume. I have also
+    spotted a few typos here and there.
+    NB: check lines of poetry that seem too short: line numbers 363, 388, 1472,
+    4204, 4369, 4526, 20780
+    NB: check lines of poetry that seem too long: line numbers 9612, 12829
+    NOTE OF THE REVIEWER (HRH): Body text separated from the titles. The redundant
+    part reported by the annotator was duplicate and therefore removed. 2- The first
+    chapter of the text which is about Sibawayh, the author of the text, and his
+    place in Arabic grammar is not written by him. it is written by the transmitter
+    of the text. So, I tagged this section as PARATEXT.  3- The comments by al-
+    Akhfash, which the annotator points out, are added as footnotes (beginning with
+    “Abu al-Hasan”) by the editor of the text. Since the digital text does not
+    include the footnotes, this is not a problem. 4- All headers were first-level. I
+    added some levelling to the headers. However, I didn’t read the text, and my
+    levelling is just to the extent that the structure of the text can be inferred
+    from the titles. Many of the successive headers are relevant to a specific
+    subject, but the problem is that there is no parent category to cover them. A
+    specialist must read the text closely and correct the levelling by adding
+    headers in square brackets.
+90#VERS#DATE#####: 2020-06-19
+90#VERS#ISSUES###: NO_MAJOR_ISSUES
