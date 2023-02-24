@@ -1,0 +1,32 @@
+00#BOOK#URI######: 1011AbuFadlCallami.AkbarNameh
+10#BOOK#GENRES###: _TARIKH, _JUGHRAFIYA, _BULDAN
+10#BOOK#TITLEA#AR: Akbar-nāmeh
+10#BOOK#TITLEB#AR: 
+20#BOOK#WROTE####: URIs from Althurayya, comma separated
+30#BOOK#WROTE##AH: YEAR-MON-DA (X+ for unknown)
+40#BOOK#RELATED##: URI of a book from OpenITI, or [Author's Title],
+    followed by abbreviation for relation type between brackets (see
+    book_relations repo). Only include relations with older books. Separate
+    related books with semicolon.
+80#BOOK#EDITIONS#: permalink, permalink, permalink
+80#BOOK#LINKS####: permalink, permalink, permalink
+80#BOOK#MSS######: permalink, permalink, permalink
+80#BOOK#STUDIES##: permalink, permalink, permalink
+80#BOOK#TRANSLAT#: permalink, permalink, permalink
+90#BOOK#COMMENT##: A history of the rule of the Moghul ruler Akbar.
+    Sezgin, Geschichte des arabischen Schrifttums 14.314:
+    "The work relates to Akbar's 46-year long rule and that of his predecessors.
+    It consists of three parts, of which the third has an anthropo-geographical
+    character, in the real sense of the word, and carries an independent title: 
+    Ā'īn-nāmeh. (...) The Ā'īn-nāmeh consists of five parts: 
+    The first treats the personality of the king, the image one should have of him,
+    his residence and his court. 
+    The seconde treats the military and civilian functionaries, the literators
+    and musicians working at the court.
+    The third treats the juridical-administrative rules, institutions of a new,  
+    practical era, in addition to the size of the Earth, classfication of the population
+    and description of the State's income.
+    The fourth treats the social relations among Hindus, their philosophy and law;
+    in addition to invaders of and travelers to India, some exemplary Islamic pious men,
+    and the sects they adhere to.
+    The fifth treats moral sayings, epigrams, observations and regulations of the king."

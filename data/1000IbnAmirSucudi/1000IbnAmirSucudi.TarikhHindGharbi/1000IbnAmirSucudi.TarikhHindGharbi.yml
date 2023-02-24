@@ -1,0 +1,22 @@
+00#BOOK#URI######: 1000IbnAmirSucudi.TarikhHindGharbi
+10#BOOK#GENRES###: _BULDAN, _JUGHRAFIYA
+10#BOOK#TITLEA#AR: Tārīḫ-i Hind-i Ġarbī
+10#BOOK#TITLEB#AR: Kitāb-i Iqlīm-i ǧadīd, Kitāb-i zuhr-i ǧadīd, Tārīḫ-i yeni dunyā
+20#BOOK#WROTE####: URIs from Althurayya, comma separated
+30#BOOK#WROTE##AH: YEAR-MON-DA (X+ for unknown)
+40#BOOK#RELATED##: URI of a book from OpenITI, or [Author's Title],
+    followed by abbreviation for relation type between brackets (see
+    book_relations repo). Only include relations with older books. Separate
+    related books with semicolon.
+80#BOOK#EDITIONS#: permalink, permalink, permalink
+80#BOOK#LINKS####: permalink, permalink, permalink
+80#BOOK#MSS######: permalink, permalink, permalink
+80#BOOK#STUDIES##: permalink, permalink, permalink
+80#BOOK#TRANSLAT#: permalink, permalink, permalink
+90#BOOK#COMMENT##: One of the earliest Islamicate works to describe the Americas.
+    Sezgin, Geschichte des arabischen Schrifttums 14.311:
+    "Based on a number of Arabic sources he had knowledge of or access to,
+    the author tried to give a synoptic geographical description of the old world,
+    and to enrich it with knowledge about the newly discovered parts of the earth
+    (yeni dünya). For the sake of the latter, he seems to be using translations
+    of Italian sources." 
