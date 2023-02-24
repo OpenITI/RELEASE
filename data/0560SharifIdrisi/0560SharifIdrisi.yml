@@ -1,0 +1,17 @@
+00#AUTH#URI######: 0560SharifIdrisi
+10#AUTH#ISM####AR: Muḥammad
+10#AUTH#KUNYA##AR: Abū ʿAbd Allāh
+10#AUTH#LAQAB##AR: 
+10#AUTH#NASAB##AR: b. Muḥammad b. ʿAbd Allāh b. Idrīs
+10#AUTH#NISBA##AR: al-Ḥammūdī al-Ḥusaynī
+10#AUTH#SHUHRA#AR: al-Šarīf al-Idrīsī
+20#AUTH#BORN#####: URIs from Althurayya, comma separated
+20#AUTH#DIED#####: URIs from Althurayya, comma separated
+20#AUTH#RESIDED##: URIs from Althurayya, comma separated
+20#AUTH#VISITED##: URIs from Althurayya, comma separated
+30#AUTH#BORN###AH: YEAR-MON-DA (X+ for unknown)
+30#AUTH#DIED###AH: 0560-XXX-XX
+40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
+40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
+90#AUTH#COMMENT##: EI2: "Abū ʿAbd Allāh Muḥammad b. Muḥammad b. ʿAbd Allāh b. Idrīs al-ʿĀlī bi-amr Allāh , called also al-S̲h̲arīf al-Idrīsī because of his exalted lineage": http://dx.doi.org/10.1163/1573-3912_islam_SIM_3494

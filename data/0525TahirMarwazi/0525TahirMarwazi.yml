@@ -1,0 +1,23 @@
+00#AUTH#URI######: 0525TahirMarwazi
+10#AUTH#ISM####AR: Ṭāhir
+10#AUTH#KUNYA##AR: 
+10#AUTH#LAQAB##AR: Šaraf al-Zamān
+10#AUTH#NASAB##AR: 
+10#AUTH#NISBA##AR: al-Marwazī
+10#AUTH#SHUHRA#AR: al-Marwazī
+20#AUTH#BORN#####: MARW_621E376N_S,Khurasan_RE
+20#AUTH#DIED#####: URIs from Althurayya, comma separated
+20#AUTH#RESIDED##: URIs from Althurayya, comma separated
+20#AUTH#VISITED##: URIs from Althurayya, comma separated
+30#AUTH#BORN###AH: 438-XXX-XX
+30#AUTH#DIED###AH: YEAR-MON-DA (X+ for unknown)
+40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
+40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
+90#AUTH#COMMENT##: Sezgin, Geschichte des arabischen Schrifttums 14.263:
+    "Sharaf al-Zamān Ṭāhir al-Marwazī probably came from Marw
+    and was a physician at the court of the Seljuk sultan Malikshāh
+    (r. 465-485/1072-1092). According to his own account, he was 
+    10 years old in the year 448/1056, which means he was born in 438/1046.
+    He reports about an ant plague in the year 514/1120; 
+    that is all we know about him."

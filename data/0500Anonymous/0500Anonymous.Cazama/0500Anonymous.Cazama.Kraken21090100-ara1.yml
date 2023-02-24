@@ -1,0 +1,15 @@
+00#VERS#CLENGTH##: 26835
+00#VERS#LENGTH###: 6278
+00#VERS#URI######: 0500Anonymous.Cazama.Kraken21090100-ara1
+80#VERS#BASED####:
+80#VERS#COLLATED#:
+80#VERS#LINKS####:
+90#VERS#ANNOTATOR:
+90#VERS#COMMENT##: OCRed through Kraken version 2.0.8;
+    04-01-2021_ArabPersGeneralized.mlmodel; default segmenter;
+  text corresponds to transcriptions made by Wim Raven from mss
+  and published at https://kitabalazama.wordpress.com/category/introstudy/
+  missing parts; for further information on the Kitāb al-ʿaẓama,
+  see https://ghurabalbayn.files.wordpress.com/2012/02/ravenazama1993.pdf;
+90#VERS#DATE#####: 2021-09-01
+90#VERS#ISSUES###: UNCORRECTED_OCR, MISSING_PARTS

@@ -1,0 +1,24 @@
+00#BOOK#URI######: 0525TahirMarwazi.TabaicHayawan
+10#BOOK#GENRES###: _HAYAWAN, _BULDAN, _JUGHRAFIYA
+10#BOOK#TITLEA#AR: Kitāb Ṭabāʾiʿ al-ḥayawān
+10#BOOK#TITLEB#AR: 
+20#BOOK#WROTE####: URIs from Althurayya, comma separated
+30#BOOK#WROTE##AH: YEAR-MON-DA (X+ for unknown)
+40#BOOK#RELATED##: URI of a book from OpenITI, or [Author's Title],
+    followed by abbreviation for relation type between brackets (see
+    book_relations repo). Only include relations with older books. Separate
+    related books with semicolon.
+80#BOOK#EDITIONS#: permalink, permalink, permalink
+80#BOOK#LINKS####: permalink, permalink, permalink
+80#BOOK#MSS######: permalink, permalink, permalink
+80#BOOK#STUDIES##: permalink, permalink, permalink
+80#BOOK#TRANSLAT#: permalink, permalink, permalink
+90#BOOK#COMMENT##: Sezgin, Geschichte des arabischen Schrifttums 14.263:
+    "[al-Marwazī's] apparently enyclopaedical Kitāb ṭabā'iʿ al-ḥayawān, which is extant
+    in two incomplete manuscripts, contains an important geographical part. 
+    V. Minorsky has researchd it, translated it into English and edited it in 1942. 
+    In his opinion, the text is extraordinary: the chapter on China contains a unique
+    report about the embassy sent by the ruler of Kitan (northern China)
+    to Sultān Maḥmud, the conqueror of India (1027 AD). (...) One can say without
+    exaggeration that there is almost no chapter by al-Marwazī that does not contain
+    new information or reports."

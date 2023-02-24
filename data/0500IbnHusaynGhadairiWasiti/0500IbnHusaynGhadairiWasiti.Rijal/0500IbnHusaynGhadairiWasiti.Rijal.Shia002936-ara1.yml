@@ -1,0 +1,16 @@
+00#VERS#CLENGTH##: 123945
+00#VERS#LENGTH###: 30935
+00#VERS#URI######: 0500IbnHusaynGhadairiWasiti.Rijal.Shia002936-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/949494679
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/949494679
+80#VERS#LINKS####: http://dl.aldhiaa.com/arabic/elmalrejal-valderayah/الرجال لإبن الغضائري - أحمد بن الحسين الغضائري الواسطي البغدادي  .pdf;
+    https://ebookshia.com/books/view/863/الرجال+(لابن+الغضائری)
+90#VERS#ANNOTATOR: HRH
+90#VERS#COMMENT##: There is a tag “NoteV00P037N05” in the text the last
+    two digits of which show the overall number for names. I don’t know what
+    it is, but it probably should be deleted (except the last two digits
+    that is helpful). 2- The final section on the text (page 110 onwards) is
+    “مستدركات” in which the editor has gathered some other sections of the
+    text from other sources. I also tagged the names in this part.
+90#VERS#DATE#####: 2020-05-18
+90#VERS#ISSUES###: EDITORIAL_SECTIONS
