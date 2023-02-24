@@ -1,0 +1,23 @@
+00#VERS#CLENGTH##: 4524088
+00#VERS#LENGTH###: 1057364
+00#VERS#URI######: 0800Anonymous.SiratCantara.Kraken220415100046Vols-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/987285052
+80#VERS#COLLATED#:
+80#VERS#LINKS####: https://download.digitale-
+    sammlungen.de/BOOKS/download.pl?id=10249288,
+    https://download.digitale-sammlungen.de/BOOKS/download.pl?id=10249289,
+    https://download.digitale-sammlungen.de/BOOKS/download.pl?id=10249282,
+    https://download.digitale-sammlungen.de/BOOKS/download.pl?id=10249283,
+    https://download.digitale-sammlungen.de/BOOKS/download.pl?id=10249284,
+    https://download.digitale-sammlungen.de/BOOKS/download.pl?id=10249285,
+    https://download.digitale-sammlungen.de/BOOKS/download.pl?id=10249286,
+    https://download.digitale-sammlungen.de/BOOKS/download.pl?id=10249287
+90#VERS#ANNOTATOR:
+90#VERS#COMMENT##: OCRed through Kraken:
+    * Kraken version: 3.0.0.0b21.dev6
+    * segmentation model: DEFAULT
+    * OCR model: 12-24-2021_ArabPersGeneralized.mlmodel
+    NOTE: All pages in PDF in wrong order (from last page to first page); PV has
+    downloaded the jpg files and arranged them in the correct order.
+90#VERS#DATE#####: 2022-04-15
+90#VERS#ISSUES###: UNCORRECTED_OCR

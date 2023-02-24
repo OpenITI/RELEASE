@@ -1,0 +1,23 @@
+00#AUTH#URI######: 0833HafizAbru
+10#AUTH#ISM####AR: ʿAbd Allāh
+10#AUTH#KUNYA##AR: 
+10#AUTH#LAQAB##AR: 
+10#AUTH#NASAB##AR: b. Luṭf Allāh b. ʿAbd al-Rašīd
+10#AUTH#NISBA##AR: al-Ḫwāfī
+10#AUTH#SHUHRA#AR: Ḥāfiẓ-i Abrū
+20#AUTH#BORN#####: HARA_621E343N_S
+20#AUTH#DIED#####: ZANJAN_485E366N_S
+20#AUTH#RESIDED##: HAMADHAN_485E347N_S
+20#AUTH#VISITED##: URIs from Althurayya, comma separated
+30#AUTH#BORN###AH: YEAR-MON-DA (X+ for unknown)
+30#AUTH#DIED###AH: 0833-XXX-XX
+40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
+40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
+90#AUTH#COMMENT##: Sezgin, Geschichte des arabischen Schrifttums 14.305:
+    "Ḥāfiẓ-i Abrū, from Herat, apparently grew up in Hamadan.
+    Very little is known about his life's circumstances.
+    As can be discerned from his own statements, he was known 
+    as a chess master and was in the service of Timur and his son Shārukh.
+    He has reported as an eye witness about the latter's campaigns.
+    He died in 833/1430 in Zanjān."

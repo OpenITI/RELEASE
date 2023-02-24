@@ -1,0 +1,21 @@
+00#VERS#CLENGTH##: 1733681
+00#VERS#LENGTH###: 391845
+00#VERS#URI######: 0855BadrDinCayni.CiqdJuman.PV20220525-ara3
+80#VERS#BASED####: http://www.worldcat.org/oclc/236028199,
+    http://www.worldcat.org/oclc/506360809
+80#VERS#COLLATED#: permalink, permalink, permalink
+80#VERS#LINKS####: all@id, vol1@id, vol2@id, vol3@id, volX@id
+90#VERS#ANNOTATOR: PV
+90#VERS#COMMENT##: This is a compound text, containing the text of
+    two separate, incomplete, editions:
+    * ed. Amīn, Cairo 1987-1989, which covers only the years 648-717 (ShamAY0033840)
+    * ed. Qarmūṭ, Cairo 1985-1989, years 815-850 (MMS00021)
+    PV joined both editions together
+    (volume numbers of the Amīn edition encoded as PageV21-PageV24,
+    volume numbers of the Qarmūṭ edition encoded as PageV41-PageV42).
+    PV added structural annotation
+    (without cross-checking with the original editions).
+    The text is still incomplete (other editions cover other parts
+    of the work, but even then, the entire work is not edited yet)
+90#VERS#DATE#####: 2022-05-26
+90#VERS#ISSUES###: INCOMPLETE_TEXT

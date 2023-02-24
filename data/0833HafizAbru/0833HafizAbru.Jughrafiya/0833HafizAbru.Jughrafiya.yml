@@ -1,0 +1,30 @@
+00#BOOK#URI######: 0833HafizAbru.Jughrafiya
+10#BOOK#GENRES###: _BULDAN, _JUGHRAFIYA
+10#BOOK#TITLEA#AR: Juġrāfiyā
+10#BOOK#TITLEB#AR: Tārīḫ
+20#BOOK#WROTE####: URIs from Althurayya, comma separated
+30#BOOK#WROTE##AH: 0817-XXX-XX
+40#BOOK#RELATED##: URI of a book from OpenITI, or [Author's Title],
+    followed by abbreviation for relation type between brackets (see
+    book_relations repo). Only include relations with older books. Separate
+    related books with semicolon.
+80#BOOK#EDITIONS#: permalink, permalink, permalink
+80#BOOK#LINKS####: permalink, permalink, permalink
+80#BOOK#MSS######: permalink, permalink, permalink
+80#BOOK#STUDIES##: permalink, permalink, permalink
+80#BOOK#TRANSLAT#: permalink, permalink, permalink
+90#BOOK#COMMENT##: Sezgin, Geschichte des arabischen Schrifttums 14.305f.:
+    "It came into existence in the year 817/1414, when he translated 
+    an Arabic book with the title Masālik al-mamālik wa-ṣuwar al-aqālīm
+    into Persian and expanded it, on behalf of [Timur's son] Šāhrukh.
+    Apparently, the original belonged to the classical Balkhī school of
+    Arabo-Islamic geography. The book, which remained incomplete, 
+    carries the title Tārīkh, which probably does not stem from the author
+    himself but was given by another hand. (...) Even though Ḥāfiẓ-i Abru
+    based himself mostly on an old Masālik wa-al-mamālik book of the Balkhī
+    school, he was of course not able to get away from the developments in
+    between. (...) His description of [Khurāsān] can be considered unique 
+    in its detailed approach to the division into provinces and districts
+    with the villages and hamlets that belong to them. (...) Ḥāfiẓ-i Abru 
+    took over the maps of the Balkhī school with limited changes."
+    The text is available on Noorlib: https://noorlib.ir/en/book/view/02231?pageNumber=45&viewType=pdf
