@@ -1,0 +1,24 @@
+00#VERS#CLENGTH##: 62534
+00#VERS#LENGTH###: 14902
+00#VERS#URI######: 0339AbuNasrFarabi.AlfazMustacmalaFiMantiq.JK010713-ara1
+80#VERS#BASED####: NO_DATA_IN_METADATA
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/19747030
+80#VERS#LINKS####: https://www.noor-book.com/كتاب-الألفاظ-المستعملة-في-المنطق-pdf
+90#VERS#ANNOTATOR: HRH
+90#VERS#COMMENT##: 1- The Editpro edition cannot be found because there
+    is no data in the METADATA section to show which edition it is. Although
+    the edition I have used here for collation is different, it is very
+    similar to the text and I didn’t see major changes. 2- The text itself
+    has very few random titles. So, the only way to give a structure to the
+    text is to use the Table of contents that is created by the editor in
+    the beginning of the PDF. I added blank headers (as well as numbers) to
+    their respective places in the text. The titles in the Table of contents
+    must be added in front of these blank headers (I didn’t do this since
+    I’m not allowed to add text to the file).
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0350AH/pre-clean/data/0339AbuNasrFarabi/0339AbuNasrFarabi.AlfazMustacmalaFiMantiq/0339AbuNasrFarabi.AlfazMustacmalaFiMantiq.JK010713-ara1.completed
+90#VERS#DATE#####: 2019-12-12
+90#VERS#ISSUES###: NO_MAJOR_ISSUES, PRIMARY_VERSION, CLEANED_VERSION

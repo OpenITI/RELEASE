@@ -1,0 +1,22 @@
+00#VERS#CLENGTH##: 620925
+00#VERS#LENGTH###: 149355
+00#VERS#URI######: 0356AbuCaliQali.AmaliFiLugha.JK000919BK1-ara1
+80#VERS#BASED####: permalink, permalink, permalink
+80#VERS#COLLATED#: permalink, permalink, permalink
+80#VERS#LINKS####: all@id, vol1@id, vol2@id, vol3@id, volX@id
+90#VERS#ANNOTATOR: the name of the annotator (latin characters; please
+    use consistently)
+90#VERS#COMMENT##:
+    The original text file contained three separate texts:
+    * 0356AbuCaliQali.AmaliFiLugha
+    * 0356AbuCaliQali.DhaylAmali
+    * 0356AbuCaliQali.Nawadir
+    PV split the text file.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0375AH/pre-
+    clean/data/0356AbuCaliQali/0356AbuCaliQali.AmaliFiLugha/0356AbuCaliQali.AmaliFiLugha.JK000919-ara1
+90#VERS#DATE#####: YYYY-MM-DD
+90#VERS#ISSUES###: PRIMARY_VERSION, CLEANED_VERSION

@@ -1,0 +1,46 @@
+00#VERS#CLENGTH##: 475394
+00#VERS#LENGTH###: 106885
+00#VERS#URI######: 0367IbnHawqal.SuratArd.Shamela0011780-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/957212720
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/957212720
+80#VERS#LINKS####: https://www.kutubpdfbook.com/book/كتاب-صورة-الارض/download
+90#VERS#ANNOTATOR: HRH, PV
+90#VERS#COMMENT##: 
+    The Kramers edition contains three versions of the same text:
+    * Kramers took as his main text Istanbul ms. 3346 (of which the folio
+    numbers are in the text in square brackets)
+    * De Goeje's earlier edition of the text (page numbers indicated
+    in the margin of the printed edition with siglum  حط;
+    not in the digital text). Passages from the de Goeje edition
+    that are not in the Istanbul text are added between square brackets
+    in Kramers' edition, and in the digital text.
+    * the "Paris epitome" (BnF 2214), which contains a summary of the Istanbul text,
+    with additions by a later contributor (most of these are explicitly dated,
+    between the years 534-580/1129-1184). Passages from this manuscript
+    that are not in the Istanbul text are added between square brackets
+    and smaller script in Kramers' edition; in the digital text, they were
+    only between square brackets, and thus indistinguishable from the
+    additions from the de Goeje edition. PV put them between double
+    square brackets.
+    Kramers added after every image of the maps in the text a description
+    of that map (see introduction, p. ه). PV extracted the images from
+    the pdf and put them in the in the ./img folder, and added links to
+    the images in the text using the standard markdown notation
+    `![caption](image_link)`. Kramers' descriptions of the maps
+    were extracted from the text and added to the ./img folder in separate
+    text files (same file name as the image files, with extension `.caption`).
+    PV removed the first-level headings for the two volumes of the edition,
+    and the editorial introduction.
+    PV also restored some missing references to the manuscript folios.
+    PV tagged the manuscript's title page as paratext.
+    PV put the numbered paragraphs at the beginning of a new line,
+    and removed the hashes at the beginning of a new page if no new paragraph
+    starts on the new page.
+    PV typed up the last page of the book, which was missing from the digital text.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0375AH/pre-clean/data/0367IbnHawqal/0367IbnHawqal.SuratArd/0367IbnHawqal.SuratArd.Shamela0011780-ara1.mARkdown
+90#VERS#DATE#####: 2019-12-29
+90#VERS#ISSUES###: NO_MAJOR_ISSUES, PRIMARY_VERSION, CLEANED_VERSION

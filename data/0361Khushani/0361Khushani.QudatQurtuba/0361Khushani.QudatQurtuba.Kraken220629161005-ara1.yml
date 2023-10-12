@@ -1,0 +1,18 @@
+00#VERS#CLENGTH##: 175282
+00#VERS#LENGTH###: 42926
+00#VERS#URI######: 0361Khushani.QudatQurtuba.Kraken220629161005-ara1
+80#VERS#BASED####: 
+80#VERS#COLLATED#: 
+80#VERS#LINKS####: 
+90#VERS#ANNOTATOR: 
+90#VERS#COMMENT##: OCRed through Kraken:
+    * Kraken version: 3.0.0.0b21.dev6
+    * segmentation model: DEFAULT
+    * OCR model: 12-24-2021_ArabPersGeneralized.mlmodel
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0375AH/pre-clean/data/0361Khushani/0361Khushani.QudatQurtuba/0361Khushani.QudatQurtuba.Kraken220629161005-ara1
+90#VERS#DATE#####: 2022-06-29
+90#VERS#ISSUES###: UNCORRECTED_OCR, PRIMARY_VERSION, CLEANED_VERSION

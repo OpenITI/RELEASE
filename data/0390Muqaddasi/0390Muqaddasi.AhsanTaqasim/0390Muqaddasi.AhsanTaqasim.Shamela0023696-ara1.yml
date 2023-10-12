@@ -1,0 +1,20 @@
+00#VERS#CLENGTH##: 390900
+00#VERS#LENGTH###: 88511
+00#VERS#URI######: 0390Muqaddasi.AhsanTaqasim.Shamela0023696-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/957333775
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/957333775
+80#VERS#LINKS####:
+    https://archive.org/details/AhsanAlTakaseemFeyMarefatAlAkaleem
+90#VERS#ANNOTATOR: Masoumeh Seydi; Gowaart Van Den Bossche; HRH; PV
+90#VERS#COMMENT##: The original text file contained extensive tagging
+    by Masoumeh Seydi (routes and regions) for her PhD research.
+    PV created a copy of the file containing these tags
+    (0390Muqaddasi.AhsanTaqasim.MSG20230908-ara1) and
+    removed the additional tags in the Shamela file.
+    Annotated by unknown, validated by Gowaart.
+    NOTE OF THE REVIEWER (HRH): I reduced the levelling of the headers in page 10-61
+    by one, and deleted the editorial section. 2- There are a lot of Latin words and
+    geographical tags in the text.
+    PV removed the Latin words and other remnants of footnotes.
+90#VERS#DATE#####: 2019-07-30
+90#VERS#ISSUES###: NO_MAJOR_ISSUES, CLEANED_VERSION, PRIMARY_VERSION

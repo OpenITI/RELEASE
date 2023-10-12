@@ -1,0 +1,14 @@
+00#VERS#CLENGTH##: 11783
+00#VERS#LENGTH###: 2962
+00#VERS#URI######: 0382IbnCabdAllahCaskari.AkhbarMusahhifin.Shamela0006722-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/4770081236
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/33272125
+80#VERS#LINKS####: http://www.ar.islamic-sources.com/book/أخبار-المصحفين/
+90#VERS#ANNOTATOR: HRH
+90#VERS#COMMENT##: All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0400AH/pre-clean/data/0382IbnCabdAllahCaskari/0382IbnCabdAllahCaskari.AkhbarMusahhifin/0382IbnCabdAllahCaskari.AkhbarMusahhifin.Shamela0006722-ara1.completed
+90#VERS#DATE#####: 2020-01-11
+90#VERS#ISSUES###: EDITORIAL_SECTIONS, PRIMARY_VERSION, CLEANED_VERSION

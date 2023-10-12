@@ -1,0 +1,16 @@
+00#VERS#CLENGTH##: 80312
+00#VERS#LENGTH###: 21222
+00#VERS#URI######: 0303Nasai.FadailSahaba.JK000747-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/741081673
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/741081673
+80#VERS#LINKS####: 
+    https://ia600207.us.archive.org/18/items/waq37293/37293.pdf
+90#VERS#ANNOTATOR: HRH
+90#VERS#COMMENT##: NO MAJOR ISSUES
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0325AH/pre-clean/data/0303Nasai/0303Nasai.FadailSahaba/0303Nasai.FadailSahaba.JK000747-ara1.mARkdown
+90#VERS#DATE#####: 2019-09-20
+90#VERS#ISSUES###: NO_MAJOR_ISSUES, PRIMARY_VERSION, CLEANED_VERSION

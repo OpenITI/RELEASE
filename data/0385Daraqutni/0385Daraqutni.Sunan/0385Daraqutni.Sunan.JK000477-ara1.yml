@@ -1,0 +1,14 @@
+00#VERS#CLENGTH##: 1121420
+00#VERS#LENGTH###: 302027
+00#VERS#URI######: 0385Daraqutni.Sunan.JK000477-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/153300720 (1966 edition)
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/153300720
+80#VERS#LINKS####: https://archive.org/details/waq52305/mode/1up
+90#VERS#ANNOTATOR: HRH
+90#VERS#COMMENT##: All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0400AH/pre-clean/data/0385Daraqutni/0385Daraqutni.Sunan/0385Daraqutni.Sunan.JK000477-ara1.completed
+90#VERS#DATE#####: 2020-02-21
+90#VERS#ISSUES###: RANDOM_TAGS, PRIMARY_VERSION, CLEANED_VERSION

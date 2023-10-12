@@ -1,0 +1,15 @@
+00#VERS#CLENGTH##: 17061
+00#VERS#LENGTH###: 4502
+00#VERS#URI######: 0341AbuHasanIbnMaqabiri.Hadith.ShamAY0032800-ara1
+80#VERS#BASED####: permalink, permalink, permalink
+80#VERS#COLLATED#: permalink, permalink, permalink
+80#VERS#LINKS####: https://www.alukah.net/manu/files/manuscript_670/2221.pdf
+90#VERS#ANNOTATOR: the name of the annotator (latin characters; please
+    use consistently)
+90#VERS#COMMENT##: All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0350AH/pre-clean/data/0341AbuHasanIbnMaqabiri/0341AbuHasanIbnMaqabiri.Hadith/0341AbuHasanIbnMaqabiri.Hadith.ShamAY0032800-ara1
+90#VERS#DATE#####: YYYY-MM-DD
+90#VERS#ISSUES###: PRIMARY_VERSION, CLEANED_VERSION

@@ -1,0 +1,16 @@
+00#VERS#CLENGTH##: 50742
+00#VERS#LENGTH###: 12500
+00#VERS#URI######: 0384IbnCimranMarzubani.AshcarNisa.Shamela0008189-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/956967381
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/956967381
+80#VERS#LINKS####: 
+    https://ia802706.us.archive.org/11/items/waq32583/32583.pdf;
+    https://download-literature-pdf-ebooks.com/8277-free-book
+90#VERS#ANNOTATOR: HRH
+90#VERS#COMMENT##: All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0400AH/pre-clean/data/0384IbnCimranMarzubani/0384IbnCimranMarzubani.AshcarNisa/0384IbnCimranMarzubani.AshcarNisa.Shamela0008189-ara1.completed
+90#VERS#DATE#####: 2020-01-18
+90#VERS#ISSUES###: NO_MAJOR_ISSUES, PRIMARY_VERSION, CLEANED_VERSION

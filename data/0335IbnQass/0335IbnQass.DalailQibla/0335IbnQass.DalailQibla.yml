@@ -1,0 +1,28 @@
+00#BOOK#URI######: 0335IbnQass.DalailQibla
+10#BOOK#GENRES###: _BULDAN, _JUGHRAFIYA
+10#BOOK#TITLEA#AR: Kitāb Dalāʾil al-qiblaŧ
+10#BOOK#TITLEB#AR:
+20#BOOK#WROTE####: URIs from Althurayya, comma separated
+30#BOOK#WROTE##AH: YEAR-MON-DA (X+ for unknown)
+40#BOOK#RELATED##: URI of a book from OpenITI, or [Author's Title],
+    followed by abbreviation for relation type between brackets (see
+    book_relations repo). Only include relations with older books. Separate
+    related books with semicolon.
+80#BOOK#EDITIONS#: permalink, permalink, permalink
+80#BOOK#LINKS####: permalink, permalink, permalink
+80#BOOK#MSS######: permalink, permalink, permalink
+80#BOOK#STUDIES##: permalink, permalink, permalink
+80#BOOK#TRANSLAT#: permalink, permalink, permalink
+90#BOOK#COMMENT##: Earliest geographical work that takes Mecca
+    as its centre. It mentions places based on their qibla position,
+    but takes the form of a historical geography (GAS 14.205).
+    The book is not extant in its original form,
+    but only in two seperate abreviations, each probably based
+    on a different redaction (see GAS 14.206):
+    - version 1 (based on redaction of 318/930):
+    * London, British Library, ms. Or. 133315 (2a-57b)
+    - version 2 (bsed on redaction of 332/943):
+    * Cairo, Dār al-Kutub, ms. Taymur 103 buldān
+    * Istanbul, Veliyüddin ms. 2453/2 (47a-169a)
+    The Baghdād edition is based on (a microfilm of) the Cairo ms.
+    (see introduction to the edition, p. 89-90).

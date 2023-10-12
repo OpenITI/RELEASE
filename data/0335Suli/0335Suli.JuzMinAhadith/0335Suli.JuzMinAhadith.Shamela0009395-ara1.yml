@@ -1,0 +1,19 @@
+00#VERS#CLENGTH##: 6780
+00#VERS#LENGTH###: 1679
+00#VERS#URI######: 0335Suli.JuzMinAhadith.Shamela0009395-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/1076032723
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/1076032723
+80#VERS#LINKS####: 
+    https://archive.org/stream/FP77255/02_77256#page/n9/mode/2up; https://ia801308.us.archive.org/13/items/FP77255/02_77256.pdf (vol 2, pages 11-17)
+90#VERS#ANNOTATOR: MAROUSSIA
+90#VERS#COMMENT##: "annotation completed. minor changes applied. headers
+    tags were removed and one hashtag was left in front of the numerals to
+    indicate a paragraph (hadith). a wrong biography tag was removed.
+    NOTE OF THE REVIEWER (HRH): This short text is a few-page extract from 0395IbnMandahMuhammad.Fawaid, consisting of 22 hadiths, and has nothing to be tagged. 2- The PARATEXT paragraph at the beginning of the text is missing, which probably should not be considered a MISSING_PART.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0350AH/pre-clean/data/0335Suli/0335Suli.JuzMinAhadith/0335Suli.JuzMinAhadith.Shamela0009395-ara1.mARkdown
+90#VERS#DATE#####: 2019-07-18
+90#VERS#ISSUES###: PAGINATION, PRIMARY_VERSION, CLEANED_VERSION

@@ -1,0 +1,19 @@
+00#VERS#CLENGTH##: 343312
+00#VERS#LENGTH###: 85367
+00#VERS#URI######: 0384IbnCimranMarzubani.MucjamShucara.Shamela0026552-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/235998249
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/4771268407
+80#VERS#LINKS####: http://almeshkat.net/book/13962
+90#VERS#ANNOTATOR: HRH
+90#VERS#COMMENT##: 1- The text did not have automatic tags for names.
+    2-Another edition of the text that is accessible on the internet can be
+    found here: https://archive.org/details/Moajam_Shoaraa
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0400AH/pre-
+    clean/data/0384IbnCimranMarzubani/0384IbnCimranMarzubani.MucjamShucara/0384IbnCimranMarzubani.MucjamShucara.Shamela0026552-ara1.completed
+90#VERS#DATE#####: 2020-01-20
+90#VERS#ISSUES###: HTML_TAGS, EDITORIAL_SECTIONS, PRIMARY_VERSION,
+    CLEANED_VERSION

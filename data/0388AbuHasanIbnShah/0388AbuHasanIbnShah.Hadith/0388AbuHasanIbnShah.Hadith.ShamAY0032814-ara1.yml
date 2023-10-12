@@ -1,0 +1,16 @@
+00#VERS#CLENGTH##: 11282
+00#VERS#LENGTH###: 3063
+00#VERS#URI######: 0388AbuHasanIbnShah.Hadith.ShamAY0032814-ara1
+80#VERS#BASED####: permalink, permalink, permalink
+80#VERS#COLLATED#: permalink, permalink, permalink
+80#VERS#LINKS####: https://www.alukah.net/manu/files/manuscript_2904/elmktot.pdf
+    (pages in PDF:4 ff)
+90#VERS#ANNOTATOR: the name of the annotator (latin characters; please
+    use consistently)
+90#VERS#COMMENT##: All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0400AH/pre-clean/data/0388AbuHasanIbnShah/0388AbuHasanIbnShah.Hadith/0388AbuHasanIbnShah.Hadith.ShamAY0032814-ara1
+90#VERS#DATE#####: YYYY-MM-DD
+90#VERS#ISSUES###: PRIMARY_VERSION, CLEANED_VERSION

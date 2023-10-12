@@ -1,0 +1,27 @@
+00#VERS#CLENGTH##: 1599979
+00#VERS#LENGTH###: 381917
+00#VERS#URI######: 0346Mascudi.MurujDhahab.JK010344-ara1
+80#VERS#BASED####: NO_DATA_IN_METADATA
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/930012753
+80#VERS#LINKS####: http://www.zaidiah.com/sites/default/files/articles_files/مروج الذهب ومعادن الجوهر.pdf
+90#VERS#ANNOTATOR: HRH
+90#VERS#COMMENT##: 1- The Editpro edition cannot be found because there
+    is no data in the METADATA section to show which edition it is. The
+    edition I have used here for collation is very similar to the text and I
+    didn’t see major changes. There are just some extra titles in the text
+    (that are helpful) and some other titles are a little different.
+    Besides, sometimes the PDF has a few extra titles (I showed them with
+    blank headers). 2- The text was plain without any automatic tags.
+    3-Missing parts: PAGEV01P35-45 of the PDF; PAGEV04P118-120 of the PDF
+    (=PageV02P126 of the text); Third paragraph in PAGEV01P47. 4- Two other
+    editions of the text can be found here: https://m.marefa.org/images/9/91
+    /%D9%85%D8%B1%D9%88%D8%AC_%D8%A7%D9%84%D8%B0%D9%87%D8%A8_%D9%88%D9%85%D8
+    %B9%D8%A7%D8%AF%D9%86_%D8%A7%D9%84%D8%AC%D9%88%D9%87%D8%B1.pdf and
+    https://archive.org/details/Meroujzahab
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0350AH/pre-clean/data/0346Mascudi/0346Mascudi.MurujDhahab/0346Mascudi.MurujDhahab.JK010344-ara1.completed
+90#VERS#DATE#####: 2019-12-16
+90#VERS#ISSUES###: MISSING_PARTS, PRIMARY_VERSION, CLEANED_VERSION

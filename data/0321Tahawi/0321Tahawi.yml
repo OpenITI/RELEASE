@@ -1,0 +1,20 @@
+00#AUTH#URI######: 0321Tahawi
+10#AUTH#ISM####AR: Aḥmad
+10#AUTH#KUNYA##AR: Abū Ǧaʿfar
+10#AUTH#LAQAB##AR:
+10#AUTH#NASAB##AR: b. Muḥammad b. Salāmaŧ b. ʿAbd al-malik
+10#AUTH#NISBA##AR: al-Azdī al-Ḥaǧrī al-Ṭaḥāwī
+10#AUTH#SHUHRA#AR: al-Ṭaḥāwī
+20#AUTH#BORN#####: Misr_RE
+20#AUTH#DIED#####: URIs from Althurayya, comma separated
+20#AUTH#RESIDED##: URIs from Althurayya, comma separated
+20#AUTH#VISITED##: URIs from Althurayya, comma separated
+30#AUTH#BORN###AH: 0239-XXX-XX
+30#AUTH#DIED###AH: 0321-XXX-XX
+40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
+40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
+90#AUTH#COMMENT##: EI2: "Aḥmad b. Muḥammad b. Salāma b. ʿAbd al-Malik al-Azdī
+    al-Ḥad̲j̲rī Abū Ḏj̲aʿfar, a Ḥanafī jurist (d. 321/933). He spent most of his
+    life in Egypt, with only one brief trip to Syria.":
+    http://dx.doi.org/10.1163/1573-3912_islam_COM_1150

@@ -1,0 +1,24 @@
+00#BOOK#URI######: 0384IbnCaliTanukhi.NishwarMuhadara
+10#BOOK#GENRES###: src@keyword, src@keyword, src@keyword
+10#BOOK#TITLEA#AR: Nišwār al-muḥāḍaraŧ wa-aḫbār al-muḏākara
+10#BOOK#TITLEB#AR: Risālaŧ al-Muʾallif
+20#BOOK#WROTE####: URIs from Althurayya, comma separated
+30#BOOK#WROTE##AH: YEAR-MON-DA (X+ for unknown)
+40#BOOK#RELATED##: URI of a book from OpenITI, or [Author's Title],
+    followed by abbreviation for relation type between brackets (see
+    book_relations repo). Only include relations with older books. Separate
+    related books with semicolon.
+80#BOOK#EDITIONS#: permalink, permalink, permalink
+80#BOOK#LINKS####: permalink, permalink, permalink
+80#BOOK#MSS######: permalink, permalink, permalink
+80#BOOK#STUDIES##: permalink, permalink, permalink
+80#BOOK#TRANSLAT#: permalink, permalink, permalink
+90#BOOK#COMMENT##: The text is only partly extant.
+    ʿAbbūd al-Shaljī edited the text in eight volumes:
+    * vol. 1: juzʾ 1 (from BnF ms. ar. 3482 and
+      and a ms. from the Murad Molla library in Istanbul)
+    * vol. 2: juzʾ 2 (from the BnF and Murad Molla mss.)
+    * vol. 3: unknown juzʾ (from a ms. in the Taymūriyya collection)
+    * vols. 4-7: collected from citations in other sources
+      (see the editor's introduction in vol. 1 for a full list)
+    * vol. 8: juzʾ 8 (from BM ms. Or. 9586)

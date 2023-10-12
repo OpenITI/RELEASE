@@ -1,0 +1,16 @@
+00#VERS#CLENGTH##: 6755
+00#VERS#LENGTH###: 1782
+00#VERS#URI######: 0346IbnQasimDimashqi.Hadith.Shamela0010279-ara1
+80#VERS#BASED####: permalink, permalink, permalink
+80#VERS#COLLATED#: permalink, permalink, permalink
+80#VERS#LINKS####: 
+    https://ar.wikisource.org/wiki/ملف:أخبار_وحكايات_من_حديث_محمد_بن_القاسم_بن_معروف_خ.pdf
+90#VERS#ANNOTATOR: the name of the annotator (latin characters; please
+    use consistently)
+90#VERS#COMMENT##: All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0350AH/pre-clean/data/0346IbnQasimDimashqi/0346IbnQasimDimashqi.Hadith/0346IbnQasimDimashqi.Hadith.Shamela0010279-ara1
+90#VERS#DATE#####: YYYY-MM-DD
+90#VERS#ISSUES###: PRIMARY_VERSION, CLEANED_VERSION

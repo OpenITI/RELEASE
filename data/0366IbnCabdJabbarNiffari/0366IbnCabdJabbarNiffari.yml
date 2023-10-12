@@ -1,0 +1,21 @@
+00#AUTH#URI######: 0366IbnCabdJabbarNiffari
+10#AUTH#ISM####AR: Muḥammad
+10#AUTH#KUNYA##AR:
+10#AUTH#LAQAB##AR:
+10#AUTH#NASAB##AR: b. ʿAbd al-Ǧabbār
+10#AUTH#NISBA##AR: al-Niffarī
+10#AUTH#SHUHRA#AR: al-Niffarī
+20#AUTH#BORN#####: Iraq_RE
+20#AUTH#DIED#####: URIs from Althurayya, comma separated
+20#AUTH#RESIDED##: URIs from Althurayya, comma separated
+20#AUTH#VISITED##: URIs from Althurayya, comma separated
+30#AUTH#BORN###AH: YEAR-MON-DA (X+ for unknown)
+30#AUTH#DIED###AH: 0366-XXX-XX
+40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
+40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
+90#AUTH#COMMENT##: EI2: "Muḥammad b. ʿAbd al-D̲j̲abbār , Ṣūfī mystic, whom the
+    principal Ṣūfī biographers fail to mention, and who flourished in the 4th/10th
+    century, and, according to Ḥād̲j̲d̲j̲ī K̲h̲alīfa, died in the year 354/965, but
+    more probably in ca. 366/976-7.":
+    http://dx.doi.org/10.1163/1573-3912_islam_SIM_5899

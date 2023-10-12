@@ -1,0 +1,17 @@
+00#AUTH#URI######: 0350Balawi
+10#AUTH#ISM####AR: ʿAbd Al-lãh
+10#AUTH#KUNYA##AR: Abū Muḥammad
+10#AUTH#LAQAB##AR: 
+10#AUTH#NASAB##AR: b. Muḥammad b. ʿUmayr b. Maḥfūẓ
+10#AUTH#NISBA##AR: al-Madīnī al-Balawī
+10#AUTH#SHUHRA#AR: al-Balawī
+20#AUTH#BORN#####: URIs from Althurayya, comma separated
+20#AUTH#DIED#####: URIs from Althurayya, comma separated
+20#AUTH#RESIDED##: Misr_RE
+20#AUTH#VISITED##: URIs from Althurayya, comma separated
+30#AUTH#BORN###AH: YEAR-MON-DA (X+ for unknown)
+30#AUTH#DIED###AH: YEAR-MON-DA (X+ for unknown)
+40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
+40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
+90#AUTH#COMMENT##: EI2: "abū muḥ. ʿabd allāh b. muḥ. al-madīnī , Egyptian historian; the dates of his birth and death are not known, bat we can reasonably assume that he lived in the 4th/10th century.": http://dx.doi.org/10.1163/1573-3912_islam_SIM_1138

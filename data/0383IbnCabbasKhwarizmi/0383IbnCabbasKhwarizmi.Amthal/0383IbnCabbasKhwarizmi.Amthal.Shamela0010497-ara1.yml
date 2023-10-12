@@ -1,0 +1,19 @@
+00#VERS#CLENGTH##: 88249
+00#VERS#LENGTH###: 21829
+00#VERS#URI######: 0383IbnCabbasKhwarizmi.Amthal.Shamela0010497-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/1107058624
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/1107058624
+80#VERS#LINKS####: https://ketabpedia.com/تحميل/الأمثال-المولدة-ت-الأعرجي-
+    المجمع-الثق/
+90#VERS#ANNOTATOR: HRH
+90#VERS#COMMENT##: The first editorial section at the end of the book is
+    the note of the scribe.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0400AH/pre-
+    clean/data/0383IbnCabbasKhwarizmi/0383IbnCabbasKhwarizmi.Amthal/0383IbnCabbasKhwarizmi.Amthal.Shamela0010497-ara1.completed
+90#VERS#DATE#####: 2020-01-15
+90#VERS#ISSUES###: HTML_TAGS, EDITORIAL_SECTIONS, PRIMARY_VERSION,
+    CLEANED_VERSION

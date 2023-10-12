@@ -1,0 +1,18 @@
+00#VERS#CLENGTH##: 19715
+00#VERS#LENGTH###: 5071
+00#VERS#URI######: 0385Daraqutni.Sifat.JK000329-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/4771293933
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/4771293933
+80#VERS#LINKS####: 
+    https://ia801304.us.archive.org/30/items/FP40506/40506.pdf
+90#VERS#ANNOTATOR: MAROUSSIA
+90#VERS#COMMENT##: random dollar signs removed. the structure consists
+    in paragraphs preceeded by numerals.
+    NOTE OF THE REVIEWER (HRH): PARATEXTs added.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0400AH/pre-clean/data/0385Daraqutni/0385Daraqutni.Sifat/0385Daraqutni.Sifat.JK000329-ara1.mARkdown
+90#VERS#DATE#####: 2019-07-23
+90#VERS#ISSUES###: RANDOM_CHARS, PRIMARY_VERSION, CLEANED_VERSION

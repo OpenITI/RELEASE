@@ -1,0 +1,20 @@
+00#VERS#CLENGTH##: 341462
+00#VERS#LENGTH###: 87060
+00#VERS#URI######: 0398AbuNasrKalabadhi.HidayaWaIrshad.Shamela0010902-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/21333652
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/21333652
+80#VERS#LINKS####: https://archive.org/details/Hassouni_505/mode/2up
+90#VERS#ANNOTATOR: HRH
+90#VERS#COMMENT##: PageV01P023-24 (i.e. “مقدمة المؤلف”) and the second
+    half of PageV01P026 are missing. 2- A few titles must be added at the
+    last part of the text using the Table of Contents in the end of Vol 2 (I
+    showed their places with first-level blank headers).
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0400AH/pre-
+    clean/data/0398AbuNasrKalabadhi/0398AbuNasrKalabadhi.HidayaWaIrshad/0398AbuNasrKalabadhi.HidayaWaIrshad.Shamela0010902-ara1.completed
+90#VERS#DATE#####: 2020-02-27
+90#VERS#ISSUES###: HTML_TAGS, MISSING_PARTS, EDITORIAL_SECTIONS,
+    PRIMARY_VERSION, CLEANED_VERSION

@@ -1,0 +1,14 @@
+00#VERS#CLENGTH##: 415
+00#VERS#LENGTH###: 97
+00#VERS#URI######: 0303Nasai.AshabAbiHanifa.Shamela0006004BK6-ara3
+80#VERS#BASED####: http://www.worldcat.org/oclc/957286635
+80#VERS#COLLATED#: permalink, permalink, permalink
+80#VERS#LINKS####: all@id, vol1@id, vol2@id, vol3@id, volX@id
+90#VERS#ANNOTATOR: the name of the annotator (latin characters; please
+    use consistently)
+90#VERS#COMMENT##: The original text file contained 7 separate "risālas"
+    (sometimes merely short quotes from al-Nasā'ī), published together in a
+    collection by Jamīl ʿAlī Ḥasan (Rasā'il fī ʿulūm al-ḥadīth, Beirut
+    1405/198). Each risāla has been split off into a separate file.
+90#VERS#DATE#####: YYYY-MM-DD
+90#VERS#ISSUES###: formalized issues, separated with commas

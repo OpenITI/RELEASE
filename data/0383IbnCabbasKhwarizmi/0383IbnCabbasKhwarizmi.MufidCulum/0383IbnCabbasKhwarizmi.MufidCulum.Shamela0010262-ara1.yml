@@ -1,0 +1,28 @@
+00#VERS#CLENGTH##: 459864
+00#VERS#LENGTH###: 108454
+00#VERS#URI######: 0383IbnCabbasKhwarizmi.MufidCulum.Shamela0010262-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/1107074244
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/754785571
+80#VERS#LINKS####:
+    https://upload.wikimedia.org/wikisource/ar/4/43/مفيد_العلوم_ومبيد_الهموم.pdf;
+    https://www.kutubpdfbook.com/book/تحميل-كتاب-مفيد-العلوم-ومبيد-الهموم.html;
+    https://www.quranicthought.com/books/كتاب-مفيد-العلوم-ومبيد-الهموم/
+90#VERS#ANNOTATOR: HRH
+90#VERS#COMMENT##: 1- The last book “كتاب في فتن” must have eight
+    chapters, but it has only four. So, a few pages are probably missing at
+    the end of the book (these pages are also missing in the PDF). However,
+    the page numbers do not show this. 2- Two other editions of the text
+    that are accessible on the internet can be found here:
+    http://wadod.net/bookshelf/book/2218 and two manuscripts of the text can
+    be found here: https://ketabpedia.com/%D8%AA%D8%AD%D9%85%D9%8A%D9%84/%D9
+    %85%D9%81%D9%8A%D8%AF-%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85-%D9%88%D9%85%
+    D8%A8%D9%8A%D8%AF-%D8%A7%D9%84%D9%87%D9%85%D9%88%D9%85-3/ and
+    https://www.alukah.net/manu/files/manuscript_5066/makhtotat.pdf
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0400AH/pre-
+    clean/data/0383IbnCabbasKhwarizmi/0383IbnCabbasKhwarizmi.MufidCulum/0383IbnCabbasKhwarizmi.MufidCulum.Shamela0010262-ara1.completed
+90#VERS#DATE#####: 2020-01-16
+90#VERS#ISSUES###: EDITORIAL_SECTIONS, PRIMARY_VERSION, CLEANED_VERSION

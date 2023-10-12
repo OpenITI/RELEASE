@@ -1,0 +1,18 @@
+00#VERS#CLENGTH##: 35465
+00#VERS#LENGTH###: 9396
+00#VERS#URI######: 0385Daraqutni.AhadithMuwatta.JK009399-ara1
+80#VERS#BASED####: NOT_FOUND
+80#VERS#COLLATED#: NOT_FOUND
+80#VERS#LINKS####: 
+    https://ia800905.us.archive.org/26/items/WAQ64457/64457.pdf
+90#VERS#ANNOTATOR: HRH
+90#VERS#COMMENT##: 1- The vertical lines (|) represent the end of lines
+    in the PDF and must be deleted. 2- The sign “&” is placed instead of
+    “صلی الله” in the text.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0400AH/pre-clean/data/0385Daraqutni/0385Daraqutni.AhadithMuwatta/0385Daraqutni.AhadithMuwatta.JK009399-ara1.completed
+90#VERS#DATE#####: 2020-01-25
+90#VERS#ISSUES###: RANDOM_CHARS, PRIMARY_VERSION, CLEANED_VERSION

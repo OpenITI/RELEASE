@@ -1,0 +1,19 @@
+00#VERS#CLENGTH##: 246670
+00#VERS#LENGTH###: 56778
+00#VERS#URI######: 0346Istakhri.MasalikWaMamalik.Shamela0011680-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/235983344
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/235983344
+80#VERS#LINKS####: 
+    https://www.noorlib.ir/View/fa/Book/BookView/Image/13855
+90#VERS#ANNOTATOR: HRH, PV
+90#VERS#COMMENT##: HRH annotated the main structure of the book; PV
+    added detailed structural annotation (in a few cases PV added
+    descriptive titles, between square brackets) and corrected the
+    pagination.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0350AH/pre-clean/data/0346Istakhri/0346Istakhri.MasalikWaMamalik/0346Istakhri.MasalikWaMamalik.Shamela0011680-ara1.mARkdown
+90#VERS#DATE#####: 2019-12-14
+90#VERS#ISSUES###: NO_MAJOR_ISSUES, PRIMARY_VERSION, CLEANED_VERSION
