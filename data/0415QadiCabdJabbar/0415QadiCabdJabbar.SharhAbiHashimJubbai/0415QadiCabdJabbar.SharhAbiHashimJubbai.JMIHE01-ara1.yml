@@ -1,0 +1,26 @@
+00#VERS#CLENGTH##: 7990
+00#VERS#LENGTH###: 2094
+00#VERS#URI######: 0415QadiCabdJabbar.SharhAbiHashimJubbai.JMIHE01-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/1183959723
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/1183959723
+80#VERS#LINKS####: https://www.openbookpublishers.com/10.11647/OBP.0214.pdf
+90#VERS#ANNOTATOR: PV
+90#VERS#COMMENT##: Transcription of an incomplete manuscript in Hebrew
+    letters  from the Geniza in the Firkovitch collection in Saint
+    Petersburg. The text was extracted from an xml version of Jewish-Muslim
+    Intellectual History Entangled. Textual Materials from the Firkovitch
+    Collection, Saint Petersburg, edited by Camilla Adang, Bruno Chiesa,
+    Omar Hamdan, Wilferd Madelung, Sabine Schmidtke and Jan Thiele,  Open
+    Book Publishers 2020, 1-16 (introduction: pp. 10-14). The pagination of
+    the print version was not represented in the xml file; the pagination of
+    the manuscripts is used instead:
+    * PageV0a refers to Ms. YA II 3102
+    * PageV0b refers to Ms. YA II 2381
+    NOTE OF THE REVIEWER (HRH): Editorial removed.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0425AH/pre-clean/data/0415QadiCabdJabbar/0415QadiCabdJabbar.SharhAbiHashimJubbai/0415QadiCabdJabbar.SharhAbiHashimJubbai.JMIHE01-ara1.mARkdown
+90#VERS#DATE#####: 2020-09-22
+90#VERS#ISSUES###: PAGINATION, INCOMPLETE_TEXT, PRIMARY_VERSION, CLEANED_VERSION

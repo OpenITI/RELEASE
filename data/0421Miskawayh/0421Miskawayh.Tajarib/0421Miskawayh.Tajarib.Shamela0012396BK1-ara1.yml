@@ -1,0 +1,43 @@
+00#VERS#CLENGTH##: 2316552
+00#VERS#LENGTH###: 552852
+00#VERS#URI######: 0421Miskawayh.Tajarib.Shamela0012396BK1-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/236005659
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/236005659
+80#VERS#LINKS####: https://archive.org/details/Tajarob_Omam
+90#VERS#ANNOTATOR: HRH
+90#VERS#COMMENT##: The original text file contained three separate texts:
+    * 0421Miskawayh.Tajarib
+    * 0488ZahirDin.DhaylTajaribUmam
+    * 0448HilalSabi.Tarikh (partial: only volume 8)
+    PV split the continuations off from the main text.
+    1- In Vol 1, the categorization is based on the names
+    of the kings. So, these titles must be added in front of the blank
+    titles that I have added: PageV01P167: “فيروز”; PageV01P215: “أبرويز”.
+    2- From Vol 3 onwards, the text has a dual categorization. The first
+    categorization is based on the names of the caliphs and the second
+    categorization is chronological. So, after the name of a caliph, a year
+    must be mentioned. But the problem is that this is missing. I added a
+    blank fourth-level header with an asterisk (i.e. # |||| *) in such
+    places. A title like “تتمة حوادث سنة ...” must be added in front of my
+    added headers. 3- Some titles that appear in the PDF are missing in the
+    text. I put blank headers in their places (without any asterisk, so that
+    they are distinguishable from those that must be added to the text).
+    4-These titles must be added in Vol 7: PageV07P017: “تتمة العصر
+    العباسي”; PageV07P395: “تتمة العصر العباسي”; “تتمة خلافة القادر بالله”;
+    “تتمة حوادث سنة تسع وثمانين وثلاثمائة”. 5- The book’s table of contents
+    is not accurate in categorization. I tried to present a correct
+    categorization as far as the process of events could be inferred from
+    the titles; however, a more accurate categorization might be possible if
+    someone reads the text thoroughly. For example, in one case (the story
+    of “صفين” in PageV01P511), I couldn’t understand in which point this
+    story ends. 6- All editorial sections except the first one are the notes
+    of the scribe. 7- The Quality of the text is very high. I just saw one
+    mistake in the title in PageV01P329.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0425AH/pre-
+    clean/data/0421Miskawayh/0421Miskawayh.Tajarib/0421Miskawayh.Tajarib.Shamela0012396-ara1.completed
+90#VERS#DATE#####: 2019-12-06
+90#VERS#ISSUES###: NO_MAJOR_ISSUES, PRIMARY_VERSION, CLEANED_VERSION

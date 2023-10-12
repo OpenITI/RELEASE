@@ -1,0 +1,20 @@
+00#VERS#CLENGTH##: 205031
+00#VERS#LENGTH###: 49997
+00#VERS#URI######: 0460ShaykhTusi.Rijal.Shia002935-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/4770038791
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/693208398
+80#VERS#LINKS####: 
+    https://ketabpedia.com/%D8%AA%D8%AD%D9%85%D9%8A%D9%84/%D8%B1%D8%AC%D8%A7%D9%84-%D8%A7%D9%84%D8%B7%D9%88%D8%B3%D9%8A/
+90#VERS#ANNOTATOR: 
+90#VERS#COMMENT##: 
+    NOTE OF THE REVIEWER (HRH): The numbers of biographical tags added. Women's
+    biographies tagged. 2- There is an unnecessary blank hashtag in a lot of lines
+    that should be deleted by RegEx. 3- A different edition is accessible here:
+    https://noorlib.ir/book/view/18135?viewType=pdf
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0475AH/pre-clean/data/0460ShaykhTusi/0460ShaykhTusi.Rijal/0460ShaykhTusi.Rijal.Shia002935-ara1.mARkdown
+90#VERS#DATE#####: YYYY-MM-DD
+90#VERS#ISSUES###: RANDOM_CHARS (blank Hashtags), PRIMARY_VERSION, CLEANED_VERSION

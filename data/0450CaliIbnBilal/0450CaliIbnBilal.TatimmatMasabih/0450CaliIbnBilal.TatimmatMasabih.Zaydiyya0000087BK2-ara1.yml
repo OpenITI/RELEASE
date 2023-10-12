@@ -1,0 +1,17 @@
+00#VERS#CLENGTH##: 140246
+00#VERS#LENGTH###: 33564
+00#VERS#URI######: 0450CaliIbnBilal.TatimmatMasabih.Zaydiyya0000087BK2-ara1
+80#VERS#BASED####:
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/929485260
+80#VERS#LINKS####:
+    https://ebookshia.com/books/view/4988/اخبار+فخ+و+خبر+یحیی+بن+عبدالله+و+اخیه+ادریس+بن+عبدالله
+90#VERS#ANNOTATOR: PV
+90#VERS#COMMENT##: The original text file contained two separate texts:
+    * 0353AbuCabbasHasani.Masabih
+    * 0450CaliIbnBilal.TatimmatMasabih
+    PV removed the editorial sections and split the continuation off
+    from the main text.
+    The PDF has a different page numbering but the text
+    seems pretty close.
+90#VERS#DATE#####: 2019-09-19
+90#VERS#ISSUES###: CLEANED_VERSION, PRIMARY_VERSION

@@ -1,0 +1,23 @@
+00#BOOK#URI######: 0428IbnSina.ShifaMantiq
+10#BOOK#GENRES###: src@keyword, src@keyword, src@keyword
+10#BOOK#TITLEA#AR: al-Manṭiq
+10#BOOK#TITLEB#AR:
+20#BOOK#WROTE####: URIs from Althurayya, comma separated
+30#BOOK#WROTE##AH: YEAR-MON-DA (X+ for unknown)
+40#BOOK#RELATED##: 0428IbnSina.Shifa (PART)
+80#BOOK#EDITIONS#: permalink, permalink, permalink
+80#BOOK#LINKS####: permalink, permalink, permalink
+80#BOOK#MSS######: permalink, permalink, permalink
+80#BOOK#STUDIES##: permalink, permalink, permalink
+80#BOOK#TRANSLAT#: permalink, permalink, permalink
+90#BOOK#COMMENT##: This is the first part (jumla)
+    of Ibn Sīnā's Kitāb al-Shifāʾ. It consists of 9 funūn:
+    1. Madkhal (based on Porphyry's Eisagoge)
+    2. Maqūlat (based on Aristotle's Categories)
+    3. ʿIbāra  (based on Aristotle's De Interpretatione)
+    4. Qiyās   (based on Aristotle's Prior Analytics)
+    5. Burhān  (based on Aristotle's Posterior Analytics)
+    6. Jadal   (based on Aristotle's Topics)
+    7. Safsaṭa (based on Aristotle's Sophistical Refutations)
+    8. Khiṭāba (based on Aristotle's Rhetorics)
+    9. Shiʿr   (based on Aristotle's Poetics)

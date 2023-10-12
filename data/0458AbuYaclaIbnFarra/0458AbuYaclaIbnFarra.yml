@@ -1,0 +1,22 @@
+00#AUTH#URI######: 0458AbuYaclaIbnFarra
+10#AUTH#ISM####AR: Muḥammad
+10#AUTH#KUNYA##AR: Abū Yaʿlá
+10#AUTH#LAQAB##AR:
+10#AUTH#NASAB##AR: b. al-Ḥusayn b. Muḥammad  b. Ḫalaf b. al-Farrāʾ
+10#AUTH#NISBA##AR: al-Ḥanbalī
+10#AUTH#SHUHRA#AR: Ibn al-Farrāʾ
+20#AUTH#BORN#####: Iraq_RE, BAGHDAD_443E333N_S
+20#AUTH#DIED#####: URIs from Althurayya, comma separated
+20#AUTH#RESIDED##: URIs from Althurayya, comma separated
+20#AUTH#VISITED##: URIs from Althurayya, comma separated
+30#AUTH#BORN###AH: 0380-MUH-XX
+30#AUTH#DIED###AH: 0458-RAM-19
+40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
+40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
+90#AUTH#COMMENT##: EI2: "Muḥammad b. al-Ḥusayn b. Muḥammad b. K̲h̲alaf b. Aḥmad
+    b. al-Farrāʾ , also known under the name of ḳāḍī Abū Yaʿlā, was one of the
+    masters of the Ḥanbālī school in Bag̲h̲dād towards the end of the reign of al-
+    Ḳādir (381-422/991-1031) and during that of al-Ḳāʾim (422-67/1031-75); born in
+    Muḥarram 380/April 990, he died on 19 Ramaḍān 458/15 August 1066.":
+    http://dx.doi.org/10.1163/1573-3912_islam_SIM_3163

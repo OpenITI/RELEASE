@@ -1,0 +1,20 @@
+00#VERS#CLENGTH##: 5647
+00#VERS#LENGTH###: 1439
+00#VERS#URI######: 0461AbuHusaynFarisi.Majlis.Sham19Y0030388BK1-ara1
+80#VERS#BASED####: NOT_FOUND
+80#VERS#COLLATED#: NOT_FOUND
+80#VERS#LINKS####: NOT_FOUND,
+    https://api.alukah.net/manu/files/manuscript_3018/makhtot.pdf
+90#VERS#ANNOTATOR: PV
+90#VERS#COMMENT##: This text is part of a juz' that also contained
+    two majlisān with the dictation of Abu Zakariya al-Bukhārī.
+    PV split both texts and fixed the structural tagging and pagination.
+    The text comes from the program Jawāmiʿ al-Kalam,
+    https://archive.org/details/GK4.5_201810
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0475AH/pre-clean/data/0461AbuHusaynFarisi/0461AbuHusaynFarisi.Majlis/0461AbuHusaynFarisi.Majlis.Sham19Y0030388BK1-ara1.completed
+90#VERS#DATE#####: 2022-06-16
+90#VERS#ISSUES###: PRIMARY_VERSION, CLEANED_VERSION

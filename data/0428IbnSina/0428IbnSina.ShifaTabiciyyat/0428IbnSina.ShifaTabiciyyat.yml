@@ -1,0 +1,22 @@
+00#BOOK#URI######: 0428IbnSina.ShifaTabiciyyat
+10#BOOK#GENRES###: src@keyword, src@keyword, src@keyword
+10#BOOK#TITLEA#AR: al-Ṭabīʿiyyāt min Kitāb al-Šifāʾ
+10#BOOK#TITLEB#AR: 
+20#BOOK#WROTE####: URIs from Althurayya, comma separated
+30#BOOK#WROTE##AH: YEAR-MON-DA (X+ for unknown)
+40#BOOK#RELATED##: 0428IbnSina.Shifa (PART)
+80#BOOK#EDITIONS#: permalink, permalink, permalink
+80#BOOK#LINKS####: permalink, permalink, permalink
+80#BOOK#MSS######: permalink, permalink, permalink
+80#BOOK#STUDIES##: permalink, permalink, permalink
+80#BOOK#TRANSLAT#: permalink, permalink, permalink
+90#BOOK#COMMENT##: This is the second part (jumla) of Ibn Sīnā's major philosophical work. 
+    It consists of 8 sections (funūn):
+      1. al-Samāʿ al-ṭabīʿī       (based on Aristotle's Physics)
+      2. al-Samāʾ wa-al-ʿālam     (based on Aristotle's De caelo)
+      3. al-Kawn wa-al-fasād      (based on Aristotle's De generatione et corruptione)
+      4. al-Afʿāl wa-al-inficālāt (based on Aristotle's Meteorology IV)
+      5. Maʿādin                  (based on Aristotle's Meteorology I-III)
+      6. Nafs                     (based on Aristotle's De Anima)
+      7. Nabāt                    (based on Aristotle's De Plantis)
+      8. Ḥayawān                  (based on Aristotle's History, Parts and Generation of Animals)

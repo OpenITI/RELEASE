@@ -1,0 +1,26 @@
+00#VERS#CLENGTH##: 486932
+00#VERS#LENGTH###: 116754
+00#VERS#URI######: 0429AbuMansurThacalibi.ThimarQulub.Shamela0006896-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/4771458136
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/4771458136
+80#VERS#LINKS####: https://archive.org/details/2841pdf_202001;
+    https://www.noor-book.com/كتاب-ثمار-القلوب-في-المضاف-والمنسوب-ط-المعارف-pdf
+90#VERS#ANNOTATOR: Gowaart Van Den Bossche
+90#VERS#COMMENT##: Originally annotated by unknown, validated by
+    Gowaart. Structure was left intact but I have made the headers more
+    consistent (this was done to better extract the headers from the file
+    for personal research purposes, but also improves the quality of the
+    digital text).
+    NOTE OF THE REVIEWER (HRH): The idea of the book is to explain about words,
+    phrases, proverbs, and names that were used as famous sayings in Arabic literary
+    context. So, the numbers are lexical entries, not headers, and therefore I
+    changed their tag from second-level headers to simplified tag for lexical
+    entries: ### $. 2- A few untagged headers tagged. Removed PageV01P297-8 and
+    PageV01P597 which were duplicate.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0450AH/pre-clean/data/0429AbuMansurThacalibi/0429AbuMansurThacalibi.ThimarQulub/0429AbuMansurThacalibi.ThimarQulub.Shamela0006896-ara1.mARkdown
+90#VERS#DATE#####: 2019-08-01
+90#VERS#ISSUES###: PAGINATION, HTML_TAGS, PRIMARY_VERSION, CLEANED_VERSION

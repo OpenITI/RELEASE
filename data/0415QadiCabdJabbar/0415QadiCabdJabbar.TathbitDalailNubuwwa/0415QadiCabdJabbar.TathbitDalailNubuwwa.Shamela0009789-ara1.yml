@@ -1,0 +1,25 @@
+00#VERS#CLENGTH##: 623341
+00#VERS#LENGTH###: 149159
+00#VERS#URI######: 0415QadiCabdJabbar.TathbitDalailNubuwwa.Shamela0009789-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/17065269
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/17065269
+80#VERS#LINKS####: https://archive.org/details/tathbitnbwh/mode/2up
+90#VERS#ANNOTATOR: AQ; Gowaart Van Den Bossche
+90#VERS#COMMENT##: Automatic tagging was based on the table of content
+    created by the editor, so I had to remove many arbitrary headings Apart
+    from that the editor has added headings within [] to the chapter
+    headings (bābs), those are kept. The URI should be changed as I have
+    suggested already to "0415QadiCabdJabbar"
+    Gowaart: deleted editorial sections, footnote markers and forward slashes which
+    were still present. URI has been changed already. I also deleted the volume
+    headers, as these are clearly editorial, the text is not meaningfully divided
+    into volumes. I tagged the poetry where I could find it easily (either there
+    isn't much poetry in the text, or the majority hadn't been formatted as poetry).
+    Pagination seems correct.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0425AH/pre-clean/data/0415QadiCabdJabbar/0415QadiCabdJabbar.TathbitDalailNubuwwa/0415QadiCabdJabbar.TathbitDalailNubuwwa.Shamela0009789-ara1.mARkdown
+90#VERS#DATE#####: 2020-04-24
+90#VERS#ISSUES###: NO_MAJOR_ISSUES, PRIMARY_VERSION, CLEANED_VERSION

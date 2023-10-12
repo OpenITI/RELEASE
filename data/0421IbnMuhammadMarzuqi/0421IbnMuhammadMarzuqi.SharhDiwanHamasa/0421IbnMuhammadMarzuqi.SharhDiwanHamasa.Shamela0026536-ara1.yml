@@ -1,0 +1,18 @@
+00#VERS#CLENGTH##: 1359763
+00#VERS#LENGTH###: 319814
+00#VERS#URI######: 0421IbnMuhammadMarzuqi.SharhDiwanHamasa.Shamela0026536-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/4770417455
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/4770417455
+80#VERS#LINKS####: 
+    https://ia802707.us.archive.org/8/items/WAQ73795_411/73795.pdf
+90#VERS#ANNOTATOR: HRH
+90#VERS#COMMENT##: 1- The second-level headers have numbers in the PDF.
+    So, it’s possible to add numbers to them using RegEx. 2- NO 429 in page
+    820 is missing.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0425AH/pre-clean/data/0421IbnMuhammadMarzuqi/0421IbnMuhammadMarzuqi.SharhDiwanHamasa/0421IbnMuhammadMarzuqi.SharhDiwanHamasa.Shamela0026536-ara1.completed
+90#VERS#DATE#####: 2020-03-05
+90#VERS#ISSUES###: HTML_TAGS, PRIMARY_VERSION, CLEANED_VERSION

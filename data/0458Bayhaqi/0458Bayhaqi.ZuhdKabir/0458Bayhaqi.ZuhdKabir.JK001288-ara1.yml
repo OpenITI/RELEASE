@@ -1,0 +1,15 @@
+00#VERS#CLENGTH##: 232522
+00#VERS#LENGTH###: 59083
+00#VERS#URI######: 0458Bayhaqi.ZuhdKabir.JK001288-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/4771214603 (1996 reprint)
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/4771214603
+80#VERS#LINKS####: https://ia802806.us.archive.org/27/items/FP8609/8609.pdf
+90#VERS#ANNOTATOR: HRH
+90#VERS#COMMENT##: There is a PARATEXT at the beginning of each section (Juz’). 2- The last part of the text (“الاستدراكات”) is a kind of appendix added by the editor.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0475AH/pre-clean/data/0458Bayhaqi/0458Bayhaqi.ZuhdKabir/0458Bayhaqi.ZuhdKabir.JK001288-ara1.completed
+90#VERS#DATE#####: 2020-05-07
+90#VERS#ISSUES###: RANDOM_CHARS, PRIMARY_VERSION, CLEANED_VERSION

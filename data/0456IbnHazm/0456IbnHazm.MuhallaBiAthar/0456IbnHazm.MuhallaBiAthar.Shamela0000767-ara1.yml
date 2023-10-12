@@ -1,0 +1,15 @@
+00#VERS#CLENGTH##: 5714889
+00#VERS#LENGTH###: 1480381
+00#VERS#URI######: 0456IbnHazm.MuhallaBiAthar.Shamela0000767-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/58651594
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/708672651 (2003 edition)
+80#VERS#LINKS####: https://archive.org/details/FP74771/mode/1up
+90#VERS#ANNOTATOR: HRH
+90#VERS#COMMENT##: The version I used for collation is a reprint. 2- Each chapter consists of several “مسألة”. Most of these Masails have titles added in square brackets. Ideally, all of them should have separate titles. So, I marked the untitled Masails as paragraphs but with two asterisks (# **) so that they are distinguishable and their titles can be added later by a specialist who will read the text carefully.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0475AH/pre-clean/data/0456IbnHazm/0456IbnHazm.MuhallaBiAthar/0456IbnHazm.MuhallaBiAthar.Shamela0000767-ara1.completed
+90#VERS#DATE#####: 2020-07-15
+90#VERS#ISSUES###: NO_MAJOR_ISSUES, PRIMARY_VERSION, CLEANED_VERSION

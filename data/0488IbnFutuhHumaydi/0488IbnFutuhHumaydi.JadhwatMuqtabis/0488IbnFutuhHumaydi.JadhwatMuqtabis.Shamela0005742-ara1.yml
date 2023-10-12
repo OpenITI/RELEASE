@@ -1,0 +1,18 @@
+00#VERS#CLENGTH##: 339639
+00#VERS#LENGTH###: 84575
+00#VERS#URI######: 0488IbnFutuhHumaydi.JadhwatMuqtabis.Shamela0005742-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/4770608395
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/4770608395
+80#VERS#LINKS####: https://ia600306.us.archive.org/1/items/jdhwh-almqtbs
+    /jdhwh-almqtbs.pdf
+90#VERS#ANNOTATOR: HRH
+90#VERS#COMMENT##: The text did not have automatic tags for names. So, I
+    put the biographical tags manually. It would be better if the name
+    entries are numbered using RegEx.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0500AH/pre-clean/data/0488IbnFutuhHumaydi/0488IbnFutuhHumaydi.JadhwatMuqtabis/0488IbnFutuhHumaydi.JadhwatMuqtabis.Shamela0005742-ara1.completed
+90#VERS#DATE#####: 2020-05-16
+90#VERS#ISSUES###: HTML_TAGS, EDITORIAL_SECTIONS, PRIMARY_VERSION, CLEANED_VERSION

@@ -1,0 +1,18 @@
+00#VERS#CLENGTH##: 52527
+00#VERS#LENGTH###: 12931
+00#VERS#URI######: 0456IbnHazm.Talkhis.JK009349-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/957212662
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/957212662
+80#VERS#LINKS####: 
+    https://archive.org/stream/waq38240/03_38242#page/n142/mode/2up
+90#VERS#ANNOTATOR: AQ
+90#VERS#COMMENT##: pp. 141-184 of the Rasail Ibn Hazm (ed. I. Abbas). only
+    numbered paragraphs have been correctly tagged. The rest are not.
+    NOTE OF THE REVIEWER (HRH): Removed the tag for the title of the text.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0475AH/pre-clean/data/0456IbnHazm/0456IbnHazm.Talkhis/0456IbnHazm.Talkhis.JK009349-ara1.mARkdown
+90#VERS#DATE#####: 2020-09-30
+90#VERS#ISSUES###: NO_MAJOR_ISSUES, PRIMARY_VERSION, CLEANED_VERSION
