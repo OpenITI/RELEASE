@@ -1,0 +1,30 @@
+00#VERS#CLENGTH##: 281538
+00#VERS#LENGTH###: 69056
+00#VERS#URI######: 0296IbnMuctazz.TabaqatShucara.Shamela0007867-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/949446778
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/949446778
+80#VERS#LINKS####: https://waqfeya.com/book.php?bid=7618
+90#VERS#ANNOTATOR: HRH
+90#VERS#COMMENT##: 1- These pages are missing in the digital version:
+    418, 419, 422, 423, 426, 427,430, 431. I had a quick glance at the text
+    and I found some little inaccuracies: in page 160, verse number 7 and in
+    page 334, the first three verses are missing in Editpro version.
+    Moreover, from page 429 onwards, the puny lines that show the page
+    numbers and the line numbers of the original book are missing. 2- At the
+    end of the book, there are three appendixes that have been added by the
+    editor. The first "زيادات في المختصر، المختار من طبقات الشعراء"
+    (PageV01P429) is a selections of the poems in Tabaqat; the second
+    "اختلاف الطبقات والمختصر" (PageV01P462) includes the differences between
+    these two texts; and the third "نصوص ليست في الطبقات ولا المختصر"
+    (PageV01P463) includes the parts that do not appear in those two texts.
+    I tagged these appendixes as editorial  parts, since they are not part
+    of the original text. However, the beginning of each part is marked by
+    three asterisk (#***) so that they can be found easily. This needs the
+    opinion of a specialist.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0300AH/pre-clean/data/0296IbnMuctazz/0296IbnMuctazz.TabaqatShucara/0296IbnMuctazz.TabaqatShucara.Shamela0007867-ara1.completed
+90#VERS#DATE#####: 2019-08-27
+90#VERS#ISSUES###: MISSING_PARTS, EDITORIAL_SECTIONS, PRIMARY_VERSION, CLEANED_VERSION

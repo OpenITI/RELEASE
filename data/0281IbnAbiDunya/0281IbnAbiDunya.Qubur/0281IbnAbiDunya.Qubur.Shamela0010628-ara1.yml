@@ -1,0 +1,20 @@
+00#VERS#CLENGTH##: 67910
+00#VERS#LENGTH###: 17195
+00#VERS#URI######: 0281IbnAbiDunya.Qubur.Shamela0010628-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/4770558965
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/4770558965
+80#VERS#LINKS####: 
+    https://ia600504.us.archive.org/20/items/waq45373/45373.pdf
+90#VERS#ANNOTATOR: MAROUSSIA
+90#VERS#COMMENT##: numerals and folio numbers tagged as paragraphs with
+    one single hashtag.
+    NOTE OF THE REVIEWER (HRH): The PDF includes an appendix at the end which
+    collects the parts nonexistent in the manuscript but quoted in other sources.
+    This appendix is missing in the digital version.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0300AH/pre-clean/data/0281IbnAbiDunya/0281IbnAbiDunya.Qubur/0281IbnAbiDunya.Qubur.Shamela0010628-ara1.mARkdown
+90#VERS#DATE#####: 2019-07-22
+90#VERS#ISSUES###: PAGINATION, PRIMARY_VERSION, CLEANED_VERSION

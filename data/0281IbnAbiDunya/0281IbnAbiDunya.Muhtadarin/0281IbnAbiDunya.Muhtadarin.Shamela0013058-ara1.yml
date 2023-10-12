@@ -1,0 +1,16 @@
+00#VERS#CLENGTH##: 87972
+00#VERS#LENGTH###: 23119
+00#VERS#URI######: 0281IbnAbiDunya.Muhtadarin.Shamela0013058-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/4770612700
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/4770612700
+80#VERS#LINKS####: https://www.noor-book.com/كتاب-المحتضرين-ابن-أبي-الدنيا-pdf
+90#VERS#ANNOTATOR: Maroussia
+90#VERS#COMMENT##: numerals and folio numbers tagged as paragraph with
+    one single hashtag instead of three hashtags and a pipe.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0300AH/pre-clean/data/0281IbnAbiDunya/0281IbnAbiDunya.Muhtadarin/0281IbnAbiDunya.Muhtadarin.Shamela0013058-ara1.mARkdown
+90#VERS#DATE#####: 2019-07-26
+90#VERS#ISSUES###: PAGINATION, PRIMARY_VERSION, CLEANED_VERSION

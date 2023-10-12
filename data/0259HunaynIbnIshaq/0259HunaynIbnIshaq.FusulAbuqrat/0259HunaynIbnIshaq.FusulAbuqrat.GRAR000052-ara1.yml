@@ -1,0 +1,19 @@
+00#VERS#CLENGTH##: 33653
+00#VERS#LENGTH###: 8564
+00#VERS#URI######: 0259HunaynIbnIshaq.FusulAbuqrat.GRAR000052-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/69149256,
+    https://www.graeco-arabic-studies.org/single-text/text/tytler-187.html
+80#VERS#COLLATED#: permalink, permalink, permalink
+80#VERS#LINKS####: all@id, vol1@id, vol2@id, vol3@id, volX@id
+90#VERS#ANNOTATOR: the name of the annotator (latin characters; please
+    use consistently)
+90#VERS#COMMENT##: Ed. John Tytler (1832), The Aphorisms of Hippocrates,
+    translated into Arabic by Honain Ben Ishak, Physician to the Caliph
+    Motawukkul. Calcutta: The Committee of Public Instruction, 1-65.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0275AH/pre-clean/data/0259HunaynIbnIshaq/0259HunaynIbnIshaq.FusulAbuqrat/0259HunaynIbnIshaq.FusulAbuqrat.GRAR000052-ara1
+90#VERS#DATE#####: YYYY-MM-DD
+90#VERS#ISSUES###: PRIMARY_VERSION, CLEANED_VERSION

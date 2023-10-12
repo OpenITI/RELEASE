@@ -1,0 +1,18 @@
+00#VERS#CLENGTH##: 91289
+00#VERS#LENGTH###: 23998
+00#VERS#URI######: 0275AbuBakrMarrudhi.Warac.Shamela0006785-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/39620646
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/39620646
+80#VERS#LINKS####:
+    https://ia902707.us.archive.org/26/items/FP34894/34894.pdf
+90#VERS#ANNOTATOR: MAROUSSIA
+90#VERS#COMMENT##: annotation completed. no major changes were added.
+    headers and numerals were sorted out.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0250AH/pre-
+    clean/data/0241IbnHanbal/0241IbnHanbal.Warac/0241IbnHanbal.Warac.Shamela0006785-ara1.mARkdown
+90#VERS#DATE#####: 2019-07-17
+90#VERS#ISSUES###: PAGINATION, PRIMARY_VERSION, CLEANED_VERSION

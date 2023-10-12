@@ -1,0 +1,47 @@
+00#BOOK#URI######: 0230IbnSacd.TabaqatKubra
+10#BOOK#GENRES###: src@keyword, src@keyword, src@keyword
+10#BOOK#TITLEA#AR: al-Ṭabaqāt al-kubrá
+10#BOOK#TITLEB#AR: 
+20#BOOK#WROTE####: URIs from Althurayya, comma separated
+30#BOOK#WROTE##AH: YEAR-MON-DA (X+ for unknown)
+40#BOOK#RELATED##: URI of a book from OpenITI, or [Author's Title],
+    followed by abbreviation for relation type between brackets (see
+    book_relations repo). Only include relations with older books. Separate
+    related books with semicolon.
+80#BOOK#EDITIONS#: permalink, permalink, permalink
+80#BOOK#LINKS####: permalink, permalink, permalink
+80#BOOK#MSS######: permalink, permalink, permalink
+80#BOOK#STUDIES##: permalink, permalink, permalink
+80#BOOK#TRANSLAT#: permalink, permalink, permalink
+90#BOOK#COMMENT##: Until 2001, there was not yet a full edition of the work
+    (this overview of the editions is based on  Muḥammad bin ʿAbd Allāh al-Salloomi, 
+    The Missing and Unpublished Part of the Third Generation of the Ṣaḥābah, 
+    PhD thesis, Lampeter: University of Wales, 1996, pp. 67-68,
+    https://repository.uwtsd.ac.uk/id/eprint/1029/1/503583.pdf)
+    The earliest editions:
+    * ed. Sachau et al., Leiden: Brill, 1904-1918. Not in the corpus
+    * ed. n.n., Cairo: Dār al-Taḥrīr, 18 vols (based on the Sachau ed.;
+      includes Arabic translation of the German indexes and notes).
+      Not in the corpus
+    * ed. Iḥsān ʿAbbās, Beirut: Dār Ṣādir, 8 vols. + 1 index volume
+      (JK000530, Shamela0009351, Shia003044Vols):
+      Based on the Sachau/Dār al-Taḥrīr ed.; includes only the indexes, 
+      not the notes, from the Sachau ed.
+    All the above editions contain important gaps:
+    * the third, fourth and fifth generation of the ṣaḥāba;
+    * the tābiʿūn of Medina
+    These gaps were later filled by partial editions based on new manuscripts:
+   * al-Ṭabaqa al-thālitha min al-ṣaḥāba, ed. al-Sallūmī, 
+      PhD dissertation, Wales University (https://repository.uwtsd.ac.uk/id/eprint/1029/1/503583.pdf).
+      Not in the corpus as such.
+    * al-Ṭabaqa al-rābiʿa min al-ṣaḥāba, Ṭā'if
+      (Shamela0012416)
+    * al-Ṭabaqa al-khāmisa fī man qabaḍa rasūl Allāh, ed. al-Sulamī, Ṭā'if
+      (Shamela0001689)
+    * ed. Ziyād Manṣūr, Tābiʿī ahl al-Madīna, 1983
+      (JK000744, Shamela009352, Shamela0007666)
+    Some newer editions contain (some of) the missing parts:
+    * ed. Muḥammad ʿAbd al-Qādir ʿAṭā, Beirut: Dār al-Kutub al-ʿIlmiyya
+      (Shamela0001686): adds the text of the Tābiʿī Ahl al-Madīna.
+    * ed. Cairo: al-Khānjī, 2001: includes all missing parts
+      (ShamAY0035884-ara1)

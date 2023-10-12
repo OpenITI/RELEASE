@@ -1,0 +1,26 @@
+00#VERS#CLENGTH##: 41103
+00#VERS#LENGTH###: 11131
+00#VERS#URI######: 0280CuthmanIbnSacidDarimi.TarikhIbnMacin.Shamela0000148-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/4770069559
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/4770069559
+80#VERS#LINKS####: https://www.almeshkat.net/book/1157
+90#VERS#ANNOTATOR: HRH
+90#VERS#COMMENT##: Most page numbers are not in their correct places.
+    2-From number 111 onwards, I tagged all numbers as name (i.e. ### $).
+    Although the names are not at the beginning of the sentences, the
+    structure of the book and the alphabetical categorization clearly shows
+    that they must be tagged as names. Numbers before 111 have a different
+    structure. I tagged all of them with an asterisk. Some of them include
+    information about a specific person. I tagged such numbers as name with
+    an asterisk (i.e. ### $ *); some others include information about more
+    than one person (mostly a comparison between two persons that need to be
+    tagged separately) or some other kind of information. I tagged such
+    numbers as ordinary paragraphs but again with an asterisk (i.e # *) so
+    that they are distinguishable from the other numbers. 3- It would be
+    better if the text is reviewed by a specialist in Hadith literature.
+    3-ATTENTION: There is another book entitled “تاريخ ابن معين (رواية
+    الدوري)” in “0233YahyaIbnMacin.TarikhIbnMacin” folder. I couldn’t find
+    it (I created an “edition not found” issue for it and filled out the
+    respective yml files).
+90#VERS#DATE#####: 2019-10-28
+90#VERS#ISSUES###: PAGINATION, PARATEXT

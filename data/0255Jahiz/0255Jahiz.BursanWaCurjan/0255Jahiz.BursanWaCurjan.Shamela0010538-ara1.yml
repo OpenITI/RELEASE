@@ -1,0 +1,16 @@
+00#VERS#CLENGTH##: 159908
+00#VERS#LENGTH###: 38842
+00#VERS#URI######: 0255Jahiz.BursanWaCurjan.Shamela0010538-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/26023670
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/26023670
+80#VERS#LINKS####: http://www.almeshkat.net/book/1645
+90#VERS#ANNOTATOR: HRH
+90#VERS#COMMENT##: 
+    NB: check lines of poetry that seem too short: line numbers 1167, 4112
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0275AH/pre-clean/data/0255Jahiz/0255Jahiz.BursanWaCurjan/0255Jahiz.BursanWaCurjan.Shamela0010538-ara1.mARkdown
+90#VERS#DATE#####: 2019-07-26
+90#VERS#ISSUES###: HTML_TAGS, PRIMARY_VERSION, CLEANED_VERSION

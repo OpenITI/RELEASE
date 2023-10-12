@@ -1,0 +1,24 @@
+00#VERS#CLENGTH##: 356299
+00#VERS#LENGTH###: 87982
+00#VERS#URI######: 0276IbnQutaybaDinawari.ShicrWaShucara.Shamela0023785-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/4771235999 (1423 edition)
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/4771235999
+80#VERS#LINKS####: 
+    https://ia600106.us.archive.org/21/items/Eidh416_gmail_20180131_1856/ الشعر
+    والشعراء دار الحديث.pdf
+90#VERS#ANNOTATOR: Leonie Nückell; Gowaart Van Den Bossche
+90#VERS#COMMENT##: Originally annotated by Leonie, validated by Gowaart.
+    Editorial section marked, a few biographies marked as female rather than
+    male, and footnote markings deleted with regex.
+    NOTE OF THE REVIEWER (HRH): Editorial sections removed. One header tag added in
+    PageV01P098, and the header in PageV01P099 changed into second-level. 2- Other
+    editions of the text are accessible:
+    https://archive.org/details/Shi3r_Washu3ara;
+    https://archive.org/details/0588pdf_202002
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0300AH/pre-clean/data/0276IbnQutaybaDinawari/0276IbnQutaybaDinawari.ShicrWaShucara/0276IbnQutaybaDinawari.ShicrWaShucara.Shamela0023785-ara1.mARkdown
+90#VERS#DATE#####: 2019-07-30
+90#VERS#ISSUES###: NO_MAJOR_ISSUES, PRIMARY_VERSION, CLEANED_VERSION

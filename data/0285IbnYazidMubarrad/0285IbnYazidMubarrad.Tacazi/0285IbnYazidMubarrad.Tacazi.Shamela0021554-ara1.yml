@@ -1,0 +1,18 @@
+00#VERS#CLENGTH##: 170766
+00#VERS#LENGTH###: 42552
+00#VERS#URI######: 0285IbnYazidMubarrad.Tacazi.Shamela0021554-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/929498358
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/929498358
+80#VERS#LINKS####: https://fossha.com/wp-content/uploads/2016/11/المراثي-والتعازي.pdf
+90#VERS#ANNOTATOR: HRH
+90#VERS#COMMENT##: 1- A part of pages 142-146 is missing (both in PDF
+    and in Editpro text). 2- Some of the titles that are in brackets in the
+    PDF are missing in the text. I just added a blank header in their
+    places.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0300AH/pre-clean/data/0285IbnYazidMubarrad/0285IbnYazidMubarrad.Tacazi/0285IbnYazidMubarrad.Tacazi.Shamela0021554-ara1.mARkdown
+90#VERS#DATE#####: 2019-09-26
+90#VERS#ISSUES###: RANDOM_CHARS, MISSING_PARTS, PRIMARY_VERSION, CLEANED_VERSION

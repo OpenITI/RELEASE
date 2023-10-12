@@ -1,0 +1,16 @@
+00#VERS#CLENGTH##: 5324
+00#VERS#LENGTH###: 1313
+00#VERS#URI######: 0203IbnSulaymanGhazi.MusnadRida.Shia001268-ara1
+80#VERS#BASED####: https://www.worldcat.org/title/784526249
+80#VERS#COLLATED#: permalink, permalink, permalink
+80#VERS#LINKS####: http://www.mediafire.com/?52x0wxqb811h99w
+90#VERS#ANNOTATOR: the name of the annotator (latin characters; please
+    use consistently)
+90#VERS#COMMENT##: PV removed the editorial introduction,
+    the takhrīj of the ḥadīths and commentary.
+    The original text file also contained a version of the Musnad
+    as quoted by al-ʿAllāma al-Majlisī in his Biḥār al-Anwār (pp. 67-68);
+    PV removed this.
+    PV tagged the colophon as PARATEXT but kept it in.
+90#VERS#DATE#####: YYYY-MM-DD
+90#VERS#ISSUES###: CLEANED_VERSION, PRIMARY_VERSION, PARATEXT

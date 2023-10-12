@@ -1,0 +1,20 @@
+00#VERS#CLENGTH##: 253470
+00#VERS#LENGTH###: 56286
+00#VERS#URI######: 0276IbnQutaybaDinawari.Jarathim.Shamela0009228-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/784524366
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/784524366
+80#VERS#LINKS####: https://archive.org/details/jarathim
+90#VERS#ANNOTATOR: Gowaart Van Den Bossche
+90#VERS#COMMENT##: Annotated by unknown annotator, validated by Gowaart.
+    Original annotation had less hierarchical subdivision of headers, text
+    now has three levels of headers. Some of this has been decided on the
+    basis of content rather than on the edition's layout which is somewhat
+    haphazard.
+    NOTE OF THE REVIEWER (HRH): I made major changes in the levelling of the headers. However, since the annotator has tagged the text “on the basis of content”, I kept his work as a separate file with completed extension, and saved my file with mARkdown extension. It’s possible that the annotator’s tagging is more accurate than mine since I didn’t read the text and my levelling is just based on what I can infer from the titles. A specialist can decide about this by reading the whole text closely.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0300AH/pre-clean/data/0276IbnQutaybaDinawari/0276IbnQutaybaDinawari.Jarathim/0276IbnQutaybaDinawari.Jarathim.Shamela0009228-ara1.mARkdown
+90#VERS#DATE#####: 2019-07-25
+90#VERS#ISSUES###: HTML_TAGS, PRIMARY_VERSION, CLEANED_VERSION

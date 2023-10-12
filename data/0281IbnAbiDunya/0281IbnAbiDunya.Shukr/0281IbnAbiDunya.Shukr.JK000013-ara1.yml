@@ -1,0 +1,20 @@
+00#VERS#CLENGTH##: 42401
+00#VERS#LENGTH###: 11152
+00#VERS#URI######: 0281IbnAbiDunya.Shukr.JK000013-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/4770100099
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/781553376
+80#VERS#LINKS####: https://www.noor-book.com/كتاب-موسوعة-ابن-أبي-الدنيا-pdf
+90#VERS#ANNOTATOR: HRH
+90#VERS#COMMENT##: The Editpro edition was not found. I used the third
+    volume of “موسوعة ابن أبي الدنيا”; nevertheless, the difference between
+    the two editions is not more than a few words. In any case, this short
+    treatise has no title and nothing else that need to be tagged
+    (structurally).
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    WARNING: another version of this text may have more developed annotation!
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0300AH/pre-clean/data/0281IbnAbiDunya/0281IbnAbiDunya.Shukr/0281IbnAbiDunya.Shukr.JK000013-ara1.mARkdown
+90#VERS#DATE#####: 2019-09-30
+90#VERS#ISSUES###: RANDOM_CHARS, PRIMARY_VERSION, CLEANED_VERSION

@@ -1,0 +1,20 @@
+00#VERS#CLENGTH##: 1928659
+00#VERS#LENGTH###: 498138
+00#VERS#URI######: 0261Muslim.Sahih.Shamela0001727-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/1158880746
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/1158880746
+80#VERS#LINKS####: https://www.noor-book.com/كتاب-2674-صحيح-الامام-مسلم-ت-محمد-
+    فؤاد-عبدالباقي-ط-1-دار-احياء-التراث-العربي-pdf; https://archive.org/details/SASEH-Moslem
+90#VERS#ANNOTATOR: Omar Abdel-Ghaffar + (SHARIAsource-CnC)
+90#VERS#COMMENT##: The text itself generally corresponds to the printed version.
+    However, the pagination includes repetitions and many "V000P000" that appear
+    next to headings. The annotation system is off because of of the numbering of
+    the hadiths themselves.
+    NOTE OF THE REVIEWER (HRH): Some second-level headers do not exist in the PDF and are typed unnumbered by the typist(s). I tagged them with an asterisk (### || *).  2- Find other editions: https://archive.org/details/SahihMuslimKarmi; https://archive.org/details/sahih.muslem_201904; https://archive.org/details/20191030_20191030_1310
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0275AH/pre-clean/data/0261Muslim/0261Muslim.Sahih/0261Muslim.Sahih.Shamela0001727-ara1.mARkdown
+90#VERS#DATE#####: 26-10-21
+90#VERS#ISSUES###: PAGINATION, PRIMARY_VERSION, CLEANED_VERSION

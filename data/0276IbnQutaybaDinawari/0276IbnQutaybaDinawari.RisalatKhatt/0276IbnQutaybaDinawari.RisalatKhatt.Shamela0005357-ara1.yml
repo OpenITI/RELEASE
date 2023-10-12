@@ -1,0 +1,23 @@
+00#VERS#CLENGTH##: 9252
+00#VERS#LENGTH###: 2166
+00#VERS#URI######: 0276IbnQutaybaDinawari.RisalatKhatt.Shamela0005357-ara1
+80#VERS#BASED####: NOT_FOUND
+80#VERS#COLLATED#: NOT_FOUND
+80#VERS#LINKS####: https://archive.org/details/0412019001013
+90#VERS#ANNOTATOR: Leonie  Nückell; Gowaart Van Den Bossche
+90#VERS#COMMENT##: Originally annotated by Leonie, validated by Gowaart.
+    Leonie used a different edition to annotate, but the correct base text
+    is now on archive, though it could not be located in Worldcat.
+    Pagination, noted by Leonie as differing, is now the same between pdf
+    and digital text.
+    NOTE OF THE REVIEWER (HRH): The PDF is a short text published in a
+    periodical, and the digital version seems to be a reprint as the page numbers
+    are different. A different edition is accessible here:
+    http://ia600502.us.archive.org/9/items/khattwa9lam/khattwa9lam.pdf
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0300AH/pre-clean/data/0276IbnQutaybaDinawari/0276IbnQutaybaDinawari.RisalatKhatt/0276IbnQutaybaDinawari.RisalatKhatt.Shamela0005357-ara1.mARkdown
+90#VERS#DATE#####: 2019-07-30
+90#VERS#ISSUES###: NO_MAJOR_ISSUES, PRIMARY_VERSION, CLEANED_VERSION

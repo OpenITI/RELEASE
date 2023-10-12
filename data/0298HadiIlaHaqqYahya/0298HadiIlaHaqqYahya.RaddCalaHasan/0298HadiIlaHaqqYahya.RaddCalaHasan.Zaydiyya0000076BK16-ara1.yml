@@ -1,0 +1,23 @@
+00#VERS#CLENGTH##: 174078
+00#VERS#LENGTH###: 41471
+00#VERS#URI######: 0298HadiIlaHaqqYahya.RaddCalaHasan.Zaydiyya0000076BK16-ara1
+80#VERS#BASED####: NOT_FOUND
+80#VERS#COLLATED#: permalink, permalink, permalink
+80#VERS#LINKS####:
+    https://www.mediafire.com/file/wifhrxa0hvw03y1/mjmw_rsyl_lmm_alhadi.pdf,
+    https://ziydia.com/Book/187
+90#VERS#ANNOTATOR: PV
+90#VERS#COMMENT##: The original text file was a collection of 37
+    separate texts. The text is based on the edition by Majd al-Dīn al-Muʾayyadī,
+    but the page numbers do not match any of the reprints of the edition I have seen
+    (ed. Maktabat Ahl al-Bayt 2001; ed. Muassasa Imam Zayd 2001).
+    Another collection, Zaydiyya0000073,
+    contained 36 texts, including two that were not in Zaydiyya0000076;
+    0298HadiIlaHaqqYahya.Khashya, 0298HadiIlaHaqqYahya.MuntazacMinSiyasatNafs.
+    In turn, Zaydiyya0000076 contained 3 texts that were not in Zaydiyya0000073;
+    298HadiIlaHaqq.MinSiratHadi, 0298HadiIlaHaqqYahya.CahdImamHadi,
+    0298HadiIlaHaqqYahya.MasalaLiAbiQasim).
+    PV removed editorial parts, tagged the section headings,
+    and split the text file into its parts.
+90#VERS#DATE#####: 2023-08-22
+90#VERS#ISSUES###: NO_MAJOR_ISSUES, CLEANED_VERSION, PRIMARY_VERSION

@@ -1,0 +1,14 @@
+00#VERS#CLENGTH##: 98638
+00#VERS#LENGTH###: 26453
+00#VERS#URI######: 0279IbnAbiKhaythama.TarikhKabir.JK007002-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/4771217788
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/4771217788
+80#VERS#LINKS####: http://forum.makkawi.com/showthread.php?t=97009
+90#VERS#ANNOTATOR: HRH
+90#VERS#COMMENT##: This version contains only an extract from part (sifr) 3.
+    1- The first part of the book’s table of contents is
+    descriptive (i.e. a description of the contents of the paragraphs) and
+    cannot be tagged. 2- The vertical lines in the text (|) signify the end
+    of lines in the PDF. I didn’t delete these lines.
+90#VERS#DATE#####: 2019-10-12
+90#VERS#ISSUES###: RANDOM_CHARS, INCOMPLETE_VERSION

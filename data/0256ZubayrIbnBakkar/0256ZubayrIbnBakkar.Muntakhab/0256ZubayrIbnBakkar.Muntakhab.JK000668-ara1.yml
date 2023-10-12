@@ -1,0 +1,14 @@
+00#VERS#CLENGTH##: 26581
+00#VERS#LENGTH###: 6875
+00#VERS#URI######: 0256ZubayrIbnBakkar.Muntakhab.JK000668-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/928769152
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/928769152
+80#VERS#LINKS####: 
+90#VERS#ANNOTATOR: HRH
+90#VERS#COMMENT##: All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0275AH/pre-clean/data/0256ZubayrIbnBakkar/0256ZubayrIbnBakkar.Muntakhab/0256ZubayrIbnBakkar.Muntakhab.JK000668-ara1.mARkdown
+90#VERS#DATE#####: 2019-10-21
+90#VERS#ISSUES###: RANDOM_CHARS, PRIMARY_VERSION, CLEANED_VERSION

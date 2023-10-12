@@ -1,0 +1,21 @@
+00#VERS#CLENGTH##: 10251
+00#VERS#LENGTH###: 2624
+00#VERS#URI######: 0281IbnAbiDunya.Yaqin.Shamela0008220-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/63532226
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/235968565
+80#VERS#LINKS####: https://waqfeya.com/book.php?bid=670
+90#VERS#ANNOTATOR: HRH
+90#VERS#COMMENT##: 1- The page numbers at the top of the pages are
+    entered into the text. 2- From number 20 onwards, the numbers in the
+    Editpro text are one less than those in the PDF; however, this is just a
+    difference in pagination and the content is almost the same (I said
+    “almost” because a few words are different in the whole of the Editpro
+    text and that’s because I have used a different edition for collation
+    (Editpro version was not found)).
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0300AH/pre-clean/data/0281IbnAbiDunya/0281IbnAbiDunya.Yaqin/0281IbnAbiDunya.Yaqin.Shamela0008220-ara1.completed
+90#VERS#DATE#####: 2019-09-28
+90#VERS#ISSUES###: PAGINATION, PRIMARY_VERSION, CLEANED_VERSION
