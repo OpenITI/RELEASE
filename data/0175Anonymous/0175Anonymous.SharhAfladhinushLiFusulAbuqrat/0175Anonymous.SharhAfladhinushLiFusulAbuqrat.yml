@@ -1,0 +1,23 @@
+00#BOOK#URI######: 0175Anonymous.SharhAfladhinushLiFusulAbuqrat
+10#BOOK#GENRES###: _TIBB
+10#BOOK#TITLEA#AR: Kitāb al-Muʾallif
+10#BOOK#TITLEB#AR: Risālaŧ al-Muʾallif
+20#BOOK#WROTE####: URIs from Althurayya, comma separated
+30#BOOK#WROTE##AH: YEAR-MON-DA (X+ for unknown)
+40#BOOK#RELATED##: 0001Hippocrates.Aphorismoi (COMM.sharh)
+80#BOOK#EDITIONS#: permalink, permalink, permalink
+80#BOOK#LINKS####: permalink, permalink, permalink
+80#BOOK#MSS######: permalink, permalink, permalink
+80#BOOK#STUDIES##: https://doi.org/10.1163/2212943X-00503003
+80#BOOK#TRANSLAT#: permalink, permalink, permalink
+90#BOOK#COMMENT##: This text, extant in a single manuscript 
+    (ms. Ḥaddād, now in the Sami I. Haddad Memorial Library),
+    was until recently considered (a part of an) Arabic 
+    translation of a no longer extant Greek commentary by Palladios
+    on Hippocrates' aphorisms. Recent research has shown that 
+    the author of the Arabic text did not base himself on a Greek
+    text but on an early Arabic translation of the Aphorisms,
+    and an(other) Arabic translation of Palladios' commentary
+    (Peter Pormann et al., "The Enigma of Arabic and Hebrew Palladius",
+    Intellectual History of the Islamicate World 5 (2017), 252-310.
+    https://doi.org/10.1163/2212943X-00503003). 
