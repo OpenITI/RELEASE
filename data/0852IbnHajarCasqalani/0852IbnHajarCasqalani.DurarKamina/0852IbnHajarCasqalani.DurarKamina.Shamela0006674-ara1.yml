@@ -1,0 +1,26 @@
+00#VERS#CLENGTH##: 1658382
+00#VERS#LENGTH###: 395829
+00#VERS#URI######: 0852IbnHajarCasqalani.DurarKamina.Shamela0006674-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/4770895251
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/4770895251
+80#VERS#LINKS####: https://archive.org/details/aldoraralkamena01
+90#VERS#ANNOTATOR: Leonie Nückell (Leipzig)
+90#VERS#COMMENT##: the text was tagged before; no proper YML file yet.
+    See, `README.md` for details.
+    NOTE OF THE REVIEWER (HRH): The link to the PDF is just the first volume. The
+    next five volumes cannot be found online. A different edition in complete format
+    is accessible here: https://archive.org/details/waq11884. 2- A few blank headers
+    inserted to show the change of name categories. Women’s biographies tagged. The
+    number of name entries checked and corrected through Peter’s script, and
+    untagged entries tagged. Editorial sections tagged and deleted. PARATEXT added.
+    3- A part of these pages and numbers which were duplicate removed: PageV01P360;
+    PageV01P428-9; PageV01P463; numbers 1252-56; number 1590; PageV04P024;
+    PageV05P046; PageV05P079; PageV05P273; PageV05P357; PageV05P414; PageV06P012;
+    PageV06P105. 4- PageV05P284 and PageV05P399 seem to be missing.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0875AH/pre-clean/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.DurarKamina/0852IbnHajarCasqalani.DurarKamina.Shamela0006674-ara1.mARkdown
+90#VERS#DATE#####: YYYY-MM-DD
+90#VERS#ISSUES###: PAGINATION, HTML_TAGS, MISSING_PARTS, MANY_TYPOS, PRIMARY_VERSION, CLEANED_VERSION

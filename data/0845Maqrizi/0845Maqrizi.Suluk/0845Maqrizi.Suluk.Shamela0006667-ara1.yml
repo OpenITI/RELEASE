@@ -1,0 +1,27 @@
+00#VERS#CLENGTH##: 3633822
+00#VERS#LENGTH###: 821699
+00#VERS#URI######: 0845Maqrizi.Suluk.Shamela0006667-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/4770686226
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/4770686226
+80#VERS#LINKS####: https://waqfeya.net/book.php?bid=3959
+90#VERS#ANNOTATOR: the name of the annotator (latin characters; please
+    use consistently)
+90#VERS#COMMENT##: the text was tagged before; no proper YML file yet.
+    See, `README.md` for details.
+    NOTE OF THE REVIEWER (HRH): Changes in the levelling of the headers made. 2- The
+    obituaries do not have numbers and I tagged them using a lot of RegEx patterns.
+    A few cases might be missing or redundant. 3- The
+    annotator reports more than 15 missing titles and some other missing sentences,
+    without mentioning their places in the text. I typed three missing titles that I
+    found. There might be more cases. I also see quite a lot of incomplete
+    sentences. Some of them aer incomplete in the PDF and are not a problem in the
+    digital version, but some others are missing just in the digital text. The text
+    is probably typed a little carelessly.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0850AH/pre-
+    clean/data/0845Maqrizi/0845Maqrizi.Suluk/0845Maqrizi.Suluk.Shamela0006667-ara1.mARkdown
+90#VERS#DATE#####: YYYY-MM-DD
+90#VERS#ISSUES###: NO_MAJOR_ISSUES, PRIMARY_VERSION, CLEANED_VERSION

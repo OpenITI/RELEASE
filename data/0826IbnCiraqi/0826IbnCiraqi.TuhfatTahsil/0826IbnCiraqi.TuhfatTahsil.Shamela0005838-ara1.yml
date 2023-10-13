@@ -1,0 +1,18 @@
+00#VERS#CLENGTH##: 233445
+00#VERS#LENGTH###: 62410
+00#VERS#URI######: 0826IbnCiraqi.TuhfatTahsil.Shamela0005838-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/4771225398
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/4771225398
+80#VERS#LINKS####: https://www.quranicthought.com/books/تحفة-التحصيل-في-ذكر-
+    رواة-المراسيل/
+90#VERS#ANNOTATOR: SP Loynes
+90#VERS#COMMENT##: Generally very close to the printed edition. In the
+    'al-Kunya' section (p. 357ff) some letters were seperated in some names;
+    I have reassembled them.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0850AH/pre-clean/data/0826IbnCiraqi/0826IbnCiraqi.TuhfatTahsil/0826IbnCiraqi.TuhfatTahsil.Shamela0005838-ara1.completed
+90#VERS#DATE#####: 2020-08-17
+90#VERS#ISSUES###: NO_MAJOR_ISSUES, PRIMARY_VERSION, CLEANED_VERSION

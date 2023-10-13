@@ -1,0 +1,26 @@
+00#VERS#CLENGTH##: 65194
+00#VERS#LENGTH###: 15007
+00#VERS#URI######: 0845Maqrizi.IghathaUmma.Kraken210223142017-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/608550288
+80#VERS#COLLATED#:
+80#VERS#LINKS####:
+90#VERS#ANNOTATOR: Mathew Barber
+90#VERS#COMMENT##: OCRed through Kraken:
+    * segmentation model: DEFAULT
+    * OCR model: arabPers-WithDiffTypefaces.mlmodel
+    * raw-OCR needed review - MAB
+    * MAB - made corrections where spotted and added missing text (a few lines were
+    missing from the transcription), removed editorial material including footnotes,
+    added structural annotation including for poetry, pagination is correct. In
+    typeface following can be easily confused : yas and bas, fas and qafs, tas and
+    bas - transcription contains many mistranscriptions of these letters - e.g. a ya
+    in the place of a ba (I have tried to correct this where easy and common
+    patterns can be seen, but a search on this text might take this into account)
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0850AH/pre-
+    clean/data/0845Maqrizi/0845Maqrizi.IghathaUmma/0845Maqrizi.IghathaUmma.Kraken210223142017-ara1
+90#VERS#DATE#####: 2021-02-23
+90#VERS#ISSUES###: PRIMARY_VERSION, CLEANED_VERSION

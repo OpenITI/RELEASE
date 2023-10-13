@@ -1,0 +1,15 @@
+00#VERS#CLENGTH##: 850350
+00#VERS#LENGTH###: 198267
+00#VERS#URI######: 0855BadrDinCayni.CiqdJuman.GVDB20230424-ara4
+80#VERS#BASED####: https://www.worldcat.org/title/858001869
+80#VERS#COLLATED#: https://www.worldcat.org/title/858001869
+80#VERS#LINKS####: https://era.ed.ac.uk/handle/1842/7525
+90#VERS#ANNOTATOR: GVDB
+90#VERS#COMMENT##: This is the Hajeri edition of the eleventh volume of the
+    text,
+    which covers only the years 431-520.
+    GVDB OCR'ed, post-corrected and annotated the text.
+    OCR'ed with Kraken (ocr model: 10-2022_ArabicTestOutputModel_New_20_0.mlmodel,
+    segmentation model: DEFAULT)
+90#VERS#DATE#####: 2023-04-24
+90#VERS#ISSUES###: INCOMPLETE_TEXT

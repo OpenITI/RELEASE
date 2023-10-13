@@ -1,0 +1,23 @@
+00#VERS#CLENGTH##: 393621
+00#VERS#LENGTH###: 89989
+00#VERS#URI######: 0885IbnFahd.MucjamShuyukh.MMS00033-ara1
+80#VERS#BASED####: https://worldcat.org/en/title/71018464
+80#VERS#COLLATED#: https://worldcat.org/en/title/71018464
+80#VERS#LINKS####: https://archive.org/details/alfirdwsiy2018_gmail_3840
+90#VERS#ANNOTATOR: HRH
+90#VERS#COMMENT##: Text provided by the ERC Project
+    "The Mamlukisation of the Mamluk Sultanate"
+    (MMS, PI: Jo Van Steenbergen).
+    OCR: Calfa
+    Text processed by Manhal Makhoul MMS-II.
+    NOTE OF THE ANNOTATOR (HRH): Based on what the editor writes in his introduction
+    (page 23), the appendix at the end of the text is written by the author and
+    should not be split as a separate text, as far as I can understand.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0900AH/pre-
+    clean/data/0885IbnFahd/0885IbnFahd.MucjamShuyukh/0885IbnFahd.MucjamShuyukh.MMS00033-ara1.completed
+90#VERS#DATE#####: 2023-03-08
+90#VERS#ISSUES###: NO_MAJOR_ISSUES, PRIMARY_VERSION, CLEANED_VERSION

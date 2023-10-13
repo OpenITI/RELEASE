@@ -1,0 +1,20 @@
+00#VERS#CLENGTH##: 103026
+00#VERS#LENGTH###: 24292
+00#VERS#URI######: 0870Jazuli.DalailKhayrat.Kraken220413030847-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/917563349
+80#VERS#COLLATED#: 
+80#VERS#LINKS####: 
+    https://ia600905.us.archive.org/11/items/kitabweb_656/dlkhkitw.pdf
+90#VERS#ANNOTATOR: 
+90#VERS#COMMENT##: OCRed through Kraken:
+    * Kraken version: 3.0.0.0b21.dev6
+    * segmentation model: DEFAULT
+    * OCR model: 12-24-2021_ArabPersGeneralized.mlmodel
+    NOTE: PDF of 2004 edition; worldcat = 2013 edition; same publishing house
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0875AH/pre-clean/data/0870Jazuli/0870Jazuli.DalailKhayrat/0870Jazuli.DalailKhayrat.Kraken220413030847-ara1
+90#VERS#DATE#####: 2022-04-13
+90#VERS#ISSUES###: UNCORRECTED_OCR, PRIMARY_VERSION, CLEANED_VERSION
