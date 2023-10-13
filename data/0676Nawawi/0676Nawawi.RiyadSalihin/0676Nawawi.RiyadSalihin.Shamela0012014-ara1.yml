@@ -1,0 +1,30 @@
+00#VERS#CLENGTH##: 484952
+00#VERS#LENGTH###: 121819
+00#VERS#URI######: 0676Nawawi.RiyadSalihin.Shamela0012014-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/962919075 (1998 edition)
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/962919075
+80#VERS#LINKS####: https://archive.org/details/FP154724
+90#VERS#ANNOTATOR: Gowaart Van Den Bossche
+90#VERS#COMMENT##: This edition seemed best, pagination was mostly
+    correct and useful pre-tagging was in place. Text includes references
+    identifying Quran verses, but these are also in the body text in the
+    pdf. I have left them in place, but they do give the text a somewhat
+    messy look in places. The individual numbering for each hadith had been
+    pre-tagged as structural unit. I have left this in place and moved it to
+    third level headers. There was an issue with page numbers: in front of
+    every bab (level 1 header) the page number on which it appears was
+    inserted, which results in redundancy. I have deleted these redundant
+    page numbers manually, but may have missed some.  Chapters 49-63 (hadith
+    390-570) were not in the right place in the digital text, so I have
+    copied them to the right place. Similarly, pages 468 and 469 had been
+    switched around, I have fixed that.  Contents of page 387 are missing
+    (two hadiths, 1384-5), as is hadith 1749 on p. 485
+    NOTE OF THE REVIEWER (HRH): No changes. I just typed the missing parts reported
+    by the annotator.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0700AH/pre-clean/data/0676Nawawi/0676Nawawi.RiyadSalihin/0676Nawawi.RiyadSalihin.Shamela0012014-ara1.mARkdown
+90#VERS#DATE#####: 2020-06-04
+90#VERS#ISSUES###: NO_MAJOR_ISSUES, PRIMARY_VERSION, CLEANED_VERSION

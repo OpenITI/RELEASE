@@ -1,0 +1,26 @@
+00#VERS#CLENGTH##: 2578665
+00#VERS#LENGTH###: 619639
+00#VERS#URI######: 0626YaqutHamawi.MucjamUdaba.Shamela0009788-ara1
+80#VERS#BASED####: permalink, permalink, permalink
+80#VERS#COLLATED#: permalink, permalink, permalink
+80#VERS#LINKS####: all@id, vol1@id, vol2@id, vol3@id, volX@id
+90#VERS#ANNOTATOR: Cornelia Neubauer, PV
+90#VERS#COMMENT##: The text was tagged before; no proper YML file yet.
+    See `README.md` for a detailed report.
+    PV removed editorial sections and tagged poetry.
+    The text contains an appendix with a number of additional biographies
+    from a different transmission of the text;
+    PV placed that appendix in an ### |APPENDIX| tag.
+    NB: check lines of poetry that seem too short: line numbers 1612, 2439,
+    4070, 14877, 16026, 23991, 24000, 24002, 24004, 24006, 28418, 28419, 28420,
+    28421, 28422, 28423, 28424, 28425, 30030, 32476, 32892, 32899, 32900, 32902,
+    32903, 32909, 32921, 47795, 48685, 53429, 56021
+    NB: check lines of poetry that seem too long: line numbers 14100, 14104,
+    14955, 18650, 21192, 24117, 27086, 35344, 52040
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0650AH/pre-clean/data/0626YaqutHamawi/0626YaqutHamawi.MucjamUdaba/0626YaqutHamawi.MucjamUdaba.Shamela0009788-ara1.mARkdown
+90#VERS#DATE#####: 2021-03-11
+90#VERS#ISSUES###: NO_MAJOR_ISSUES, PRIMARY_VERSION, CLEANED_VERSION

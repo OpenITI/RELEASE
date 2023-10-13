@@ -1,0 +1,20 @@
+00#VERS#CLENGTH##: 233887
+00#VERS#LENGTH###: 57251
+00#VERS#URI######: 0643IbnSalahShahrazuri.MuqaddimatCulumHadith.JK000537-ara1
+80#VERS#BASED####: https://worldcat.org/en/title/236035555
+80#VERS#COLLATED#: https://worldcat.org/en/title/236035555
+80#VERS#LINKS####: https://archive.org/details/UlumAlhadithIbnSalah
+90#VERS#ANNOTATOR: HRH
+90#VERS#COMMENT##: I added a few blank second-level headers before third-level
+    headders to keep the consistency. A header like ‘tafri`at’ should be added here,
+    to become like other cases. 2 Another version of this text is already tagged.
+    This version is tagged at Sarah’s request.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    WARNING: another version of this text may have more developed annotation!
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0650AH/pre-
+    clean/data/0643IbnSalahShahrazuri/0643IbnSalahShahrazuri.MuqaddimatCulumHadith/0643IbnSalahShahrazuri.MuqaddimatCulumHadith.JK000537-ara1.completed
+90#VERS#DATE#####: 2023-03-07
+90#VERS#ISSUES###: NO_MAJOR_ISSUES, PRIMARY_VERSION, CLEANED_VERSION

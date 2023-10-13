@@ -1,0 +1,18 @@
+00#VERS#CLENGTH##: 233659
+00#VERS#LENGTH###: 56516
+00#VERS#URI######: 0646IbnQifti.Muhammadun.Shamela0013031-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/827864559
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/827864559
+80#VERS#LINKS####: 
+    https://ia801602.us.archive.org/4/items/waq108197/108197.pdf
+90#VERS#ANNOTATOR: HRH
+90#VERS#COMMENT##: One of the names (NO 254) includes subsections. I
+    showed the subsections as paragraph with two asterisks (# **) so that
+    they are distinguishable.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0650AH/pre-clean/data/0646IbnQifti/0646IbnQifti.Muhammadun/0646IbnQifti.Muhammadun.Shamela0013031-ara1.completed
+90#VERS#DATE#####: 2020-07-19
+90#VERS#ISSUES###: HTML_TAGS, PRIMARY_VERSION, CLEANED_VERSION

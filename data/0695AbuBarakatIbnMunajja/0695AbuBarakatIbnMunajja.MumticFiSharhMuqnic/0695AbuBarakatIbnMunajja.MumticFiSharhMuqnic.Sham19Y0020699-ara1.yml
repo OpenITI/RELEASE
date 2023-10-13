@@ -1,0 +1,18 @@
+00#VERS#CLENGTH##: 2429372
+00#VERS#LENGTH###: 596513
+00#VERS#URI######: 0695AbuBarakatIbnMunajja.MumticFiSharhMuqnic.Sham19Y0020699-ara1
+80#VERS#BASED####: permalink, permalink, permalink
+80#VERS#COLLATED#: permalink, permalink, permalink
+80#VERS#LINKS####: all@id, vol1@id, vol2@id, vol3@id, volX@id
+90#VERS#ANNOTATOR: the name of the annotator (latin characters; please
+    use consistently)
+90#VERS#COMMENT##: Part of the commentary is missing (see vol.3, p. 774: سقط
+    كتاب الطلاق والرجعة والإيلاء والظهار واللعان والعدد والرضاع والنفقات.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0700AH/pre-
+    clean/data/0695AbuBarakatIbnMunajja/0695AbuBarakatIbnMunajja.MumticFiSharhMuqnic/0695AbuBarakatIbnMunajja.MumticFiSharhMuqnic.Sham19Y0020699-ara1
+90#VERS#DATE#####: YYYY-MM-DD
+90#VERS#ISSUES###: PRIMARY_VERSION, CLEANED_VERSION

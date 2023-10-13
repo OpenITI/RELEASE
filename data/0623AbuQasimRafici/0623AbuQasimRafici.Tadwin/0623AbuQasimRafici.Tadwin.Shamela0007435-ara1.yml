@@ -1,0 +1,20 @@
+00#VERS#CLENGTH##: 1427555
+00#VERS#LENGTH###: 351234
+00#VERS#URI######: 0623AbuQasimRafici.Tadwin.Shamela0007435-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/4769945782
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/4769945782
+80#VERS#LINKS####: https://archive.org/details/tdwin
+90#VERS#ANNOTATOR: HRH
+90#VERS#COMMENT##: The text did not have automatic tags for names. All
+    the biographical tags are inserted manually. 2- Some of the biographical
+    parts have subsections. I showed such subsections as paragraphs but with
+    two asterisks (i.e. # **) so that they are distinguishable. 3- I moved
+    PageV01P278- 285 to its correct place. 4- Many of the titles are
+    repeated redundantly.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0625AH/pre-clean/data/0623AbuQasimRafici/0623AbuQasimRafici.Tadwin/0623AbuQasimRafici.Tadwin.Shamela0007435-ara1.completed
+90#VERS#DATE#####: 2020-08-01
+90#VERS#ISSUES###: EDITORIAL_SECTIONS, PRIMARY_VERSION, CLEANED_VERSION

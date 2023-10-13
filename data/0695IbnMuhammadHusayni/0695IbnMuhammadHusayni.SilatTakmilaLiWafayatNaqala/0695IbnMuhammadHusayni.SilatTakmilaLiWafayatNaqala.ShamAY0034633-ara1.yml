@@ -1,0 +1,23 @@
+00#VERS#CLENGTH##: 295681
+00#VERS#LENGTH###: 69829
+00#VERS#URI######: 0695IbnMuhammadHusayni.SilatTakmilaLiWafayatNaqala.ShamAY0034633-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/166457404
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/166457404
+80#VERS#LINKS####: https://archive.org/details/WAQ95263
+90#VERS#ANNOTATOR: Gowaart Van Den Bossche
+90#VERS#COMMENT##: Deleted editorial introduction and footnote markers. The text
+    was subdivided into volumes, but these are remarkably short. I have untagged the
+    volumes as section headers, but left them in as text, as they may be useful as a
+    proxy for the manuscript tradition. All the biographies start with the date of
+    death rather than the name. I have made all of them start on a new paragraph.
+    The text ends abruptly on p. 494, except for a handful of lines in the digital
+    text which do not map onto p. 495 in the PDF. After this stop, the edited text
+    actually continues until p. 689 (final bio has nr. 1242), so the missing pages
+    need to be added to get to the full text.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0700AH/pre-clean/data/0695IbnMuhammadHusayni/0695IbnMuhammadHusayni.SilatTakmilaLiWafayatNaqala/0695IbnMuhammadHusayni.SilatTakmilaLiWafayatNaqala.ShamAY0034633-ara1.completed
+90#VERS#DATE#####: 2021-MM-DD
+90#VERS#ISSUES###: INCOMPLETE_VERSION, PRIMARY_VERSION, CLEANED_VERSION

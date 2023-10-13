@@ -1,0 +1,39 @@
+00#VERS#CLENGTH##: 268464
+00#VERS#LENGTH###: 61752
+00#VERS#URI######: 0684IbnShaddad.TarikhMalikZahir.Kraken2102182324112-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/653834067
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/653834067
+80#VERS#LINKS####: https://archive.org/details/1961p.d.f1785; https://www.noor-book.com/كتاب-تاريخ-الملك-الظاهر-pdf
+90#VERS#ANNOTATOR: Gowaart Van Den Bossche
+90#VERS#COMMENT##: OCRed through Kraken:
+    * kraken version: 3.0.0.0b21.dev6
+    * segmentation model: DEFAULT
+    * OCR model: arabPers-WithDiffTypefaces.mlmodel
+     Annotator comments: text annotated and cleaned, but only superficially:
+    footnotes removed, pagination implemented, poetry tagged and mistakes
+    corrected
+    when I saw them, but doubtlessly many typos remain. A common typo was lam-
+    alif
+    for a comma at the end of a line. Some lines failed entirely. I have typed
+    these
+    when I came across them but more may remain. Generally quality seemed to be
+    fairly good though. Only half of the book survives, so I have added two
+    empty
+    headers above the first header, so that the structure is consistent across
+    the
+    digital text(first level for years, second level for events and obituaries
+    respectively, and third header for individual events -- this changes at the
+    end
+    where a sort of appendix is added to the text which follows a different
+    format.
+    Note that this is not editorial, the manuscript contains the same appendix
+    and
+    it was clearly compiled as such by the author).
+    NOTE OF THE REVIEWER (HRH): No changes.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0700AH/pre-clean/data/0684IbnShaddad/0684IbnShaddad.TarikhMalikZahir/0684IbnShaddad.TarikhMalikZahir.Kraken2102182324112-ara1.mARkdown
+90#VERS#DATE#####: 2021-02-18
+90#VERS#ISSUES###: MANY_TYPOS, UNCORRECTED_OCR, PRIMARY_VERSION, CLEANED_VERSION
