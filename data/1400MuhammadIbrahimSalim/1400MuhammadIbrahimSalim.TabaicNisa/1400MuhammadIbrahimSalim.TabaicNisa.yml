@@ -1,0 +1,14 @@
+00#BOOK#URI######: 1400MuhammadIbrahimSalim.TabaicNisa
+10#BOOK#GENRES###: src@keyword, src@keyword, src@keyword
+10#BOOK#TITLEA#AR: Ṭabāʾiʿ al-nisāʾ
+10#BOOK#TITLEB#AR: Ṭabāʾiʿ al-nisāʾ wa-mā jāʾa fīhā min ʿaǧāʾib wa-ġarāʾib wa-aḫbār wa-asrār
+20#BOOK#WROTE####: URIs from Althurayya, comma separated
+30#BOOK#WROTE##AH: YEAR-MON-DA (X+ for unknown)
+40#BOOK#RELATED##: 0328IbnCabdRabbih.CiqdFarid (EXTR)
+80#BOOK#EDITIONS#: permalink, permalink, permalink
+80#BOOK#LINKS####: permalink, permalink, permalink
+80#BOOK#MSS######: permalink, permalink, permalink
+80#BOOK#STUDIES##: permalink, permalink, permalink
+80#BOOK#TRANSLAT#: permalink, permalink, permalink
+90#BOOK#COMMENT##: a collection of extracts from Ibn ʿAbd Rabbih's al-ʿIqd al-Farīd
+    (see editor's introduction, p. 7).

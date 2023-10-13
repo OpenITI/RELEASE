@@ -1,0 +1,15 @@
+00#VERS#CLENGTH##: 724581
+00#VERS#LENGTH###: 159623
+00#VERS#URI######: 1400IbnSuda.IthafMatalic.Sham30K0046642-ara1
+80#VERS#BASED####: https://worldcat.org/en/title/37048008
+80#VERS#COLLATED#: https://worldcat.org/en/title/37048008
+80#VERS#LINKS####: https://archive.org/details/120114_201809
+90#VERS#ANNOTATOR: HRH
+90#VERS#COMMENT##: All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/1400AH/pre-
+    clean/data/1400IbnSuda/1400IbnSuda.IthafMatalic/1400IbnSuda.IthafMatalic.Sham30K0046642-ara1.completed
+90#VERS#DATE#####: 2023-02-21
+90#VERS#ISSUES###: NO_MAJOR_ISSUES, PRIMARY_VERSION, CLEANED_VERSION

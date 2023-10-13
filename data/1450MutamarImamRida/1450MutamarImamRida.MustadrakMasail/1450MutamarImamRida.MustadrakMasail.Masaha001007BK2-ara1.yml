@@ -1,0 +1,15 @@
+00#VERS#CLENGTH##: 66455
+00#VERS#LENGTH###: 17835
+00#VERS#URI######: 1450MutamarImamRida.MustadrakMasail.Masaha001007BK2-ara1
+80#VERS#BASED####: https://www.worldcat.org/title/27799248
+80#VERS#COLLATED#: permalink, permalink, permalink
+80#VERS#LINKS####:
+    http://dlib.nyu.edu/files/books/columbia_aco000895/columbia_aco000895_lo.pdf
+90#VERS#ANNOTATOR: the name of the annotator (latin characters; please
+    use consistently)
+90#VERS#COMMENT##: The original text file contained the Masāʾil,
+    in addition to a long list of additions (mustadrakāt; citations of the
+    Masāʾil that are not found in the edited manuscripts).
+    PV split off the main text of the masāʾil from the mustadrakāt.
+90#VERS#DATE#####: YYYY-MM-DD
+90#VERS#ISSUES###: CLEANED_VERSION, PRIMARY_VERSION

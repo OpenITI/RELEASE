@@ -1,0 +1,19 @@
+00#BOOK#URI######: 1450Anonymous.MiatHadithSaqitaMinSunanKubra
+10#BOOK#GENRES###: src@keyword, src@keyword, src@keyword
+10#BOOK#TITLEA#AR: Miʾaŧ ḥadīṯ sāqiṭaŧ min al-Sunan al-kubrá
+10#BOOK#TITLEB#AR: Risālaŧ al-Muʾallif
+20#BOOK#WROTE####: URIs from Althurayya, comma separated
+30#BOOK#WROTE##AH: YEAR-MON-DA (X+ for unknown)
+40#BOOK#RELATED##: 0303Nasai.SunanKubra (EXTRACT)
+80#BOOK#EDITIONS#: permalink, permalink, permalink
+80#BOOK#LINKS####: permalink, permalink, permalink
+80#BOOK#MSS######: permalink, permalink, permalink
+80#BOOK#STUDIES##: permalink, permalink, permalink
+80#BOOK#TRANSLAT#: permalink, permalink, permalink
+90#BOOK#COMMENT##: A modern selection of 100 ḥadīths
+    from al-Nasāʾī's al-Sunan al-Kubrā that are not in any of the modern editions.
+    The missing ḥadīths are from a Maghribī manuscript that
+    contains Ḥasan al-Kinānī's riwāya of the text of the Sunan.
+    The text is probably taken from the Multaqā Ahl al-Ḥadīth forum,
+    where someone who calls himself ʿAbd Allāh al-ʿUtaybī posted it
+    (see the archive here: https://al-maktaba.org/book/31615/26#p4)

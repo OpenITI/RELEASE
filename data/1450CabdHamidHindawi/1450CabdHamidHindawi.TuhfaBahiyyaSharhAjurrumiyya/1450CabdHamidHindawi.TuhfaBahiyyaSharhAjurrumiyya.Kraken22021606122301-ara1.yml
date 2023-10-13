@@ -1,0 +1,14 @@
+00#VERS#CLENGTH##: 105114
+00#VERS#LENGTH###: 23900
+00#VERS#URI######: 1450CabdHamidHindawi.TuhfaBahiyyaSharhAjurrumiyya.Kraken22021606122301-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/1043563525
+80#VERS#COLLATED#:
+80#VERS#LINKS####: https://archive.org/details/waq71087
+90#VERS#ANNOTATOR:
+90#VERS#COMMENT##: OCRed through Kraken:
+    * Kraken version: 3.0.0.0b21.dev6
+    * segmentation model: DEFAULT
+    * OCR model: 12-24-2021_ArabPersGeneralized.mlmodel
+    NOTE: URI uncertain
+90#VERS#DATE#####: 2022-02-16
+90#VERS#ISSUES###: UNCORRECTED_OCR, PRIMARY_VERSION

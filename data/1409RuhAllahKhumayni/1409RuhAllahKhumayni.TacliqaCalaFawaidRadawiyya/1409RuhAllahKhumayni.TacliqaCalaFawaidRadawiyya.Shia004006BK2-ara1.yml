@@ -1,0 +1,21 @@
+00#VERS#CLENGTH##: 44186
+00#VERS#LENGTH###: 9476
+00#VERS#URI######: 1409RuhAllahKhumayni.TacliqaCalaFawaidRadawiyya.Shia004006BK2-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/929504057
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/929504057
+80#VERS#LINKS####: http://alfeker.net/library.php?id=3186
+90#VERS#ANNOTATOR: ASLISHO QURBONIEV, PV
+90#VERS#COMMENT##: The original text file contained the main text and Khumaynī's
+    taʿlīqa.
+    PV split the main text off from the taʿlīqa and marked
+    Khumaynī's quotations as second-level headings.
+    Perhaps it would be useful to add the first-level headings from the original
+    text?
+    PV also removed the remaining page headers that had become included in the text.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/1425AH/pre-clean/data/1409RuhAllahKhumayni/1409RuhAllahKhumayni.TacliqaCalaFawaidRadawiyya/1409RuhAllahKhumayni.TacliqaCalaFawaidRadawiyya.Shia004006BK2-ara1.completed
+90#VERS#DATE#####: 2020-06-07
+90#VERS#ISSUES###: NO_MAJOR_ISSUES, PRIMARY_VERSION, CLEANED_VERSION

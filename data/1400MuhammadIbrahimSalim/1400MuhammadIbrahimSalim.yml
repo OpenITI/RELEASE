@@ -1,0 +1,17 @@
+00#AUTH#URI######: 1400MuhammadIbrahimSalim
+10#AUTH#ISM####AR: Muḥammad
+10#AUTH#KUNYA##AR: Abū Fulān, Abū Fulānaŧ
+10#AUTH#LAQAB##AR: Fulān al-dīn, Fulān al-dawlaŧ
+10#AUTH#NASAB##AR: Ibrāhīm Salīm
+10#AUTH#NISBA##AR: al-Fulānī, al-Fāʿil, al-Fulānī, al-Mufaʿʿil
+10#AUTH#SHUHRA#AR: Muḥammad Ibrāhīm Salīm
+20#AUTH#BORN#####: URIs from Althurayya, comma separated
+20#AUTH#DIED#####: URIs from Althurayya, comma separated
+20#AUTH#RESIDED##: URIs from Althurayya, comma separated
+20#AUTH#VISITED##: URIs from Althurayya, comma separated
+30#AUTH#BORN###AH: YEAR-MON-DA (X+ for unknown)
+30#AUTH#DIED###AH: YEAR-MON-DA (X+ for unknown)
+40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
+40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
+90#AUTH#COMMENT##: Death date unknown; 1400 is an approximation.
