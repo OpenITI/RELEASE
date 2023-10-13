@@ -1,0 +1,17 @@
+00#AUTH#URI######: 0904Burayhi
+10#AUTH#ISM####AR: ʿAbd al-wahhāb  
+10#AUTH#KUNYA##AR: 
+10#AUTH#LAQAB##AR: 
+10#AUTH#NASAB##AR: b. ʿAbd al-Raḥmān
+10#AUTH#NISBA##AR: al-Burayhī al-Saksakī al-Yamanī
+10#AUTH#SHUHRA#AR: al-Burayhī
+20#AUTH#BORN#####: Yaman_RE_Auto
+20#AUTH#DIED#####: URIs from Althurayya, comma separated
+20#AUTH#RESIDED##: URIs from Althurayya, comma separated
+20#AUTH#VISITED##: URIs from Althurayya, comma separated
+30#AUTH#BORN###AH: 
+30#AUTH#DIED###AH: 0904-XXX-XX
+40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
+40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
+90#AUTH#COMMENT##: No EI2 entry.

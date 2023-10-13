@@ -1,0 +1,21 @@
+00#VERS#CLENGTH##: 41074
+00#VERS#LENGTH###: 9560
+00#VERS#URI######: 0911Suyuti.MinhajSawi.Shia000861VolsBK1-ara1
+80#VERS#BASED####: permalink, permalink, permalink
+80#VERS#COLLATED#: permalink, permalink, permalink
+80#VERS#LINKS####: all@id, vol1@id, vol2@id, vol3@id, volX@id
+90#VERS#ANNOTATOR: the name of the annotator (latin characters; please
+    use consistently)
+90#VERS#COMMENT##: The original text file contained three separate texts:
+    * 0911Suyuti.MinhajSawi
+    * 0911Suyuti.MuntaqaYanbuc
+    * 0676Nawawi.RawdatTalibin
+    PV split off the three texts into separate text files.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0925AH/pre-
+    clean/data/0911Suyuti/0911Suyuti.MinhajSawi/0911Suyuti.MinhajSawi.Shia000861VolsBK1-ara1
+90#VERS#DATE#####: YYYY-MM-DD
+90#VERS#ISSUES###: PRIMARY_VERSION, CLEANED_VERSION

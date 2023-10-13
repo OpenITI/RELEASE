@@ -1,0 +1,15 @@
+00#VERS#CLENGTH##: 3341
+00#VERS#LENGTH###: 794
+00#VERS#URI######: 0993MuhaqqiqArdabili.RisalaThaniyaFiKharaj.Shia000180BK2-ara1
+80#VERS#BASED####: permalink, permalink, permalink
+80#VERS#COLLATED#: permalink, permalink, permalink
+80#VERS#LINKS####: all@id, vol1@id, vol2@id, vol3@id, volX@id
+90#VERS#ANNOTATOR: the name of the annotator (latin characters; please
+    use consistently)
+90#VERS#COMMENT##: The original text file contained two separate risālas
+    on kharāj by al-Muḥaqqiq al-Ardabīlī:
+    * 0993MuhaqqiqArdabili.RisalaUlaFiKharaj
+    * 0993MuhaqqiqArdabili.RisalaThaniyaFiKharaj
+    PV split these into separate text files and removed the introduction.
+90#VERS#DATE#####: YYYY-MM-DD
+90#VERS#ISSUES###: CLEANED_VERSION, PRIMARY_VERSION
