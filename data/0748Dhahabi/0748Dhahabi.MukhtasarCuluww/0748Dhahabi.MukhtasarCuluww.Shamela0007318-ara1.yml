@@ -1,0 +1,25 @@
+00#VERS#CLENGTH##: 195534
+00#VERS#LENGTH###: 47955
+00#VERS#URI######: 0748Dhahabi.MukhtasarCuluww.Shamela0007318-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/4771273794
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/4771273794
+80#VERS#LINKS####: https://archive.org/details/WAQmuak
+90#VERS#ANNOTATOR: Leonie Nückell (Leipzig)
+90#VERS#COMMENT##: the text was tagged before; no proper YML file yet.
+    See, `README.md` for details.
+    NOTE OF THE REVIEWER (HRH): All the numbers, both for hadiths/khbars and for
+    name entries, had been tagged as ### $. I removed the tags for the first type,
+    and kept the ones for the second type (which contain information about people).
+    Untagged headers tagged. Editorial sections removed. 2- The main problem with
+    the text is that the notes of the editor are inside the text without any marker
+    that make them separable. Unfortunately, the only way to separate such editorial
+    notes is to do it manually by collating it with the PDF.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0750AH/pre-
+    clean/data/0748Dhahabi/0748Dhahabi.MukhtasarCuluww/0748Dhahabi.MukhtasarCuluww.Shamela0007318-ara1.mARkdown
+90#VERS#DATE#####: YYYY-MM-DD
+90#VERS#ISSUES###: EDITORIAL_SECTIONS (inside the main text, only manually
+    separable), PRIMARY_VERSION, CLEANED_VERSION

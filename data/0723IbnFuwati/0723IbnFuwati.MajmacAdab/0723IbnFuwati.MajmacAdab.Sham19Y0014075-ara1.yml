@@ -1,0 +1,40 @@
+00#VERS#CLENGTH##: 1605088
+00#VERS#LENGTH###: 374534
+00#VERS#URI######: 0723IbnFuwati.MajmacAdab.Sham19Y0014075-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/36892166
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/36892166
+80#VERS#LINKS####: https://archive.org/details/mgadmoalmgadmoal
+90#VERS#ANNOTATOR: Gowaart Van Den Bossche
+90#VERS#COMMENT##: The auto-tagging was not entirely succesful in this text,
+    needed significant cleaning up. I have done so with regex, but the easiest
+    way
+    to do it resulted in not all names being confined to one line. A lot of them
+    are
+    still on two or more lines and sometimes spread over pages (as is the case
+    in
+    the edition), which perhaps needs to be addressed later on.
+    I deleted editorial sections and footnote markers, tagged poetry (there were a
+    handful of cases of overtagging, i.e. of non-poetry being tagged, which I
+    have
+    deleted, but some may remain). Pagination appears to be correct, though I
+    had to
+    change every PageV06 to PageV05 (volume 6 is made up of indices that are not
+    part of the digital text). There are quite a few empty biographies, these
+    are
+    also empty in the edition.
+    NB: check lines of poetry that seem too short: line numbers 3968, 4767,
+    8426, 9721, 10707, 12308, 14354, 18164, 18310, 18371, 18808, 20047, 21332,
+    23184, 25920, 26833, 26837, 26904, 27607, 27858, 28312, 28451, 30529, 43621,
+    44728, 51965, 52504
+    NB: check lines of poetry that seem too long: line numbers 564, 2748, 4044,
+    9948, 13910, 15445, 26357, 28323, 28399, 29231, 32323, 34114, 35005, 35718,
+    35743, 36110, 37938, 38157, 39035, 39077, 40626, 42759, 43438, 43884, 45423,
+    45599, 47011, 50054, 51678
+    NOTE OF THE REVIEWER (HRH): No changes.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0725AH/pre-clean/data/0723IbnFuwati/0723IbnFuwati.MajmacAdab/0723IbnFuwati.MajmacAdab.Sham19Y0014075-ara1.mARkdown
+90#VERS#DATE#####: 2021-06-21
+90#VERS#ISSUES###: NO_MAJOR_ISSUES, PRIMARY_VERSION, CLEANED_VERSION

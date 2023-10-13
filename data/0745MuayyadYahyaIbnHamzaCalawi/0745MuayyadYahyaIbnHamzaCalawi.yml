@@ -1,0 +1,25 @@
+00#AUTH#URI######: 0745MuayyadYahyaIbnHamzaCalawi
+10#AUTH#ISM####AR: Yaḥyá
+10#AUTH#KUNYA##AR:
+10#AUTH#LAQAB##AR: al-Muʾayyad bi-Allāh
+10#AUTH#NASAB##AR: b. Ḥamza b. ʿAlī b. Ibrāhīm
+10#AUTH#NISBA##AR: al-Ḥusaynī al-ʿAlawī al-Ṭālibī
+10#AUTH#SHUHRA#AR: Yaḥyá b. Ḥamza al-ʿAlawī, al-Muʾayyad bi-Allāh
+20#AUTH#BORN#####: Yaman_RE_Auto, SANA_442E153N_S
+20#AUTH#DIED#####: URIs from Althurayya, comma separated
+20#AUTH#RESIDED##: URIs from Althurayya, comma separated
+20#AUTH#VISITED##: URIs from Althurayya, comma separated
+30#AUTH#BORN###AH: 0669-XXX-XX
+30#AUTH#DIED###AH: 0745-XXX-XX, 0749-XXX-XX
+40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
+40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
+90#AUTH#COMMENT##: EI2: "rhetorician, Zaydī scholar and imām (669-745/1270-1344;
+    a death date of 749/1348 is also mentioned).
+    Yaḥyā b. Ḥamza b. ʿAlī b. Ibrāhīm al-Ḥusaynī al-ʿAlawī al-Ṭālibī,
+    a versatile and prolific Yemeni scholar, was descended from ʿAlī b. Abī Ṭālib
+    and the imām ʿAlī al-Riḍā [q.vv.].
+    He was born in Ṣanʿāʾ and played a role in politics,
+    for after the death of al-Mahdī Muḥammad b. al-Muṭahhar in 729/1329
+    he ruled over part of Yemen as Zaydī imām under the name al-Muʾayyad bi ’llāh
+    until his death."

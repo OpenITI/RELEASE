@@ -1,0 +1,18 @@
+00#VERS#CLENGTH##: 80069
+00#VERS#LENGTH###: 19965
+00#VERS#URI######: 0795IbnRajabHanbali.FadailSham.Masaha004845BK4-ara1
+80#VERS#BASED####: https://www.worldcat.org/title/827861948
+80#VERS#COLLATED#: permalink, permalink, permalink
+80#VERS#LINKS####: https://noorlib.ir/en/book/view/11869
+90#VERS#ANNOTATOR: the name of the annotator (latin characters; please
+    use consistently)
+90#VERS#COMMENT##: The original text file contained multiple texts;
+    PV split them into separate text files
+    * 0744IbnCabdHadi.FadailSham.Masaha004845BK1-ara1
+    * 0444IbnAbiHawl.FadailSham.Masaha004845BK2-ara1
+    * 0562Samcani.FadailSham.Masaha004845BK3-ara1
+    * 0795IbnRajabHanbali.FadailSham.Masaha004845BK4-ara1
+    * 0880IbnAhmadShamsDinAsyuti.FadailSham.Masaha004845BK5-ara1
+    PV removed editorial material and fixed annotation levels.
+90#VERS#DATE#####: YYYY-MM-DD
+90#VERS#ISSUES###: NO_MAJOR_ISSUES, CLEANED_VERSION, PRIMARY_VERSION

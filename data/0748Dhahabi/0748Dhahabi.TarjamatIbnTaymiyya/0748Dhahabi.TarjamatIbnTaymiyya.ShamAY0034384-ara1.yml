@@ -1,0 +1,14 @@
+00#VERS#CLENGTH##: 9976
+00#VERS#LENGTH###: 2331
+00#VERS#URI######: 0748Dhahabi.TarjamatIbnTaymiyya.ShamAY0034384-ara1
+80#VERS#BASED####: permalink, permalink, permalink
+80#VERS#COLLATED#: permalink, permalink, permalink
+80#VERS#LINKS####: all@id, vol1@id, vol2@id, vol3@id, volX@id
+90#VERS#ANNOTATOR: the name of the annotator (latin characters; please
+    use consistently)
+90#VERS#COMMENT##: This text file is a transcription of (part of?)
+    a manuscript that contains an extract of the biography of
+    Ibn Taymiyya from the missing part of Siyar Aʿlām al-nubalā'.
+    PV removed the editorial introduction and endnotes.
+90#VERS#DATE#####: YYYY-MM-DD
+90#VERS#ISSUES###: CLEANED_VERSION, PRIMARY_VERSION

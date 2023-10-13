@@ -1,0 +1,25 @@
+00#VERS#CLENGTH##: 786116
+00#VERS#LENGTH###: 188457
+00#VERS#URI######: 0775Anonymous.InsafFiIntisaf.Kraken211005012007-ara1
+80#VERS#BASED####: 
+80#VERS#COLLATED#: 
+80#VERS#LINKS####: https://alfeker.net/library.php?id=4235
+90#VERS#ANNOTATOR: LMN
+90#VERS#COMMENT##: OCRed through Kraken:
+    * Kraken version: 3.0.0.0b21.dev6
+    * segmentation model: DEFAULT
+    * OCR model: 04-01-2021_ArabPersGeneralized.mlmodel
+    LMN: No Worldcat link found; footnotes removed; isolated alifs at the beginning
+    and the end of lines removed; lines missed by OCR added; poetry not tagged;
+    calligraphic eulogies such as "ʿalayhi l-salām" not transcribed correctly by the
+    transcription model;
+    according to the introduction by the author, the work was written in 0757 AH;
+    the work is a "radd" of Ibn Taymiyya's Minhaj al-sunna.
+    NOTE OF THE REVIEWER (HRH): Deleted = sign for blank pages in the text.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0775AH/pre-clean/data/0775Anonymous/0775Anonymous.InsafFiIntisaf/0775Anonymous.InsafFiIntisaf.Kraken211005012007-ara1.mARkdown
+90#VERS#DATE#####: 2021-10-05
+90#VERS#ISSUES###: UNCORRECTED_OCR, PRIMARY_VERSION, CLEANED_VERSION

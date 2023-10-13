@@ -1,0 +1,23 @@
+00#VERS#CLENGTH##: 899815
+00#VERS#LENGTH###: 218103
+00#VERS#URI######: 0771TajDinSubki.AshbahWaNazair.Shamela0008634-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/4770858611
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/4770858611
+80#VERS#LINKS####: https://archive.org/details/FP42189
+90#VERS#ANNOTATOR: SPL (CnC)
+90#VERS#COMMENT##: Pages V2: 343-382 were missing but have now been replaced
+    with OCR'd text.
+    Some qāʿidas are introduced as part of the title,
+    such as the doubt canon, القاعدة الأولى: اليقين لا يرفع بالشك.
+    These are then followed by lengthy commentaries.
+    Many introduced by 'qāʿida:'.
+    Occasionally end of pages are out by a couple of lines.
+    Additional page breaks have been removed.
+    Hierarchy is somewhat unclear w/o close reading.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0775AH/pre-clean/data/0771TajDinSubki/0771TajDinSubki.AshbahWaNazair/0771TajDinSubki.AshbahWaNazair.Shamela0008634-ara1.completed
+90#VERS#DATE#####: 2020-04-28
+90#VERS#ISSUES###: NO_MAJOR_ISSUES, PRIMARY_VERSION, CLEANED_VERSION

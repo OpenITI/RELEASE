@@ -1,0 +1,20 @@
+00#VERS#CLENGTH##: 91198
+00#VERS#LENGTH###: 20768
+00#VERS#URI######: 0748Dhahabi.DhaylCibar.JK001291BK1-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/874936825
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/874936825
+80#VERS#LINKS####:
+    https://ia800303.us.archive.org/9/items/FP151041/06_151046.pdf
+90#VERS#ANNOTATOR: Jonas Köpsel (Leipzig), PV
+90#VERS#COMMENT##: This text was published with al-Ḥusaynī's dhayl; PV
+    split the two texts (see also
+    0765AbuMahasinHusayni.DhaylCibar.JK001291BK2-ara1)
+    - 1st level is listed in the table of contents 2nd level isn't.
+    - all the headlines were marked already -> JK randomly checked if
+    everything is complete  and didn't find any missing or wrongly marked
+    headline
+    - PV tagged a number of missing year sections and formatted the
+    manuscript page numbers.
+   NOTE OF THE REVIEWER (HRH): The text is an appendix (dhayl) to al-ʿIbar fī ḫabar man ġabar, written by the original author, al-Ḏahabī (see the editor’s introduction in the PDF, page 5-6). It was tagged, and I turned it into mARkdown without change; but the main point about this text is that we have on the corpus a digital version of (a different edition of) the complete original text which also contains this appendix (in volume 4), and is mARkdown (0748Dhahabi.CibarFiKhabar.Shamela0025841-ara1; find its PDF here: https://archive.org/details/FP72833). So, we do not need this appendix as a separate text anymore, and it should be removed from the corpus. I raised an issue for this.
+90#VERS#DATE#####: 2020-07-27
+90#VERS#ISSUES###: NO_MAJOR_ISSUES, CLEANED_VERSION, PRIMARY_VERSION

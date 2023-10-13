@@ -1,0 +1,19 @@
+00#VERS#CLENGTH##: 9454661
+00#VERS#LENGTH###: 2397154
+00#VERS#URI######: 0711IbnManzurIfriqi.MukhtasarTarikhDimashq.Shamela0003118-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/862570998
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/862570998
+80#VERS#LINKS####: https://archive.org/details/mtda31_201901/mtda00/mode/1up
+90#VERS#ANNOTATOR: Leonie Nueckell (Leipzig)
+90#VERS#COMMENT##: the text was tagged before; no proper YML file yet.
+    See, `README.md` for details.
+    NOTE OF THE REVIEWER (HRH): PARATEXT added. Editorial removed. Women’s entries
+    tagged. Headers that were not aligned in one line corrected. Levelling of the
+    headers corrected. Untagged headers tagged.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0725AH/pre-clean/data/0711IbnManzurIfriqi/0711IbnManzurIfriqi.MukhtasarTarikhDimashq/0711IbnManzurIfriqi.MukhtasarTarikhDimashq.Shamela0003118-ara1.mARkdown
+90#VERS#DATE#####: YYYY-MM-DD
+90#VERS#ISSUES###: HTML_TAGS, PRIMARY_VERSION, CLEANED_VERSION

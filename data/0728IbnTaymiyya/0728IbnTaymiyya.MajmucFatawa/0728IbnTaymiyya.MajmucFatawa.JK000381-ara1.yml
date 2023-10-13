@@ -1,0 +1,45 @@
+00#VERS#CLENGTH##: 12316243
+00#VERS#LENGTH###: 2951973
+00#VERS#URI######: 0728IbnTaymiyya.MajmucFatawa.JK000381-ara1
+80#VERS#BASED####: NOT_FOUND
+80#VERS#COLLATED#: NOT_FOUND
+80#VERS#LINKS####: https://archive.org/details/mfsiaitmmfsiaitm/mfsiaitm00/
+90#VERS#ANNOTATOR: PV
+90#VERS#COMMENT##: According to the metadata, the JK edition
+    is based on an edition published by Maktabat Ibn Taymiyya;
+    PV has not found this edition online, but an edition by the same editor
+    (ʿAbd al-Raḥmān b. Qāsim) and the same pagination is available
+    on Archive.org (Medina, 1425/2004).
+    Neither of these editions is in worldcat.
+    PV started annotating the structure of the text;
+    in a first pass, PV put
+    every kitāb under the first heading,
+    every risāla under the second heading
+    every faṣl under the third heading,
+    every su'ila / ajāba under the fourth heading.
+    The hierarchy will have to be adjusted manually;
+    In vol. 1, the levels have already been manually adjusted.
+    Sometimes there are differences between the titles in the digital text
+    and the pdf of the edition (E.g., PageV28P509);
+    these may be due to the different editions,
+    but likely rather an artifact of the digitization.
+    The digital text adds (some) of the section titles
+    (added by the editor) that appear only in the index of the volumes,
+    not in the text itself.
+    These seem to be indicated in the JK text with `| 1 <section_title> 1`.
+    I would put these between square brackets (`[ <section_title> ]`)
+    Other special tags in the JK file:
+    * `! 8 <`: no clear relation to the hierarchical level of the heading
+    * `2 <section_title> 2`
+    Poetry is (not always consistently) indicated with percentage signs;
+    using regex to format it semi-automatically (done until vol. 12):
+    * search: (?<!%)[ ~]+%(?: %)?((?: |\r?\n~~)+[^%]+)(?:%[\r\n~ ]+)+
+    * replace: \n# \1 %~% \2
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0750AH/pre-
+    clean/data/0728IbnTaymiyya/0728IbnTaymiyya.MajmucFatawa/0728IbnTaymiyya.MajmucFatawa.JK000381-ara1
+90#VERS#DATE#####: YYYY-MM-DD
+90#VERS#ISSUES###: PRIMARY_VERSION, CLEANED_VERSION

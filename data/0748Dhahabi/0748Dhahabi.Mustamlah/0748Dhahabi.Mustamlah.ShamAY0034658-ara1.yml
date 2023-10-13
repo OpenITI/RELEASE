@@ -1,0 +1,17 @@
+00#VERS#CLENGTH##: 260475
+00#VERS#LENGTH###: 63734
+00#VERS#URI######: 0748Dhahabi.Mustamlah.ShamAY0034658-ara1
+80#VERS#BASED####: https://worldcat.org/en/title/1238007015
+80#VERS#COLLATED#: https://worldcat.org/en/title/1238007015
+80#VERS#LINKS####: https://archive.org/details/Mustamlah_Thahabi
+90#VERS#ANNOTATOR: HRH
+90#VERS#COMMENT##: I Added some headers in square brackets to show name
+    categories.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0750AH/pre-
+    clean/data/0748Dhahabi/0748Dhahabi.Mustamlah/0748Dhahabi.Mustamlah.ShamAY0034658-ara1.completed
+90#VERS#DATE#####: 2023-03-09
+90#VERS#ISSUES###: NO_MAJOR_ISSUES, PRIMARY_VERSION, CLEANED_VERSION

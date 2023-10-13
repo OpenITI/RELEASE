@@ -1,0 +1,19 @@
+00#VERS#CLENGTH##: 254216
+00#VERS#LENGTH###: 61490
+00#VERS#URI######: 0726CallamaHilli.KhulasatAqwal.Shia002940-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/38868226
+80#VERS#COLLATED#: No permalink found
+80#VERS#LINKS####: http://alfeker.net/library.php?id=2319
+90#VERS#ANNOTATOR: SP Loynes
+90#VERS#COMMENT##: The base text is from the 1st edition which is linked
+    to above. However, I am collating to the 4th edition w/ the same
+    pagination but this is not currently listed on worldcat. Minor textual
+    variations in titles. Otherwise, very good digital edition.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0750AH/pre-
+    clean/data/0726CallamaHilli/0726CallamaHilli.KhulasatAqwal/0726CallamaHilli.KhulasatAqwal.Shia002940-ara1.completed
+90#VERS#DATE#####: 2020-06-24
+90#VERS#ISSUES###: EDITORIAL_SECTIONS, PRIMARY_VERSION, CLEANED_VERSION

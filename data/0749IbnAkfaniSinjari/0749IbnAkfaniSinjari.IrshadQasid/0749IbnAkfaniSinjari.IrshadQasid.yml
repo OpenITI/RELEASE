@@ -1,0 +1,29 @@
+00#BOOK#URI######: 0749IbnAkfaniSinjari.IrshadQasid
+10#BOOK#GENRES###: _FAHARIS, _KUTUB
+10#BOOK#TITLEA#AR: ʾIršād al-qāṣid ʾilá ʾasná al-maqāṣid
+10#BOOK#TITLEB#AR:
+20#BOOK#WROTE####: URIs from Althurayya, comma separated
+30#BOOK#WROTE##AH: YEAR-MON-DA (X+ for unknown)
+40#BOOK#RELATED##: URI of a book from OpenITI, or [Author's Title],
+    followed by abbreviation for relation type between brackets (see
+    book_relations repo). Only include relations with older books. Separate
+    related books with semicolon.
+80#BOOK#EDITIONS#: permalink, permalink, permalink
+80#BOOK#LINKS####: permalink, permalink, permalink
+80#BOOK#MSS######: permalink, permalink, permalink
+80#BOOK#STUDIES##: permalink, permalink, permalink
+80#BOOK#TRANSLAT#: permalink, permalink, permalink
+90#BOOK#COMMENT##: Editions (for the older editions, see Jan Just Witkam,
+    "Ibn al-Akfānī (d. 749/1348) and his bibliography of the sciences",
+    MME 2 (1987), 37-41: 41):
+    * ed. Sprenger, Calcutta 1849
+    * ed. Maḥmud Abu al-Naṣr, Cairo 1318/1900
+    * ed. Muḥammad Salīm al-Āmidī al-Bukhārī, Beirut 1322/1904,
+    with preface by Ṭāhir al-Jazā'irī
+    (OpenITI: -ara2)
+    * ed. ʿAbd al-Laṭīf Muḥammad al-ʿAbd, Cairo 1398/1978: based
+    solely on the Calcutta 1849 and Beirut 1904 editions
+    * ed. Jan Just Witkam, Leiden: Ter Lught 1989
+    (OpenITI: -ara3)
+    * ed. ʿAbd al-Munʿim Muḥammad ʿUmar, Cairo: Dār al-Fikr al-ʿArabī 1990
+    (OpenITI: -ara1)

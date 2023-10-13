@@ -1,0 +1,22 @@
+00#AUTH#URI######: 0762MughultayIbnQilij
+10#AUTH#ISM####AR: Muġulṭāy
+10#AUTH#KUNYA##AR: Abū ʿAbd-Allāh
+10#AUTH#LAQAB##AR: ʿAlāʾ al-dīn
+10#AUTH#NASAB##AR: b. Ḳilīǧ b. ʿAbd-Allāh
+10#AUTH#NISBA##AR: al-Bakǧarī, al-Ḥikrī, al-Ḥanafī
+10#AUTH#SHUHRA#AR:
+20#AUTH#BORN#####: Misr_RE, QAHIRA_312E300N_S
+20#AUTH#DIED#####: URIs from Althurayya, comma separated
+20#AUTH#RESIDED##: URIs from Althurayya, comma separated
+20#AUTH#VISITED##: URIs from Althurayya, comma separated
+30#AUTH#BORN###AH: 0689-XXX-XX or afetr 0690-XXX-XX
+30#AUTH#DIED###AH: 0762-XXX-XX
+40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
+40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
+90#AUTH#COMMENT##: EI2: "Mug̲h̲ulṭāy b. Ḳilīd̲j̲ b. ʿAbd Allāh , ʿAlāʾ al-Dīn
+    al-Bakd̲j̲arī (from Bakd̲j̲ara, in Anatolia) al-Ḥikrī (from Ḥikr̄, the quarter
+    of Cairo where he lived) al-Ḥanafī (689 or after 690-762/1290 or after
+    1291-1361), famous Ḥanafī scholar who occupied the chair of ḥadīt̲h̲ in
+    different colleges, such as the Ẓāhiriyya, the Muẓaffariyya Baybarsiyya, the
+    Nāṣiriyya, etc." http://dx.doi.org/10.1163/1573-3912_islam_SIM_5324

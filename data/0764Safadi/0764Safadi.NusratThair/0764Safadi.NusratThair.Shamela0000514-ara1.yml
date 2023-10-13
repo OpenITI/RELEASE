@@ -1,0 +1,29 @@
+00#VERS#CLENGTH##: 228379
+00#VERS#LENGTH###: 54756
+00#VERS#URI######: 0764Safadi.NusratThair.Shamela0000514-ara1
+80#VERS#BASED####: NO_DATA_IN_METADATA
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/4771007283
+80#VERS#LINKS####: https://archive.org/details/dmhv5
+90#VERS#ANNOTATOR: Gowaart Van Den Bossche
+90#VERS#COMMENT##: Pagination is different from pdf, much longer pages,
+    possibly based on a reprint (or possibly the present one is a reprint,
+    unclear from the pdf). But paragraphs seem to be the same. Poetry has
+    been tagged. The headers are all editorial additions, they are in square
+    brackets in the pdf and they use modern terminology that would not
+    typically be used by someone like Safadi. I have reintroduced the square
+    brackets to make this clear. Here and there some hierarchy is
+    discernible through the contents, but as properly applying this would
+    require reading the text in detail, I have not applied any hierarchy and
+    simply left all headers at level 1.  Text is generally of good quality,
+    but there is a large gap in the text at line 4033, pages 289-305 of the
+    pdf are not included in the digital text. This gap is also present in
+    the JK file (which appears to be identical to the Shamela file). I have
+    left a note in the body text where this gap occurs.
+    NOTE OF THE REVIEWER (HRH): NO changes made. 2. The author’s introduction is missing as well (PDF, page 39).
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0775AH/pre-clean/data/0764Safadi/0764Safadi.NusratThair/0764Safadi.NusratThair.Shamela0000514-ara1.mARkdown
+90#VERS#DATE#####: 2020-06-23
+90#VERS#ISSUES###: MISSING_PARTS, PRIMARY_VERSION, CLEANED_VERSION

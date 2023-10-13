@@ -1,0 +1,23 @@
+00#VERS#CLENGTH##: 393935
+00#VERS#LENGTH###: 90556
+00#VERS#URI######: 0786ShahidAwwal.Qawacid.Shia001082Vols-ara1
+80#VERS#BASED####: permalink, permalink, permalink
+80#VERS#COLLATED#: permalink, permalink, permalink
+80#VERS#LINKS####: http://shiabooks.net/library.php?id=12037
+90#VERS#ANNOTATOR: SPL (CnC), PV
+90#VERS#COMMENT##: Close correspondence with printed edition.
+    Removed editorial sections and cleaned text of random chars, etc.
+    Cannot find edition published by Maktabat al-Mufīd, n.d., on worldcat.
+    Each qāʿida is in a separate section but the actual qāʿida
+    isn't necessarily clearly delineated from the rest of the text.
+    Indices are included (marked as Editorial sections),
+    and these include all qāʿidas.
+    VOl 2, pg. 27 was missing (now replaced w/ OCR).
+    PV removed Editorial section at end of vol. 1.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0800AH/pre-clean/data/0786ShahidAwwal/0786ShahidAwwal.Qawacid/0786ShahidAwwal.Qawacid.Shia001082Vols-ara1.completed
+90#VERS#DATE#####: 2020-04-29
+90#VERS#ISSUES###: NO_MAJOR_ISSUES, PRIMARY_VERSION, CLEANED_VERSION
