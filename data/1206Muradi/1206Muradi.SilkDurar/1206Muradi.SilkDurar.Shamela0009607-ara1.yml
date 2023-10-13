@@ -1,0 +1,17 @@
+00#VERS#CLENGTH##: 1565293
+00#VERS#LENGTH###: 356774
+00#VERS#URI######: 1206Muradi.SilkDurar.Shamela0009607-ara1
+80#VERS#BASED####: https://worldcat.org/en/title/4770181166
+80#VERS#COLLATED#: https://worldcat.org/en/title/4770181166
+80#VERS#LINKS####: https://archive.org/details/SilkDurar
+90#VERS#ANNOTATOR: LeipZig Team
+90#VERS#COMMENT##: the text has been tagged before; no proper YML.
+    NOTE OF THE REVIEWER (HRH): PARATEXT added. Editorial tagged and removed.
+    Removed the tags for Juz’, and moved up all tags by one level.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/1225AH/pre-clean/data/1206Muradi/1206Muradi.SilkDurar/1206Muradi.SilkDurar.Shamela0009607-ara1.mARkdown
+90#VERS#DATE#####: YYYY-MM-DD
+90#VERS#ISSUES###: HTML_TAGS, PRIMARY_VERSION, CLEANED_VERSION
