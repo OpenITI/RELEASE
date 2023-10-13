@@ -1,0 +1,30 @@
+00#VERS#CLENGTH##: 158236
+00#VERS#LENGTH###: 36530
+00#VERS#URI######: 0597CimadDinKatibIsfahani.BustanJamic.Sham19Y0016550-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/4771001171
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/4771001171
+80#VERS#LINKS####: https://archive.org/details/FP141369
+90#VERS#ANNOTATOR: Gowaart Van Den Bossche
+90#VERS#COMMENT##: Editorial material and footnotes deleted. Text is of good
+    quality. Structure is straightforward, it consists basically of annals which are
+    second level headers, with some rubrication of periods by the editor which are
+    first level. The authorship of the text is likely dubious, however, so this may
+    need to be revised at some point.
+    NB: check lines of poetry that seem too long: line numbers 1306
+    NOTE OF THE REVIEWER (HRH): I deleted a lot of headers that were duplicates in
+    wrong places, and tagged the untagged headers in their correct places. 2. There
+    is a first-level header in PageV01P242 that does not exist in the PDF, showing
+    the beginning of the reign of Ikhshidid ruler Abu al-Misk Kafur. Since Kafur
+    died ion 356 according to the text (PageV01P242), I added another first-level
+    header after this year to show that the rest of the text is not about him.
+    Besides, there was a header in PageV01P175 showing the beginning of the reign of
+    the Abbasid ruler al-Ma’mun. I untagged this header because firstly it is in the
+    middle of the body text, and secondly his reign begins several years before this
+    time.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0600AH/pre-clean/data/0597CimadDinKatibIsfahani/0597CimadDinKatibIsfahani.BustanJamic/0597CimadDinKatibIsfahani.BustanJamic.Sham19Y0016550-ara1.mARkdown
+90#VERS#DATE#####: 2021-07-23
+90#VERS#ISSUES###: NO_MAJOR_ISSUES, PRIMARY_VERSION, CLEANED_VERSION

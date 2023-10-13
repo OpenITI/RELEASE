@@ -1,0 +1,22 @@
+00#VERS#CLENGTH##: 439731
+00#VERS#LENGTH###: 106150
+00#VERS#URI######: 0595IbnRushdHafid.TahafudTahafud.DARE00025-ara1
+80#VERS#BASED####: permalink, permalink, permalink
+80#VERS#COLLATED#: permalink, permalink, permalink
+80#VERS#LINKS####: https://dare.uni-koeln.de/app/fulltexts/FT25
+90#VERS#ANNOTATOR: the name of the annotator (latin characters; please
+    use consistently)
+90#VERS#COMMENT##: Text digitized by the Digital Averroes Research
+    Environment project at the Thomas-Institute of the University of
+    Cologne. Averroes, Tahāfut al-tahāfut (تهافت التهافت). Digital copy of
+    Averroès, Tahafot at-tahafot (Bibliotheca arabica scholasticorum. Série
+    arabe 3), texte arabe inédit établi par Maurice Bouyges, Beirut:
+    Imprimerie catholique, 1930. Cologne: Digital Averroes Research
+    Environment (DARE), 2014. URI: dare.uni-koeln.de/app/fulltexts/FT25 .
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0600AH/pre-clean/data/0595IbnRushdHafid/0595IbnRushdHafid.TahafudTahafud/0595IbnRushdHafid.TahafudTahafud.DARE00025-ara1
+90#VERS#DATE#####: YYYY-MM-DD
+90#VERS#ISSUES###: PRIMARY_VERSION, CLEANED_VERSION

@@ -1,0 +1,20 @@
+00#BOOK#URI######: 0500Anonymous.AwtanWaBuldan
+10#BOOK#GENRES###: src@keyword, src@keyword, src@keyword
+10#BOOK#TITLEA#AR: Kitāb al-Awṭān wa-al-buldān
+10#BOOK#TITLEB#AR: _BULDAN, _JUGHRAFIYA
+20#BOOK#WROTE####: URIs from Althurayya, comma separated
+30#BOOK#WROTE##AH: YEAR-MON-DA (X+ for unknown)
+40#BOOK#RELATED##: 0255Jahiz.Amsar (ABR)
+80#BOOK#EDITIONS#: permalink, permalink, permalink
+80#BOOK#LINKS####: permalink, permalink, permalink
+80#BOOK#MSS######: permalink, permalink, permalink
+80#BOOK#STUDIES##: permalink, permalink, permalink
+80#BOOK#TRANSLAT#: permalink, permalink, permalink
+90#BOOK#COMMENT##: This is an anonymous 5th/11th C summary of al-Jāḥiẓ's work
+    Kitāb al-amṣār,
+    see Fuat Sezgin, Geschichte des arabischen Schrifttums 14 p. 152:
+    "Abgesehen von spärlichen Zitaten in Quellen ist uns aus seinem der Geographie
+    der Länder gewidmeten Buch
+    eine stark gekürzte Zusammenfassung aus dem 5./11. Jahrhundert unter dem
+    willkürlichen Titel
+    K. al-awṭān wa-l-buldān erhalten"

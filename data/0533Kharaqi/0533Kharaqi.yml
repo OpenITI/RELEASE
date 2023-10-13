@@ -1,0 +1,26 @@
+00#AUTH#URI######: 0533Kharaqi
+10#AUTH#ISM####AR: ʿAbd al-Ǧabbār
+10#AUTH#KUNYA##AR: Abū Muḥammad
+10#AUTH#LAQAB##AR: 
+10#AUTH#NASAB##AR: b. ʿAbd al-Ǧabbār b. Muḥammad
+10#AUTH#NISBA##AR: al-Ṯābitī al-Ḥusaynī al-Marwazī al-Ḫaraqī
+10#AUTH#SHUHRA#AR: al-Ḫaraqī
+20#AUTH#BORN#####: URIs from Althurayya, comma separated
+20#AUTH#DIED#####: URIs from Althurayya, comma separated
+20#AUTH#RESIDED##: URIs from Althurayya, comma separated
+20#AUTH#VISITED##: URIs from Althurayya, comma separated
+30#AUTH#BORN###AH: YEAR-MON-DA (X+ for unknown)
+30#AUTH#DIED###AH: YEAR-MON-DA (X+ for unknown)
+40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
+40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
+90#AUTH#COMMENT##: There may be more than one astronomer known as al-Kharaqī
+    (see Sezgin, Geschichte des arabischen Schrifttums 15 p. 53):
+    * Abū Muḥammad ʿAbd al-Ǧabbār b. ʿAbd al-Ǧabbār b. Muḥammad: this name is found
+      on manuscripts of the Muntahā al-idrāk, and in the incipits of 
+      the Risāla fī al-tawaṣṣul and the Risāla fī ʿAdad al-wifq;
+    * Shams al-Dīn Abū Bakr Muḥammad b. Aḥmad: this name is found
+      in manuscripts of the Kitāb al-Tabṣira fī al-Hay'a 
+      (+ Ḥajjī Khalīfa's mention of that text)
+    * Shams al-Dīn Abū al-Ḥusayn ʿAlī b. Naṣīr al-Dīn Maḥmūd b. al-Muẓaffar: this name is found
+      in manuscripts of the Kitāb al-Tabṣira fī al-Hay'a

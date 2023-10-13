@@ -1,0 +1,20 @@
+00#BOOK#URI######: 0550AnonymousCompiler.SijillatMustansiriyya
+10#BOOK#GENRES###: src@keyword, src@keyword, src@keyword
+10#BOOK#TITLEA#AR: al-Sijillāt al-Mustanṣiriyyaŧ
+10#BOOK#TITLEB#AR: 
+20#BOOK#WROTE####: URIs from Althurayya, comma separated
+30#BOOK#WROTE##AH: YEAR-MON-DA (X+ for unknown)
+40#BOOK#RELATED##: URI of a book from OpenITI, or [Author's Title],
+    followed by abbreviation for relation type between brackets (see
+    book_relations repo). Only include relations with older books. Separate
+    related books with semicolon.
+80#BOOK#EDITIONS#: permalink, permalink, permalink
+80#BOOK#LINKS####: permalink, permalink, permalink
+80#BOOK#MSS######: permalink, permalink, permalink
+80#BOOK#STUDIES##: permalink, permalink, permalink
+80#BOOK#TRANSLAT#: permalink, permalink, permalink
+90#BOOK#COMMENT##: A collection of letters ascribed to the Fāṭimid caliph al-Mustanṣir.
+    The date of the most recent letter is 489 AH; there is discussion about the
+    date when the letters were compiled into a collection, this possibly happened
+    as early as in the 6th century AH, even though the manuscript dates from 
+    about 1300 AH.

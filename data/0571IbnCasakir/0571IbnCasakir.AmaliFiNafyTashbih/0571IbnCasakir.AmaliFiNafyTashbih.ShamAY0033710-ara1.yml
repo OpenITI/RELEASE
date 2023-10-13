@@ -1,0 +1,18 @@
+00#VERS#CLENGTH##: 7932
+00#VERS#LENGTH###: 2040
+00#VERS#URI######: 0571IbnCasakir.AmaliFiNafyTashbih.ShamAY0033710-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/873101100
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/873101100
+80#VERS#LINKS####: 
+    https://www.quranicthought.com/books/%D9%85%D8%AC%D9%84%D8%B3-%D9%81%D9%8A-%D9%86%D9%81%D9%8A-%D8%A7%D9%84%D8%AA%D8%B4%D8%A8%D9%8A%D9%87-%D9%84%D8%A7%D8%A8%D9%86-%D8%B9%D8%B3%D8%A7%D9%83%D8%B1-%D8%B7-%D8%AF%D8%A7%D8%B1-%D8%A7%D9%84/;
+    https://www.noor-book.com/book/review/454083
+90#VERS#ANNOTATOR: HRH
+90#VERS#COMMENT##: Page 59-75 which is the Sima’at part of the text is not
+    included in the digital version, which is not a problem.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0575AH/pre-clean/data/0571IbnCasakir/0571IbnCasakir.AmaliFiNafyTashbih/0571IbnCasakir.AmaliFiNafyTashbih.ShamAY0033710-ara1.completed
+90#VERS#DATE#####: 2022-07-09
+90#VERS#ISSUES###: NO_MAJOR_ISSUES, PRIMARY_VERSION, CLEANED_VERSION

@@ -1,0 +1,21 @@
+00#VERS#CLENGTH##: 60795
+00#VERS#LENGTH###: 14019
+00#VERS#URI######: 0500Anonymous.KitabMajall.LMN20210125-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/64299509
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/64299509
+80#VERS#LINKS####: 
+    https://archive.org/details/apocryphaarabica00gibsuoft/page/n9/mode/2up
+90#VERS#ANNOTATOR: LMN
+90#VERS#COMMENT##: ("Cave of the Treasures") part of the "Book of the
+    Rolls";  ed. Margaret Dunlop Gibson (Studia Sinaitica, No. 8 (1901));
+    dating needs assessment; see also
+    https://www.academia.edu/10501689/Kitāb_al_majāll. OCRed through Google
+    Drive; post-corrected by LMN;  orthography follows edition (missing
+    hamzas, etc).
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0500AH/pre-clean/data/0500Anonymous/0500Anonymous.KitabMajall/0500Anonymous.KitabMajall.LMN20210125-ara1
+90#VERS#DATE#####: 2021-01-25
+90#VERS#ISSUES###: NO_MAJOR_ISSUES, PRIMARY_VERSION, CLEANED_VERSION

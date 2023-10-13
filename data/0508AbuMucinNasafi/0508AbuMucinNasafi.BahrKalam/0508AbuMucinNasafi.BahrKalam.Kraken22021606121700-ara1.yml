@@ -1,0 +1,20 @@
+00#VERS#CLENGTH##: 156049
+00#VERS#LENGTH###: 37207
+00#VERS#URI######: 0508AbuMucinNasafi.BahrKalam.Kraken22021606121700-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/891821378
+80#VERS#COLLATED#: 
+80#VERS#LINKS####: 
+    https://ia800609.us.archive.org/33/items/lionsunna1515_gmail_201704/Bahr_alkalam_Nasafe.pdf
+90#VERS#ANNOTATOR: 
+90#VERS#COMMENT##: OCRed through Kraken:
+    * Kraken version: 3.0.0.0b21.dev6
+    * segmentation model: DEFAULT
+    * OCR model: 12-24-2021_ArabPersGeneralized.mlmodel
+    NOTE: images split by LMN
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0525AH/pre-clean/data/0508AbuMucinNasafi/0508AbuMucinNasafi.BahrKalam/0508AbuMucinNasafi.BahrKalam.Kraken22021606121700-ara1
+90#VERS#DATE#####: 2022-02-16
+90#VERS#ISSUES###: UNCORRECTED_OCR, PRIMARY_VERSION, CLEANED_VERSION

@@ -1,0 +1,23 @@
+00#VERS#CLENGTH##: 772216
+00#VERS#LENGTH###: 173517
+00#VERS#URI######: 0560SharifIdrisi.NuzhatMushtaq.Shamela0011787-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/21552298
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/1103732750
+80#VERS#LINKS####: https://ia802707.us.archive.org/23/items/WAQ93695/93695.pdf
+90#VERS#ANNOTATOR: PV
+90#VERS#COMMENT##: The ʿĀlam al-Kutub edition is a pirated version of the
+    Italian edition
+    (ed. Rizzitano, Bombaci, Rubinacci et al.:
+    http://www.worldcat.org/oclc/955323050),
+    as is the Maktabat al-Thaqāfa al-Dīniyya edition
+    (http://www.worldcat.org/oclc/1103732750)
+    with which PV collated the digital text. Both have the same pagination.
+    PV marked editorial headers and corrected falsely tagged section headers.
+    NOTE OF THE REVIEWER (HRH): No changes.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0575AH/pre-clean/data/0560SharifIdrisi/0560SharifIdrisi.NuzhatMushtaq/0560SharifIdrisi.NuzhatMushtaq.Shamela0011787-ara1.mARkdown
+90#VERS#DATE#####: 2021-03-17
+90#VERS#ISSUES###: NO_MAJOR_ISSUES, PRIMARY_VERSION, CLEANED_VERSION

@@ -1,0 +1,14 @@
+00#VERS#CLENGTH##: 81394
+00#VERS#LENGTH###: 19980
+00#VERS#URI######: 0515IbnQattac.DurraKhatira.Shamela0005424-ara1
+80#VERS#BASED####: NO_DATA_IN_METADATA
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/4771250451
+80#VERS#LINKS####: PHYSICAL_OBJECT
+90#VERS#ANNOTATOR: HRH
+90#VERS#COMMENT##: All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0525AH/pre-clean/data/0515IbnQattac/0515IbnQattac.DurraKhatira/0515IbnQattac.DurraKhatira.Shamela0005424-ara1.completed
+90#VERS#DATE#####: 2020-05-24
+90#VERS#ISSUES###: HTML_TAGS, PRIMARY_VERSION, CLEANED_VERSION

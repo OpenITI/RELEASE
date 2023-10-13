@@ -1,0 +1,21 @@
+00#VERS#CLENGTH##: 158952
+00#VERS#LENGTH###: 37717
+00#VERS#URI######: 0590IbnNasrJalalDinShayzari.ManhajMasluk.JK001189-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/31951000
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/31951000
+80#VERS#LINKS####: 
+    https://archive.org/details/Heliopolis1957_gmail_20180506_1129;
+    https://www.noor-book.com/en/ebook-المنهج-المسلوك-في-سياسه-الملوك--pdf
+90#VERS#ANNOTATOR: Gowaart Van Den Bossche
+90#VERS#COMMENT##: This version and the Shamela version are identical, but
+    differ slightly in formatting. I felt the JK version was slightly better
+    formatted, though I had to clean up a few issues, such as repeated pages. Poetry
+    has been tagged.
+    NOTE OF THE REVIEWER (HRH): No changes.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0600AH/pre-clean/data/0590IbnNasrJalalDinShayzari/0590IbnNasrJalalDinShayzari.ManhajMasluk/0590IbnNasrJalalDinShayzari.ManhajMasluk.JK001189-ara1.mARkdown
+90#VERS#DATE#####: 2021-02-16
+90#VERS#ISSUES###: RANDOM_CHARS, PRIMARY_VERSION, CLEANED_VERSION
