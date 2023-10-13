@@ -1,0 +1,17 @@
+00#AUTH#URI######: 1396KhayrDinZirikli
+10#AUTH#ISM####AR: Ḫayr al-dīn 
+10#AUTH#KUNYA##AR: 
+10#AUTH#LAQAB##AR: 
+10#AUTH#NASAB##AR: b. Maḥmūd b. Muḥammad b. ʿAlī
+10#AUTH#NISBA##AR: al-Dimašqī
+10#AUTH#SHUHRA#AR: al-Ziriklī
+20#AUTH#BORN#####: Sham_RE_Auto
+20#AUTH#DIED#####: URIs from Althurayya, comma separated
+20#AUTH#RESIDED##: URIs from Althurayya, comma separated
+20#AUTH#VISITED##: URIs from Althurayya, comma separated
+30#AUTH#BORN###AH: 1310-DHH-09
+30#AUTH#DIED###AH: 1396-DHH-03
+40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
+40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
+90#AUTH#COMMENT##: No EI2 entry. The information about him is taken from his Aclam, 8/267.

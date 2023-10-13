@@ -1,0 +1,17 @@
+00#AUTH#URI######: 1339IsmacilBashaBaghdadi
+10#AUTH#ISM####AR: Ismāʿīl
+10#AUTH#KUNYA##AR: 
+10#AUTH#LAQAB##AR: 
+10#AUTH#NASAB##AR: b. Muḥammad Amīn b. Mīr Salīm
+10#AUTH#NISBA##AR: al-Bābānī al-Baġdādī
+10#AUTH#SHUHRA#AR: Ismāʿīl Bāšā Baġdādī
+20#AUTH#BORN#####: Iraq_RE_Auto
+20#AUTH#DIED#####: URIs from Althurayya, comma separated
+20#AUTH#RESIDED##: URIs from Althurayya, comma separated
+20#AUTH#VISITED##: URIs from Althurayya, comma separated
+30#AUTH#BORN###AH: 1255-XXX-XX
+30#AUTH#DIED###AH: 1339-XXX-XX
+40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
+40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
+90#AUTH#COMMENT##: EI2: "Ismāʿīl b. Muḥammad Amīn b. Mīr Salīm al-Bābānī al-Bag̲h̲dādī , in modern Turkish orthography, Baǧdatlı İsmail Paşa (1839-1920), Ottoman army officer and author of two important bio-bibliographical reference works.": http://dx.doi.org/10.1163/1573-3912_islam_SIM_8722

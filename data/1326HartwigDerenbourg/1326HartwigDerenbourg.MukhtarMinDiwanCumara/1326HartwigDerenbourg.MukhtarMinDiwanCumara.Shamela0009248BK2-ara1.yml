@@ -1,0 +1,24 @@
+00#VERS#CLENGTH##: 112984
+00#VERS#LENGTH###: 27239
+00#VERS#URI######: 1326HartwigDerenbourg.MukhtarMinDiwanCumara.Shamela0009248BK2-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/236015980
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/236015980
+80#VERS#LINKS####: https://ia802306.us.archive.org/30/items/kitabfihialn
+    ukat01umaruoft/kitabfihialnukat01umaruoft.pdf
+90#VERS#ANNOTATOR: HRH, PV
+90#VERS#COMMENT##: The original Shamela file contained two separate texts:
+    * ʿUmāra's al-Nukat al-ʿaṣriyya (0569CumaraHakami.NukatCasriyya)
+    * Derenbourg's selection of ʿUmāra's poetry
+    The file also included ʿUmāra's biography from
+    ʿImād al-Dīn al-Iṣbahānī's Kharīdat al-Qasr
+    (removed by PV).
+    The numbers that appear at the beginning of the poems
+    in the PDF  are distinguished by two asterisks (i.e. # **) in the
+    digital version.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/1350AH/pre-clean/data/1326HartwigDerenbourg/1326HartwigDerenbourg.MukhtarMinDiwanCumara/1326HartwigDerenbourg.MukhtarMinDiwanCumara.Shamela0009248BK2-ara1.mARkdown
+90#VERS#DATE#####: 2020-07-01
+90#VERS#ISSUES###: NO_MAJOR_ISSUES, PRIMARY_VERSION, CLEANED_VERSION

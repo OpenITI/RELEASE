@@ -1,0 +1,18 @@
+00#VERS#CLENGTH##: 1266
+00#VERS#LENGTH###: 300
+00#VERS#URI######: 1306YusufBeyKaram.ZajaliyyatDawudBasha.PES20210222-ara1
+80#VERS#BASED####: Manuscript
+80#VERS#COLLATED#: Manuscript
+80#VERS#LINKS####: https://www.academia.edu/44494318/زجلية_يوسف_بك_كرم
+90#VERS#ANNOTATOR: Gowaart Van Den Bossche
+90#VERS#COMMENT##: This text was taken from a manuscript transcription uploaded
+    to academia.edu by Lebanese priest Elie Saade (whose initials PES are used in
+    the uri). Gowaart converted the text into mARkdown with his permission. The text
+    was based on a manuscript from his personal collection.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/1325AH/pre-clean/data/1306YusufBeyKaram/1306YusufBeyKaram.ZajaliyyatDawudBasha/1306YusufBeyKaram.ZajaliyyatDawudBasha.PES20210222-ara1.completed
+90#VERS#DATE#####: 2021-02-22
+90#VERS#ISSUES###: NO_MAJOR_ISSUES, PRIMARY_VERSION, CLEANED_VERSION

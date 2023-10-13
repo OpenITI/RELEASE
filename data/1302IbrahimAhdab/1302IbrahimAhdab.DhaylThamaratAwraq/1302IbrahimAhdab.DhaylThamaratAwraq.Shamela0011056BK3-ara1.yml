@@ -1,0 +1,16 @@
+00#VERS#CLENGTH##: 105736
+00#VERS#LENGTH###: 25759
+00#VERS#URI######: 1302IbrahimAhdab.DhaylThamaratAwraq.Shamela0011056BK3-ara1
+80#VERS#BASED####: permalink, permalink, permalink
+80#VERS#COLLATED#: permalink, permalink, permalink
+80#VERS#LINKS####: all@id, vol1@id, vol2@id, vol3@id, volX@id
+90#VERS#ANNOTATOR: the name of the annotator (latin characters; please
+    use consistently)
+90#VERS#COMMENT##: The original text file contained three texts:
+    * 0837IbnHijjaHamawi.ThamaratAwraq
+    * 0837IbnHijjaHamawi.DhaylThamaratAwraq
+    * 1302IbrahimAhdab.DhaylThamaratAwraq
+    PV split the two texts into separate files.
+    NB: not sure if the author of the first dhayl is Ibn Ḥijja.
+90#VERS#DATE#####: YYYY-MM-DD
+90#VERS#ISSUES###: PRIMARY_VERSION, CLEANED_VERSION
