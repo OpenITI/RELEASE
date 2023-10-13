@@ -1,0 +1,18 @@
+00#VERS#CLENGTH##: 779195
+00#VERS#LENGTH###: 181939
+00#VERS#URI######: 1041Maqqari.AzharRiyad.Shamela0026350-ara1
+80#VERS#BASED####: https://worldcat.org/en/title/236019822
+80#VERS#COLLATED#: https://worldcat.org/en/title/11465759
+80#VERS#LINKS####: https://archive.org/details/37111/00_37111/
+90#VERS#ANNOTATOR: SP Loynes
+90#VERS#COMMENT##: There is no edition listed on worldcat published in
+    1939, both the above refer to 1904, but it is the same pagination, etc.
+    Good correspondence with no obvious errors. However, I found
+    distinguishing between what should be hierarchical sections vs. semantic
+    units somewhat difficult and this should be checked.
+   NOTE OF THE REVIEWER (HRH): I tagged the text again (It's not easy to tag this text. 
+   A lot of titles should be added by closely reading the text to accurately divide the subject matters). 
+   2- The fourth volume is missing. I added the lable “text quality” to the issue for this text. 
+   3- I fixed the Worldcat links. The collated version is a reprint of the based version.
+90#VERS#DATE#####: 2020-11-12
+90#VERS#ISSUES###: INCOMPLETE_VERSION, CLEANED_VERSION, PRIMARY_VERSION

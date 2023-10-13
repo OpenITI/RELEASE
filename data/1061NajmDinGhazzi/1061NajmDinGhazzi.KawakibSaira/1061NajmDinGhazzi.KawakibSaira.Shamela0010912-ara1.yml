@@ -1,0 +1,18 @@
+00#VERS#CLENGTH##: 1058572
+00#VERS#LENGTH###: 240763
+00#VERS#URI######: 1061NajmDinGhazzi.KawakibSaira.Shamela0010912-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/43222447
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/43222447
+80#VERS#LINKS####: https://archive.org/details/waq42427
+90#VERS#ANNOTATOR: Unknown, Gowaart Van Den Bossche
+90#VERS#COMMENT##: the text was tagged before, but needed a good amount
+    of correction by Gowaart. Poetry tags were inserted and first header
+    corrected from $ to |. All biography headers formatted consistently and
+    several that had not been tagged before are now tagged.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/1075AH/pre-clean/data/1061NajmDinGhazzi/1061NajmDinGhazzi.KawakibSaira/1061NajmDinGhazzi.KawakibSaira.Shamela0010912-ara1.mARkdown
+90#VERS#DATE#####: 2020-08-07
+90#VERS#ISSUES###: NO_MAJOR_ISSUES, PRIMARY_VERSION, CLEANED_VERSION

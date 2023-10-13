@@ -1,0 +1,30 @@
+00#BOOK#URI######: 1067HajjiKhalifa.JihanNuma
+10#BOOK#GENRES###: src@keyword, src@keyword, src@keyword
+10#BOOK#TITLEA#AR: Ǧihān-numā
+10#BOOK#TITLEB#AR: 
+20#BOOK#WROTE####: URIs from Althurayya, comma separated
+30#BOOK#WROTE##AH: YEAR-MON-DA (X+ for unknown)
+40#BOOK#RELATED##: URI of a book from OpenITI, or [Author's Title],
+    followed by abbreviation for relation type between brackets (see
+    book_relations repo). Only include relations with older books. Separate
+    related books with semicolon.
+80#BOOK#EDITIONS#: permalink, permalink, permalink
+80#BOOK#LINKS####: permalink, permalink, permalink
+80#BOOK#MSS######: permalink, permalink, permalink
+80#BOOK#STUDIES##: permalink, permalink, permalink
+80#BOOK#TRANSLAT#: permalink, permalink, permalink
+90#BOOK#COMMENT##: Geographical work, with a difficult history (see Sezgin GAS 14.318ff.):
+    1st recension: started in 1058/1648 but not completed. "The four elements form
+      the foundational principle of its division... The author has only implemented
+      parts of the third chapter, which treats water, and in which he describes the 
+      seas, rivers and lakes known to the medieval geographers; and parts of the fourth chapter,
+      on the earth, in which countries and cities should be described... and a part of the 
+      real description of the countries: 1. Muslim Spain, 2. North Africa (both only based on
+      the Arab geographers), and 3. Turkey". 
+    2nd recension: started in 1064/1653, after he had translated (part of) Mercator's Atlas Minor;
+      this recension also remained incomplete. 
+      "Ḥajjī Khalīfa made the continents the foundation of the division of this new version.
+      He starts with East Asia (Japan) and ends in East Anatolia at the city Van."
+      Ḥajjī Khalīfa's text ends on p. 421 of the Müteferrika edition, but it is not clear
+      which parts Müteferrika himself inserted into Ḥajjī Khalīfa's text, nor who 
+      wrote the continuation (pp. 421-698). 
