@@ -1,0 +1,23 @@
+00#BOOK#URI######: 0150AbuHanifa.FiqhAbsat
+10#BOOK#GENRES###: src@keyword, src@keyword, src@keyword
+10#BOOK#TITLEA#AR: al-Fiqh al-Absaṭ
+10#BOOK#TITLEB#AR: 
+20#BOOK#WROTE####: URIs from Althurayya, comma separated
+30#BOOK#WROTE##AH: YEAR-MON-DA (X+ for unknown)
+40#BOOK#RELATED##: URI of a book from OpenITI, or [Author's Title],
+    followed by abbreviation for relation type between brackets (see
+    book_relations repo). Only include relations with older books. Separate
+    related books with semicolon.
+70#BOOK#EXTID####: viaf@id, wikidata@id, src@id
+80#BOOK#EDITIONS#: permalink, permalink, permalink
+80#BOOK#LINKS####: permalink, permalink, permalink
+80#BOOK#MSS######: permalink, permalink, permalink
+80#BOOK#STUDIES##: permalink, permalink, permalink
+80#BOOK#TRANSLAT#: permalink, permalink, permalink
+90#BOOK#COMMENT##: The work is attributed to Abū Ḥanīfa,  but the person
+    asking Abū Ḥanīfa questions is  Abū Muṭīʿ al-Ḥakam b. ʿAbd Allāh al-
+    Balkhī. Van Ess considers this person (also) the author of al-fiqh
+    al-
+    akbar (See Josef van Ess, "Kritisches zum Fiqh Akbar", Revue des
+    Études
+    Islamiques 54 (1986).

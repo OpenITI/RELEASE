@@ -1,0 +1,21 @@
+00#VERS#CLENGTH##: 122915
+00#VERS#LENGTH###: 32218
+00#VERS#URI######: 0197IbnWahbQurashi.JamicFiHadith.JK007007-ara1
+80#VERS#BASED####: permalink, permalink, permalink
+80#VERS#COLLATED#: permalink, permalink, permalink
+80#VERS#LINKS####: https://ia800904.us.archive.org/32/items/waq27899/27899.pdf
+90#VERS#ANNOTATOR: PV
+90#VERS#COMMENT##: Transcription of a third-century papyrus manuscript from Edfu
+    (Dār al-Kutub, Fihris Ḥadīth raqm 2201, see editor's intoduction p. 28).
+    The editor indicates in the introduction (p. 29-30) that the text has specific
+    sections,
+    but not all of them are indicated in the text.
+    PV tagged the sections marked in the text (but other sections
+    mentioned by the editor in the introduction were not located).
+    All paratextual elements (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0200AH/pre-
+    clean/data/0197IbnWahbQurashi/0197IbnWahbQurashi.JamicFiHadith/0197IbnWahbQurashi.JamicFiHadith.JK007007-ara1
+90#VERS#DATE#####: YYYY-MM-DD
+90#VERS#ISSUES###: PRIMARY_VERSION, CLEANED_VERSION

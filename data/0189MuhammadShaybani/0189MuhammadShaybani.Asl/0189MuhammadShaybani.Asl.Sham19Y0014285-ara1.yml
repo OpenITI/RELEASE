@@ -1,0 +1,22 @@
+00#VERS#CLENGTH##: 5554889
+00#VERS#LENGTH###: 1419314
+00#VERS#URI######: 0189MuhammadShaybani.Asl.Sham19Y0014285-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/816828542
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/816828542
+80#VERS#LINKS####:
+    https://archive.org/details/ELASLU10ImamMuhammedB.ElHasenEshShejbani
+90#VERS#ANNOTATOR: Omar Abdel-Ghaffar  (SHARIAsource-CnC)
+90#VERS#COMMENT##: The text is in good order and closely corresponds to the
+    printed edition. I had to remove a few editorial parts, like footnotes. The
+    entire first volume of the printed edition is editorial material. The
+    annotations (bāb, kitāb, etc) all appeared at the top of the page rather than
+    where they were located in the printed edition. I used the search function to
+    replace all the ones I did not do while skimming the text.
+    NOTE OF THE REVIEWER (HRH): No changes.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0200AH/pre-clean/data/0189MuhammadShaybani/0189MuhammadShaybani.Asl/0189MuhammadShaybani.Asl.Sham19Y0014285-ara1.mARkdown
+90#VERS#DATE#####: 18-11-2021
+90#VERS#ISSUES###: NO_MAJOR_ISSUES, PRIMARY_VERSION, CLEANED_VERSION

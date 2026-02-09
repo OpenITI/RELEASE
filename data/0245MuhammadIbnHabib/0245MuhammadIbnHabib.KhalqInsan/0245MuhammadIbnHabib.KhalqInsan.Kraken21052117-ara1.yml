@@ -1,0 +1,19 @@
+00#VERS#CLENGTH##: 2716
+00#VERS#LENGTH###: 629
+00#VERS#URI######: 0245MuhammadIbnHabib.KhalqInsan.Kraken21052117-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/4770683749
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/4770683749
+80#VERS#LINKS####: https://archive.org/details/3025pdf_202001; https://www.noor-book.com/كتاب-3025-كتاب-خلق-الانسان-في-اللغه-محمد-بن-حبيب-البغدادي-pdf
+90#VERS#ANNOTATOR: LMN
+90#VERS#COMMENT##: OCRed through Kraken; arabPers-WithDiffTypefaces.mlmodel;
+    default segmentation; very poor OCR output due to page layout issues;
+    corrected by the annotator.
+    NB: check lines of poetry that seem too short: line numbers 32
+    NOTE OF THE REVIEWER (HRH): PARATEXT added.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0250AH/pre-clean/data/0245MuhammadIbnHabib/0245MuhammadIbnHabib.KhalqInsan/0245MuhammadIbnHabib.KhalqInsan.Kraken21052117-ara1.mARkdown
+90#VERS#DATE#####: 2021-05-21
+90#VERS#ISSUES###: N0_MAJOR_ISSUES, PRIMARY_VERSION, CLEANED_VERSION

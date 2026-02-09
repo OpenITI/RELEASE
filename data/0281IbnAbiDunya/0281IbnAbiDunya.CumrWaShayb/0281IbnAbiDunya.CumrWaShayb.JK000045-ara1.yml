@@ -1,0 +1,17 @@
+00#VERS#CLENGTH##: 17362
+00#VERS#LENGTH###: 4461
+00#VERS#URI######: 0281IbnAbiDunya.CumrWaShayb.JK000045-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/34377952
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/34377952
+80#VERS#LINKS####: http://waqfeya.com/book.php?bid=4045
+90#VERS#ANNOTATOR: HRH
+90#VERS#COMMENT##: Very small discrepancies between the text and the
+    PDF: number 14 (page 53) and number 43 (page 62) are omitted in the
+    text. Some strange signs instead of footnote numbers in page 75.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0300AH/pre-clean/data/0281IbnAbiDunya/0281IbnAbiDunya.CumrWaShayb/0281IbnAbiDunya.CumrWaShayb.JK000045-ara1.mARkdown
+90#VERS#DATE#####: 2019-08-13
+90#VERS#ISSUES###: NO_MAJOR_ISSUES, PRIMARY_VERSION, CLEANED_VERSION

@@ -1,0 +1,21 @@
+00#VERS#CLENGTH##: 16880
+00#VERS#LENGTH###: 3856
+00#VERS#URI######: 0292Yacqubi.MushakalatNas.Kraken220602101901-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/1230066885
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/1230066885
+80#VERS#LINKS####:
+    https://archive.org/download/20200526_20200526_1608/مشاكلة_الناس_لزمانهم.pdf
+90#VERS#ANNOTATOR: PV
+90#VERS#COMMENT##: OCRed through Kraken:
+    * Kraken version: 3.0.0.0b21.dev6
+    * segmentation model: DEFAULT
+    * OCR model: 12-24-2021_ArabPersGeneralized.mlmodel
+    PV corrected the OCR for the main text and added structural tagging.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0300AH/pre-
+    clean/data/0292Yacqubi/0292Yacqubi.MushakalatNas/0292Yacqubi.MushakalatNas.Kraken220602101901-ara1.completed
+90#VERS#DATE#####: 2022-06-02
+90#VERS#ISSUES###: NO_MAJOR_ISSUES, PRIMARY_VERSION, CLEANED_VERSION

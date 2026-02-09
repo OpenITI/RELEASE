@@ -1,0 +1,17 @@
+00#VERS#CLENGTH##: 32874
+00#VERS#LENGTH###: 8437
+00#VERS#URI######: 0281IbnAbiDunya.AmrBiMacruf.Shamela0008207-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/827876447
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/827876447
+80#VERS#LINKS####:
+    https://ia800309.us.archive.org/3/items/waq34370/34370.pdf
+90#VERS#ANNOTATOR: MEHDI SHOJAIE
+90#VERS#COMMENT##: This numbers of Hedith are wrong; line 118/ 244/ 247/
+    479/ 541/ 570/ 595.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0300AH/pre-clean/data/0281IbnAbiDunya/0281IbnAbiDunya.AmrBiMacruf/0281IbnAbiDunya.AmrBiMacruf.Shamela0008207-ara1.mARkdown
+90#VERS#DATE#####: 2019-08-10
+90#VERS#ISSUES###: PAGINATION, MANY_TYPOS, PRIMARY_VERSION, CLEANED_VERSION

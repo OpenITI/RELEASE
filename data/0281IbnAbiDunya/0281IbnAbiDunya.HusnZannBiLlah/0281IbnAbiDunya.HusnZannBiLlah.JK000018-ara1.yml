@@ -1,0 +1,18 @@
+00#VERS#CLENGTH##: 39753
+00#VERS#LENGTH###: 10204
+00#VERS#URI######: 0281IbnAbiDunya.HusnZannBiLlah.JK000018-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/4770232947
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/4771428746;
+    http://www.worldcat.org/oclc/4770231049
+80#VERS#LINKS####: https://ketabpedia.com/تحميل/حسن-الظن-بالله/;
+    https://ia800209.us.archive.org/8/items/HOSNIZAN/HOSNIZAAN.pdf
+90#VERS#ANNOTATOR: HRH
+90#VERS#COMMENT##: 1- The Editpro edition was not found. I collated the
+    text with two other editions.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0300AH/pre-clean/data/0281IbnAbiDunya/0281IbnAbiDunya.HusnZannBiLlah/0281IbnAbiDunya.HusnZannBiLlah.JK000018-ara1.mARkdown
+90#VERS#DATE#####: 2019-10-01
+90#VERS#ISSUES###: RANDOM_CHARS, PRIMARY_VERSION, CLEANED_VERSION

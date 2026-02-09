@@ -1,0 +1,17 @@
+00#VERS#CLENGTH##: 328797
+00#VERS#LENGTH###: 86630
+00#VERS#URI######: 0290IbnAhmadIbnHanbal.Sunna.JK006833-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/236031415
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/236031415
+80#VERS#LINKS####: https://archive.org/details/waq16040
+90#VERS#ANNOTATOR: MEHDI SHOJAIE
+90#VERS#COMMENT##: Most of اسناد الحدیث are enterred from the footnotes into the digital text after a plus sign at the end of each hadith. The errors are mentionned in
+    an Excel file https://drive.google.com/open?id=0B9eMKUj9J0jFTkVvaE1sUy1lZ
+    XhFN0VjblNEMzZxcy05eWpR
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0300AH/pre-clean/data/0290IbnAhmadIbnHanbal/0290IbnAhmadIbnHanbal.Sunna/0290IbnAhmadIbnHanbal.Sunna.JK006833-ara1.mARkdown
+90#VERS#DATE#####: 2019-08-10
+90#VERS#ISSUES###: MISSING_PARTS, REDUNDANT_PARTS, MANY_TYPOS, RANDOM_CHARS, PRIMARY_VERSION, CLEANED_VERSION

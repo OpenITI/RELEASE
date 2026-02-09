@@ -1,0 +1,16 @@
+00#VERS#CLENGTH##: 9957
+00#VERS#LENGTH###: 2709
+00#VERS#URI######: 0241IbnHanbal.MinSualatIbnMuhammadAthram.Shamela0025873-ara1
+80#VERS#BASED####: 
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/123477826
+80#VERS#LINKS####: https://archive.org/details/waq88889
+90#VERS#ANNOTATOR: Gowaart Van Den Bossche
+90#VERS#COMMENT##: Edited text has no section structure, so I untagged
+    all headings from the  digital text.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0250AH/pre-clean/data/0241IbnHanbal/0241IbnHanbal.MinSualatIbnMuhammadAthram/0241IbnHanbal.MinSualatIbnMuhammadAthram.Shamela0025873-ara1.mARkdown
+90#VERS#DATE#####: 2019-07-23
+90#VERS#ISSUES###: NO_MAJOR_ISSUES, PRIMARY_VERSION, CLEANED_VERSION

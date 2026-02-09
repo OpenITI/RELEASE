@@ -1,0 +1,19 @@
+00#VERS#CLENGTH##: 186701
+00#VERS#LENGTH###: 49573
+00#VERS#URI######: 0122ZaydIbnCali.Musnad.Zaydiyya0000052-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/745191363
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/745191363
+80#VERS#LINKS####: https://archive.org/details/20191213_20191213_0748
+90#VERS#ANNOTATOR: Omar Abdel-Ghaffar (SHARIAsource-CnC)
+90#VERS#COMMENT##: Omar Abdel-Ghaffar (SHARIAsource-CnC)
+    NOTE OF THE REVIEWER (HRH): I found a few footnotes and deleted them manually.
+    There might be more. They didn’t have a pattern. 2- Page 434 onwards (after the
+    last first-level header) is a different text; a Musnad by Imam Musa. It should
+    be separated.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0125AH/pre-clean/data/0122ZaydIbnCali/0122ZaydIbnCali.Musnad/0122ZaydIbnCali.Musnad.Zaydiyya0000052-ara1.mARkdown
+90#VERS#DATE#####: 2020-09-02
+90#VERS#ISSUES###: NO_MAJOR_ISSUES, PRIMARY_VERSION, CLEANED_VERSION

@@ -1,0 +1,19 @@
+00#VERS#CLENGTH##: 8247
+00#VERS#LENGTH###: 1832
+00#VERS#URI######: 0200YahyaIbnBitriq.FusulAbuqrat.GRAR000050-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/978680573,
+    https://www.graeco-arabic-studies.org/single-text/text/houtsma-188.html
+80#VERS#COLLATED#: permalink, permalink, permalink
+80#VERS#LINKS####: all@id, vol1@id, vol2@id, vol3@id, volX@id
+90#VERS#ANNOTATOR: the name of the annotator (latin characters; please
+    use consistently)
+90#VERS#COMMENT##: Ed. Martijn Theodoor Houtsma (1883), Taʾrīkh Aḥmad
+    ibn Abī Yaʿqūb ibn Jaʿfar ibn Wahb  ibn Wāḍiḥ al-kātib al-ʿabbāsī al-
+    maʿrūf bi-l-Yaʿqūbī.  Leiden: E. J. Brill, 1: 107-116.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0200AH/pre-clean/data/0200YahyaIbnBitriq/0200YahyaIbnBitriq.FusulAbuqrat/0200YahyaIbnBitriq.FusulAbuqrat.GRAR000050-ara1
+90#VERS#DATE#####: YYYY-MM-DD
+90#VERS#ISSUES###: PRIMARY_VERSION, CLEANED_VERSION

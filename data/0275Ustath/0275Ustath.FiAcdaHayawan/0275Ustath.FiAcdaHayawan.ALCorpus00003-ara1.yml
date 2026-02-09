@@ -1,0 +1,20 @@
+00#VERS#CLENGTH##: 169941
+00#VERS#LENGTH###: 39952
+00#VERS#URI######: 0275Ustath.FiAcdaHayawan.ALCorpus00003-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/716192418
+80#VERS#COLLATED#: permalink, permalink, permalink
+80#VERS#LINKS####: all@id, vol1@id, vol2@id, vol3@id, volX@id
+90#VERS#ANNOTATOR: the name of the annotator (latin characters; please
+    use consistently)
+90#VERS#COMMENT##: Text digitized by the  Arabic and Latin Corpus
+    project at the University of Würzburg (https://www.arabic-latin-
+    corpus.philosophie.uni-wuerzburg.de/text/Aris_Anim2_ar.index.xhtml)
+    Transcription by Azzam Hasan.  The text was converted to OpenITI
+    mARkdown by PV.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0275AH/pre-clean/data/0275Ustath/0275Ustath.FiAcdaHayawan/0275Ustath.FiAcdaHayawan.ALCorpus00003-ara1
+90#VERS#DATE#####: YYYY-MM-DD
+90#VERS#ISSUES###: PRIMARY_VERSION, CLEANED_VERSION

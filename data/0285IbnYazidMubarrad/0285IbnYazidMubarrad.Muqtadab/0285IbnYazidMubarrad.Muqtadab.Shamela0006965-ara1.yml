@@ -1,0 +1,38 @@
+00#VERS#CLENGTH##: 684457
+00#VERS#LENGTH###: 170859
+00#VERS#URI######: 0285IbnYazidMubarrad.Muqtadab.Shamela0006965-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/1044596581
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/1103872086
+80#VERS#LINKS####: https://archive.org/details/muqtadabPDF
+90#VERS#ANNOTATOR: HRH; Gowaart Van Den Bossche
+90#VERS#COMMENT##: Validation: the digital text does not have proper paragraph
+    markers. I have tagged the poetry and deleted most of the "random characters".
+    The Pagination issue for volume 1 remains, it needs to be addressed perhaps by a
+    script which repaginates PageV01P003 to PageV01P271 as PageV01P141 to
+    PageV01P407. I have not reconsidered HRH's hierarchy of titles, it seems
+    sensible and would have to be addressed by an expert.
+    1- The edition I found seems to be a reprint of the
+    edition used in Editpro text (by the same editor but different
+    publisher). The only difference is that in Vol 1 of the PDFs, the
+    pagination does not begin from 1, but from 141 (after the introduction);
+    however, the pages are exactly the same in all volumes. 2- The book’s
+    table of contents does not have any categorization for titles;
+    nevertheless, some titles are obviously subtitles of some others. I
+    categorized the text as long as possible; however, the titles are very
+    tricky and so similar to each other that I can’t decide whether this
+    title is a subcategory of that one or not. So, the level of
+    categorization for the titles is probably not correct in some cases.
+    Accurate categorization needs thorough reading of the text by a
+    specialist in Arabic grammar.
+    NB: check lines of poetry that seem too short: line numbers 1133, 1272,
+    1299, 1617, 2211, 3620, 4104, 4105, 4279, 4295, 4300, 4473, 5323, 5927, 6078,
+    6858, 6872, 7117, 7434, 7701, 8125, 8707, 9538, 9897, 10128, 10173, 10657,
+    10795, 10974, 11050, 11052, 11690, 12688, 12692, 12750, 13165, 13420, 13588,
+    14760, 14852, 15057
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0300AH/pre-clean/data/0285IbnYazidMubarrad/0285IbnYazidMubarrad.Muqtadab/0285IbnYazidMubarrad.Muqtadab.Shamela0006965-ara1.mARkdown
+90#VERS#DATE#####: 2019-11-23
+90#VERS#ISSUES###: PAGINATION, PRIMARY_VERSION, CLEANED_VERSION

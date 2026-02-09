@@ -1,0 +1,19 @@
+00#VERS#CLENGTH##: 128720
+00#VERS#LENGTH###: 33774
+00#VERS#URI######: 0281IbnAbiDunya.Samt.Shamela0013039-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/4770215152
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/4770215152
+80#VERS#LINKS####:
+    https://ia600604.us.archive.org/26/items/saadls/saadls.pdf
+90#VERS#ANNOTATOR: MAROUSSIA
+90#VERS#COMMENT##: numerals and folio numbers tagged as paragraphs with
+    one single hashtag.
+    NOTE OF THE REVIEWER (HRH): PARATEXT added and the first title shifted to
+    after it to correspond with the PDF.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0300AH/pre-clean/data/0281IbnAbiDunya/0281IbnAbiDunya.Samt/0281IbnAbiDunya.Samt.Shamela0013039-ara1.mARkdown
+90#VERS#DATE#####: 2019-07-22
+90#VERS#ISSUES###: PAGINATION, PRIMARY_VERSION, CLEANED_VERSION

@@ -1,0 +1,23 @@
+00#VERS#CLENGTH##: 1464470
+00#VERS#LENGTH###: 388889
+00#VERS#URI######: 0279Tirmidhi.Sunan.JK000140-ara1
+80#VERS#BASED####: https://search.worldcat.org/title/627685109
+80#VERS#COLLATED#: https://search.worldcat.org/title/627685109
+80#VERS#LINKS####: https://ia803408.us.archive.org/16/items/waq4822/suntrmsh1.pdf,
+    https://ia803408.us.archive.org/16/items/waq4822/suntrmsh2.pdf,
+    https://ia803408.us.archive.org/16/items/waq4822/suntrmsh3.pdf,
+    https://ia803408.us.archive.org/16/items/waq4822/suntrmsh4.pdf,
+    https://ia803408.us.archive.org/16/items/waq4822/suntrmsh5.pdf
+90#VERS#ANNOTATOR: PV
+90#VERS#COMMENT##: All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/1425AH/pre-clean/data/1420MuhammadNasirDinAlbani/1420MuhammadNasirDinAlbani.SahihWaDacifSunanTirmidhi/1420MuhammadNasirDinAlbani.SahihWaDacifSunanTirmidhi.JK000140-ara1
+    PV formatted the structural annotation, which was quite good to start with.
+    Page numbers in vol. 3 do not follow the PDF (second edition);
+    perhaps they follow the pagination of the first edition?
+    Pagination in vols. 4-5 is only on the ḥadīth level;
+    the exact location of the page break is not indicated.
+90#VERS#DATE#####: 2024-10-08
+90#VERS#ISSUES###: PRIMARY_VERSION, CLEANED_VERSION, PAGINATION

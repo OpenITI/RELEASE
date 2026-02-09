@@ -1,0 +1,22 @@
+00#VERS#CLENGTH##: 129455
+00#VERS#LENGTH###: 32231
+00#VERS#URI######: 0207Waqidi.Ridda.Shamela0012222-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/784215302
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/784215302
+80#VERS#LINKS####:
+    http://www.archive.org/download/Ketab_Reddah/Ketab_Reddah.pdf
+90#VERS#ANNOTATOR: HRH
+90#VERS#COMMENT##: All second-level headers are conceptual (i.e. there
+    is no real title for them in the text and they are based on the contents
+    of the paragraphs). I tagged all the relevant paragraphs to show the
+    beginning of every new subject.
+    NB: check lines of poetry that seem too short: line numbers 1082, 1442,
+    1462, 1464, 1524, 1533, 1550, 1569, 1573, 1650, 1652, 2187, 2416, 2770, 2796,
+    3253, 3255
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0225AH/pre-clean/data/0207Waqidi/0207Waqidi.Ridda/0207Waqidi.Ridda.Shamela0012222-ara1.mARkdown
+90#VERS#DATE#####: 2019-08-18
+90#VERS#ISSUES###: NO_MAJOR_ISSUES, PRIMARY_VERSION, CLEANED_VERSION

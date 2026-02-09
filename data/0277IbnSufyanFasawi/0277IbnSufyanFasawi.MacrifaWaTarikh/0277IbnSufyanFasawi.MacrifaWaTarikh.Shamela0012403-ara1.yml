@@ -1,0 +1,29 @@
+00#VERS#CLENGTH##: 1207486
+00#VERS#LENGTH###: 313659
+00#VERS#URI######: 0277IbnSufyanFasawi.MacrifaWaTarikh.Shamela0012403-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/476996420
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/4771084521
+80#VERS#LINKS####: https://archive.org/details/fasawe
+90#VERS#ANNOTATOR: HRH
+90#VERS#COMMENT##: The METADATA section is not in its normal shape.
+    2-The edition I used for annotation is a reprint of the digital edition
+    published by a different publisher; but in the appendixes attached to
+    the end of the third volume, the editor has added some newly-founded
+    parts to the text that do not exist in the digital text. From
+    PageV01P423 onwards, it is better to tag the names as titles rather than
+    biographical entries (some other titles appear inside the text and
+    besides, some of the names are more similar to titles than biographical
+    entries). 3- There are a lot of names in the third volume, but they are
+    not part of the structure of the book since they don’t have any number
+    or any other sign which separate them. So, they could not be tagged
+    (structurally). 4- In Vol 3, we know that Yazid passed away in 64 AH.
+    So, the rest of the years could not be categorized under his reign.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0300AH/pre-
+    clean/data/0277IbnSufyanFasawi/0277IbnSufyanFasawi.MacrifaWaTarikh/0277IbnSufyanFasawi.MacrifaWaTarikh.Shamela0012403-ara1.completed
+90#VERS#DATE#####: 2019-10-19
+90#VERS#ISSUES###: HTML_TAGS, EDITORIAL_SECTIONS, PRIMARY_VERSION,
+    CLEANED_VERSION

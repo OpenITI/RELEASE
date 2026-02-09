@@ -1,0 +1,20 @@
+00#AUTH#URI######: 0250ThabitIbnAbiThabit
+10#AUTH#ISM####AR: Ṯābit
+10#AUTH#KUNYA##AR: Abū Fulān, Abū Fulānaŧ
+10#AUTH#LAQAB##AR: Fulān al-dīn, Fulān al-dawlaŧ
+10#AUTH#NASAB##AR: b. Abī Ṯābit
+10#AUTH#NISBA##AR: al-Luġawī
+10#AUTH#SHUHRA#AR: Ṯābit b. Abī Ṯābit
+20#AUTH#BORN#####: Iraq_RE_Auto
+20#AUTH#DIED#####: URIs from Althurayya, comma separated
+20#AUTH#RESIDED##: URIs from Althurayya, comma separated
+20#AUTH#VISITED##: URIs from Althurayya, comma separated
+30#AUTH#BORN###AH: YEAR-MON-DA (X+ for unknown)
+30#AUTH#DIED###AH: YEAR-MON-DA (X+ for unknown)
+40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
+40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+70#AUTH#EXTID####: wikidata@Q136325295
+80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
+90#AUTH#COMMENT##: The Shamela metadata on the author gives conflicting information;
+    it states he died in the 13th century AH and that he was active around 220AH.
+    13th century is likely a typo for 3rd century?

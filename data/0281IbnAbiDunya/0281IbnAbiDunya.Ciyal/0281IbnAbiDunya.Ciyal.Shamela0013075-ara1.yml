@@ -1,0 +1,22 @@
+00#VERS#CLENGTH##: 128299
+00#VERS#LENGTH###: 33243
+00#VERS#URI######: 0281IbnAbiDunya.Ciyal.Shamela0013075-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/1107135200
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/1107135200
+80#VERS#LINKS####:
+    https://ia802706.us.archive.org/6/items/waq16964/16964.pdf
+90#VERS#ANNOTATOR: HRH
+90#VERS#COMMENT##: 1- The JK version was better for annotating, yet I
+    didn’t work on that because in most pages, a great amount of the
+    footnotes were interred into the text and this made the text unusable.
+    2- There were very small discrepancies between the text and the PDF:
+    number 423 (page 605), number 443 (page 627) and number 636 (page 839)
+    are missing in the text.
+    NB: check lines of poetry that seem too short: line numbers 1407
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0300AH/pre-clean/data/0281IbnAbiDunya/0281IbnAbiDunya.Ciyal/0281IbnAbiDunya.Ciyal.Shamela0013075-ara1.mARkdown
+90#VERS#DATE#####: 2019-08-13
+90#VERS#ISSUES###: NO_MAJOR_ISSUES, PRIMARY_VERSION, CLEANED_VERSION

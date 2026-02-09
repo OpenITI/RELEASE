@@ -1,0 +1,20 @@
+00#VERS#CLENGTH##: 101153
+00#VERS#LENGTH###: 27181
+00#VERS#URI######: 0275Anonymous.JuzJamicIbnWahb.Shamela0026865-ara1
+80#VERS#BASED####: permalink, permalink, permalink
+80#VERS#COLLATED#: permalink, permalink, permalink
+80#VERS#LINKS####: https://ia600407.us.archive.org/16/items/FP158196/158196.pdf
+90#VERS#ANNOTATOR: the name of the annotator (latin characters; please
+    use consistently)
+90#VERS#COMMENT##: This is a transcription of a manuscript (Chester Beatty 3497)
+    of a juz' of Ibn Wahb's ḥadīth; the first part is in the riwāya of
+    his student Muḥammad b. ʿAbd Allāh b. al-Ḥakam (d. 268)
+    and the second in the riwāya of his student Baḥr b. Naṣr al-Khawlānī (d. 267).
+    See editor's introduction, pp. 10-11.
+    All paratextual elements (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0200AH/pre-
+    clean/data/0197IbnWahbQurashi/0197IbnWahbQurashi.MuwattaIbnWahb/0197IbnWahbQurashi.MuwattaIbnWahb.Shamela0026865-ara1
+90#VERS#DATE#####: YYYY-MM-DD
+90#VERS#ISSUES###: PRIMARY_VERSION, CLEANED_VERSION

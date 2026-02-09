@@ -1,0 +1,19 @@
+00#BOOK#URI######: 0200Anonymous.AshbahWaAzilla
+10#BOOK#GENRES###: _COSMOLOGY
+10#BOOK#TITLEA#AR: Kitāb al-ašbāḥ wa-al-aẓillaŧ
+10#BOOK#TITLEB#AR: 
+20#BOOK#WROTE####: URIs from Althurayya, comma separated
+30#BOOK#WROTE##AH: YEAR-MON-DA (X+ for unknown)
+40#BOOK#RELATED##: URI of a book from OpenITI, or [Author's Title],
+    followed by abbreviation for relation type between brackets (see
+    book_relations repo). Only include relations with older books. Separate
+    related books with semicolon.
+70#BOOK#EXTID####: viaf@id, wikidata@id, src@id
+80#BOOK#EDITIONS#: permalink, permalink, permalink
+80#BOOK#LINKS####: permalink, permalink, permalink
+80#BOOK#MSS######: permalink, permalink, permalink
+80#BOOK#STUDIES##: permalink, permalink, permalink
+80#BOOK#TRANSLAT#: permalink, permalink, permalink
+90#BOOK#COMMENT##: An early shīʿī cosmology; the authorship is not clear
+    but Mushegh Asatryan thinks it was written in the second
+    or third century (p. 4 of the introduction to the edition).
