@@ -1,0 +1,58 @@
+00#MS#URI########: MS0972JerusalemNLI.Heb8333_139
+10#MS#SHELFM#####: Ms.Heb.8333.139
+10#MS#GENRES###: IEDC@Administrative_List
+10#MS#AUTHOR#AR##: author(s) on the front page and/or of parts
+    [in one-to-one transcription; replace language code if needed;
+    semicolon-separated]
+10#MS#TITLE#AR###: title(s) on the front page and/or of parts
+    [in one-to-one transcription; replace language code if needed;
+    semicolon-separated]
+30#MS#DATE#AH####: date of copy in hijri era: DD-MM-YYYY,
+    DD-MM-YYYY@page, DD-MM-YYYY@page_range
+30#MS#INSTITUT###: institutions mentioned
+30#MS#PERSONS####: COPYIST@URI, AUTHOR@URI, PATRON@URI, READER@URI
+30#MS#PLACE######: place of copy: place, URI@page
+30#MS#SCRIPT#####: Maghribi/Naskh/Nastacliq/Hebrew/...
+40#MS#BINDING####: description of the binding
+40#MS#COLOPHON###: transcription of colophon
+40#MS#COLUMNS####: number of columns in the manuscript: n, n@page_range
+40#MS#DECO#######: description of the decorations in the ms.
+40#MS#EXPLICIT###: last 5 lines (max.) of transcription
+40#MS#HANDS######: description of the different hands in the ms.
+40#MS#HEIGHT#MM##: 6.8
+40#MS#INCIPIT####: first 5 lines (max.) of transcription
+40#MS#INK########: color, color
+40#MS#LINESPP####: lines per page: n, n@page_range
+40#MS#PARTS######: URI@page_range, URI@page_range
+40#MS#STAMPS#####: seals and stamps: URI@page
+40#MS#VOLS#######: X of Y
+40#MS#WIDTH#MM###: 9.6
+70#MS#EXTID######: wikidata@id, src@id
+80#MS#CATREF#####: reference to a manuscript catalogue
+80#MS#LINKS######: SOURCE@permalink, IIIF@permalink, PDF@permalink,
+    IMAGES@permalink, BIBTEX@permalink
+80#MS#LINKS####: SOURCE@https://www.invisible-east.org/corpus/1140/
+90#MS#COMMENT####: Complete, black ink; written on both sides of the paper.
+    This may be a sheet from a consignment log at the warehouse in which a
+    staff member has logged two different deliveries of grain in
+    installments pertaining to a total amount committed that is 388
+    *mann *of grain, from the three individuals mentioned
+    above. If the recto side was written before the verso, then the
+    staff member went back to the recto side and
+    "corrected" the total original amount committed from
+    375 to 388 [our reading of the number "8" in 388 is
+    uncertain due to poor legibility of the overwritten text], but
+    then forgot to correct this on the verso side, thus leaving 375 as
+    the total. The note on the amount delivered on the recto side was
+    corrected by the scribe from 170, to 172, to finally 173. The
+    latter number when subtracted from a total aggregate consignment
+    amount of 388 would give us the 215 recorded as delivered on the
+    verso. If this is what happened, then it would imply that the
+    verso is a record of the final installment of the 388 *mann
+    *consignment from this particular township, which would make
+    this the final log entry on it.
+    View on the Invisible East website:
+    https://www.invisible-east.org/corpus/1140/.
+90#MS#ISSUES#####: comma-separated list of issues:
+    INCORRECT_FOLIO_ORDER, CORRECTED_FOLIO_ORDER,
+    NO_FOLIO_NUMBERS, INCOMPLETE, FRAGMENT

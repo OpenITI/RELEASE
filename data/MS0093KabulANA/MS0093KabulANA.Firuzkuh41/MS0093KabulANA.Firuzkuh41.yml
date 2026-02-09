@@ -1,0 +1,49 @@
+00#MS#URI########: MS0093KabulANA.Firuzkuh41
+10#MS#SHELFM#####: Firuzkuh 41
+10#MS#GENRES###: IEDC@Administrative_Missives_for_action
+10#MS#AUTHOR#AR##: author(s) on the front page and/or of parts
+    [in one-to-one transcription; replace language code if needed;
+    semicolon-separated]
+10#MS#TITLE#AR###: title(s) on the front page and/or of parts
+    [in one-to-one transcription; replace language code if needed;
+    semicolon-separated]
+30#MS#DATE#AH####: date of copy in hijri era: DD-MM-YYYY,
+    DD-MM-YYYY@page, DD-MM-YYYY@page_range
+30#MS#INSTITUT###: institutions mentioned
+30#MS#PERSONS####: COPYIST@URI, AUTHOR@URI, PATRON@URI, READER@URI
+30#MS#PLACE######: place of copy: place, URI@page
+30#MS#SCRIPT#####: Maghribi/Naskh/Nastacliq/Hebrew/...
+40#MS#BINDING####: description of the binding
+40#MS#COLOPHON###: transcription of colophon
+40#MS#COLUMNS####: number of columns in the manuscript: n, n@page_range
+40#MS#DECO#######: description of the decorations in the ms.
+40#MS#EXPLICIT###: last 5 lines (max.) of transcription
+40#MS#HANDS######: description of the different hands in the ms.
+40#MS#HEIGHT#MM##: height, in mm (if needed replace MM by CM/IN/...)
+40#MS#INCIPIT####: first 5 lines (max.) of transcription
+40#MS#INK########: color, color
+40#MS#LINESPP####: lines per page: n, n@page_range
+40#MS#PARTS######: URI@page_range, URI@page_range
+40#MS#STAMPS#####: seals and stamps: URI@page
+40#MS#VOLS#######: X of Y
+40#MS#WIDTH#MM###: width, in mm (if needed replace MM by CM/IN/...)
+70#MS#EXTID######: wikidata@id, src@id
+80#MS#CATREF#####: reference to a manuscript catalogue
+80#MS#LINKS######: SOURCE@permalink, IIIF@permalink, PDF@permalink,
+    IMAGES@permalink, BIBTEX@permalink
+80#MS#LINKS####: SOURCE@https://www.invisible-east.org/corpus/127/
+90#MS#COMMENT####: 7 fold lines, black ink; around the middle of line 4 is a short note
+    written by Mirza Khwaja Muhammad in ballpoint pen.
+    An order sent from al-Dīwān *al-Ikhtiyārī* to the
+    *muʿtamid* ʿAlī b. ʿAbd al-Rashīd on three different tasks:
+    1) to collect 450 *mann* belonging to the sons of a certain
+    Abū Bakr from Khāy, which is currently held by the sons of
+    Muḥammad b. Khiḍr from the village of Pūza-yi ʿUlyā (perhaps as a
+    loan?); 2) to collect 100 *mann* from Ḥusayn b. Yaʿqūb,
+    which the latter has borrowed from an unnamed individual; 3) to
+    collect four sheep.
+    View on the Invisible East website:
+    https://www.invisible-east.org/corpus/127/.
+90#MS#ISSUES#####: comma-separated list of issues:
+    INCORRECT_FOLIO_ORDER, CORRECTED_FOLIO_ORDER,
+    NO_FOLIO_NUMBERS, INCOMPLETE, FRAGMENT

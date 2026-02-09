@@ -1,0 +1,15 @@
+00#VERS#CLENGTH##: 705185
+00#VERS#LENGTH###: 166152
+00#VERS#URI######: 1422MuhammadSalimMuhaysin.MucjamHuffazQuran.Shamela0038067-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/4770232742
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/4770232742
+80#VERS#LINKS####: https://archive.org/details/0139439
+90#VERS#ANNOTATOR: HRH
+90#VERS#COMMENT##: Some of the biographical entries have subsections which are usually the names of the teachers or the students of the person in question. The names in these subsections usually include biographical information and therefore they also need to be tagged. I showed the beginning of such subsections by “#~:section:”. However, a title needs to be added in front of these blank tags to signify the change of the subject. 2- The book consists of two juz’s. Although these juz’s do not affect the structure, I tagged them as first-level headers because the numbers of the biographies restart from 1 in the second Juz’.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/1425AH/pre-clean/data/1422MuhammadSalimMuhaysin/1422MuhammadSalimMuhaysin.MucjamHuffazQuran/1422MuhammadSalimMuhaysin.MucjamHuffazQuran.Shamela0038067-ara1.completed
+90#VERS#DATE#####: 2020-08-30
+90#VERS#ISSUES###: EDITORIAL_SECTIONS, HTML_TAGS, PRIMARY_VERSION, CLEANED_VERSION

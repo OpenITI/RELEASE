@@ -1,0 +1,25 @@
+00#VERS#CLENGTH##: 5743635
+00#VERS#LENGTH###: 1431425
+00#VERS#URI######: 1320NuriTabarsi.MustadrakWasail.Shia001237Vols-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/42023373
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/42023373
+80#VERS#LINKS####: http://alfeker.net/library.php?id=2347
+90#VERS#ANNOTATOR: Aslisho Qurboneiv
+90#VERS#COMMENT##: The text is genereally typed free of mistakaes; it is
+    based on the third edition of Muassasat Al Bayt(Beirut,1991); alternate
+    Arabic and Romanised humbers in the numberings of hadith,  HTML chars
+    are often preserved towards the ending of each volume; occasional
+    mistakes in hadith numberings; a PARATEXT - colophone of afterword by
+    the author -at the end of colume 18 is missing from the EditPadPro
+    version.
+    NOTE OF THE REVIEWER (HRH): PARATEXT added. Editorial removed. Corrected headers
+    that were not aligned in one line. Separated body text from the titles.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/1325AH/pre-
+    clean/data/1320NuriTabarsi/1320NuriTabarsi.MustadrakWasail/1320NuriTabarsi.MustadrakWasail.Shia001237Vols-
+    ara1.mARkdown
+90#VERS#DATE#####: 2020-06-08
+90#VERS#ISSUES###: HTML_TAGS, RANDOM_CHARS, PRIMARY_VERSION, CLEANED_VERSION

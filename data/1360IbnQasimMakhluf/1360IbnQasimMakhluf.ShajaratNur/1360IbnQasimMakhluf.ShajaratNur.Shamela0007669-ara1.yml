@@ -1,0 +1,19 @@
+00#VERS#CLENGTH##: 1299478
+00#VERS#LENGTH###: 290170
+00#VERS#URI######: 1360IbnQasimMakhluf.ShajaratNur.Shamela0007669-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/957337844
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/957337844
+80#VERS#LINKS####: https://archive.org/details/WAQ73182/00_73182
+90#VERS#ANNOTATOR: HRH
+90#VERS#COMMENT##: The numbers are checked by Peter’s script. 2- Find another
+    edition of the book here: https://archive.org/details/chajarat-annour-azzakiya
+    /chajarat-nour-01
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/1375AH/pre-
+    clean/data/1360IbnQasimMakhluf/1360IbnQasimMakhluf.ShajaratNur/1360IbnQasimMakhluf.ShajaratNur.Shamela9007669-ara1.completed
+90#VERS#DATE#####: 2020-10-21
+90#VERS#ISSUES###: EDITORIAL_SECTIONS, RANDOM_CHARS, HTML_TAGS, PRIMARY_VERSION,
+    CLEANED_VERSION

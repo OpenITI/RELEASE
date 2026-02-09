@@ -1,0 +1,42 @@
+00#MS#URI########: MS0049BerlinSBB.Landberg209P207B
+10#MS#SHELFM#####: Staatsbibliothek zu Berlin, Landberg 209
+10#MS#GENRES#####: LMN@Druze
+10#MS#AUTHOR#AR##: author(s) on the front page and/or of parts
+    [in one-to-one transcription; replace language code if needed;
+    semicolon-separated]
+10#MS#TITLE#AR###: title(s) on the front page and/or of parts
+    [in one-to-one transcription; replace language code if needed;
+    semicolon-separated]
+30#MS#DATE#AH####: date of copy/writing in hijri era: DD-MM-YYYY, 
+    DD-MM-YYYY@page, DD-MM-YYYY@page_range
+30#MS#PLACE######: COPIED@ThurayaURI, WRITTEN@ThurayaURI, 
+    READ@ThurayaURI
+30#MS#PERSONS####: COPYIST@URI, AUTHOR@URI, PATRON@URI, READER@URI, 
+    CONTRIBUTOR@URI
+30#MS#INSTITUT###: institutions mentioned
+30#MS#SCRIPT#####: ara@naskh 
+40#MS#INCIPIT####: first 5 lines (max.) of transcription
+40#MS#EXPLICIT###: last 5 lines (max.) of transcription
+40#MS#COLOPHON###: transcription of colophon
+40#MS#HEIGHT#MM##: 110
+40#MS#WIDTH#MM###: 80
+40#MS#INK########: black, red, yellow, green
+40#MS#LINESPP####: 9
+40#MS#BINDING####: description of the binding
+40#MS#STAMPS#####: seals and stamps: name@page, URI@page
+40#MS#HANDS######: free text description of the different hands in the ms.
+40#MS#GRAPHEL####: free text description of graphic elements
+    (decorations, illuminations, diagrams, maps) in the ms.
+40#MS#COLUMNS####: number of columns in the manuscript: n, n@page_range
+40#MS#PARTS######: 1060AbuCaliCabdMalik.SiratShaykhFadil@207B-318B
+40#MS#VOLS#######: X, X of Y
+40#MS#TOC########: free-text table of contents 
+    (page number, title, (author)),
+    as extracted from metadata or copied from catalogue
+70#MS#EXTID######: wikidata@id, src@id
+80#MS#LINKS######: SOURCE@https://qalamos.net/receive/DE1Book_manuscript_00006864, 
+    IIIF@https://mirador.staatsbibliothek-berlin.de/?manifest=https://content.staatsbibliothek-berlin.de/dc/859882446/manifest
+80#MS#CATREF#####: Ahlwardt 4346
+90#MS#COMMENT####: Hagiographical text on the Druze shaykh Muḥammad Abū Hilāl 
+    (al-Shaykh al-Fāḍil)(d. 1640 CE).
+90#MS#ISSUES#####: EXTRACTED_PART

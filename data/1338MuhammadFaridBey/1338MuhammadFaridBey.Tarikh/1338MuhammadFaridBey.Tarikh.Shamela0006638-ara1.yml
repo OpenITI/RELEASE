@@ -1,0 +1,15 @@
+00#VERS#CLENGTH##: 722019
+00#VERS#LENGTH###: 154722
+00#VERS#URI######: 1338MuhammadFaridBey.Tarikh.Shamela0006638-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/4769973627
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/4769973627
+80#VERS#LINKS####: https://ia802809.us.archive.org/6/items/p.d.f4364/تاريخ الدولة العثمانية العلية محمد فريد بك المحامي  p.d.f    كتاب  4364.pdf
+90#VERS#ANNOTATOR: HRH
+90#VERS#COMMENT##: Some pages have pictures. 2- The introduction part ends at page 97 as written in the PDF (this sentence is missing in the digital version). However, I think logically the next three tables must also be tagged as part of the introduction.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/1350AH/pre-clean/data/1338MuhammadFaridBey/1338MuhammadFaridBey.Tarikh/1338MuhammadFaridBey.Tarikh.Shamela0006638-ara1.completed
+90#VERS#DATE#####: 2020-11-04
+90#VERS#ISSUES###: NO_MAJOR_ISSUES, PRIMARY_VERSION, CLEANED_VERSION

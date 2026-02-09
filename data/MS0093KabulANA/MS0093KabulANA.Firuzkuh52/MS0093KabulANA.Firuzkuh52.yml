@@ -1,0 +1,42 @@
+00#MS#URI########: MS0093KabulANA.Firuzkuh52
+10#MS#SHELFM#####: Firuzkuh 52
+10#MS#GENRES###: IEDC@List_or_table
+10#MS#AUTHOR#AR##: author(s) on the front page and/or of parts
+    [in one-to-one transcription; replace language code if needed;
+    semicolon-separated]
+10#MS#TITLE#AR###: title(s) on the front page and/or of parts
+    [in one-to-one transcription; replace language code if needed;
+    semicolon-separated]
+30#MS#DATE#AH####: date of copy in hijri era: DD-MM-YYYY,
+    DD-MM-YYYY@page, DD-MM-YYYY@page_range
+30#MS#INSTITUT###: institutions mentioned
+30#MS#PERSONS####: COPYIST@URI, AUTHOR@URI, PATRON@URI, READER@URI
+30#MS#PLACE######: place of copy: place, URI@page
+30#MS#SCRIPT#####: Maghribi/Naskh/Nastacliq/Hebrew/...
+40#MS#BINDING####: description of the binding
+40#MS#COLOPHON###: transcription of colophon
+40#MS#COLUMNS####: number of columns in the manuscript: n, n@page_range
+40#MS#DECO#######: description of the decorations in the ms.
+40#MS#EXPLICIT###: last 5 lines (max.) of transcription
+40#MS#HANDS######: description of the different hands in the ms.
+40#MS#HEIGHT#MM##: height, in mm (if needed replace MM by CM/IN/...)
+40#MS#INCIPIT####: first 5 lines (max.) of transcription
+40#MS#INK########: color, color
+40#MS#LINESPP####: lines per page: n, n@page_range
+40#MS#PARTS######: URI@page_range, URI@page_range
+40#MS#STAMPS#####: seals and stamps: URI@page
+40#MS#VOLS#######: X of Y
+40#MS#WIDTH#MM###: width, in mm (if needed replace MM by CM/IN/...)
+70#MS#EXTID######: wikidata@id, src@id
+80#MS#CATREF#####: reference to a manuscript catalogue
+80#MS#LINKS######: SOURCE@permalink, IIIF@permalink, PDF@permalink,
+    IMAGES@permalink, BIBTEX@permalink
+80#MS#LINKS####: SOURCE@https://www.invisible-east.org/corpus/237/
+90#MS#COMMENT####: Incomplete, black ink
+    An incomplete list detailing items, notably textiles, given by
+    *khwāja *Muḥammad b. Maḥmūd to his son.
+    View on the Invisible East website:
+    https://www.invisible-east.org/corpus/237/.
+90#MS#ISSUES#####: comma-separated list of issues:
+    INCORRECT_FOLIO_ORDER, CORRECTED_FOLIO_ORDER,
+    NO_FOLIO_NUMBERS, INCOMPLETE, FRAGMENT

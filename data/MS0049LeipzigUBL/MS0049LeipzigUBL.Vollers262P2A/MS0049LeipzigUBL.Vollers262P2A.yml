@@ -1,0 +1,47 @@
+00#MS#URI########: MS0049LeipzigUBL.Vollers262P2A
+10#MS#SHELFM#####: Universitätsbibliothek Leipzig, Vollers 262
+10#MS#GENRES#####: LMN@Druze
+10#MS#AUTHOR#AR##: author(s) on the front page and/or of parts
+    [in one-to-one transcription; replace language code if needed;
+    semicolon-separated]
+10#MS#TITLE#AR###: title(s) on the front page and/or of parts
+    [in one-to-one transcription; replace language code if needed;
+    semicolon-separated]
+30#MS#DATE#AH####: date of copy/writing in hijri era: DD-MM-YYYY, 
+    DD-MM-YYYY@page, DD-MM-YYYY@page_range
+30#MS#PLACE######: COPIED@ThurayaURI, WRITTEN@ThurayaURI, 
+    READ@ThurayaURI
+30#MS#PERSONS####: COPYIST@URI, AUTHOR@URI, PATRON@URI, READER@URI, 
+    CONTRIBUTOR@URI
+30#MS#INSTITUT###: institutions mentioned
+30#MS#SCRIPT#####: ara@naskh
+40#MS#INCIPIT####: first 5 lines (max.) of transcription
+40#MS#EXPLICIT###: last 5 lines (max.) of transcription
+40#MS#COLOPHON###: transcription of colophon
+40#MS#HEIGHT#MM##: 163
+40#MS#WIDTH#MM###: 110
+40#MS#INK########: black
+40#MS#LINESPP####: 13
+40#MS#BINDING####: description of the binding
+40#MS#STAMPS#####: seals and stamps: name@page, URI@page
+40#MS#HANDS######: free text description of the different hands in the ms.
+40#MS#GRAPHEL####: free text description of graphic elements
+    (decorations, illuminations, diagrams, maps) in the ms.
+40#MS#COLUMNS####: number of columns in the manuscript: n, n@page_range
+40#MS#PARTS######: 1060AbuCaliCabdMalik.SiratShaykhFadil@2A-60A
+40#MS#VOLS#######: X, X of Y
+40#MS#TOC########: free-text table of contents 
+    (page number, title, (author)),
+    as extracted from metadata or copied from catalogue
+70#MS#EXTID######: wikidata@id, src@id
+80#MS#LINKS######: SOURCE@https://qalamos.net/receive/DE15Book_manuscript_00015306, 
+    IIIF@https://www.qalamos.net/api/iiif/presentation/v2/DE15Book_derivate_00004685/manifest, 
+    IIIF@https://www.qalamos.net/api/iiif/presentation/v2/DE15Book_derivate_00004529/manifest,
+    IIIF@https://www.qalamos.net/api/iiif/presentation/v2/DE15Book_derivate_00004427/manifest
+80#MS#CATREF#####: Vollers, pp. 73-74
+90#MS#COMMENT####: Hagiographical text on Druze shaykh Muḥammad Abū Hilāl 
+    (al-Shaykh al-Fāḍil)(d. 1640 CE). 
+    The three IIIF links above correspond to the three parts into which 
+    the manuscript is split on https://qalamos.net/receive/DE15Book_manuscript_00015306
+90#MS#ISSUES#####: NONE
+

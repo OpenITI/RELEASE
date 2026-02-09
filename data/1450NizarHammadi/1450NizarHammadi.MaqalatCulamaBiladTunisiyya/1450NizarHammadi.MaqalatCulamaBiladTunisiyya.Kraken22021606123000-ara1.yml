@@ -1,0 +1,21 @@
+00#VERS#CLENGTH##: 108029
+00#VERS#LENGTH###: 24526
+00#VERS#URI######: 1450NizarHammadi.MaqalatCulamaBiladTunisiyya.Kraken22021606123000-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/949428257
+80#VERS#COLLATED#: 
+80#VERS#LINKS####:
+    https://ia800609.us.archive.org/33/items/lionsunna1515_gmail_201704/1058.pdf
+90#VERS#ANNOTATOR: 
+90#VERS#COMMENT##: OCRed through Kraken:
+    * Kraken version: 3.0.0.0b21.dev6
+    * segmentation model: DEFAULT
+    * OCR model: 12-24-2021_ArabPersGeneralized.mlmodel
+    NOTE: contemporary work by Nizār Ḥammādī; appendix with several other works;
+    split off first one? Assign URI: 0699Marjani.IctiqadAhlSunna?
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/1450AH/pre-clean/data/1450NizarHammadi/1450NizarHammadi.MaqalatCulamaBiladTunisiyya/1450NizarHammadi.MaqalatCulamaBiladTunisiyya.Kraken22021606123000-ara1
+90#VERS#DATE#####: 2022-02-16
+90#VERS#ISSUES###: UNCORRECTED_OCR, PRIMARY_VERSION, CLEANED_VERSION

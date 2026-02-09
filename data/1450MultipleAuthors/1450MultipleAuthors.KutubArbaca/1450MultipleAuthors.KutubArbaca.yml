@@ -1,0 +1,18 @@
+00#BOOK#URI######: 1450MultipleAuthors.KutubArbaca
+10#BOOK#GENRES###: src@keyword, src@keyword, src@keyword
+10#BOOK#TITLEA#AR: al-Kutub al-arbaʿaŧ
+10#BOOK#TITLEB#AR: 
+20#BOOK#WROTE####: URIs from Althurayya, comma separated
+30#BOOK#WROTE##AH: YEAR-MON-DA (X+ for unknown)
+40#BOOK#RELATED##: 0329IbnYacqubKulayni.Kafi (COMP),
+    0381IbnBabawayhSaduq.ManLaYahduruhuFaqih (COMP),
+    0460ShaykhTusi.Istibsar (COMP),
+    0460ShaykhTusi.TahdhibAhkam (COMP)
+70#BOOK#EXTID####: viaf@id, wikidata@id, src@id
+80#BOOK#EDITIONS#: permalink, permalink, permalink
+80#BOOK#LINKS####: permalink, permalink, permalink
+80#BOOK#MSS######: permalink, permalink, permalink
+80#BOOK#STUDIES##: permalink, permalink, permalink
+80#BOOK#TRANSLAT#: permalink, permalink, permalink
+90#BOOK#COMMENT##: This is a compound text, made at the request of Ed Hayes,
+    to compare text reuse between the Shīʿī and Sunnī canonical ḥadīth collections.

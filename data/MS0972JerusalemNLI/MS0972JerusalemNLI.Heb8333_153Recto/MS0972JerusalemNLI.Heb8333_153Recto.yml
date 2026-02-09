@@ -1,0 +1,72 @@
+00#MS#URI########: MS0972JerusalemNLI.Heb8333_153Recto
+10#MS#SHELFM#####: Ms.Heb.8333.153, recto
+10#MS#GENRES###: IEDC@Legal_Divorce
+10#MS#AUTHOR#AR##: author(s) on the front page and/or of parts
+    [in one-to-one transcription; replace language code if needed;
+    semicolon-separated]
+10#MS#TITLE#AR###: title(s) on the front page and/or of parts
+    [in one-to-one transcription; replace language code if needed;
+    semicolon-separated]
+30#MS#DATE#AH####: date of copy in hijri era: DD-MM-YYYY,
+    DD-MM-YYYY@page, DD-MM-YYYY@page_range
+30#MS#INSTITUT###: institutions mentioned
+30#MS#PERSONS####: COPYIST@URI, AUTHOR@URI, PATRON@URI, READER@URI
+30#MS#PLACE######: place of copy: place, URI@page
+30#MS#SCRIPT#####: Maghribi/Naskh/Nastacliq/Hebrew/...
+40#MS#BINDING####: description of the binding
+40#MS#COLOPHON###: transcription of colophon
+40#MS#COLUMNS####: number of columns in the manuscript: n, n@page_range
+40#MS#DECO#######: description of the decorations in the ms.
+40#MS#EXPLICIT###: last 5 lines (max.) of transcription
+40#MS#HANDS######: description of the different hands in the ms.
+40#MS#HEIGHT#MM##: 18.8
+40#MS#INCIPIT####: first 5 lines (max.) of transcription
+40#MS#INK########: color, color
+40#MS#LINESPP####: lines per page: n, n@page_range
+40#MS#PARTS######: URI@page_range, URI@page_range
+40#MS#STAMPS#####: seals and stamps: URI@page
+40#MS#VOLS#######: X of Y
+40#MS#WIDTH#MM###: 13.0
+70#MS#EXTID######: wikidata@id, src@id
+80#MS#CATREF#####: reference to a manuscript catalogue
+80#MS#LINKS######: SOURCE@permalink, IIIF@permalink, PDF@permalink,
+    IMAGES@permalink, BIBTEX@permalink
+80#MS#LINKS####: SOURCE@https://www.invisible-east.org/corpus/1190/
+90#MS#COMMENT####: Incomplete (some words missing in left margin), black ink.
+    Three legal queries (*istiftā*) regarding the "triple
+    repudiation" (*sih ṭalāq*), one of the forms of
+    Islamic divorce. By pronouncing the *ṭalāq *formula three
+    times in immediate succession, the divorce instantly takes effect.
+    The questions are addressed to a certain judge (*qāḍī*) and
+    religious scholar (*ʿālim*), who is not mentioned by name.
+    Each answer, be it positive or negative, is written in short at
+    the end of the question. In the second and third questions, the
+    answer is followed by the Arabic phrase "God knows
+    best" (*wa-llāhu aʿlam*). The questions
+    regarding the triple repudiation in immediate succession reflects
+    the controversy around this practice in Islam, as it was forbidden
+    by some schools of law. Accordingly, the first question concerns
+    the validity of the triple *ṭalāq *when pronouncing the
+    formula consecutively. In the second question, the writer asks
+    whether a man may take his wife back after performing the tripe
+    *ṭalāq *and calling her "mother." This question
+    raises yet another problematic form of divorce which was common in
+    the pre-Islamic era - the *ẓihār*. The ẓihār is the
+    designation of an oath said by the husband to his wife: "You
+    are (forbidden) to me like my mother 's back" (*anti
+    ʿalayya ka-ẓahri ummī*). The third question is not fully
+    preserved. It probably concerns the validity of the triple
+    *ṭalāq *when it is pronounced by the wife, whom her husband
+    grants her the right to divorce (*al-amr bil-yad*). This
+    assumption is confirmed by the appearance of the term amr in the
+    opening clause of the question: "A man grants his wife the
+    right (to divorce)" (*mard-ī amr zan-i khwad
+    rā ba-dast kard*). The answers to the question are
+    written in a different hand, apparently that of the judge
+    mentioned in the first question. The first two questions are
+    positively answered.
+    View on the Invisible East website:
+    https://www.invisible-east.org/corpus/1190/.
+90#MS#ISSUES#####: comma-separated list of issues:
+    INCORRECT_FOLIO_ORDER, CORRECTED_FOLIO_ORDER,
+    NO_FOLIO_NUMBERS, INCOMPLETE, FRAGMENT

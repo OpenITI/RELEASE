@@ -1,0 +1,18 @@
+00#VERS#CLENGTH##: 468471
+00#VERS#LENGTH###: 113764
+00#VERS#URI######: 1416CabbudShaliji.NishwarQuotes.Shamela0010275BK2-ara1
+80#VERS#BASED####: https://www.worldcat.org/title/1119523173
+80#VERS#COLLATED#: https://www.worldcat.org/title/4770912596
+80#VERS#LINKS####: https://waqfeya.net/book.php?bid=7651
+90#VERS#ANNOTATOR: PV
+90#VERS#COMMENT##: This text file contains 4 of the 8 volumes
+    of ʿAbbūd al-Shālijī's edition of al-Tanūkhī's Nishwār
+    (vols. 4-7), which are not based on extant manuscripts
+    but contain anecdotes cited from the Nishwār by later authors.
+    Volumes 1-3 and 8 are based on extant manuscripts and can be found
+    in 0384IbnCaliTanukhi.NishwarMuhadara.Shamela0010275BK1-ara1
+    PV added structural annotation.
+    PV added "### |PARATEXT|" tags before the references
+    to the source texts in vols. 4-7.
+90#VERS#DATE#####: 2023-09-27
+90#VERS#ISSUES###: NO_MAJOR_ISSUES, PRIMARY_VERSION, CLEANED_VERSION

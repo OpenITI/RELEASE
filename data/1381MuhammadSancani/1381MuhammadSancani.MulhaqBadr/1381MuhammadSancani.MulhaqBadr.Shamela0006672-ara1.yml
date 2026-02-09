@@ -1,0 +1,15 @@
+00#VERS#CLENGTH##: 226138
+00#VERS#LENGTH###: 51466
+00#VERS#URI######: 1381MuhammadSancani.MulhaqBadr.Shamela0006672-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/4770444515
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/4770462952
+80#VERS#LINKS####: https://ia800201.us.archive.org/27/items/waq10921/02_10922.pdf (page 377 ff)
+90#VERS#ANNOTATOR: HRH
+90#VERS#COMMENT##: The text is an appendix to Shawkani’s Badr Tali’ (accessible in the corpus in this address: https://github.com/OpenITI/1250AH/tree/master/data/1250IbnCaliShawkani/1250IbnCaliShawkani.BadrTalic). 2- I added the numbers to the entries by Peter’s script.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/1400AH/pre-clean/data/1381MuhammadSancani/1381MuhammadSancani.MulhaqBadr/1381MuhammadSancani.MulhaqBadr.Shamela0006672-ara1.completed
+90#VERS#DATE#####: 2020-10-14
+90#VERS#ISSUES###: NO_MAJOR_ISSUES, PRIMARY_VERSION, CLEANED_VERSION

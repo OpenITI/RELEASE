@@ -1,0 +1,18 @@
+00#TRNS#CLENGTH##: 51170
+00#TRNS#LENGTH###: 12095
+00#TRNS#URI######: MS0049BerlinSBB.Landberg209P207B.LMN20251021130512-ara1
+40#TRNS#PAGES####: 207B-318B
+80#TRNS#BASED####: permalink, permalink, permalink
+80#TRNS#LINKS####: SOURCE@permalink, IIIF@permalink, PDF@permalink,
+    BIBTEX@permalink
+80#TRNS#LINMODEL#: segmentation model used for line segmentation (name
+    and/or URL)
+80#TRNS#RECMODEL#: manual
+80#TRNS#REGMODEL#: segmentation model used for region segmentation (name
+    and/or URL)
+90#TRNS#COMMENT##: minor forms of normalisation (e.g., قراءة instead of
+    قرأة); partial edition with alterations will be found in the OpenITI/KITAB
+    corpus under the URI 1060AbuCaliCabdMalik.SiratShaykhFadil.
+90#TRNS#CONTRIB##: TRANSCRIPTION@LMN, CORRECTION@LMN
+90#TRNS#DATE#####: 2025-10-21
+90#TRNS#ISSUES###: NONE, PRIMARY_VERSION
