@@ -1,0 +1,44 @@
+00#VERS#CLENGTH##: 3554470
+00#VERS#LENGTH###: 830483
+00#VERS#URI######: 1041Maqqari.NafhTib.Shamela0001002-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/741100245
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/646348919
+80#VERS#LINKS####: https://archive.org/details/waq11717
+90#VERS#ANNOTATOR: HRH
+90#VERS#COMMENT##: The text has an awkward structure. The problem with
+    it is that while talking about a topic, it makes a lot of digressions to
+    talk about other subject matters and then it returns to the main topic
+    with a title like “رجع إلى”. Besides, the titles are occasional and do
+    not cover the whole subject matters and the end of the subject matters
+    relating to topics is not known unless one reads the whole text
+    carefully. Ideally, a lot of titles must be added by a specialist who
+    will read the text carefully to show the correct categorization for the
+    subject matters. I just added a very few blank heraders where the
+    subject matters significantly change. 2- In some cases, the biographical
+    numbers are for more than one person. I used “### $$$$” as a tag for a
+    collection of people in such cases. 3- “#~:section:”  is used for the
+    subsections of biographical sections. 4- Form PageV05P215 until
+    PageV05P253, all the biographical entries (numbers 1-67) are a
+    subcategory for the third biographical entry (“المقري”). In fact, the
+    last subsection of this entry (“[شيوخ المقري الجد]”) includes 67
+    biographical entries (his shuyukh) that themselves need to be tagged.
+    After number 67, there are some other subsections which are all the
+    subsections of the very third entry (not the subsections of the 67th
+    entry). So, I added a blank third-level header to signify this. 5- From
+    PageV07P038 onwards (“[نماذج من تراجم المطمح]”), the author quotes some
+    biographical information from another source. Although they are just
+    examples, I still think these numbered biographies need to be tagged,
+    because they contain a little biographical information anyway. 6- From
+    PageV03P225 until PageV04P349 the numbers are not biographical entries
+    and should not be tagged (except a few ones that belongs to women and
+    can be considered biographies). 7- Some of the poems do not have any
+    sign between the two hemistiches.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/1050AH/pre-
+    clean/data/1041Maqqari/1041Maqqari.NafhTib/1041Maqqari.NafhTib.Shamela0001002-ara1.completed
+90#VERS#DATE#####: 2020-08-21
+90#VERS#ISSUES###: EDITORIAL_SECTIONS, PARATEXT, HTML_TAGS, PRIMARY_VERSION,
+    CLEANED_VERSION

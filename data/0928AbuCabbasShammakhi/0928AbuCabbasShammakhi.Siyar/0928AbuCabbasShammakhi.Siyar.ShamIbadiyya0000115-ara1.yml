@@ -1,0 +1,18 @@
+00#VERS#CLENGTH##: 573693
+00#VERS#LENGTH###: 137566
+00#VERS#URI######: 0928AbuCabbasShammakhi.Siyar.ShamIbadiyya0000115-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/1142001304
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/1142001304
+80#VERS#LINKS####: https://www.noor-book.com/en/ebook-Kita%CC%84b-alSiyar-pdf
+90#VERS#ANNOTATOR: Omar Abdel-Ghaffar (SHARIAsource-CnC)
+90#VERS#COMMENT##: The text has no major problems and follows the printed
+    edition very accurately. The pages were not annotated but were still noted in
+    the text. SPL: This is an old edition and has no hierachical structure.
+    NOTE OF THE REVIEWER (HRH): The text had no tags. As well as the biographies, I tagged the headers that I could find. However, there should be more headers. It’s very difficult to find them since they have no pattern, neither in the PDF nor in the digital version. The only way to tag them is to read the text closely.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0950AH/pre-clean/data/0928AbuCabbasShammakhi/0928AbuCabbasShammakhi.Siyar/0928AbuCabbasShammakhi.Siyar.ShamIbadiyya0000115-ara1.mARkdown
+90#VERS#DATE#####: 2020-08-07
+90#VERS#ISSUES###: NO_MAJOR_ISSUES, PRIMARY_VERSION, CLEANED_VERSION

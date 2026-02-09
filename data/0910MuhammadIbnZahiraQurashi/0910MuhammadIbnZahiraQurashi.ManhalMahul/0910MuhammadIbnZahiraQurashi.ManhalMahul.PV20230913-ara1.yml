@@ -1,0 +1,14 @@
+00#VERS#CLENGTH##: 125766
+00#VERS#LENGTH###: 29512
+00#VERS#URI######: 0910MuhammadIbnZahiraQurashi.ManhalMahul.PV20230913-ara1
+80#VERS#BASED####: permalink, permalink, permalink
+80#VERS#COLLATED#: permalink, permalink, permalink
+80#VERS#LINKS####: all@id, vol1@id, vol2@id, vol3@id, volX@id
+90#VERS#ANNOTATOR: the name of the annotator (latin characters; please
+    use consistently)
+90#VERS#COMMENT##: The edited text was extacted from an article
+    in 1450JamicaIslamiyya.MajallaJIMN.Shamela0004473-ara1 (vol. 133).
+    The study (but not the edition) is in the corpus separately as
+    1450CabdRazzaqSacidi.ManhalMahulDirasa.Shamela0008959-ara1
+90#VERS#DATE#####: YYYY-MM-DD
+90#VERS#ISSUES###: PRIMARY_VERSION, CLEANED_VERSION

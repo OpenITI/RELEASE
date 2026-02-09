@@ -1,0 +1,51 @@
+00#VERS#CLENGTH##: 5749843
+00#VERS#LENGTH###: 1326671
+00#VERS#URI######: 0902Sakhawi.DawLamic.JK003608-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/929609221
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/929609221
+80#VERS#LINKS####: https://waqfeya.com/book.php?bid=7438
+90#VERS#ANNOTATOR: SP Loynes
+90#VERS#COMMENT##: The edition is the same as the one published by Dar
+    al-Jalil, Beirut (n.d). The text has been annotated previously by at
+    least 2 other people. I have checked merely by selecting random passages
+    to compare between the digital and printed editions. Not all
+    biographical entries are numbered so it is hard w/o going through the
+    entire text to be sure if it is all there. However, there were a number
+    of entries missing from v 8 pp. 33 until the end of the volume (page 300
+    odd), and this section has been thoroughly re-tagged, which was somewhat
+    labour intensive given that many were biographical entries were missing:
+    193, 216, 239-41, 255-6, 265-6, 276, 302-6, 379-81, 394-5, 459-70,
+    490-2, 499, 56-59, 630, 643, 666-7, 671, 700, 713-18, 731, 765, 774,
+    806, 849-53. As per other annotator's comments copied below there were
+    erroneous names and spellings. Otherwise, the entries I checked appeared
+    in order (nb: roughly every 100th entry). I have removed some outdated
+    tags. There are some cross references tags (### $$$), and I have left
+    these in for now - perhaps the reviewer can decide if they should be
+    kept. The following was detailed in a readme file in the text's folder,
+    which perhaps means the digitised texts need to be revisited due to the
+    quality of the transcription. [I have added the comments below to the
+    formalised part of the yml]:"## 1. Describe why you chose this specific
+    version of the text. Why others, in your opinion, are worse? Because I
+    continued the .inProgress data of some other person. ##2. Which edition
+    you used for collation? How close the text to the edition? Is pagination
+    the same? http://archive.org/download/waq10879waq/. It is identical, but
+    flawed in some parts. ##3. Have you noticed any typos? If yes, how many?
+    (Guesstimate is fine) Continously throughout the text.  ##4. Add any
+    comments on the text: Some names are not complete and have apparently
+    only partly been transferred into the .ara file. Volume 7 Entry No. 79
+    is missing. Some parts of names are missing all over the text. Volume 7
+    Entry No. 509 is missing, except it's last line/ ##5. Volume 2 between
+    page 67 and 69 was a clusterfuck of doubled entries and missing
+    pagination. I corrected that. {## Comments by : [Christoph Guemmer]."
+    NB: check lines of poetry that seem too short: line numbers 11547, 16973,
+    39416, 42332, 44486, 56650, 82262, 82269, 87851, 100917, 100937, 100939, 101621,
+    102201
+    NB: check lines of poetry that seem too long: line numbers 10638, 25982,
+    59475, 76838
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0925AH/pre-clean/data/0902Sakhawi/0902Sakhawi.DawLamic/0902Sakhawi.DawLamic.JK003608-ara1.completed
+90#VERS#DATE#####: 2020-10-16
+90#VERS#ISSUES###: MISSING_PARTS, PAGINATION, MANY_TYPOS, PRIMARY_VERSION, CLEANED_VERSION

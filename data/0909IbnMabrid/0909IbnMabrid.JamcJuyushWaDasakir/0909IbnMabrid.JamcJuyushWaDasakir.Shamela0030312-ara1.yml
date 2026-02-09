@@ -1,0 +1,16 @@
+00#VERS#CLENGTH##: 107803
+00#VERS#LENGTH###: 26062
+00#VERS#URI######: 0909IbnMabrid.JamcJuyushWaDasakir.Shamela0030312-ara1
+80#VERS#BASED####: permalink, permalink, permalink
+80#VERS#COLLATED#: permalink, permalink, permalink
+80#VERS#LINKS####:
+    https://upload.wikimedia.org/wikisource/ar/5/5b/جمع_الجيوش_والدساكر_على_ابن_عساكر_خ.pdf
+90#VERS#ANNOTATOR: the name of the annotator (latin characters; please
+    use consistently)
+90#VERS#COMMENT##: All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0925AH/pre-clean/data/0909IbnMabrid/0909IbnMabrid.JamcJuyushWaDasakir/0909IbnMabrid.JamcJuyushWaDasakir.Shamela0030312-ara1
+90#VERS#DATE#####: YYYY-MM-DD
+90#VERS#ISSUES###: PRIMARY_VERSION, CLEANED_VERSION
