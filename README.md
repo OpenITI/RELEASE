@@ -21,7 +21,7 @@ The most up-to-date detailed description of the **OpenITI** project can be found
 [comment]: <> (Link to Zenodo: <https://zenodo.org/record/3082464>)
 
 
-
+<!--
 # OpenITI, ver. 2022.1.6: Release Notes
 
 
@@ -141,7 +141,7 @@ For more information on the OpenITI mARkdown and the extensions please see [here
 * Leonie Nückell (_structural annotation_)
 * Fatemeh Shams (_structural annotation_)
 
-<!-- Footnotes themselves at the bottom. -->
+
 
 ### Notes
 
@@ -156,4 +156,4 @@ For more information on the OpenITI mARkdown and the extensions please see [here
 
 2.  The uncorrected OCRed texts are specified by the “UNCORRECTED\_OCR”
     tag in the “tags” column of the metadata files.
-
+-->
