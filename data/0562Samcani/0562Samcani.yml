@@ -1,0 +1,18 @@
+00#AUTH#URI######: 0562Samcani
+10#AUTH#ISM####AR: ʿAbd al-Karīm
+10#AUTH#KUNYA##AR: Abū Saʿd
+10#AUTH#LAQAB##AR: Tāǧ al-ʾIslām Ḳawām al-dīn
+10#AUTH#NASAB##AR: b. Abī Bakr Muḥammad b. Abī al-Muẓaffar Manṣūr
+10#AUTH#NISBA##AR: al-Tamīmī al-Samʿānī al-Marwazī al-Šāfiʿī
+10#AUTH#SHUHRA#AR: al-Samʿānī
+20#AUTH#BORN#####: URIs from Althurayya, comma separated
+20#AUTH#DIED#####: URIs from Althurayya, comma separated
+20#AUTH#RESIDED##: URIs from Althurayya, comma separated
+20#AUTH#VISITED##: URIs from Althurayya, comma separated
+30#AUTH#BORN###AH: 0506-SHC-21
+30#AUTH#DIED###AH: 0562-RA1-01
+40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
+40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+70#AUTH#EXTID####: wikidata@Q12178019
+80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
+90#AUTH#COMMENT##: EI2: "Abū Saʿd (incorrectly Saʿīd) ʿAbd al-Karīm b. Abī Bakr Muḥammad b. Abi ’l-Muẓaffar (al-)Manṣūr al-Tamīmī al-Marwazī al-S̲h̲afiʿī, Tād̲j̲ al-Islām (al-Dīn) Ḳiwām al-Dīn, also known as Ibn al-Samʿānī (Samʿān/Simʿān, in the long, incomplete genealogy, being a branch of the tribe of Tamīm), important Arab biographer. Born in Marw on Monday, 21 S̲h̲aʿbān 506/10 February 1113, he died there on Monday, 1 Rabīʿ I 562/26 December 1166.": http://dx.doi.org/10.1163/1573-3912_islam_COM_0994

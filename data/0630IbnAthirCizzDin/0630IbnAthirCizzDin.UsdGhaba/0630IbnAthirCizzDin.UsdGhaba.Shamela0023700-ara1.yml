@@ -1,0 +1,19 @@
+00#VERS#CLENGTH##: 3593272
+00#VERS#LENGTH###: 934287
+00#VERS#URI######: 0630IbnAthirCizzDin.UsdGhaba.Shamela0023700-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/949480777
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/949480777
+80#VERS#LINKS####: https://www.almeshkat.net/book/3209
+90#VERS#ANNOTATOR: HRH
+90#VERS#COMMENT##:
+    NB: check lines of poetry that seem too short: line numbers 40260
+    NB: check lines of poetry that seem too long: line numbers 68159
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0650AH/pre-
+    clean/data/0630IbnAthirCizzDin/0630IbnAthirCizzDin.UsdGhaba/0630IbnAthirCizzDin.UsdGhaba.Shamela0023700-ara1.completed
+90#VERS#DATE#####: 2019-08-07
+90#VERS#ISSUES###: HTML_TAGS, EDITORIAL_SECTIONS, PRIMARY_VERSION,
+    CLEANED_VERSION

@@ -1,0 +1,21 @@
+00#BOOK#URI######: 0660CuthmanNabulusi.TarikhFayyum
+10#BOOK#GENRES###: src@keyword, src@keyword, src@keyword
+10#BOOK#TITLEA#AR: Iẓhār ṣanʿaŧ al-ḥayy al-qayyūm fī tartīb bilād al-Fayyūm
+10#BOOK#TITLEB#AR: Taʾrīḫ al-Fayyūm wa-bilādihi
+20#BOOK#WROTE####: URIs from Althurayya, comma separated
+30#BOOK#WROTE##AH: YEAR-MON-DA (X+ for unknown)
+40#BOOK#RELATED##: URI of a book from OpenITI, or [Author's Title],
+    followed by abbreviation for relation type between brackets (see
+    book_relations repo). Only include relations with older books. Separate
+    related books with semicolon.
+70#BOOK#EXTID####: viaf@id, wikidata@id, src@id
+80#BOOK#EDITIONS#: permalink, permalink, permalink
+80#BOOK#LINKS####: permalink, permalink, permalink
+80#BOOK#MSS######: permalink, permalink, permalink
+80#BOOK#STUDIES##: permalink, permalink, permalink
+80#BOOK#TRANSLAT#: permalink, permalink, permalink
+90#BOOK#COMMENT##: A survey of the Fayyūm, made by an Ayyūbid
+    administrator in the year 641. The original title of the treatise
+    is Iẓhār ṣanʿaŧ al-ḥayy al-qayyūm fī tartīb bilād al-Fayyūm,
+    but it is better known under the title "Tārīkh al-Fayyūm"
+    since Bernhard Moritz edited it under this title.

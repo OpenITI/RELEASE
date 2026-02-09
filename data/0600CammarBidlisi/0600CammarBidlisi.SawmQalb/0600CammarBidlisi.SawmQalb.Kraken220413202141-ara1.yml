@@ -1,0 +1,21 @@
+00#VERS#CLENGTH##: 46856
+00#VERS#LENGTH###: 10890
+00#VERS#URI######: 0600CammarBidlisi.SawmQalb.Kraken220413202141-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/1159601093
+80#VERS#COLLATED#: 
+80#VERS#LINKS####: https://menadoc.bibliothek.uni-
+    halle.de/inhouse/content/titleinfo/2368811
+90#VERS#ANNOTATOR: 
+90#VERS#COMMENT##: OCRed through Kraken:
+    * Kraken version: 3.0.0.0b21.dev6
+    * segmentation model: DEFAULT
+    * OCR model: 12-24-2021_ArabPersGeneralized.mlmodel
+    NOTE: died between 590 AH and 604 AH, see introduction, p. 1
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0600AH/pre-
+    clean/data/0600CammarBidlisi/0600CammarBidlisi.SawmQalb/0600CammarBidlisi.SawmQalb.Kraken220413202141-ara1
+90#VERS#DATE#####: 2022-04-13
+90#VERS#ISSUES###: UNCORRECTED_OCR, PRIMARY_VERSION, CLEANED_VERSION

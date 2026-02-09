@@ -1,0 +1,18 @@
+00#VERS#CLENGTH##: 21456
+00#VERS#LENGTH###: 5155
+00#VERS#URI######: 0584HasanRassas.Muaththirat.JT001-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/876689920
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/876689920
+80#VERS#LINKS####: https://archive.org/details/almoatheratmftahalmshklat
+90#VERS#ANNOTATOR: PV
+90#VERS#COMMENT##: PV extracted this text from the digital edition  in
+    TEI xml provided by Jan Thiele.  The xml does not include page numbers.
+    NOTE OF THE REVIEWER (HRH): No changes.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0600AH/pre-
+    clean/data/0584HasanRassas/0584HasanRassas.Muaththirat/0584HasanRassas.Muaththirat.JT001-ara1.mARkdown
+90#VERS#DATE#####: 2020-09-22
+90#VERS#ISSUES###: PAGINATION, PRIMARY_VERSION, CLEANED_VERSION

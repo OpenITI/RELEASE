@@ -1,0 +1,22 @@
+00#BOOK#URI######: 0575IbnZufar.TalkhisTarikhBukhara
+10#BOOK#GENRES###: src@keyword, src@keyword, src@keyword
+10#BOOK#TITLEA#AR: Talḫīṣ Tārīḫ Buḫārā
+10#BOOK#TITLEB#AR: Risālaŧ al-Muʾallif
+20#BOOK#WROTE####: URIs from Althurayya, comma separated
+30#BOOK#WROTE##AH: YEAR-MON-DA (X+ for unknown)
+40#BOOK#RELATED##: 0348Narshakhi.TarikhBukhara (TRANSL)
+70#BOOK#EXTID####: viaf@id, wikidata@id, src@id
+80#BOOK#EDITIONS#: permalink, permalink, permalink
+80#BOOK#LINKS####: permalink, permalink, permalink
+80#BOOK#MSS######: permalink, permalink, permalink
+80#BOOK#STUDIES##: permalink, permalink, permalink
+80#BOOK#TRANSLAT#: permalink, permalink, permalink
+90#BOOK#COMMENT##: "Abu Bakr Moḥammad b. Jaʿfar Naršaḵi 
+    (d. 348/959) wrote a history of Bokhara in Arabic 
+    for the Samanid amir Nuḥ b. Naṣr. Although the Arabic 
+    text has been lost, it was abridged and translated 
+    into Persian by Abu Naṣr Aḥmad Qobāwi in 522/1128, 
+    with some added material to extend the chronological
+    coverage." 
+    (https://www.iranicaonline.org/articles/historiography-iii/)
+    Muḥammad b. Zufar b. ʿUmar abridged the Persian translation.

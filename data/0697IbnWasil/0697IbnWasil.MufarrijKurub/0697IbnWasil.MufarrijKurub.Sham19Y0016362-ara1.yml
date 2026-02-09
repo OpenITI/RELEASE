@@ -1,0 +1,31 @@
+00#VERS#CLENGTH##: 1149305
+00#VERS#LENGTH###: 262098
+00#VERS#URI######: 0697IbnWasil.MufarrijKurub.Sham19Y0016362-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/1184580215
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/1184580215
+80#VERS#LINKS####: https://archive.org/details/02-2_20201130_202011;
+    https://www.noor-book.com/كتاب-مفرج-الكروب-في-أخبار-بني-أيوب-pdf
+90#VERS#ANNOTATOR: Gowaart Van Den Bossche
+90#VERS#COMMENT##: Text appears to be of good quality, pagination is correct.
+    Editorial introduction, editorial additions, and most footnote markers deleted.
+    Poetry tagged. Manuscript folio markers are still largely present but can
+    probably easily be deleted with a regex.
+    From the third volume onwards the text's structure changes into a more overtly
+    annalistic structure (or at least, in the preceding volumes the changes in years
+    were not rendered as headers), so from that point onwards there is a three level
+    hierarchy (for the preceding volumes, omit level 1): 1 - years, 2 - events, 3 -
+    either a specification of events, or a "sira" of deceased sultans (a sort of
+    obituary).
+    Some headers were broken up on two or more lines. I have corrected most of
+    these to rended on one line, but may have missed some.
+    NB: check lines of poetry that seem too short: line numbers 4269
+    NB: check lines of poetry that seem too long: line numbers 18416
+    NOTE OF THE REVIEWER (HRH): Most of the headers were not aligned in one line. I
+    corrected this. I also tagged a few untagged headers that I found.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0700AH/pre-clean/data/0697IbnWasil/0697IbnWasil.MufarrijKurub/0697IbnWasil.MufarrijKurub.Sham19Y0016362-ara1.mARkdown
+90#VERS#DATE#####: 2021-05-12
+90#VERS#ISSUES###: NO_MAJOR_ISSUES, PRIMARY_VERSION, CLEANED_VERSION

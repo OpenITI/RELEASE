@@ -1,0 +1,21 @@
+00#AUTH#URI######: 0588IbnShahrAshub
+10#AUTH#ISM####AR: Fulān
+10#AUTH#KUNYA##AR: Abū Fulān, Abū Fulānaŧ
+10#AUTH#LAQAB##AR: Fulān al-dīn, Fulān al-dawlaŧ
+10#AUTH#NASAB##AR: b. Fulān b. Fulān b. Fulān b. Fulān
+10#AUTH#NISBA##AR: al-Fulānī, al-Fāʿil, al-Fulānī, al-Mufaʿʿil
+10#AUTH#SHUHRA#AR: Ibn Fulān al-Fulānī
+20#AUTH#BORN#####: SARIYA_531E365N_S
+20#AUTH#DIED#####: HALAB_371E361N_S
+20#AUTH#RESIDED##: BAGHDAD_443E333N_S
+20#AUTH#VISITED##: URIs from Althurayya, comma separated
+30#AUTH#BORN###AH: 0488-XXX-XX (X+ for unknown)
+30#AUTH#DIED###AH: 0588-SHC-22 (X+ for unknown)
+40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
+40#AUTH#TEACHERS#: from OpenITI, comma separated
+70#AUTH#EXTID####: wikidata@Q6419128
+80#AUTH#BIBLIO###: https://en.wikishia.net/view/Ibn_Shahrashub, src@id, src@id, src@id, src@id
+90#AUTH#COMMENT##: a free running comment here; you can add as many
+    lines as you see fit; the main goal of this comment section is to have a
+    place to record valuable information, which is difficult to formalize
+    into the above given categories.

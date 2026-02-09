@@ -1,0 +1,18 @@
+00#VERS#CLENGTH##: 263851
+00#VERS#LENGTH###: 60069
+00#VERS#URI######: 0550AnonymousCompiler.SijillatMustansiriyya.Kraken210223142009-ara1
+80#VERS#BASED####: 
+80#VERS#COLLATED#: 
+80#VERS#LINKS####: 
+90#VERS#ANNOTATOR: 
+90#VERS#COMMENT##: OCRed through Kraken:
+    * segmentation model: DEFAULT
+    * OCR model: arabPers-WithDiffTypefaces.mlmodel
+    * raw-OCR needed review - MAB
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0550AH/pre-clean/data/0550AnonymousCompiler/0550AnonymousCompiler.SijillatMustansiriyya/0550AnonymousCompiler.SijillatMustansiriyya.Kraken210223142009-ara1
+90#VERS#DATE#####: 2021-02-23
+90#VERS#ISSUES###: UNCORRECTED_OCR, PRIMARY_VERSION, CLEANED_VERSION

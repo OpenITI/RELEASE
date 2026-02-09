@@ -1,0 +1,21 @@
+00#VERS#CLENGTH##: 8372
+00#VERS#LENGTH###: 2116
+00#VERS#URI######: 0607IbnTabarzad.JuzShurut.Shamela0027092-ara1
+80#VERS#BASED####: NOT_FOUND
+80#VERS#COLLATED#: NOT_FOUND
+80#VERS#LINKS####: https://www.quranicthought.com/ar/books/جزء-فيه-شروط-أمير-
+    المؤمنين-عمر-بن-الخطا/
+90#VERS#ANNOTATOR: Gowaart Van Den Bossche
+90#VERS#COMMENT##: Pagination is fine and text quality seems to be good as well.
+    Author attribution is debatable, as the last part of the transmission is
+    0607IbnTabarzad. I will suggest a URI change to reflect this later transmission
+    date.
+    NOTE OF THE REVIEWER (HRH): Added PARATEXT and a blank first-level header
+    showing the beginning of the text.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0625AH/pre-clean/data/0607IbnTabarzad/0607IbnTabarzad.JuzShurut/0607IbnTabarzad.JuzShurut.Shamela0027092-ara1.mARkdown
+90#VERS#DATE#####: 2021-02-15
+90#VERS#ISSUES###: NO_MAJOR_ISSUES, PRIMARY_VERSION, CLEANED_VERSION

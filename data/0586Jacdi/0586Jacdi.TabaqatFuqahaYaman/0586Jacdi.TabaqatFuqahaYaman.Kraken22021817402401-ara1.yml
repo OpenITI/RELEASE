@@ -1,0 +1,21 @@
+00#VERS#CLENGTH##: 300798
+00#VERS#LENGTH###: 73775
+00#VERS#URI######: 0586Jacdi.TabaqatFuqahaYaman.Kraken22021817402401-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/4771112051
+80#VERS#COLLATED#: 
+80#VERS#LINKS####: https://www.noor-book.com/كتاب-2853-طبقات-فقهاء-اليمن-pdf,
+    https://archive.org/download/alfirdwsiy2018_gmail_2853_201808/2853 - طبقات فقهاء
+    اليمن   كتاب  اقرا  اونلاين.pdf
+90#VERS#ANNOTATOR: 
+90#VERS#COMMENT##: OCRed through Kraken:
+    * Kraken version: 3.0.0.0b21.dev6
+    * segmentation model: DEFAULT
+    * OCR model: 12-24-2021_ArabPersGeneralized.mlmodel
+    NOTE: date of death uncertain, see introduction
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0600AH/pre-clean/data/0586Jacdi/0586Jacdi.TabaqatFuqahaYaman/0586Jacdi.TabaqatFuqahaYaman.Kraken22021817402401-ara1
+90#VERS#DATE#####: 2022-02-18
+90#VERS#ISSUES###: UNCORRECTED_OCR, PRIMARY_VERSION, CLEANED_VERSION

@@ -1,0 +1,24 @@
+00#VERS#CLENGTH##: 240340
+00#VERS#LENGTH###: 57270
+00#VERS#URI######: 0690IbnMujawirDimashqi.TarikhMustabsir.Shamela0000471-ara1
+80#VERS#BASED####: NO_DATA_IN_METADATA
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/36050799
+80#VERS#LINKS####: https://ia600507.us.archive.org/32/items/smokhtar77_yahoo/صفة بلاد اليمن و مكة و بعض الحجاز المسماة تاريخ المستبصر.pdf
+90#VERS#ANNOTATOR: HRH
+90#VERS#COMMENT##: I tagged all headers as first-level, but I guess it’s
+    possible to arrange the leveling of the headers according to the
+    distance between the places. For example, the title “ومن مكة إلى الطائف”
+    in page 6 might be a parent header for all the subsequent headers until
+    “من الطائف إلى جبل بدر” which itself might be a parent header for the
+    subsequent headers until “من الطائف إلى صعدة”. However, this is just a
+    guess and I’m not sure. One must read the whole text to confirm this. 2-
+    A few lines in page 24 (= page 78 of the PDF) are missing. 3- These
+    pages in the PDF include pictures: 20, 57, 84, 93, 122, 149, 185, 190,
+    227, 235, 250, 288, 290, 297, 303.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0700AH/pre-clean/data/0690IbnMujawirDimashqi/0690IbnMujawirDimashqi.TarikhMustabsir/0690IbnMujawirDimashqi.TarikhMustabsir.Shamela0000471-ara1.completed
+90#VERS#DATE#####: 2020-08-03
+90#VERS#ISSUES###: PARATEXT, HTML_TAGS, MISSING_PARTS, PRIMARY_VERSION, CLEANED_VERSION

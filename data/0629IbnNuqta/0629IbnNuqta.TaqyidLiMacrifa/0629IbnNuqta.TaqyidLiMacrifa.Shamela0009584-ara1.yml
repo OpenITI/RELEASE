@@ -1,0 +1,21 @@
+00#VERS#CLENGTH##: 450813
+00#VERS#LENGTH###: 110213
+00#VERS#URI######: 0629IbnNuqta.TaqyidLiMacrifa.Shamela0009584-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/4771104911
+80#VERS#COLLATED#: NOT_FOUND
+80#VERS#LINKS####:
+    https://ia802802.us.archive.org/0/items/20200217_20200217_0616/التقييد لمعرفة
+    رواة السنن والمسانيد ابن نقطة الحنبلي.pdf
+90#VERS#ANNOTATOR: HRH
+90#VERS#COMMENT##: I saw some cases in which the footnotes were interred into
+    the text. I showed the beginning of these cases by a hashtag and two asterisks
+    (# **). There might be more cases. 2- Find a manuscript of the text here:
+    https://www.alukah.net/manu/files/manuscript_4501/makhtotat00.pdf
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0650AH/pre-
+    clean/data/0629IbnNuqta/0629IbnNuqta.TaqyidLiMacrifa/0629IbnNuqta.TaqyidLiMacrifa.Shamela0009584-ara1.completed
+90#VERS#DATE#####: 2020-07-16
+90#VERS#ISSUES###: FOOTNOTES, PARATEXT, PRIMARY_VERSION, CLEANED_VERSION

@@ -1,0 +1,20 @@
+00#VERS#CLENGTH##: 2246309
+00#VERS#LENGTH###: 556179
+00#VERS#URI######: 0697IbnWasil.TajridAghani.Kraken22021606121201-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/4770035689
+80#VERS#COLLATED#: 
+80#VERS#LINKS####:
+    https://ia903105.us.archive.org/15/items/moharram1965_gmail_011_20180423/ 0 1  1
+    تجريد الأغاني.pdf
+90#VERS#ANNOTATOR: 
+90#VERS#COMMENT##: OCRed through Kraken:
+    * Kraken version: 3.0.0.0b21.dev6
+    * segmentation model: DEFAULT
+    * OCR model: 12-24-2021_ArabPersGeneralized.mlmodel
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0700AH/pre-clean/data/0697IbnWasil/0697IbnWasil.TajridAghani/0697IbnWasil.TajridAghani.Kraken22021606121201-ara1
+90#VERS#DATE#####: 2022-02-16
+90#VERS#ISSUES###: UNCORRECTED_OCR, PRIMARY_VERSION, CLEANED_VERSION

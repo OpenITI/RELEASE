@@ -1,0 +1,15 @@
+00#VERS#CLENGTH##: 539973
+00#VERS#LENGTH###: 140377
+00#VERS#URI######: 0696IbnZahiri.Mashyakha.JK009154-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/42434115
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/42434115
+80#VERS#LINKS####: https://ia802807.us.archive.org/14/items/ozkorallh_20181026_2102/38986.pdf
+90#VERS#ANNOTATOR: HRH
+90#VERS#COMMENT##: The text consists of several Juz’s, but these juz’s have no effect on the structure. So I tagged them as PARATEXT. 2- These pages that are all title pages are missing. I put blank headers in their places: 757-8; 1507-8; 1531; 1539; 1555-7; 1583; 1593; 1611; 1657; 1681-3; 1693; 1705; 1715; 1745; 1757; 1773; 1785; 1793; 1807; 1813-5; 1861; 1889; 1903; 1911; 1921; 1927-9; 1937. 3- The pipe symbols (|) inside the text signify the end of paragraphs in the PDF and must be deleted. 4- The symbol $ is place instead of Salli-Allah.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0700AH/pre-clean/data/0696IbnZahiri/0696IbnZahiri.Mashyakha/0696IbnZahiri.Mashyakha.JK009154-ara1.completed
+90#VERS#DATE#####: 2020-08-18
+90#VERS#ISSUES###: PARATEXT, RANDOM_CHARS, MISSING_PARTS, PRIMARY_VERSION, CLEANED_VERSION

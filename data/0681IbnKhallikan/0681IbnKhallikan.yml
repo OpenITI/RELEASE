@@ -1,0 +1,18 @@
+00#AUTH#URI######: 0681IbnKhallikan
+10#AUTH#ISM####AR: Aḥmad
+10#AUTH#KUNYA##AR: Abū al-ʿAbbās
+10#AUTH#LAQAB##AR: Šams al-dīn
+10#AUTH#NASAB##AR: b. Muḥammad b. Ibrāhīm b. Abī Bakr b. Ḫallikān
+10#AUTH#NISBA##AR: al-Barmakī al-Irbīlī al-Šāfiʿī
+10#AUTH#SHUHRA#AR: Ibn Ḫallikān
+20#AUTH#BORN#####: URIs from Althurayya, comma separated
+20#AUTH#DIED#####: URIs from Althurayya, comma separated
+20#AUTH#RESIDED##: URIs from Althurayya, comma separated
+20#AUTH#VISITED##: URIs from Althurayya, comma separated
+30#AUTH#BORN###AH: 0608-RA2-11
+30#AUTH#DIED###AH: 0681-XXX-XX
+40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
+40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+70#AUTH#EXTID####: wikidata@Q71394
+80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
+90#AUTH#COMMENT##: EI2: "Aḥmad b. Muḥammad b. Ibrāhīm Abu ’l-ʿAbbās S̲h̲ams al-Dīn al-Barmakī al-Irbilī al-S̲h̲āfiʿī , Arabic biographer, b. 11 Rabīʿ II 608/22 September 1211 at Irbil in a respectable family that claimed descent from the Barmakids.": http://dx.doi.org/10.1163/1573-3912_islam_SIM_3248

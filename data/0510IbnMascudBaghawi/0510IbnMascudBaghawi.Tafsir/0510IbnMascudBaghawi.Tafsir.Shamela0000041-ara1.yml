@@ -1,0 +1,15 @@
+00#VERS#CLENGTH##: 3545736
+00#VERS#LENGTH###: 852374
+00#VERS#URI######: 0510IbnMascudBaghawi.Tafsir.Shamela0000041-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/235965123
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/235965123
+80#VERS#LINKS####: https://waqfeya.com/book.php?bid=1684
+90#VERS#ANNOTATOR: HRH
+90#VERS#COMMENT##: I have used the 1409 edition while the text is based
+    on 1417 edition (for which I couldn’t find the WorldCat link, and this
+    is why the two WorldCat links are the same). This probably explains why
+    the place of Quranic verses is different in some pages; anyway, this has
+    no effect on the consistency of the text.
+    PV removed editorial introduction
+90#VERS#DATE#####: 2019-08-02
+90#VERS#ISSUES###: CLEANED_VERSION, PRIMARY_VERSION

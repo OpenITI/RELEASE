@@ -1,0 +1,26 @@
+00#AUTH#URI######: 0597CimadDinKatibIsfahani
+10#AUTH#ISM####AR: Muḥammad
+10#AUTH#KUNYA##AR: Abū ʿAbd Allāh b. Ṣafī al-Dīn Abū l-Faraǧ b. Nafīs al-
+    Dīn Abū al-Raǧāʾ
+10#AUTH#LAQAB##AR: ʿImād al-Dīn
+10#AUTH#NASAB##AR: b. Muḥammad b. Ḥāmid b. Muḥammad b. ʿAbd Allāh b. ʿAlī
+    b. Maḥmūd b. Hibat Allāh
+10#AUTH#NISBA##AR: al-Iṣfahānī
+10#AUTH#SHUHRA#AR: ʿImād al-Dīn al-kātib al-Iṣfahānī
+20#AUTH#BORN#####: ISBAHAN_516E326N_S, Jibal_RE
+20#AUTH#DIED#####: DIMASHQ_363E335N_S
+20#AUTH#RESIDED##: QASHAN_515E339N_S, BAGHDAD_443E333N_S,
+    BASRA_477E304N_S, WASIT_463E321N_S, MAWSIL_431E363N_S,
+20#AUTH#VISITED##: MAKKA_398E213N_S, BAYTMAQDIS_352E317N_S,
+    QAHIRA_312E300N_S
+30#AUTH#BORN###AH: 0519-JU2-02 (X+ for unknown)
+30#AUTH#DIED###AH: 0597-RAM-01 (X+ for unknown)
+40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
+40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+70#AUTH#EXTID####: wikidata@Q742319
+80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
+90#AUTH#COMMENT##: Data compiled from Arabic wikipedia and the reference
+    article by Lutz-Richter Bernburg in Muslim Historians and the Franks in
+    the Levant. Places resided and visited could be multiplied in much more
+    detail as the author travelled widely, but I have kept it to the most
+    commonly noted.

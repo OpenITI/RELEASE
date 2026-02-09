@@ -1,0 +1,20 @@
+00#VERS#CLENGTH##: 1455670
+00#VERS#LENGTH###: 341881
+00#VERS#URI######: 0630IbnAthirCizzDin.LubabFiTahdhibAnsab.Shamela0005793-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/4770390544
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/4770390544
+80#VERS#LINKS####: Vol 1: https://ia800301.us.archive.org/19/items/alkamela2000_gmail_1_20150219/اللباب في تهذيب الانساب 1.pdf;
+    Vol 2: https://ia600301.us.archive.org/19/items/alkamela2000_gmail_1_20150219/اللباب في تهذيب الانساب 2.pdf;
+    Vol 3: https://ia800301.us.archive.org/19/items/alkamela2000_gmail_1_20150219/اللباب في تهذيب الانساب 3.pdf
+90#VERS#ANNOTATOR: the name of the annotator (latin characters; please
+    use consistently)
+    NOTE OF THE REVIEWER (HRH): I just untagged a few automatic tags that were unnecessary. 2- A lot of redundant single hashtags (without any text) has appeared in the text which should be cleaned. 3- Other editions of the text are accessible: https://archive.org/details/azm101010_gmail_13_20180422_1506; https://archive.org/details/AlLobabFeyTahzeebAlAnsaab
+90#VERS#COMMENT##: The text has been tagged before; no proper YML file
+    yet.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0650AH/pre-clean/data/0630IbnAthirCizzDin/0630IbnAthirCizzDin.LubabFiTahdhibAnsab/0630IbnAthirCizzDin.LubabFiTahdhibAnsab.Shamela0005793-ara1.mARkdown
+90#VERS#DATE#####: YYYY-MM-DD
+90#VERS#ISSUES###: RANDOM_CHARS, PRIMARY_VERSION, CLEANED_VERSION

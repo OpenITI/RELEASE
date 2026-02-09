@@ -1,0 +1,15 @@
+00#VERS#CLENGTH##: 401125
+00#VERS#LENGTH###: 100020
+00#VERS#URI######: 0597IbnJawzi.DucafaWaMatrukin.Shamela0005830-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/19679403
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/19679403
+80#VERS#LINKS####: https://archive.org/details/Duafaa_Ibn_Jawzi
+90#VERS#ANNOTATOR: HRH
+90#VERS#COMMENT##: Many of the names did not have numbers and automatic tags. I added the numbers and the tags manually. 2- No 409 in PageV01P119 and No 3339 in PageV03P123are missing.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0600AH/pre-clean/data/0597IbnJawzi/0597IbnJawzi.DucafaWaMatrukin/0597IbnJawzi.DucafaWaMatrukin.Shamela0005830-ara1.completed
+90#VERS#DATE#####: 2020-07-10
+90#VERS#ISSUES###: HTML_TAGS, PAGINATION, PARATEXT, MISSING_PARTS, PRIMARY_VERSION, CLEANED_VERSION

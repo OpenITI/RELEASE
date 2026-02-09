@@ -1,0 +1,22 @@
+00#VERS#CLENGTH##: 2690200
+00#VERS#LENGTH###: 640194
+00#VERS#URI######: 0681IbnKhallikan.WafayatAcyan.Shamela0001000-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/1148820767
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/1148820767
+80#VERS#LINKS####: https://archive.org/details/WafiyatAyanIbnKhalkan
+90#VERS#ANNOTATOR: LeipzigTeam
+90#VERS#COMMENT##: the text has been tagged before; proper YML file is
+    yet to be produced.
+    NOTE OF THE REVIEWER (HRH): At the end of vol 1 (page 381 and 441 ff), the
+    editor has added an appendix which has two parts. The first is taken from a
+    prior edition by Wüstenfeld, and the second is taken from a manuscript found
+    after publishing the book. I deleted the editor’s explanations at the beginning
+    of these sections as they are editorial, but kept and tagged the appended texts
+    as they are parts of the main text. 2. Editorial removed.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0700AH/pre-clean/data/0681IbnKhallikan/0681IbnKhallikan.WafayatAcyan/0681IbnKhallikan.WafayatAcyan.Shamela0001000-ara1.mARkdown
+90#VERS#DATE#####: YYYY-MM-DD
+90#VERS#ISSUES###: HTML_TAGS, PRIMARY_VERSION, CLEANED_VERSION

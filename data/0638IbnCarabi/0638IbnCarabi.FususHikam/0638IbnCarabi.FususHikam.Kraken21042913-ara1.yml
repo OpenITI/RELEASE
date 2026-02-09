@@ -1,0 +1,20 @@
+00#VERS#CLENGTH##: 165805
+00#VERS#LENGTH###: 40782
+00#VERS#URI######: 0638IbnCarabi.FususHikam.Kraken21042913-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/905657752
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/905657752
+80#VERS#LINKS####: https://archive.org/details/tayeb_201510; https://www.quranicthought.com/books/فصوص-الحكم-للشيخ-محي-الدين-بن-العربي-وا/
+90#VERS#ANNOTATOR: LMN
+90#VERS#COMMENT##: OCRed through Kraken version 2.0.8; arabPers-
+    WithDiffTypefaces.mlmodel;
+    default segmentation model; post-corrected by the annotator; second proof-
+    reading recommended.
+    NB: check lines of poetry that seem too short: line numbers 862, 864, 2529
+    NOTE OF THE REVIEWER (HRH): PARATEXT added. Deleted English characters for KRAKEN.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0650AH/pre-clean/data/0638IbnCarabi/0638IbnCarabi.FususHikam/0638IbnCarabi.FususHikam.Kraken21042913-ara1.mARkdown
+90#VERS#DATE#####: 2021-05-20
+90#VERS#ISSUES###: NO_MAJOR_ISSUES, PRIMARY_VERSION, CLEANED_VERSION

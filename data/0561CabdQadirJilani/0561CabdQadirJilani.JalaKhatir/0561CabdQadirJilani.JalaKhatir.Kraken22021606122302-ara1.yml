@@ -1,0 +1,19 @@
+00#VERS#CLENGTH##: 156242
+00#VERS#LENGTH###: 37221
+00#VERS#URI######: 0561CabdQadirJilani.JalaKhatir.Kraken22021606122302-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/1227697612
+80#VERS#COLLATED#: 
+80#VERS#LINKS####:
+    https://ia601907.us.archive.org/32/items/abdelqaderjilani/jalaa.pdf
+90#VERS#ANNOTATOR: 
+90#VERS#COMMENT##: OCRed through Kraken:
+    * Kraken version: 3.0.0.0b21.dev6
+    * segmentation model: DEFAULT
+    * OCR model: 12-24-2021_ArabPersGeneralized.mlmodel
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0575AH/pre-clean/data/0561CabdQadirJilani/0561CabdQadirJilani.JalaKhatir/0561CabdQadirJilani.JalaKhatir.Kraken22021606122302-ara1
+90#VERS#DATE#####: 2022-02-16
+90#VERS#ISSUES###: UNCORRECTED_OCR, PRIMARY_VERSION, CLEANED_VERSION

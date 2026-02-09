@@ -1,0 +1,19 @@
+00#AUTH#URI######: 0650AbuKhayrIbnTayyib
+10#AUTH#ISM####AR: 
+10#AUTH#KUNYA##AR: Abū al-Ḫayr
+10#AUTH#LAQAB##AR: 
+10#AUTH#NASAB##AR: 
+10#AUTH#NISBA##AR: b. al-Ṭayyib
+10#AUTH#SHUHRA#AR: Abū al-Ḫayr Ibn al-Ṭayyib
+20#AUTH#BORN#####: URIs from Althurayya, comma separated
+20#AUTH#DIED#####: URIs from Althurayya, comma separated
+20#AUTH#RESIDED##: URIs from Althurayya, comma separated
+20#AUTH#VISITED##: URIs from Althurayya, comma separated
+30#AUTH#BORN###AH: YEAR-MON-DA (X+ for unknown)
+30#AUTH#DIED###AH: YEAR-MON-DA (X+ for unknown)
+40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
+40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+70#AUTH#EXTID####: viaf@id, wikidata@id, src@id
+80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
+90#AUTH#COMMENT##: A Copt, writing between 1204 and 1245
+    (see https://www.tertullian.org/fathers/sbath_00_intro.htm).

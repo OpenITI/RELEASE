@@ -1,0 +1,21 @@
+00#BOOK#URI######: 0597IbnJawzi.Muntazam
+10#BOOK#GENRES###: src@keyword, src@keyword, src@keyword
+10#BOOK#TITLEA#AR: al-Muntaẓam fī tārīḫ al-mulūk wa-l-umam
+10#BOOK#TITLEB#AR: Risālaŧ al-Muʾallif
+20#BOOK#WROTE####: URIs from Althurayya, comma separated
+30#BOOK#WROTE##AH: YEAR-MON-DA (X+ for unknown)
+40#BOOK#RELATED##: URI of a book from OpenITI, or [Author's Title],
+    followed by abbreviation for relation type between brackets (see
+    book_relations repo). Only include relations with older books. Separate
+    related books with semicolon.
+70#BOOK#EXTID####: viaf@id, wikidata@id, src@id
+80#BOOK#EDITIONS#: permalink, permalink, permalink
+80#BOOK#LINKS####: permalink, permalink, permalink
+80#BOOK#MSS######: permalink, permalink, permalink
+80#BOOK#STUDIES##: permalink, permalink, permalink
+80#BOOK#TRANSLAT#: permalink, permalink, permalink
+90#BOOK#COMMENT##: JK001209 is not Dār Ṣādir edition as mentioned in the
+    JK metadata. It is the same edition as
+    Shamela0012406-ara1.mARkdown (i.e. Dār al-kutub, 1992).
+    Sham30K0004592 and ShamAY0034611 are by Dār ṣādir, but both
+    begin with the fifth volume and are incomplete versions.

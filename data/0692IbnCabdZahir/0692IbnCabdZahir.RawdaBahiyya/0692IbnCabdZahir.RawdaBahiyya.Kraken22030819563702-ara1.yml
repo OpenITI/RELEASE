@@ -1,0 +1,19 @@
+00#VERS#CLENGTH##: 196405
+00#VERS#LENGTH###: 43632
+00#VERS#URI######: 0692IbnCabdZahir.RawdaBahiyya.Kraken22030819563702-ara1
+80#VERS#BASED####: NOT_FOUND
+80#VERS#COLLATED#: 
+80#VERS#LINKS####: 
+90#VERS#ANNOTATOR: 
+90#VERS#COMMENT##: OCRed through Kraken:
+    * Kraken version: 3.0.0.0b21.dev6
+    * segmentation model: DEFAULT
+    * OCR model: 12-24-2021_ArabPersGeneralized.mlmodel
+    NOTE: PDF provided by MB
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0700AH/pre-clean/data/0692IbnCabdZahir/0692IbnCabdZahir.RawdaBahiyya/0692IbnCabdZahir.RawdaBahiyya.Kraken22030819563702-ara1
+90#VERS#DATE#####: 2022-03-08
+90#VERS#ISSUES###: UNCORRECTED_OCR, PRIMARY_VERSION, CLEANED_VERSION

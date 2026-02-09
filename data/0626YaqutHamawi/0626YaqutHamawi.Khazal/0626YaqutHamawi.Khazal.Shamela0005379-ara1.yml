@@ -1,0 +1,15 @@
+00#VERS#CLENGTH##: 135544
+00#VERS#LENGTH###: 32266
+00#VERS#URI######: 0626YaqutHamawi.Khazal.Shamela0005379-ara1
+80#VERS#BASED####: NO_DATA_IN_METADATA
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/862999848
+80#VERS#LINKS####: https://ebook.univeyes.com/160789/pdf-الخزل-و-الدأل-بين-الدور-و-الدارات-و-الديرة
+90#VERS#ANNOTATOR: HRH
+90#VERS#COMMENT##: The tag ### $ is used as a simplified tag for toponyms. 2- Pages 45-46 of the PDF are missing.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0650AH/pre-clean/data/0626YaqutHamawi/0626YaqutHamawi.Khazal/0626YaqutHamawi.Khazal.Shamela0005379-ara1.completed
+90#VERS#DATE#####: 2020-07-15
+90#VERS#ISSUES###: MISSING_PARTS, PARATEXT, PRIMARY_VERSION, CLEANED_VERSION

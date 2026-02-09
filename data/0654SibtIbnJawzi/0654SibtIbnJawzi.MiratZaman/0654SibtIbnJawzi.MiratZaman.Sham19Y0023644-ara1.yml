@@ -1,0 +1,23 @@
+00#VERS#CLENGTH##: 9899389
+00#VERS#LENGTH###: 2391632
+00#VERS#URI######: 0654SibtIbnJawzi.MiratZaman.Sham19Y0023644-ara1
+80#VERS#BASED####: https://search.worldcat.org/en/title/875091468
+80#VERS#COLLATED#: https://search.worldcat.org/en/title/875091468
+80#VERS#LINKS####: https://archive.org/details/00-144301/00_144301/
+90#VERS#ANNOTATOR: HRH
+90#VERS#COMMENT##: In the October 2021 release as
+    0654SibtIbnJawzi.MiratZaman.Sham19Y23644.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0675AH/pre-
+    clean/data/0654SibtIbnJawzi/0654SibtIbnJawzi.MiratZaman/0654SibtIbnJawzi.MiratZaman.Sham19Y0023644-ara1
+    NOTE OF THE ANNOTATOR (HRH): All the obituaries are tagged manually. A few ones
+    might be missing. In some cases, there are biographies inside an obituary. 2-
+    The subtitles are sometimes not exclusive and contain the rest of the text that
+    is not relevant to them. I tried to separate some of them by adding blank
+    headers. But, this needs reading the text closely. 3- Missing pages:
+    PageV20P100-200.
+90#VERS#DATE#####: 2024-01-24
+90#VERS#ISSUES###: PRIMARY_VERSION, CLEANED_VERSION, MISSING_SECTIONS

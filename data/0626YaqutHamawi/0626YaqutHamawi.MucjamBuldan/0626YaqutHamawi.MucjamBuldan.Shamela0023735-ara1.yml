@@ -1,0 +1,27 @@
+00#VERS#CLENGTH##: 4192318
+00#VERS#LENGTH###: 997008
+00#VERS#URI######: 0626YaqutHamawi.MucjamBuldan.Shamela0023735-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/492556514
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/1107066448
+80#VERS#LINKS####: https://archive.org/details/waq0093
+90#VERS#ANNOTATOR: NN, PV
+90#VERS#COMMENT##: 1977 edition has same pagination as 1995 edition.
+    PV added pipes before the dollar signs of the lemmata
+    in order to make it possible to create
+    groups of lemmata (e.g., rivers, seas, monasteries, ...)
+    and further hierarchy within lemmata (e.g., Baghdād, Baṣra).
+    PV converted existing poetry tags (% %) into
+    OpenITI mARkdown poetry tags (%~%).
+    PV removed all editorial sections.
+    NB: Quran quotes are in the QSxxVxx format
+    NB: check lines of poetry that seem too short: line numbers 16152, 33948,
+    33950, 38903, 38904, 42688, 53681, 65692, 85250, 92004, 92767, 98041, 104033
+    NB: check lines of poetry that seem too long: line numbers 15246, 16668,
+    26608, 27052, 40743, 76045, 92774
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0650AH/pre-clean/data/0626YaqutHamawi/0626YaqutHamawi.MucjamBuldan/0626YaqutHamawi.MucjamBuldan.Shamela0023735-ara1.mARkdown
+90#VERS#DATE#####: 2021-05-26
+90#VERS#ISSUES###: NO_MAJOR_ISSUES, PRIMARY_VERSION, CLEANED_VERSION

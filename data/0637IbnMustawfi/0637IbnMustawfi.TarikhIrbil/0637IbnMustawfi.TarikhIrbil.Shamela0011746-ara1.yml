@@ -1,0 +1,19 @@
+00#VERS#CLENGTH##: 384217
+00#VERS#LENGTH###: 94302
+00#VERS#URI######: 0637IbnMustawfi.TarikhIrbil.Shamela0011746-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/4770287462
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/4770287462
+80#VERS#LINKS####: https://archive.org/details/01020785
+90#VERS#ANNOTATOR: the name of the annotator (latin characters; please
+    use consistently)
+90#VERS#COMMENT##: the text was tagged before; no proper YML file yet.
+    See, `README.md` for details.
+    NOTE OF THE REVIEWER (HRH): Editorial sections tagged and deleted. PARATEXT
+    added. The number of name tags checked and corrected through Peter’s script.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0650AH/pre-clean/data/0637IbnMustawfi/0637IbnMustawfi.TarikhIrbil/0637IbnMustawfi.TarikhIrbil.Shamela0011746-ara1.mARkdown
+90#VERS#DATE#####: YYYY-MM-DD
+90#VERS#ISSUES###: HTML_TAGS, PRIMARY_VERSION, CLEANED_VERSION

@@ -1,0 +1,28 @@
+00#VERS#CLENGTH##: 263205
+00#VERS#LENGTH###: 66890
+00#VERS#URI######: 0535QadiMaristan.Mashyakha.Shamela0026542-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/48977592
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/48977592
+80#VERS#LINKS####: https://archive.org/details/alfirdwsiy2018_gmail_0156_201808
+90#VERS#ANNOTATOR: LMN
+90#VERS#COMMENT##: pagination corrected by annotator; print edition
+    comprises 3 volumes;  Shamela0026542 seems to stretch across vol. 2 and
+    part of vol. 3 of the print edition;  nevertheless, the volume numbers
+    given in the text should be checked against a physical copy of the work;
+    at the beginning of each of the parts 1-5 of vol.2, Shamela0026542
+    contains  paratextual material such as riwāyāt (albeit not necessarily
+    everything that appears in the underlying print edition has been
+    included in the text file); the mashyakha is structured in five parts;
+    according to the editor, this structure is attested in historical texts
+    that mention the work (see introduction, pp. 297-298);    Line 864 >
+    print edition has "akthar munāfiqī ummatī qurrāʾuhā";  Shamela0026542
+    had "akthar munāfiqī ummatī qirāʾatan", which has been changed to
+    "qurrāʾuhā."
+    NOTE OF THE REVIEWER (HRH): No changes.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0550AH/pre-clean/data/0535QadiMaristan/0535QadiMaristan.Mashyakha/0535QadiMaristan.Mashyakha.Shamela0026542-ara1.mARkdown
+90#VERS#DATE#####: 2020-04-21
+90#VERS#ISSUES###: NO_MAJOR_ISSUES, PRIMARY_VERSION, CLEANED_VERSION

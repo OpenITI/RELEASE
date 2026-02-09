@@ -1,0 +1,16 @@
+00#VERS#CLENGTH##: 86643
+00#VERS#LENGTH###: 22823
+00#VERS#URI######: 0578IbnBashkuwal.ShuyukhIbnWahb.ShamAY0033580-ara1
+80#VERS#BASED####: https://worldcat.org/en/title/236042380
+80#VERS#COLLATED#: https://worldcat.org/en/title/236042380
+80#VERS#LINKS####: https://ebook.univeyes.com/143396
+90#VERS#ANNOTATOR: HRH
+90#VERS#COMMENT##: As the editor explains in page 259 footnote2, Page 260 onwards is added from a different manuscript. The editor says it is “the rest of the text”, but actually, it is “Akhbar Ibn Wahab”, not “Shuyukh Ibn Wahab”, as the title is. This part is missing in our digital version. So, we can add it to the corpus as a separate file with the URI: 0578IbnBashkuwal.AkhbarIbnWahb. I raised an issue for this.
+   All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0600AH/pre-
+    clean/data/0578IbnBashkuwal/0578IbnBashkuwal.ShuyukhIbnWahb/0578IbnBashkuwal.ShuyukhIbnWahb.ShamAY0033580-ara1
+90#VERS#DATE#####: 2023-10-10
+90#VERS#ISSUES###: NO_MAJOR_ISSUES, PRIMARY_VERSION, CLEANED_VERSION

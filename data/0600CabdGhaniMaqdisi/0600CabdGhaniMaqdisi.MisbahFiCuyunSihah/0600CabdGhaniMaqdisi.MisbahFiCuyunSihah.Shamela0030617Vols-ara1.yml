@@ -1,0 +1,23 @@
+00#VERS#CLENGTH##: 105363
+00#VERS#LENGTH###: 27450
+00#VERS#URI######: 0600CabdGhaniMaqdisi.MisbahFiCuyunSihah.Shamela0030617Vols-ara1
+80#VERS#BASED####: permalink, permalink, permalink
+80#VERS#COLLATED#: permalink, permalink, permalink
+80#VERS#LINKS####: https://www.alukah.net/manu/files/manuscript_313/2175.pdf
+90#VERS#ANNOTATOR: the name of the annotator (latin characters; please
+    use consistently)
+90#VERS#COMMENT##: This is a combination of three Shamela text files,
+    each containing a volume of the text:
+    * 0600CabdGhaniMaqdisi.MisbahFiCuyunSihah.Shamela0030617-ara1 (vol 2)
+    * 0600CabdGhaniMaqdisi.MisbahFiCuyunSihah.Shamela0030657-ara1 (vol 10)
+    * 0600CabdGhaniMaqdisi.MisbahFiCuyunSihah.Shamela0029794-ara1 (vol. 11)
+    PV merged these into a single text and changed the volume numbers
+    (almost all pages were PageV00P000)
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0600AH/pre-
+    clean/data/0600CabdGhaniMaqdisi/0600CabdGhaniMaqdisi.MisbahFiCuyunSihah/0600CabdGhaniMaqdisi.MisbahFiCuyunSihah.Shamela0029794-ara1
+90#VERS#DATE#####: YYYY-MM-DD
+90#VERS#ISSUES###: PRIMARY_VERSION, CLEANED_VERSION, INCOMPLETE_TEXT, PAGINATION
