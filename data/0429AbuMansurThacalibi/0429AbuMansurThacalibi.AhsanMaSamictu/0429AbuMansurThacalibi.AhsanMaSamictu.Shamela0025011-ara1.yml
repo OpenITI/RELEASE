@@ -1,0 +1,20 @@
+00#VERS#CLENGTH##: 59917
+00#VERS#LENGTH###: 14958
+00#VERS#URI######: 0429AbuMansurThacalibi.AhsanMaSamictu.Shamela0025011-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/4770224996
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/4770224996
+80#VERS#LINKS####: https://archive.org/details/20200128_20200128_1822
+90#VERS#ANNOTATOR: Eric van Lit; Gowaart Van Den Bossche
+90#VERS#COMMENT##: Originally annotated by Eric, validated by Gowaart
+    with only one change (editorial section marked). See readme file for
+    some comments by Eric on digital text. Edition not found on worldcat.
+    NOTE OF THE REVIEWER (HRH): Editorial removed. 2- Page 5 (the introduction of
+    the author) is missing. 3- A different edition of the text is accessible here:
+    https://archive.org/details/TheBestIHaveHeard
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0450AH/pre-clean/data/0429AbuMansurThacalibi/0429AbuMansurThacalibi.AhsanMaSamictu/0429AbuMansurThacalibi.AhsanMaSamictu.Shamela0025011-ara1.mARkdown
+90#VERS#DATE#####: 2019-08-01
+90#VERS#ISSUES###: MISSING_PARTS, PRIMARY_VERSION, CLEANED_VERSION

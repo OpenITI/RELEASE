@@ -1,0 +1,18 @@
+00#AUTH#URI######: 0420Musabbihi
+10#AUTH#ISM####AR: Muḥammad
+10#AUTH#KUNYA##AR: Abū ʿAbd Al-lãh
+10#AUTH#LAQAB##AR: ʿIzz al-Mulk
+10#AUTH#NASAB##AR: b. ʿUbayd Al-lãh b. Aḥmad b. Ismāʿīl b. ʿAbd al-ʿAzīz
+10#AUTH#NISBA##AR: al-Ḥarrānī al-Musabbiḥī
+10#AUTH#SHUHRA#AR: 
+20#AUTH#BORN#####: URIs from Althurayya, comma separated
+20#AUTH#DIED#####: URIs from Althurayya, comma separated
+20#AUTH#RESIDED##: URIs from Althurayya, comma separated
+20#AUTH#VISITED##: URIs from Althurayya, comma separated
+30#AUTH#BORN###AH: 0366-RAJ-10
+30#AUTH#DIED###AH: 0420-RA2-XX
+40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
+40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+70#AUTH#EXTID####: wikidata@Q9593473
+80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
+90#AUTH#COMMENT##: EI2: "Al-Amīr al-Muk̲h̲tār ʿIzz al-Mulk Abū ʿAbd Allāh or Abū ʿUbayd Allāh Muḥammad b. Abi ’l-Ḳāsim ʿUbayd Allāh b. Aḥmad b. Ismāʿīl b. ʿAbd al-Azīz al-Ḥarrānī al-Musabbiḥī al-Kātib, of a family originally from Ḥarrān in the D̲j̲azīra, was born at Fusṭāṭ Miṣr on Sunday, 10 Rad̲j̲ab 366/4 March 977 and died in the same town in Rabīʿ II 420/April-May 1030.": http://dx.doi.org/10.1163/1573-3912_islam_SIM_5569

@@ -1,0 +1,31 @@
+00#VERS#CLENGTH##: 317954
+00#VERS#LENGTH###: 74242
+00#VERS#URI######: 0406SharifRadi.NahjBalagha.Shia20200618-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/4771195145
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/4771195145
+80#VERS#LINKS####: https://archive.org/details/20191116_20191116_0651
+90#VERS#ANNOTATOR: Gowaart Van Den Bossche
+90#VERS#COMMENT##: The original digital text included a commentary on
+    the text by Muhammad Abduh, rendered entirely in footnotes. I have
+    deleted these footnotes and formatted the text so that it now only
+    conserves Sharif Radi's text and not Muhammad Abduh's sharh. I will
+    submit the original text as a new text as
+    1323MuhammadCabduh.SharhNahjBalagha. Masoumeh has added new milestones
+    to the text.  I have changed the URI-ID for this version of the text to
+    Shia20200618 (the number being the date). The text is generally of good
+    quality. The digital text highlighted more sections than the pdf edition
+    by numbering extra subsections. I have omitted these extra subsections,
+    and deleted the numbers. Subsections of volume 4 may need to be revised
+    at a later point, as now every saying (sometimes just a few words) has
+    its own subsection. If these are not made headers, however, the whole
+    volume would simply be one section, so I thought it would be better to
+    at least keep this division.
+    NOTE OF THE REVIEWER (HRH): A lot of titles that were tagged incompletely or
+    included parts of the body text corrected. Editorial removed.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0425AH/pre-clean/data/0406SharifRadi/0406SharifRadi.NahjBalagha/0406SharifRadi.NahjBalagha.Shia20200618-ara1.mARkdown
+90#VERS#DATE#####: 2020-06-17
+90#VERS#ISSUES###: NO_MAJOR_ISSUES, PRIMARY_VERSION, CLEANED_VERSION

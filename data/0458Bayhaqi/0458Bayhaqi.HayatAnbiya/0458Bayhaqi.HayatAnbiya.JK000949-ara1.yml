@@ -1,0 +1,20 @@
+00#VERS#CLENGTH##: 8312
+00#VERS#LENGTH###: 2137
+00#VERS#URI######: 0458Bayhaqi.HayatAnbiya.JK000949-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/929499176
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/929499176
+80#VERS#LINKS####:
+    https://ia800606.us.archive.org/30/items/waq3839/3839.pdf
+90#VERS#ANNOTATOR: MAROUSSIA
+90#VERS#COMMENT##: annotation completed. no major changes were added.
+    some numerals which were missplaced in the text were placed back with
+    the paragraph tag at the beginning of a new line, pipes were removed on
+    the first lines of the text.
+    NOTE OF THE REVIEWER (HRH): A short text consisting of 21 khabar, without anything that needs to be tagged.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0475AH/pre-clean/data/0458Bayhaqi/0458Bayhaqi.HayatAnbiya/0458Bayhaqi.HayatAnbiya.JK000949-ara1.mARkdown
+90#VERS#DATE#####: 2019-07-18
+90#VERS#ISSUES###: NO_MAJOR_ISSUES, PRIMARY_VERSION, CLEANED_VERSION

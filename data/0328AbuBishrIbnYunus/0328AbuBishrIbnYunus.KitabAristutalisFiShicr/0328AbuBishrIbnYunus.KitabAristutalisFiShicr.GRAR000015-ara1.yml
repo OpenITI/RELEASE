@@ -1,0 +1,18 @@
+00#VERS#CLENGTH##: 45619
+00#VERS#LENGTH###: 10913
+00#VERS#URI######: 0328AbuBishrIbnYunus.KitabAristutalisFiShicr.GRAR000015-ara1
+80#VERS#BASED####: https://www.graeco-arabic-studies.org/single-
+    text/text/margoliouth-12.html,  http://www.worldcat.org/oclc/562205525
+80#VERS#COLLATED#: permalink, permalink, permalink
+80#VERS#LINKS####: all@id, vol1@id, vol2@id, vol3@id, volX@id
+90#VERS#ANNOTATOR: the name of the annotator (latin characters; please
+    use consistently)
+90#VERS#COMMENT##: Ed. David Samuel Margoliouth (1887), Analecta
+    Orientalia ad Poeticam Aristoteleam. London: D. Nutt,pp. 1-76.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0350AH/pre-clean/data/0328AbuBishrIbnYunus/0328AbuBishrIbnYunus.KitabAristutalisFiShicr/0328AbuBishrIbnYunus.KitabAristutalisFiShicr.GRAR000015-ara1
+90#VERS#DATE#####: YYYY-MM-DD
+90#VERS#ISSUES###: PRIMARY_VERSION, CLEANED_VERSION

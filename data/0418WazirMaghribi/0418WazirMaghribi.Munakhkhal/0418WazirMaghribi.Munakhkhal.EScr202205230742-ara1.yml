@@ -1,0 +1,19 @@
+00#VERS#CLENGTH##: 102024
+00#VERS#LENGTH###: 21539
+00#VERS#URI######: 0418WazirMaghribi.Munakhkhal.EScr202205230742-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/4771228948
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/4771228948
+80#VERS#LINKS####: PDF provided by LMN
+90#VERS#ANNOTATOR: 
+90#VERS#COMMENT##: OCRed through eScriptorium; region annotation by LMN;
+    editorial material removed;
+    default segmentation;
+    12-24-2021_ArabPersGeneralized.mlmodel;
+    PV partially fixed page numbers, but need to be checked.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0425AH/pre-clean/data/0418WazirMaghribi/0418WazirMaghribi.Munakhkhal/0418WazirMaghribi.Munakhkhal.EScr202205230742-ara1
+90#VERS#DATE#####: 2022-05-23
+90#VERS#ISSUES###: PAGE_NUMBERS; UNCORRECTED_OCR, PRIMARY_VERSION, CLEANED_VERSION

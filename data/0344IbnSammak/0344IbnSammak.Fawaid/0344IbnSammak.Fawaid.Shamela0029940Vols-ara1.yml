@@ -1,0 +1,20 @@
+00#VERS#CLENGTH##: 74889
+00#VERS#LENGTH###: 19033
+00#VERS#URI######: 0344IbnSammak.Fawaid.Shamela0029940Vols-ara1
+80#VERS#BASED####: permalink, permalink, permalink
+80#VERS#COLLATED#: permalink, permalink, permalink
+80#VERS#LINKS####: all@id, vol1@id, vol2@id, vol3@id, volX@id
+90#VERS#ANNOTATOR: the name of the annotator (latin characters; please
+    use consistently)
+90#VERS#COMMENT##: This text file combines the contents
+    of two separate Shamela files:
+    * 0344IbnSammak.Fawaid.Shamela0029940-ara1 (vol. 2)
+    * 0344IbnSammak.Fawaid.JK007019-ara1 (vol. 9)
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0350AH/pre-
+    clean/data/0344IbnSammak/0344IbnSammak.Fawaid/0344IbnSammak.Fawaid.JK007019-ara1
+90#VERS#DATE#####: YYYY-MM-DD
+90#VERS#ISSUES###: PRIMARY_VERSION, CLEANED_VERSION, INCOMPLETE_VERSION

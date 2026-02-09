@@ -1,0 +1,77 @@
+00#BOOK#URI######: 0385IbnNadim.Fihrist
+10#BOOK#GENRES###: src@keyword, src@keyword, src@keyword
+10#BOOK#TITLEA#AR: al-Fihrist
+10#BOOK#TITLEB#AR: 
+20#BOOK#WROTE####: URIs from Althurayya, comma separated
+30#BOOK#WROTE##AH: 0377-XXX-XX
+40#BOOK#RELATED##: URI of a book from OpenITI, or [Author's Title],
+    followed by abbreviation for relation type between brackets (see
+    book_relations repo). Only include relations with older books. Separate
+    related books with semicolon.
+70#BOOK#EXTID####: viaf@id, wikidata@id, src@id
+80#BOOK#EDITIONS#: permalink, permalink, permalink
+80#BOOK#LINKS####: permalink, permalink, permalink
+80#BOOK#MSS######: permalink, permalink, permalink
+80#BOOK#STUDIES##: permalink, permalink, permalink
+80#BOOK#TRANSLAT#: permalink, permalink, permalink
+90#BOOK#COMMENT##: Devin Stewart ("Editing the Fihrist",
+    Journal of Abbasid Studies 1, pp. 173-178)
+    reviews the scholarship on the Fihrist.
+    His main points on the history of the text:
+    * The original manuscript was written for a patron
+    (perhaps the vizier ʿĪsā b. ʿAlī b. al-Jarrāḥ)
+    * The autograph manuscript was buried, unused, in some library
+    in Baghdād until it was found and used by al-Wazīr al-Maghribī
+    (d. 418/1027), who added many additions to the autograph.
+    The autograph was later discovered by Yāqūt, who distinguished
+    between the main text of the Fihrist and the additions ("ziyādāt")
+    by al-Wazīr al-Maghribī; and by Ibn al-Najjār and others.
+    The autograph itself is lost (perhaps in the Mongol conquest of 1258).
+    * The oldest surviving copy of the autograph was made probably in the 11th C,
+    and survives in two halves:
+    the first part is in the Chester Beatty library in Dublin (MS 3315),
+    the second in Istanbul (MS Şehid Ali Paşa 1934).
+    The copyist notes at the end of each section that it was
+    "copied from and checked against the author's dustūr."
+    He also tried to reproduce the format of the original,
+    including layout and blanks left by Ibn al-Nadīm in the autograph.
+    This copy (called by Ayman Fuad Sayyid "al-Aṣl") carries notes by, among others,
+    al-Maqrīzī (in both halves; one dated 824), and a certain Aḥmad b. ʿAlī
+    (dated 835, in Damascus).
+    Probably in Syria, the manuscript was somehow cut into two halves:
+    the first half was given as a waqf to the Mosque of Acre in the 18th C
+    and bought by Chester Beatty between 1914 and 1930;
+    the second half was already in Istanbul in 1093/1682, and ended up in the
+    Şehid Ali Paşa library.
+    The manuscript, which originally consisted of 330 folios (33 quires of 10 folios;
+    Chester Beatty: quires 1-14, Şehid Ali Paşa: quires 15-33)
+    has a number of gaps:
+    - the title page in the Chester Beatty ms is not original
+    - the entire second quire is missing
+    - the entire fourteenth quire is missing
+    (end of the Chester Beatty ms., on Muʿtazilī theologians);
+    part of this lacuna cannot be restored from other sources.
+    - the title page in the Şehid Ali Paşa ms. is not original either
+    - two folios at the end were copied in another hand, probably
+    from Köprülü 1135, to make up for the loss of these pages.
+    * another copy of the autograph was made in 600/1203 by a Yūsuf b. Muhannā b. Manṣūr;
+    it survives as Köprülü 1135 and was probably used by Ibn al-Qifṭī.
+    * another copy, completed in 627/1230, is now in Paris (BnF ar. 4457)
+    and represents the text of the Fihrist with the interpolations
+    of al-Wazīr al-Maghribī. It was probably used by Ibn Khallikān.
+    * another copy of the autograph, in three volumes, survives in Rajistan, India
+    ("the Tonk manuscript"); it does not include the additions by al-Wazīr al-Maghribī.
+    Editions and translations:
+    * ed. Gustav Flügel, Leipzig 1871-2: uses the Paris ms. BnF ar. 4457 as its base.
+    In OpenITI as GRAR000030.
+    * ed. Johann Fück: did not complete his edition but did a lot of work
+    * tr. Bayard Dodge, New York 1970: based on the two halves of the Aṣl ms.
+    * ed. Reza Tajaddud 1971: based on the two halves of the Aṣl ms. in addition to
+    other mss.; inconsistently distinguishes between the text of Ibn al-Nadīm
+    and al-Wazīr al-Maghribī. In OpenITI as Shia003355.
+    * ed. Ibrāhīm Ramaḍān, Beirut 1997: pirated copy of the Tajaddud ed.??
+    In OpenITI as JK000557 and Shamela0007642.
+    * ed. Muṣṭafā al-Shuwaymī, Tunis 1985: based on the two halves of the Aṣl ms.
+    * Ayman Fuad Sayyid, London 2009: clearly distinguishes between the text of Ibn al-Nadīm
+    and al-Wazīr al-Maghribī (the latter are put between square brackets).
+    Material from other sources/manuscripts are between pointed brackets.

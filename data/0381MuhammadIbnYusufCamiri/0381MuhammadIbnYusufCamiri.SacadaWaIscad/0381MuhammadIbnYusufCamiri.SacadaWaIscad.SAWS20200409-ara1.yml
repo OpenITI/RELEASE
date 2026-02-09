@@ -1,0 +1,25 @@
+00#VERS#CLENGTH##: 277528
+00#VERS#LENGTH###: 64740
+00#VERS#URI######: 0381MuhammadIbnYusufCamiri.SacadaWaIscad.SAWS20200409-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/67018409
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/67018409
+80#VERS#LINKS####: https://archive.org/details/20211130_20211130_1732
+90#VERS#ANNOTATOR: LMN
+90#VERS#COMMENT##: PS-Amiri; forms part of the Arabic gnomological texts
+    that were transcribed for SAWS-project ("Sharing Ancient Wisdoms"); see
+    https://ancientwisdoms.ac.uk/; text was manually transcribed by LMN for
+    SAWS;  only minimal (first-level) structural tagging has been added;
+    revision of marginal notes required.
+    The transcription does not include the pagination.
+    NB: check lines of poetry that seem too long: line numbers 4340, 5181, 5182
+    NOTE OF THE REVIEWER (HRH): The PDF link provided by the annotator was removed.
+    I found the new link (which might be a reprint), and collated the text with it.
+    So, now, first-level headers are typed. Levelling of the headers is corrected.
+    Untagged headers are tagged. Body text is separated from the titles.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0400AH/pre-clean/data/0381MuhammadIbnYusufCamiri/0381MuhammadIbnYusufCamiri.SacadaWaIscad/0381MuhammadIbnYusufCamiri.SacadaWaIscad.SAWS20200409-ara1.mARkdown
+90#VERS#DATE#####: 2020-04-09
+90#VERS#ISSUES###: PAGINATION, PRIMARY_VERSION, CLEANED_VERSION

@@ -1,0 +1,19 @@
+00#BOOK#URI######: 0303Nasai.Jumca
+10#BOOK#GENRES###: src@keyword, src@keyword, src@keyword
+10#BOOK#TITLEA#AR: al-Ǧumʿaŧ
+10#BOOK#TITLEB#AR: Risālaŧ al-Muʾallif
+20#BOOK#WROTE####: URIs from Althurayya, comma separated
+30#BOOK#WROTE##AH: YEAR-MON-DA (X+ for unknown)
+40#BOOK#RELATED##: URI of a book from OpenITI, or [Author's Title],
+    followed by abbreviation for relation type between brackets (see
+    book_relations repo). Only include relations with older books. Separate
+    related books with semicolon.
+70#BOOK#EXTID####: viaf@id, wikidata@id, src@id
+80#BOOK#EDITIONS#: http://www.worldcat.org/oclc/754756158,NOT_FOUND
+80#BOOK#LINKS####:
+    https://archive.org/download/hadith-01/0944-.zip,NOT_FOUND
+80#BOOK#MSS######: permalink, permalink, permalink
+80#BOOK#STUDIES##: permalink, permalink, permalink
+80#BOOK#TRANSLAT#: permalink, permalink, permalink
+90#BOOK#COMMENT##: This book is in fact part of al-Nasā'ī's Sunan
+    (al-Sunan al-Kubrá ed. Bindārī vol. 1 pp. 514-542).

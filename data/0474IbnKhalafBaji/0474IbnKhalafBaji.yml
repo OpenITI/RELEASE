@@ -1,0 +1,21 @@
+00#AUTH#URI######: 0474IbnKhalafBaji
+10#AUTH#ISM####AR: Sulaymān
+10#AUTH#KUNYA##AR: Abū al-Walīd
+10#AUTH#LAQAB##AR: 
+10#AUTH#NASAB##AR: b. Ḫalaf b. Saʿd b. Ayyūb b. Wāriṯ
+10#AUTH#NISBA##AR: Taǧībī al-Qurṭubī al-Bāǧī al-Andalusī
+10#AUTH#SHUHRA#AR: Ibn Ḫalaf al-Bāǧī
+20#AUTH#BORN#####: BATALYUS_069W388N_S, Andalus_RE_Auto
+20#AUTH#DIED#####: MARIYYA_025W368N_S
+20#AUTH#RESIDED##: BATALYUS_069W388N_S, BAJA_078W380N_S, QURTUBA_047W379N_S,
+    HALAB_371E361N_S, JaziratArab_RE, BAGHDAD_443E333N_S, SARAQUSA_009W416N_S,
+    BALANSIYYA_004W394N_S, MURSIYA_011W379N_S, URYULAXXXYYY, DANIYA_001E388N_S,
+    MAYURQAXXXYYY, MARIYYA_025W368N_S
+20#AUTH#VISITED##: DIMASHQ_363E335N_S, MAWSIL_431E363N_S, Misr_RE
+30#AUTH#BORN###AH: 0403-XXX-XX
+30#AUTH#DIED###AH: 494-XXX-XX
+40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
+40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+70#AUTH#EXTID####: wikidata@Q4670455
+80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
+90#AUTH#COMMENT##: EI2: "Abu ’l-Walīd Sulaymān b. Ḵh̲alaf, a distinguished theologian and literary figure in 11th-century Spain. Born in 403/1012 of a family from Baṭalyaws (Badajoz) which had emigrated to Bād̲j̲a, modern Beja in S. Portugal": http://dx.doi.org/10.1163/1573-3912_islam_SIM_1009

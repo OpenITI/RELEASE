@@ -1,0 +1,18 @@
+00#VERS#CLENGTH##: 1388196
+00#VERS#LENGTH###: 371733
+00#VERS#URI######: 0460ShaykhTusi.Istibsar.Shia001157Vols-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/741091528
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/741091528
+80#VERS#LINKS####: https://mktba.net/library.php?id=8305
+90#VERS#ANNOTATOR: Omar Abdel-Ghaffar  (SHARIAsource-CnC)
+90#VERS#COMMENT##: The digital version corresponds closely to the printed text.
+    SPL: automatically annotated  $ ### sections w/ Regex; some may not have been
+    annotated fully if diverging from the various patterns I used for
+    search+replace.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0475AH/pre-clean/data/0460ShaykhTusi/0460ShaykhTusi.Istibsar/0460ShaykhTusi.Istibsar.Shia001157Vols-ara1.completed
+90#VERS#DATE#####: 11-10-21
+90#VERS#ISSUES###: NO_MAJOR_ISSUES, PRIMARY_VERSION, CLEANED_VERSION

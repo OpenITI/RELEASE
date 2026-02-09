@@ -1,0 +1,22 @@
+00#VERS#CLENGTH##: 1809669
+00#VERS#LENGTH###: 442301
+00#VERS#URI######: 0428IbnSina.ShifaMantiq.JK010704-ara1
+80#VERS#BASED####: NO_DATA_IN_METADATA
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/956954343
+80#VERS#LINKS####: http://alfeker.net/library.php?id=3727
+90#VERS#ANNOTATOR: HRH
+90#VERS#COMMENT##: 1- A part in PageV01P239 onwards (= page 115-122 of
+    the second volume of the PDF) and a part in PageV01P322 (= pages 384-385
+    of the second volume of the PDF) seem to be missing (I have used a
+    different edition for collation; so, I can’t say this for sure).
+    2-PageV01P454- 464 (chapters 7-9) are typed twice. 3- In most cases,
+    page numbers appear after the titles, which does not seem to be correct.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0450AH/pre-
+    clean/data/0428IbnSina/0428IbnSina.Mantiq/0428IbnSina.Mantiq.JK010704-ara1.completed
+90#VERS#DATE#####: 2020-03-08
+90#VERS#ISSUES###: MISSING_PARTS, REDUNDANT_PARTS, PRIMARY_VERSION,
+    CLEANED_VERSION

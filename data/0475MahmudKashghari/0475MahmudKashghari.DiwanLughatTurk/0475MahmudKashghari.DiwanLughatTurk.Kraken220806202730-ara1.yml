@@ -1,0 +1,19 @@
+00#VERS#CLENGTH##: 601745
+00#VERS#LENGTH###: 150314
+00#VERS#URI######: 0475MahmudKashghari.DiwanLughatTurk.Kraken220806202730-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/11157679
+80#VERS#COLLATED#: 
+80#VERS#LINKS####:
+    https://upload.wikimedia.org/wikisource/ar/0/01/ديوان_لغات_الترك.pdf
+90#VERS#ANNOTATOR: 
+90#VERS#COMMENT##: OCRed through Kraken:
+    * Kraken version: 3.0.0.0b21.dev6
+    * segmentation model: DEFAULT
+    * OCR model: 12-24-2021_ArabPersGeneralized.mlmodel
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0475AH/pre-clean/data/0475MahmudKashghari/0475MahmudKashghari.DiwanLughatTurk/0475MahmudKashghari.DiwanLughatTurk.Kraken220806202730-ara1
+90#VERS#DATE#####: 2022-08-06
+90#VERS#ISSUES###: UNCORRECTED_OCR, PRIMARY_VERSION, CLEANED_VERSION

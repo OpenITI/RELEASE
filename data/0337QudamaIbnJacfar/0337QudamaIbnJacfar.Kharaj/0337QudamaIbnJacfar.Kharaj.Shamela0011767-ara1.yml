@@ -1,0 +1,20 @@
+00#VERS#CLENGTH##: 364639
+00#VERS#LENGTH###: 85692
+00#VERS#URI######: 0337QudamaIbnJacfar.Kharaj.Shamela0011767-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/954078080
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/954078080
+80#VERS#LINKS####: https://www.noor-book.com/كتاب-الخراج-وصناعة-الكتابة-pdf
+90#VERS#ANNOTATOR: PV
+90#VERS#COMMENT##: PV tagged editorial sections and section headers.
+    PV cleaned and formatted the tables on pages 163ff
+    and added some subheadings between square brackets to emphasize
+    the structure of the text.
+    NOTE OF THE REVIEWER (HRH): Editorial removed. Changed the levelling of the
+    header in PageV01P039 to third-level.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0350AH/pre-clean/data/0337QudamaIbnJacfar/0337QudamaIbnJacfar.Kharaj/0337QudamaIbnJacfar.Kharaj.Shamela0011767-ara1.mARkdown
+90#VERS#DATE#####: 2022-08-04
+90#VERS#ISSUES###: NO_MAJOR_ISSUES, PRIMARY_VERSION, CLEANED_VERSION

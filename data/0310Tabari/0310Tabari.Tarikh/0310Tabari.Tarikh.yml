@@ -1,0 +1,25 @@
+00#BOOK#URI######: 0310Tabari.Tarikh
+10#BOOK#GENRES###: src@keyword, src@keyword, src@keyword
+10#BOOK#TITLEA#AR: Tārīḫ al-Ṭabarī
+10#BOOK#TITLEB#AR: Tārīḫ al-rusul wa-l-mulūk
+20#BOOK#WROTE####: URIs from Althurayya, comma separated
+30#BOOK#WROTE##AH: YEAR-MON-DA (X+ for unknown)
+40#BOOK#RELATED##: URI of a book from OpenITI, or [Author's Title],
+    followed by abbreviation for relation type between brackets (see
+    book_relations repo). Only include relations with older books. Separate
+    related books with semicolon.
+70#BOOK#EXTID####: viaf@id, wikidata@id, src@id
+80#BOOK#EDITIONS#: permalink, permalink, permalink
+80#BOOK#LINKS####: permalink, permalink, permalink
+80#BOOK#MSS######: permalink, permalink, permalink
+80#BOOK#STUDIES##: permalink, permalink, permalink
+80#BOOK#TRANSLAT#: permalink, permalink, permalink
+90#BOOK#COMMENT##: 0310Tabari.Tarikh.Shamela0009783BK1-ara1.mARkdown
+    was published by Dār al-maʿārif in 1967.
+    The editor of this text explains that he has used the Leiden
+    edition (de Goeje et al) as the base, but has used manuscripts
+    that were not used by de Goeje et al, mentioning the differences
+    of manuscripts in the margin of the pages
+    (see the editor’s introduction, pages 27 ff).
+    The Leiden edition is accessible here
+    http://khizana.blogspot.com/2008/12/blog-post_2749.html

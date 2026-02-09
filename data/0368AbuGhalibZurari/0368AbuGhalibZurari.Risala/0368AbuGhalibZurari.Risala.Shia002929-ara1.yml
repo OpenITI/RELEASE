@@ -1,0 +1,35 @@
+00#VERS#CLENGTH##: 24322
+00#VERS#LENGTH###: 6409
+00#VERS#URI######: 0368AbuGhalibZurari.Risala.Shia002929-ara1
+80#VERS#BASED####: NOT_FOUND
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/31707190
+80#VERS#LINKS####:
+    https://www.noorlib.ir/View/fa/Book/BookView/Text/11318/1/301
+90#VERS#ANNOTATOR: HRH
+90#VERS#COMMENT##: 1- The link in VERS#LINKS leads you to a payment-
+    based website and you must have an account to see the contents. This is
+    a different edition that I have used for collation. 2- The text consists
+    of two parts. The second part (that I have showed its beginning by a
+    blank first-level header) is an index of books produced by the original
+    author (there is no title in Editpro text to separate these two parts.
+    In the edition I used for collation, this part is entitled “ثبت الكتب او
+    فهرست الزراري” which can be inserted in front of my blank first-level
+    header). 3- The first part of the text is a plain text without any
+    titles (and the Shia version is the only version). The edition I used
+    for collation is much better and has some titles that are very useful
+    and gives a structure to the text. So, I showed the beginning of each
+    chapter (in the PDF) by an asterisk in the text (i.e. # *) so that the
+    beginning of each section is distinguishable and also these titles can
+    be added later (I didn’t add the titles because I’m not allowed to add
+    anything to the text. I just showed their places in the text). 4- The
+    footnotes are interred into the text. The parts that appear after
+    “<div>” (preceding a line) until the end of the page are footnotes and
+    must be deleted. 5- These parts seem to be missing (However, I’m not
+    sure, because I used a different edition for collation. So, it’s
+    possible that this is a difference between the two editions): From the
+    second line in Page 123 until the second line in page 125 of the PDF (=
+    pages 14-15 of the text); First paragraph in page 151 of the PDF (= page
+    41 of the text).
+    PV removed the footnotes
+90#VERS#DATE#####: 2019-12-30
+90#VERS#ISSUES###: NO_MAJOR_ISSUES

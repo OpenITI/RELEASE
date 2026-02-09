@@ -1,0 +1,15 @@
+00#VERS#CLENGTH##: 239013
+00#VERS#LENGTH###: 60317
+00#VERS#URI######: 0458Bayhaqi.Ictiqad.JK000698-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/929578003
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/929578003
+80#VERS#LINKS####: https://ia600207.us.archive.org/32/items/16051/16051.pdf
+90#VERS#ANNOTATOR: HRH
+90#VERS#COMMENT##: The ###$ tag is used for dictionary items.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0475AH/pre-clean/data/0458Bayhaqi/0458Bayhaqi.Ictiqad/0458Bayhaqi.Ictiqad.JK000698-ara1.completed
+90#VERS#DATE#####: 2020-05-03
+90#VERS#ISSUES###: RANDOM_CHARS, PRIMARY_VERSION, CLEANED_VERSION

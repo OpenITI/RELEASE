@@ -1,0 +1,23 @@
+00#AUTH#URI######: 0375IkhwanSafa
+10#AUTH#ISM####AR: 
+10#AUTH#KUNYA##AR: 
+10#AUTH#LAQAB##AR: 
+10#AUTH#NASAB##AR: 
+10#AUTH#NISBA##AR: 
+10#AUTH#SHUHRA#AR: Iḫwān al-Ṣafā
+20#AUTH#BORN#####: Iraq_RE, BASRA_477E304N_S
+20#AUTH#DIED#####: URIs from Althurayya, comma separated
+20#AUTH#RESIDED##: URIs from Althurayya, comma separated
+20#AUTH#VISITED##: URIs from Althurayya, comma separated
+30#AUTH#BORN###AH: 
+30#AUTH#DIED###AH: 
+40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
+40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+70#AUTH#EXTID####: wikidata@Q1995603
+80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
+90#AUTH#COMMENT##: EI2: "the name under which the authors of the famous
+    Rasāʾil Ik̲h̲wān al-Ṣafāʾ wa-k̲h̲illān al-wafāʾ conceal their identity;
+    these authors, however, often extend the term to cover all the initiates
+    or adepts of their doctrine, whom they also call, more simply,
+    ik̲h̲wānunā “our brothers”, and awliyāʾ Allāh “the friends of God”:
+    http://dx.doi.org/10.1163/1573-3912_islam_COM_0356

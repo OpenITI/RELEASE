@@ -1,0 +1,18 @@
+00#VERS#CLENGTH##: 92813
+00#VERS#LENGTH###: 22648
+00#VERS#URI######: 0449AbuCalaMacarri.RisalaFiTacziya.Kraken22021606122005-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/784426901
+80#VERS#COLLATED#: 
+80#VERS#LINKS####: https://ia600905.us.archive.org/18/items/lis01818/34849.pdf
+90#VERS#ANNOTATOR: 
+90#VERS#COMMENT##: OCRed through Kraken:
+    * Kraken version: 3.0.0.0b21.dev6
+    * segmentation model: DEFAULT
+    * OCR model: 12-24-2021_ArabPersGeneralized.mlmodel
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0450AH/pre-clean/data/0449AbuCalaMacarri/0449AbuCalaMacarri.RisalaFiTacziya/0449AbuCalaMacarri.RisalaFiTacziya.Kraken22021606122005-ara1
+90#VERS#DATE#####: 2022-02-16
+90#VERS#ISSUES###: UNCORRECTED_OCR, PRIMARY_VERSION, CLEANED_VERSION

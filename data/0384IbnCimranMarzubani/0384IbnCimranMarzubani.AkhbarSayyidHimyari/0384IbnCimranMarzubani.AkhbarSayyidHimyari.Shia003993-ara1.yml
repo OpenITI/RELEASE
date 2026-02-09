@@ -1,0 +1,20 @@
+00#VERS#CLENGTH##: 23205
+00#VERS#LENGTH###: 5672
+00#VERS#URI######: 0384IbnCimranMarzubani.AkhbarSayyidHimyari.Shia003993-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/21660399 (1993 reprint)
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/21660399
+80#VERS#LINKS####: http://shiabooks.net/library.php?id=10050
+90#VERS#ANNOTATOR: HRH
+90#VERS#COMMENT##: In the last section “المستدرك”, the editor explains
+    that he has founded another part of this text in another source and now
+    he is quoting this part here. So, I do not consider this section as
+    editorial, since it’s a part of the main text.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0400AH/pre-
+    clean/data/0384IbnCimranMarzubani/0384IbnCimranMarzubani.AkhbarSayyidHimyari/0384IbnCimranMarzubani.AkhbarSayyidHimyari.Shia003993-ara1.completed
+90#VERS#DATE#####: 2020-01-18
+90#VERS#ISSUES###: RANDOM_CHARS, EDITORIAL_SECTIONS, PRIMARY_VERSION,
+    CLEANED_VERSION

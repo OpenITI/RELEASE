@@ -1,0 +1,44 @@
+00#BOOK#URI######: 0434MultipleDruze.RasailHikmaA
+10#BOOK#GENRES###: src@keyword, src@keyword, src@keyword
+10#BOOK#TITLEA#AR: Rasāʾil al-Ḥikmaŧ 1-40
+10#BOOK#TITLEB#AR: Risālaŧ al-Muʾallif
+20#BOOK#WROTE####: URIs from Althurayya, comma separated
+30#BOOK#WROTE##AH: YEAR-MON-DA (X+ for unknown)
+40#BOOK#RELATED##: URI of a book from OpenITI, or [Author's Title],
+    followed by abbreviation for relation type between brackets (see
+    book_relations repo). Only include relations with older books. Separate
+    related books with semicolon.
+70#BOOK#EXTID####: viaf@id, wikidata@id, src@id
+80#BOOK#EDITIONS#: permalink, permalink, permalink
+80#BOOK#LINKS####: permalink, permalink, permalink
+80#BOOK#MSS######: permalink, permalink, permalink
+80#BOOK#STUDIES##: permalink, permalink, permalink
+80#BOOK#TRANSLAT#: permalink, permalink, permalink
+90#BOOK#COMMENT##: For a general remark on the textual situation of the Rasāʾil al-Ḥikma, see Daniel de Smet, Les Epitres sacrées des Druzes, pp. 76:
+    De loin le plus grand nombre des manuscrits conservés dans les bibliothèques
+    occidentales contiennent soit les traités n° 1 à 14, soit les n°
+    15 à 40. Il est hors de doute que ces pièces forment deux livres distincts,
+    car tous les manuscrits que nous avons consultés portent à la fin
+    du n° 14 la mention: “la première partie est terminée; y fait suite la se-
+    conde”. Il est assez courant que les manuscrits du deuxième volume
+    reprennent au début ou à la fin un ou plusieurs traités du premier tome,
+    en général les pièces n° 5, 8 et 13, qui semblent dès lors revêtir une im-
+    portance particulière. Les manuscrits druzes accessibles en Occident
+    ayant presque tous été pris dans les ḫalwa’s, la fréquence de ces deux
+    volumes laisse supposer qu’ils jouent un rôle central dans les rituels ordinaires.
+    À partir du traité n° 41, tout se complique: les manuscrits deviennent
+    beaucoup plus rares, s’avèrent souvent incomplets et, de surcroît, different
+    dans le groupement des traités. Les n° 41 à 68 forment un ensemble
+    car, à quelques exceptions près, aucun manuscrit ne combine ces traités
+    avec ceux de la séquence suivante (à partir du n° 71). En revanche, la
+    plupart des manuscrits contiennent soit les n° 41 à 55, soit les n° 56 à 68;
+    une minorité seulement reprend toute la série, du n° 41 au n° 68.
+    Aucune indication dans le texte ne permet d’établir s’il s’agit d’un seul
+    volume ou de deux volumes distincts.
+    Sensiblement plus rares encore, sont les manuscrits de la dernière partie
+    du recueil, soit les n° 71 à 113: seuls quelques exemplaires complets
+    sont attestés en Occident. Nous pouvons en conclure que ces traités ne
+    sont pas d’un usage courant parmi les Druzes et que seulement les centres religieux les plus
+    importants en possèdent des copies. En effet, toutes les ḫalwa’s ne semblent
+    pas posséder les Rasāʾil al-Ḥikma en leur intégralité.
+

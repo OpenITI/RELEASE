@@ -1,0 +1,18 @@
+00#AUTH#URI######: 0370CaribQurtubi
+10#AUTH#ISM####AR: ʿArīb
+10#AUTH#KUNYA##AR: Abū al-Ḥasan
+10#AUTH#LAQAB##AR: 
+10#AUTH#NASAB##AR: b. Saʿd
+10#AUTH#NISBA##AR: al-Kātib al-Qurṭubī
+10#AUTH#SHUHRA#AR: al-Qurṭubī
+20#AUTH#BORN#####: Andalus_RE_Auto
+20#AUTH#DIED#####: URIs from Althurayya, comma separated
+20#AUTH#RESIDED##: URIs from Althurayya, comma separated
+20#AUTH#VISITED##: URIs from Althurayya, comma separated
+30#AUTH#BORN###AH: YEAR-MON-DA (X+ for unknown)
+30#AUTH#DIED###AH: 0370-XXX-XX
+40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
+40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+70#AUTH#EXTID####: wikidata@Q5703973
+80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
+90#AUTH#COMMENT##: EI2: "an Andalusian mawlā who held various official posts (he was in particular ʿāmil of the district of Osuna in 331/943), lived in the entourage of al-Muṣḥafī [q.v.] and Ibn Abī ʿĀmir [see al-manṣūr] and was the secretary of the Umayyad caliph al-Ḥakam II (350-66/961-76)": http://dx.doi.org/10.1163/1573-3912_islam_SIM_0721

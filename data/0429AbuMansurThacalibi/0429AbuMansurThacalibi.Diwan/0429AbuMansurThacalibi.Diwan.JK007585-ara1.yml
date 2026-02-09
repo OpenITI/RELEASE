@@ -1,0 +1,17 @@
+00#VERS#CLENGTH##: 17748
+00#VERS#LENGTH###: 4559
+00#VERS#URI######: 0429AbuMansurThacalibi.Diwan.JK007585-ara1
+80#VERS#BASED####: NO_DATA_IN_METADATA
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/454128798
+80#VERS#LINKS####: http://ia301505.us.archive.org/2/ite...nTha3alibi.pdf;
+    http://www.mediafire.com/file/1nnqcw2delj/%D8%AF%D9%8A%D9%88%D8%A7%D9%86_%D8%A7%D9%84%D8%AB%D8%B9%D8%A7%D9%84%D8%A8%D9%8A.pdf/file;
+    https://majles.alukah.net/t35132/
+90#VERS#ANNOTATOR: HRH
+90#VERS#COMMENT##: 1- The digital text does not include pages 87 onwards of the PDF and is incomplete. 2- The only thing that needs to be tagged in this Divan is the alphabetical letters that show the alphabetical order of the last letter of the rhyme-words (i.e. “حرف رويّ”), and I tagged them as first-level blank headers.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0450AH/pre-clean/data/0429AbuMansurThacalibi/0429AbuMansurThacalibi.Diwan/0429AbuMansurThacalibi.Diwan.JK007585-ara1.completed
+90#VERS#DATE#####: 2020-04-20
+90#VERS#ISSUES###: INCOMPLETE_VERSION, PRIMARY_VERSION, CLEANED_VERSION

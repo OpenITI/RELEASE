@@ -1,0 +1,17 @@
+00#VERS#CLENGTH##: 4632
+00#VERS#LENGTH###: 1177
+00#VERS#URI######: 0445AbuIshaqBarmaki.AslSunna.ShamAY0032966-ara1
+80#VERS#BASED####: permalink, permalink, permalink
+80#VERS#COLLATED#: permalink, permalink, permalink
+80#VERS#LINKS####: https://www.alukah.net/manu/files/manuscript_394/63.pdf
+    (pages in PDF:206 ff)
+90#VERS#ANNOTATOR: the name of the annotator (latin characters; please
+    use consistently)
+90#VERS#COMMENT##: All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0450AH/pre-
+    clean/data/0445AbuIshaqBarmaki/0445AbuIshaqBarmaki.AslSunna/0445AbuIshaqBarmaki.AslSunna.ShamAY0032966-ara1
+90#VERS#DATE#####: YYYY-MM-DD
+90#VERS#ISSUES###: PRIMARY_VERSION, CLEANED_VERSION

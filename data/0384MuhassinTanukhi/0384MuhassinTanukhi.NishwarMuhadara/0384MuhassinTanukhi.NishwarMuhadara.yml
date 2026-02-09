@@ -1,0 +1,55 @@
+00#BOOK#URI######: 0384MuhassinTanukhi.NishwarMuhadara
+10#BOOK#GENRES###: src@keyword, src@keyword, src@keyword
+10#BOOK#TITLEA#AR: Nišwār al-muḥāḍaraŧ wa-aḫbār al-muḏākara
+10#BOOK#TITLEB#AR: 
+20#BOOK#WROTE####: URIs from Althurayya, comma separated
+30#BOOK#WROTE##AH: YEAR-MON-DA (X+ for unknown)
+40#BOOK#RELATED##: URI of a book from OpenITI, or [Author's Title],
+    followed by abbreviation for relation type between brackets (see
+    book_relations repo). Only include relations with older books. Separate
+    related books with semicolon.
+70#BOOK#EXTID####: viaf@id, wikidata@id, src@id
+80#BOOK#EDITIONS#: permalink, permalink, permalink
+80#BOOK#LINKS####: permalink, permalink, permalink
+80#BOOK#MSS######: permalink, permalink, permalink
+80#BOOK#STUDIES##: permalink, permalink, permalink
+80#BOOK#TRANSLAT#: permalink, permalink, permalink
+90#BOOK#COMMENT##: The text is only partly extant.
+    ʿAbbūd al-Shālijī edited the text in eight volumes:
+    * vol. 1: juzʾ 1 (from BnF ms. ar. 3482 and
+    and a ms. from the Murad Molla library in Istanbul)
+    * vol. 2: juzʾ 2 (from the BnF and Murad Molla mss.)
+    * vol. 3: unknown juzʾ (from a ms. in the Taymūriyya collection)
+    * vols. 4-7: collected from citations in other sources
+    (see the editor's introduction in vol. 1 for a full list;
+    these volumes can be found in the OpenITI corpus under 1416CabbudShaliji.NishwarQuotes)
+    * vol. 8: juzʾ 8 (from BM ms. Or. 9586)
+    "According to Yāqūt’s Irshād, Tanūkhī’s Nishwār was made up of 11 volumes,
+    each of which started with an introduction. Moreover, among the manuscripts
+    available to the editor ʿAbbūd al-Shāljī is a British Museum library copy
+    whose colophon specifies that it constitutes part 8 [of the Nishwār]
+    and mentions a part 9 to come, which lends credibility to Yāqūt’s count.
+    As well as this British museum copy for part 8, al-Shāljī also had MS copies
+    which he identified as parts 1 and 2, and another MS copy which included an unknown part.
+    This unknown part he published in his edition as vol. 3.
+    (I should specify that with a complete MS of any part of the Nishwār,
+    it is fairly easy to identify what constitute a whole “part” since Tanūkhī
+    indeed prefaces each of his volumes with a introduction,
+    and tells us so in his very first introduction, that to part 1.)
+    So to sum up, Shāljī had four volumes that very likely come from Tanūkhī,
+    which he published as vol. 1, 2, 3 and 8.
+    But because of the mention of 11 volumes in Yāqūt and the existence
+    of a part 8 according to the MS, without any trace of the missing parts
+    between [3] and 8 or beyond 8, Shāljī took it upon himself to hunt for the missing stories.
+    So he combed through books by Ibn al-Jawzī, al-Khaṭīb al-Baghdādī, al-Ṣābiʾ,
+    Yāqūt, Ibn Khallikān, and others known to quote Tanūkhī often,
+    and looked for stories attributed to al-Muḥassin al-Tanūkhī
+    (under many possible versions of his name) or to his son
+    that were absent from al-Faraj baʿd al-shidda or the known Nishwār.
+    He took comfort, as maybe we should, in the fact that in quite a few cases,
+    such stories are indeed found in the known Nishwār.
+    But then he inserts all the others into his edition of the Nishwār,
+    to make up volumes 4, 5, 6, and 7, signaling his additions
+    with the indication of the source at the end of each piece.
+    But [volumes 4 to 7] of the Nishwār as they presently exist in the edition (...)
+    have no MS precedent and are a reconstruction by the editor." (Zina Maleh, personal communication)

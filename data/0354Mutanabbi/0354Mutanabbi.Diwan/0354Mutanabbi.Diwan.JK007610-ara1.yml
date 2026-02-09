@@ -1,0 +1,27 @@
+00#VERS#CLENGTH##: 35658
+00#VERS#LENGTH###: 9338
+00#VERS#URI######: 0354Mutanabbi.Diwan.JK007610-ara1
+80#VERS#BASED####: NO_DATA_IN_METADATA
+80#VERS#COLLATED#: NOT_FOUND
+80#VERS#LINKS####: https://books.islamway.net/1/15_DJ_Motnbi01.pdf
+90#VERS#ANNOTATOR: HRH
+90#VERS#COMMENT##: 1- The only thing that needs to be tagged in this
+    Divan is the alphabetical letters that show the alphabetical order of
+    the last letter of the rhyme-words (i.e. “حرف رويّ”), and I tagged them
+    as first-level blank headers. 2- The Editpro edition cannot be found
+    because there is no data in the METADATA section to show which edition
+    it is. The edition I used for collation is the only edition I could find
+    on the internet that has an alphabetical arrangement for the rhyme-words
+    of the poems. Nevertheless, Editpro edition is much shorter than this
+    edition (I don’t know why). 3- Two other editions and two manuscript of
+    the text can be found here: https://archive.org/details/waq78396;
+    https://www.tahmil-kutubpdf.net/download/D52WMS.html;
+    https://www.alukah.net/manu/files/manuscript_1209/98.pdf; https://ia8010
+    09.us.archive.org/33/items/ktp2019-01-15099/ktp2019-01-15099.pdf
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0375AH/pre-clean/data/0354Mutanabbi/0354Mutanabbi.Diwan/0354Mutanabbi.Diwan.JK007610-ara1.completed
+90#VERS#DATE#####: 2019-12-19
+90#VERS#ISSUES###: NO_MAJOR_ISSUES, PRIMARY_VERSION, CLEANED_VERSION

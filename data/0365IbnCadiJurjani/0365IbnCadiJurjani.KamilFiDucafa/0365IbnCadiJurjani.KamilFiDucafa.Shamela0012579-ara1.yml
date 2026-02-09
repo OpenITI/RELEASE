@@ -1,0 +1,33 @@
+00#VERS#CLENGTH##: 3339666
+00#VERS#LENGTH###: 865481
+00#VERS#URI######: 0365IbnCadiJurjani.KamilFiDucafa.Shamela0012579-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/957014835
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/957014835
+80#VERS#LINKS####:
+    https://perpustakaanislamdigital.com/index.php/fp/kitab/523,
+    https://perpustakaanislamdigital.com//pdf/rj_pyl_4.pdf,
+    https://perpustakaanislamdigital.com//pdf/rj_pyl_5.pdf,
+    https://perpustakaanislamdigital.com//pdf/rj_pyl_6.pdf,
+    https://perpustakaanislamdigital.com//pdf/rj_pyl_7.pdf,
+    https://perpustakaanislamdigital.com//pdf/rj_pyl_8.pdf,
+    https://perpustakaanislamdigital.com//pdf/rj_pyl_9.pdf,
+    https://perpustakaanislamdigital.com//pdf/rj_pyl_10.pdf,
+    https://perpustakaanislamdigital.com//pdf/rj_pyl_11.pdf,
+    https://perpustakaanislamdigital.com//pdf/rj_pyl_12.pdf
+90#VERS#ANNOTATOR: HRH, PV
+90#VERS#COMMENT##: PV introduced an additional level in the structural
+    tagging for the introduction and the main part of the book.  HRH tagged
+    the name entries with ### $ and their subsections with # *;  PV replaced
+    the name entries with ### |||| and their subsections with ### |||||.
+    HRH flagged a problem with pagination in volume eight, PV was not able
+    to locate these problems.  HRH flagged a few redundant lines at the end
+    of PageV06P045, PV removed them (as well as a number of lines at the
+    beginning of the book,  on PageV01P002, which looked like random lines
+    from the editorial introduction but not found on page 2 of the edition)
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0375AH/pre-clean/data/0365IbnCadiJurjani/0365IbnCadiJurjani.KamilFiDucafa/0365IbnCadiJurjani.KamilFiDucafa.Shamela0012579-ara1.mARkdown
+90#VERS#DATE#####: 2020-01-25
+90#VERS#ISSUES###: NO_MAJOR_ISSUES, PRIMARY_VERSION, CLEANED_VERSION

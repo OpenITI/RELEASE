@@ -1,0 +1,17 @@
+00#VERS#CLENGTH##: 53055
+00#VERS#LENGTH###: 13047
+00#VERS#URI######: 0456IbnHazm.RisalatanFiTacnif.JK009345-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/957212662
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/957212662
+80#VERS#LINKS####: https://archive.org/stream/waq38240/03_38242#page/n72/mode/2up (pages 73-116)
+90#VERS#ANNOTATOR: AQ
+90#VERS#COMMENT##: Not all paragraphs have been inserted corrrectly, but the numbered paras (questions) and answerrs are correct.
+        There is a space before punctuation marks in the text.
+    NOTE OF THE REVIEWER (HRH): Removed the tag for the title of the text.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0475AH/pre-clean/data/0456IbnHazm/0456IbnHazm.RisalatanFiTacnif/0456IbnHazm.RisalatanFiTacnif.JK009345-ara1.mARkdown
+90#VERS#DATE#####: 2020-10-02
+90#VERS#ISSUES###: NO_MAJOR_ISSUES, PRIMARY_VERSION, CLEANED_VERSION

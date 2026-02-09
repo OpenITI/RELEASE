@@ -1,0 +1,18 @@
+00#VERS#CLENGTH##: 241103
+00#VERS#LENGTH###: 61495
+00#VERS#URI######: 0458Bayhaqi.DacawatKabir.Shamela0008970-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/4771282823
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/4771282823
+80#VERS#LINKS####: https://archive.org/details/WAQ96534/mode/1up
+90#VERS#ANNOTATOR: HRH
+90#VERS#COMMENT##: Find a manuscript of the text here:
+    https://upload.wikimedia.org/wikisource/ar/2/24/%D9%83%D8%AA%D8%A7%D8%A8_%D8%A7%D9%84%D8%AF%D8%B9%D9%88%D8%A7%D8%AA_%D8%A7%D9%84%D9%83%D8%A8%D9%8A%D8%B1_%D8%AE.pdf
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0475AH/pre-
+    clean/data/0458Bayhaqi/0458Bayhaqi.DacawatKabir/0458Bayhaqi.DacawatKabir.Shamela0008970-ara1.completed
+90#VERS#DATE#####: 2020-05-02
+90#VERS#ISSUES###: PAGINATION, EDITORIAL_SECTIONS, PRIMARY_VERSION,
+    CLEANED_VERSION

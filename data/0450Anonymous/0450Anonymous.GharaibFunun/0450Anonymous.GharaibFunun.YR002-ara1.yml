@@ -1,0 +1,25 @@
+00#VERS#CLENGTH##: 173313
+00#VERS#LENGTH###: 37761
+00#VERS#URI######: 0450Anonymous.GharaibFunun.YR002-ara1
+80#VERS#BASED####: https://search.worldcat.org/title/869777386
+80#VERS#COLLATED#: https://search.worldcat.org/title/869777386
+80#VERS#LINKS####: 
+90#VERS#ANNOTATOR: PV
+90#VERS#COMMENT##: pre-print text provided by Yossef Rapoport,
+    who edited and translated the text together with Emilie Savage-Smith.
+    The edition is mostly based on the recently aquired manuscript of
+    the Bodleian library in Oxford (Bodleian ms. Arab C. 90).
+    The last pages of the text (pp. 276ff.) are not present in that manuscript
+    and are presented here based on two other manuscripts:
+    * D (Damascus, Maktabat al-Assad al-Waṭaniyya MS 16501, fols. 1a-201b)
+    * G (Gotha, Ms. Orient. A 2066, fols. 148a-164a).
+    Other manuscripts used in the edition:
+    * B (Bodleian, ms. Or. 68, fols. 109b-144a)
+    * C (Cairo, Dār al-Kutub MS mīqāt 876, fols. 1b-7b)
+    * C-2 (Cairo, Dār al-Kutub, MS 1852 adab, fols. 70a-78a)
+    * M (Milan, Abrosiana MS & 76 sup, fols. 2a-67b)
+    PV converted the MS Word documents into mARkdown format,
+    added the labels of the illustrations
+    and added the page numbers from the printed edition into the text.
+90#VERS#DATE#####: 2023-12-08
+90#VERS#ISSUES###: NO_MAJOR_ISSUES, FIGURES, PRIMARY_VERSION, CLEANED_VERSION

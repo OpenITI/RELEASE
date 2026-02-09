@@ -1,0 +1,18 @@
+00#AUTH#URI######: 0405HakimNaysaburi
+10#AUTH#ISM####AR: Muḥammad
+10#AUTH#KUNYA##AR: Abū ʿAbd Al-lãh
+10#AUTH#LAQAB##AR: 
+10#AUTH#NASAB##AR: b. ʿAbd Al-lãh b. Muḥammad
+10#AUTH#NISBA##AR: al-Ḍabbī al-Ṭamhānī al-Naysābūrī
+10#AUTH#SHUHRA#AR: al-Ḥākim
+20#AUTH#BORN#####: Khurasan_RE, NAYSABUR_587E361N_S
+20#AUTH#DIED#####: URIs from Althurayya, comma separated
+20#AUTH#RESIDED##: URIs from Althurayya, comma separated
+20#AUTH#VISITED##: URIs from Althurayya, comma separated
+30#AUTH#BORN###AH: 0321-XXX-XX
+30#AUTH#DIED###AH: 0405-XXX-XX
+40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
+40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+70#AUTH#EXTID####: wikidata@Q1093121
+80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
+90#AUTH#COMMENT##: EI2: "Muḥammad b. ʿAbd Allāh b. Muḥammad Abū ʿAbd Allāh Ibn al-Bayyiʿ , a traditionist of note, b. 321/933, d. 405/1014.": http://dx.doi.org/10.1163/1573-3912_islam_SIM_2638

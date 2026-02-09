@@ -1,0 +1,24 @@
+00#BOOK#URI######: 0470MuayyadFiDinShirazi.Majalis
+10#BOOK#GENRES###: src@keyword, src@keyword, src@keyword
+10#BOOK#TITLEA#AR: al-Maǧālis al-Muʾayyadiyyaŧ
+10#BOOK#TITLEB#AR: 
+20#BOOK#WROTE####: URIs from Althurayya, comma separated
+30#BOOK#WROTE##AH: YEAR-MON-DA (X+ for unknown)
+40#BOOK#RELATED##: URI of a book from OpenITI, or [Author's Title],
+    followed by abbreviation for relation type between brackets (see
+    book_relations repo). Only include relations with older books. Separate
+    related books with semicolon.
+70#BOOK#EXTID####: viaf@id, wikidata@id, src@id
+80#BOOK#EDITIONS#: permalink, permalink, permalink
+80#BOOK#LINKS####: permalink, permalink, permalink
+80#BOOK#MSS######: permalink, permalink, permalink
+80#BOOK#STUDIES##: permalink, permalink, permalink
+80#BOOK#TRANSLAT#: permalink, permalink, permalink
+90#BOOK#COMMENT##: The text consists of 8 volumes of each 100 majālis;
+    only volumes 1-6 have been published
+    (of volume 7, only 59 are extant in manuscript form).
+    Editions:
+    * ed. Muṣṭafā Ghālib: scholarly edition of vols. 1-3.
+    * ed. Muḥammad ʿAbd al-Ghaffār: scholarly edition of vols. 1-3.
+    * ed. Dār al-Ghadīr, Salamiyya: non-scholarly edition in 8 volumes
+    (but vol. 7 is vol. 3, vol. 8 is a mix of materials)

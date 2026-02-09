@@ -1,0 +1,19 @@
+00#VERS#CLENGTH##: 451782
+00#VERS#LENGTH###: 110763
+00#VERS#URI######: 0421Miskawayh.HikmaKhalida.Kraken220603212436-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/4770071930
+80#VERS#COLLATED#: 
+80#VERS#LINKS####:
+    http://mc.dlib.nyu.edu/files/books/columbia_aco000334/columbia_aco000334_lo.pdf
+90#VERS#ANNOTATOR: 
+90#VERS#COMMENT##: OCRed through Kraken:
+    * Kraken version: 3.0.0.0b21.dev6
+    * segmentation model: DEFAULT
+    * OCR model: 12-24-2021_ArabPersGeneralized.mlmodel
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0425AH/pre-clean/data/0421Miskawayh/0421Miskawayh.HikmaKhalida/0421Miskawayh.HikmaKhalida.Kraken220603212436-ara1
+90#VERS#DATE#####: 2022-06-03
+90#VERS#ISSUES###: UNCORRECTED_OCR, PRIMARY_VERSION, CLEANED_VERSION

@@ -1,0 +1,19 @@
+00#VERS#CLENGTH##: 64567
+00#VERS#LENGTH###: 15666
+00#VERS#URI######: 0300HubayshIbnHasan.JalinusFiMudawatKasr.GRAR000049-ara1
+80#VERS#BASED####: https://www.graeco-arabic-studies.org/single-text/text/lyons-32.html,
+    http://www.worldcat.org/oclc/23531698
+80#VERS#COLLATED#: permalink, permalink, permalink
+80#VERS#LINKS####: all@id, vol1@id, vol2@id, vol3@id, volX@id
+90#VERS#ANNOTATOR: the name of the annotator (latin characters; please
+    use consistently)
+90#VERS#COMMENT##: Ed. Malcolm C. Lyons (1963),  Galeni in Hippocratis
+    De officina medici commentariorum versio arabica.  (Corpus Medicorum
+    Graecorum. Supplementum Orientale 1) Berlin: Akademie-Verlag, 10-96.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0300AH/pre-clean/data/0300HubayshIbnHasan/0300HubayshIbnHasan.JalinusFiMudawatKasr/0300HubayshIbnHasan.JalinusFiMudawatKasr.GRAR000049-ara1
+90#VERS#DATE#####: YYYY-MM-DD
+90#VERS#ISSUES###: PRIMARY_VERSION, CLEANED_VERSION

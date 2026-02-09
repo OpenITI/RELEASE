@@ -1,0 +1,20 @@
+00#AUTH#URI######: 0346Istakhri
+10#AUTH#ISM####AR: Ibrāhīm
+10#AUTH#KUNYA##AR: Abū Isḥāq
+10#AUTH#LAQAB##AR: 
+10#AUTH#NASAB##AR: b. Muḥammad
+10#AUTH#NISBA##AR: al-Fārisī al-Iṣṭaḫrī
+10#AUTH#SHUHRA#AR: al-Iṣṭaḫrī
+20#AUTH#BORN#####: Fars_RE, ISTAKHR_529E299N_S
+20#AUTH#DIED#####: URIs from Althurayya, comma separated
+20#AUTH#RESIDED##: URIs from Althurayya, comma separated
+20#AUTH#VISITED##: URIs from Althurayya, comma separated
+30#AUTH#BORN###AH: YEAR-MON-DA (X+ for unknown)
+30#AUTH#DIED###AH: 0346-XXX-XX
+40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
+40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+70#AUTH#EXTID####: wikidata@Q287479
+80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
+90#AUTH#COMMENT##: Not much is known about the author;
+    even his name is far from certain. Death date is also
+    an approximation.

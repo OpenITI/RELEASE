@@ -1,0 +1,28 @@
+00#VERS#CLENGTH##: 3460918
+00#VERS#LENGTH###: 899907
+00#VERS#URI######: 0460ShaykhTusi.TahdhibAhkam.Zaydiyya0000302-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/708708180
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/708708180
+80#VERS#LINKS####: https://almontdr.blogspot.com/2015/04/blog-post_60.html
+90#VERS#ANNOTATOR: Simon P. Loynes (SHARIAsource-Cnc)
+90#VERS#COMMENT##: Removed some footnotes; random chars. Tagged hadiths via
+    Regex as they followed, thankfully, a variety of patterns. Vols 6 and 9 are
+    missing in the PDFs; but as the numbered entries were fully represented (i.e.,
+    no missing numbers/entries), they are highly likely to reflect the printed
+    editions. Vol 10 had some additional material, not in the printed edition, which
+    has been removed (these sections were introduced by a hyperlinks).
+    NOTE OF THE REVIEWER (HRH): Untagged headers tagged. Headers that were not
+    aligned in one line corrected. Body text separated from the titles. Levelling of
+    the headers corrected. 2- PageV05P430-493 are missing. 3- The PDF of the sixth
+    volume is accessible here: https://www.noor-
+    book.com/%D9%83%D8%AA%D8%A7%D8%A8-%D8%AA%D9%87%D8%B0%D9%8A%D8%A8-%D8%A7%D9%84%D8%A7%D8%AD%D9%83%D8%A7%D9%85-%D9%81%D9%8A-%D8%B4%D8%B1%D8%AD-%D8%A7%D9%84%D9%85%D9%82%D9%86%D8%B9%D9%87-%D9%84%D9%84%D8%B4%D9%8A%D8%AE-%D8%A7%D9%84%D9%85%D9%81%D9%8A%D8%AF-%E2%80%8E-v-6-pdf.
+    4- Other editions are accessible online:
+    https://archive.org/details/umairastro90_yahoo_05_201905/%D8%AA%D9%87%D8%B0%D9%8A%D8%A8%20%D8%A7%D9%84%D8%A3%D8%AD%D9%83%D8%A7%D9%85%20%D9%81%D9%8A%20%D8%B4%D8%B1%D8%AD%20%D8%A7%D9%84%D9%85%D9%82%D9%86%D8%B9%D8%A9%20-%20%D8%B4%D9%8A%D8%AE%20%D8%A7%D9%84%D8%B7%D8%A7%D8%A6%D9%81%D8%A9%20%D9%85%D8%AD%D9%85%D8%AF%20%D8%A8%D9%86%20%D8%A7%D9%84%D8%AD%D8%B3%D9%86%20%D8%A7%D9%84%D8%B7%D9%88%D8%B3%D9%8A%20-%20%D8%AC01/;
+    https://shiabooks.net/library.php?id=9610
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0475AH/pre-clean/data/0460ShaykhTusi/0460ShaykhTusi.TahdhibAhkam/0460ShaykhTusi.TahdhibAhkam.Zaydiyya0000302-ara1.mARkdown
+90#VERS#DATE#####: 2021-12-17
+90#VERS#ISSUES###: RANDOM_CHARS, PRIMARY_VERSION, CLEANED_VERSION

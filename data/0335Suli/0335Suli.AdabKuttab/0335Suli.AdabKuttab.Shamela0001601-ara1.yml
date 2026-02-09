@@ -1,0 +1,17 @@
+00#VERS#CLENGTH##: 166857
+00#VERS#LENGTH###: 40191
+00#VERS#URI######: 0335Suli.AdabKuttab.Shamela0001601-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/1041871929
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/1041871929
+80#VERS#LINKS####: https://ketabpedia.com/تحميل/أدب-الكتاب-المطبعة-السلفية-بمصر/
+90#VERS#ANNOTATOR: HRH
+90#VERS#COMMENT##: 1- Pages 20-21 of the PDF (i.e. the introduction of
+    the author) are missing. 2- The editorial section at the end of the book
+    is the note of the scribe.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0350AH/pre-clean/data/0335Suli/0335Suli.AdabKuttab/0335Suli.AdabKuttab.Shamela0001601-ara1.completed
+90#VERS#DATE#####: 2019-12-11
+90#VERS#ISSUES###: HTML_TAGS, MISSING_PARTS, PRIMARY_VERSION, CLEANED_VERSION

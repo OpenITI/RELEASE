@@ -1,0 +1,18 @@
+00#VERS#CLENGTH##: 56581
+00#VERS#LENGTH###: 14730
+00#VERS#URI######: 0385IbnShahin.TarikhAsmaDucafa.Shamela0011083-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/4770340226
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/4770340226
+80#VERS#LINKS####:
+    https://ia802806.us.archive.org/23/items/waq17600/17600.pdf
+90#VERS#ANNOTATOR: HRH
+90#VERS#COMMENT##: I corrected a lot of numbers of people that were
+    typed incorrectly.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0400AH/pre-
+    clean/data/0385IbnShahin/0385IbnShahin.TarikhAsmaDucafa/0385IbnShahin.TarikhAsmaDucafa.Shamela0011083-ara1.completed
+90#VERS#DATE#####: 2020-02-22
+90#VERS#ISSUES###: EDITORIAL_SECTIONS, PRIMARY_VERSION, CLEANED_VERSION

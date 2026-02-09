@@ -1,0 +1,19 @@
+00#VERS#CLENGTH##: 242166
+00#VERS#LENGTH###: 60127
+00#VERS#URI######: 0460Anonymous.DhakhairTuhaf.Kraken2102231420141-ara1
+80#VERS#BASED####: 
+80#VERS#COLLATED#: 
+80#VERS#LINKS####: 
+90#VERS#ANNOTATOR: 
+90#VERS#COMMENT##: OCRed through Kraken:
+    * segmentation model: DEFAULT
+    * OCR model: arabPers-WithDiffTypefaces.mlmodel
+    * raw-OCR needed review - MAB
+    * Pagination order incorrect in original pdf, may need to re-OCR - MAB
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0475AH/pre-clean/data/0460Anonymous/0460Anonymous.DhakhairTuhaf/0460Anonymous.DhakhairTuhaf.Kraken2102231420141-ara1
+90#VERS#DATE#####: 2021-02-23
+90#VERS#ISSUES###: PRIMARY_VERSION, CLEANED_VERSION

@@ -1,0 +1,44 @@
+00#VERS#CLENGTH##: 4441948
+00#VERS#LENGTH###: 1072758
+00#VERS#URI######: 0427AbuIshaqThaclabi.KashfWaBayan.Shamela0023578-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/956976187
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/956976187
+80#VERS#LINKS####: https://waqfeya.com/book.php?bid=3548
+90#VERS#ANNOTATOR: HRH; Gowaart Van Den Bossche
+90#VERS#COMMENT##: All the Quranic verses were omitted in Vol 4 (and I
+    put a first-level header tag to mark their beginning, in conformity with
+    other volumes). Gowaart added them by copying them from the
+    Shia002529Vols file which did include them. They have * separating the verses,
+    which he has left in place.
+    The first paragraph in vol. 7 page 188 is also missing. Gowaart added this
+    page from Shia002529Vols. There were several more such instances,
+    always the introductory remarks for the sura.  Gowaart has not restored
+    this section from Shia002529Vols as this is in fact
+    an editorial addition of opinions by other exegetes on the topic
+    (it is present in the Shia file however and may be recuperated there if so
+    desired,
+    though Gowaart would argue against it).
+    In Vol 8, pages 37-41 are missing.
+    Some very minor inaccuracies in the text like “فأنزلنا” instead of
+    “فأنزل” in Vol. 1 P. 202 Line 14 and “ويربي” instead of “ویزکی” in Vol.
+    2 P. 383 Line 20.
+    Note of the reviewer (Gowaart):
+    Deleted editorial sections, added paratext for first paragraph.
+    Deleted footnote markers, manuscript page markers and html tags.
+    There was some overtagging of lines as poetry that were not actually poetry,
+    I have corrected many of these.
+    I have also made rather extensive changes to the header leveling.
+    For the first two suras the actual tafsir of verses has been set apart
+    from other info given related to the sura. To make the text consistent,
+    I have added an extra second level header for all of the other suras,
+    following its introductory remarks.
+    A specific computational comparison of these two versions may be desirable to
+    check
+    whether any other sections may be missing.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0450AH/pre-clean/data/0427AbuIshaqThaclabi/0427AbuIshaqThaclabi.KashfWaBayan/0427AbuIshaqThaclabi.KashfWaBayan.Shamela0023578-ara1.mARkdown
+90#VERS#DATE#####: 2019-07-26
+90#VERS#ISSUES###: NO_MAJOR_ISSUES, PRIMARY_VERSION, CLEANED_VERSION

@@ -1,0 +1,16 @@
+00#VERS#CLENGTH##: 3530496
+00#VERS#LENGTH###: 936893
+00#VERS#URI######: 0460ShaykhTusi.TahdhibAhkam.Shia001161Vols-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/4770384570
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/4770384570
+80#VERS#LINKS####: https://almontdr.blogspot.com/2015/04/blog-post_60.html
+90#VERS#ANNOTATOR: Simon P. Loynes (SHARIAsource-Cnc)
+90#VERS#COMMENT##: Removed some footnotes; random chars. Tagged hadiths via
+    Regex as they followed, thankfully, a variety of patterns. Vols 6 and 9 are
+    missing in the PDFs; but as
+    the numbered entries were fully represented (i.e., no missing numbers/entries),
+    they are highly likely to reflect the printed editions.
+    Vol 10 had some additional material, not in the printed edition, which has been
+    removed (these sections were introduced by a hyperlinks).
+90#VERS#DATE#####: 2021-12-17
+90#VERS#ISSUES###: NO_MAJOR_ISSUES

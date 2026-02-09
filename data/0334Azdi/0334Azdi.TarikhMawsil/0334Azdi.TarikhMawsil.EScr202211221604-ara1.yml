@@ -1,0 +1,18 @@
+00#VERS#CLENGTH##: 913806
+00#VERS#LENGTH###: 220326
+00#VERS#URI######: 0334Azdi.TarikhMawsil.EScr202211221604-ara1
+80#VERS#BASED####: https://www.worldcat.org/title/646777699
+80#VERS#COLLATED#: https://www.worldcat.org/title/646777699
+80#VERS#LINKS####: http://shiabooks.net/library.php?id=12558
+90#VERS#ANNOTATOR: 
+90#VERS#COMMENT##: OCRed through Kraken:
+    * eScriptorium version: eScriptorium vv0.12.3c
+    * Segmentation model: 11-07-2021_GeneralizedLayoutModel
+    * OCR model: arabictestoutputmodel_new_20_0
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0350AH/pre-clean/data/0334Azdi/0334Azdi.TarikhMawsil/0334Azdi.TarikhMawsil.EScr202211221604-ara1
+90#VERS#DATE#####: 
+90#VERS#ISSUES###: UNCORRECTED_OCR, , PRIMARY_VERSION, CLEANED_VERSION

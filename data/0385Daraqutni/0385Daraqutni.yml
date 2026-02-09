@@ -1,0 +1,19 @@
+00#AUTH#URI######: 0385Daraqutni
+10#AUTH#ISM####AR: ʿAlī
+10#AUTH#KUNYA##AR: Abū al-Ḥasan
+10#AUTH#LAQAB##AR: 
+10#AUTH#NASAB##AR: b. ʿUmar b. Aḥmad b. Mahdī b. Masʿūd b. al-Nuʿmān b.
+    Dīnār b. ʿAbd Allāh
+10#AUTH#NISBA##AR: al-Dāraquṭnī
+10#AUTH#SHUHRA#AR: al-Dāraquṭnī
+20#AUTH#BORN#####: BAGHDAD_443E333N_S, Iraq_RE
+20#AUTH#DIED#####: BAGHDAD_443E333N_S
+20#AUTH#RESIDED##: BAGHDAD_443E333N_S
+20#AUTH#VISITED##: URIs from Althurayya, comma separated
+30#AUTH#BORN###AH: 306-XXX-XX
+30#AUTH#DIED###AH: 385-XXX-XX
+40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
+40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+70#AUTH#EXTID####: wikidata@Q3607438
+80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
+90#AUTH#COMMENT##: EI2: "Abu ’l-Ḥasan ʿAlī b. ʿUmar b. Aḥmad b. Mahdī b. Masʿūd b. al-Nuʿmān b. Dīnār b. ʿAbdallāh , was born in Dār al-Ḳuṭn, a large quarter of Baghdad, whence he got his nisba , in 306/918.": http://dx.doi.org/10.1163/1573-3912_islam_SIM_1714

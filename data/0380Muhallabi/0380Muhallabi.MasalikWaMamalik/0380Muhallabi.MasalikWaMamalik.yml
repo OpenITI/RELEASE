@@ -1,0 +1,24 @@
+00#BOOK#URI######: 0380Muhallabi.MasalikWaMamalik
+10#BOOK#GENRES###: _BULDAN, _JUGHRAFIYA
+10#BOOK#TITLEA#AR: Kitāb al-Masālik wa-al-Mamālik
+10#BOOK#TITLEB#AR: al-Kitāb al-ʿAzīzī
+20#BOOK#WROTE####: URIs from Althurayya, comma separated
+30#BOOK#WROTE##AH: YEAR-MON-DA (X+ for unknown)
+40#BOOK#RELATED##: URI of a book from OpenITI, or [Author's Title],
+    followed by abbreviation for relation type between brackets (see
+    book_relations repo). Only include relations with older books. Separate
+    related books with semicolon.
+70#BOOK#EXTID####: viaf@id, wikidata@id, src@id
+80#BOOK#EDITIONS#: permalink, permalink, permalink
+80#BOOK#LINKS####: permalink, permalink, permalink
+80#BOOK#MSS######: permalink, permalink, permalink
+80#BOOK#STUDIES##: permalink, permalink, permalink
+80#BOOK#TRANSLAT#: permalink, permalink, permalink
+90#BOOK#COMMENT##: A geographical work, written for the Fāṭimid caliph al-ʿAzīz bi-Allāh
+    (r. 365-386/975-996). The work itself is lost, but part of it is known from
+    citations in a manuscript in the Ambrosiana library, written by an unknown
+    author al-Kilāʿī (5th C AH) and edited by Ṣāliḥ al-Munajjid.
+    In 2006, Taysīr Khalaf published a reconstructed version of the Kitāb al-ʿAzīzī,
+    based on quotations in the Ambrosiana fragment and other fragments. In the introduction,
+    he writes  (p. 18) that he organized the fragments following the structure of Abū al-Fīdā's
+    Taqwīm al-Buldān.

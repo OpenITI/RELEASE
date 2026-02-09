@@ -1,0 +1,20 @@
+00#VERS#CLENGTH##: 57532
+00#VERS#LENGTH###: 15433
+00#VERS#URI######: 0405HakimNaysaburi.TasmiyatManAkhrajahum.Shamela0005853-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/4771090605
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/4771090605
+80#VERS#LINKS####:
+    https://archive.org/download/alfirdwsiy2020_gmail_0854
+90#VERS#ANNOTATOR: HRH
+90#VERS#COMMENT##: 1- One title in page 37 and No 1964 in page 261 are
+    missing. 2- I made very small changes in the order of the words in some
+    titles so that they could be correctly categorized. 3- Some names must
+    be added in front of blank headers as titles. 4- A manuscript of the
+    text can be found here: https://ferkous.com/home/?q=makhtot-361
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0425AH/pre-clean/data/0405HakimNaysaburi/0405HakimNaysaburi.TasmiyatManAkhrajahum/0405HakimNaysaburi.TasmiyatManAkhrajahum.Shamela0005853-ara1.completed
+90#VERS#DATE#####: 2020-03-01
+90#VERS#ISSUES###: PAGINATION, HTML_TAGS, PRIMARY_VERSION, CLEANED_VERSION

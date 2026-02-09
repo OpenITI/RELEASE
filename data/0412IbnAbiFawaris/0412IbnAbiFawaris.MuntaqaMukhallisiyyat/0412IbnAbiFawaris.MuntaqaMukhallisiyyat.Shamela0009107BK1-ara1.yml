@@ -1,0 +1,24 @@
+00#VERS#CLENGTH##: 676208
+00#VERS#LENGTH###: 170333
+00#VERS#URI######: 0412IbnAbiFawaris.MuntaqaMukhallisiyyat.Shamela0009107BK1-ara1
+80#VERS#BASED####: permalink, permalink, permalink
+80#VERS#COLLATED#: permalink, permalink, permalink
+80#VERS#LINKS####: https://archive.org/details/20210506_20210506_0407
+90#VERS#ANNOTATOR: the name of the annotator (latin characters; please
+    use consistently)
+90#VERS#COMMENT##: This text file contains (selections of)
+    most volumes of the Mukhallisiyyāt (none of the second volume).
+    The original text file contained multiple texts:
+    * 0412AbuFathIbnAbiFawaris.IntiqaMukhallisiyyat
+    * 0399AbuBakrBaqqal.IntiqaMukhallisiyyat
+    * 0700Anonymous.MuntaqaMinMuntaqaSabcatAjzaMukhallis
+    * 0393AbuTahirMukhallis.JuzFihiAhadith
+    * 0393AbuTahirMukhallis.SabcatMajalis
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0400AH/pre-
+    clean/data/0393AbuTahirMukhallis/0393AbuTahirMukhallis.Mukhallisiyyat/0393AbuTahirMukhallis.Mukhallisiyyat.Shamela0009107-ara1
+90#VERS#DATE#####: YYYY-MM-DD
+90#VERS#ISSUES###: PRIMARY_VERSION, CLEANED_VERSION

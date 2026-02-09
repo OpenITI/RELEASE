@@ -1,0 +1,36 @@
+00#BOOK#URI######: 0303Nasai.Ighrab
+10#BOOK#GENRES###: src@keyword, src@keyword, src@keyword
+10#BOOK#TITLEA#AR: Kitāb al-Iġrāb
+10#BOOK#TITLEB#AR: Ḥadīṯ Šuʿbaŧ Ibn al-Ḥajjāj wa-Sufyān al-Ṯawrī mimmā
+    aġraba baʿḍuhum ʿalá baʿḍ,  Iġrāb Šuʿbaŧ ʿalá Sufyān wa-Sufyān ʿalá
+    Šuʿbaŧ, Iġrāb Šuʿbaŧ
+20#BOOK#WROTE####: URIs from Althurayya, comma separated
+30#BOOK#WROTE##AH: YEAR-MON-DA (X+ for unknown)
+40#BOOK#RELATED##: URI of a book from OpenITI, or [Author's Title],
+    followed by abbreviation for relation type between brackets (see
+    book_relations repo). Only include relations with older books. Separate
+    related books with semicolon.
+70#BOOK#EXTID####: viaf@id, wikidata@id, src@id
+80#BOOK#EDITIONS#: http://www.worldcat.org/oclc/756059327
+80#BOOK#LINKS####:
+    https://ia800301.us.archive.org/13/items/waq46055/46055.pdf
+80#BOOK#MSS######: permalink, permalink, permalink
+80#BOOK#STUDIES##: permalink, permalink, permalink
+80#BOOK#TRANSLAT#: permalink, permalink, permalink
+90#BOOK#COMMENT##: Only part 4 of this work seems extant; the original
+    number of parts is unknown, and by the 7th C AH, only this 4th part
+    seems to have been extant  (editor's introduction p. 40f.) It is
+    known
+    in one majmūʿa manuscript, Escorial 1800, ff. 49-67, written in
+    709AH.
+    it lists ḥadīths mentioned by Sufyān al-Thawrī and not by Shuʿba b.
+    al-
+    Ḥajjāj, and vice versa (editor's introduction p. 33). The extant
+    text is
+    the riwāya of al-Nasā'ī's student  Abū al-Ḥasan Muḥammad b. ʿAbd
+    Allāh
+    b. Zakariyā b. Ḥayyūya al-Naysābūrī (editor's introduction p. 37);
+    other
+    riwāyāt of the same juz' are mentioned by Ibn Ḥajar al-ʿAsqalānī,
+    al-
+    Dhahabī, and others (editor's introduction p. 38f.)

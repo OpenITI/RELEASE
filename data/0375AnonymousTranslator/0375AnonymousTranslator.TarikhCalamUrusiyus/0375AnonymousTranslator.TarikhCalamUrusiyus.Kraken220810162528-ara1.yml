@@ -1,0 +1,19 @@
+00#VERS#CLENGTH##: 519443
+00#VERS#LENGTH###: 118515
+00#VERS#URI######: 0375AnonymousTranslator.TarikhCalamUrusiyus.Kraken220810162528-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/165721210
+80#VERS#COLLATED#: 
+80#VERS#LINKS####:
+    https://ia803106.us.archive.org/5/items/ktp2019-bskn11790/ktp2019-bskn11790.pdf
+90#VERS#ANNOTATOR: 
+90#VERS#COMMENT##: OCRed through Kraken:
+    * Kraken version: 3.0.0.0b21.dev6
+    * segmentation model: DEFAULT
+    * OCR model: 12-24-2021_ArabPersGeneralized.mlmodel
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0375AH/pre-clean/data/0375AnonymousTranslator/0375AnonymousTranslator.TarikhCalamUrusiyus/0375AnonymousTranslator.TarikhCalamUrusiyus.Kraken220810162528-ara1
+90#VERS#DATE#####: 2022-08-10
+90#VERS#ISSUES###: UNCORRECTED_OCR, PRIMARY_VERSION, CLEANED_VERSION

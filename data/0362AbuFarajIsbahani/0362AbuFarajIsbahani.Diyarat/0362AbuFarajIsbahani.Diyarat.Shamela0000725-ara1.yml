@@ -1,0 +1,18 @@
+00#VERS#CLENGTH##: 70077
+00#VERS#LENGTH###: 16875
+00#VERS#URI######: 0362AbuFarajIsbahani.Diyarat.Shamela0000725-ara1
+80#VERS#BASED####: NO_DATA_IN_METADATA
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/4770007988
+80#VERS#LINKS####: http://sooqukaz.com/index.php/المكتبة-الثقافية/الديارات-أبو-الفرج-الأصبهاني
+90#VERS#ANNOTATOR: HRH
+90#VERS#COMMENT##: At the beginning of some sections, the editor has
+    quoted some other texts to explain about the place (the references of
+    these quotations are missing in Editpro text). I tagged these parts as
+    Editorial.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0375AH/pre-clean/data/0362AbuFarajIsbahani/0362AbuFarajIsbahani.Diyarat/0362AbuFarajIsbahani.Diyarat.Shamela0000725-ara1.completed
+90#VERS#DATE#####: 2019-12-20
+90#VERS#ISSUES###: HTML_TAGS, PRIMARY_VERSION, CLEANED_VERSION

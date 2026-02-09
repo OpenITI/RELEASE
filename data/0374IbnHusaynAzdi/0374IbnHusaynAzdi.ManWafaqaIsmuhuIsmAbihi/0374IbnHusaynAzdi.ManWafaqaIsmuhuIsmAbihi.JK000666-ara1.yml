@@ -1,0 +1,21 @@
+00#VERS#CLENGTH##: 5322
+00#VERS#LENGTH###: 1449
+00#VERS#URI######: 0374IbnHusaynAzdi.ManWafaqaIsmuhuIsmAbihi.JK000666-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/949516840
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/949516840
+80#VERS#LINKS####:
+    https://ia803103.us.archive.org/26/items/a1159n/a1159n.pdf
+90#VERS#ANNOTATOR: HRH
+90#VERS#COMMENT##: 1- Some page numbers appear after their correct
+    places. 2- Another edition of the text (the Shamela version) that is
+    accessible on the internet can be found here:
+    https://ia801007.us.archive.org/19/items/a1524n/a1524n.pdf; and a
+    manuscript of the text is accessible here:
+    http://wadod.com/bookshelf/book/9
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0375AH/pre-clean/data/0374IbnHusaynAzdi/0374IbnHusaynAzdi.ManWafaqaIsmuhuIsmAbihi/0374IbnHusaynAzdi.ManWafaqaIsmuhuIsmAbihi.JK000666-ara1.completed
+90#VERS#DATE#####: 2020-01-01
+90#VERS#ISSUES###: PAGINATION, PRIMARY_VERSION, CLEANED_VERSION

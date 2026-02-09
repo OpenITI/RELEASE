@@ -1,0 +1,21 @@
+00#VERS#CLENGTH##: 2029687
+00#VERS#LENGTH###: 531546
+00#VERS#URI######: 0354IbnHibbanBusti.Thiqat.Shamela0005816-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/568326077
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/568326077
+80#VERS#LINKS####: https://archive.org/details/waq3910
+90#VERS#ANNOTATOR: HRH
+90#VERS#COMMENT##: 1- The table of contents for the first two volumes is
+    a little tricky. The chronological order of the table of contents ends
+    after 10 A.H. in the second volume. After that the table of content is
+    organized according to the events in the lifetime of four successors of
+    The Prophet. 2- I tried to use ### $$$$ for the parts that contain just
+    a list of names (i.e. not a list of names + some explanations).
+    3- Vol 6 Page 99 Line 9 is missing.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0375AH/pre-clean/data/0354IbnHibbanBusti/0354IbnHibbanBusti.Thiqat/0354IbnHibbanBusti.Thiqat.Shamela0005816-ara1.completed
+90#VERS#DATE#####: 2019-07-26
+90#VERS#ISSUES###: NO_MAJOR_ISSUES, PRIMARY_VERSION, CLEANED_VERSION

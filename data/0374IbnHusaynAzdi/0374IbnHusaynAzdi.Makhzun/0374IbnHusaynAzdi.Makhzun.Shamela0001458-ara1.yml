@@ -1,0 +1,19 @@
+00#VERS#CLENGTH##: 40375
+00#VERS#LENGTH###: 10823
+00#VERS#URI######: 0374IbnHusaynAzdi.Makhzun.Shamela0001458-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/671307807
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/671307807
+80#VERS#LINKS####: https://www.almeshkat.net/book/2135
+90#VERS#ANNOTATOR: HRH
+90#VERS#COMMENT##: 1- The page numbers at the top of the pages are
+    interred into the text and must be deleted (I just untagged them). 2-The
+    title of the second part “المستدرك” in page 168 must be added to the
+    text and besides, the names in this part do not have numbers. So, the
+    numbers must be continued after 263 using RegEx.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0375AH/pre-clean/data/0374IbnHusaynAzdi/0374IbnHusaynAzdi.Makhzun/0374IbnHusaynAzdi.Makhzun.Shamela0001458-ara1.completed
+90#VERS#DATE#####: 2020-01-01
+90#VERS#ISSUES###: PAGINATION, PRIMARY_VERSION, CLEANED_VERSION

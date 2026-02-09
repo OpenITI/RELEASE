@@ -1,0 +1,18 @@
+00#AUTH#URI######: 0369AbuShaykhIsbahani
+10#AUTH#ISM####AR: ʿAbd Al-lãh
+10#AUTH#KUNYA##AR: Abū Muḥammad
+10#AUTH#LAQAB##AR: 
+10#AUTH#NASAB##AR: b. Muḥammad b. Ǧaʿfar b. Ḥayyān
+10#AUTH#NISBA##AR: al-Anṣārī al-Ḥayyānī
+10#AUTH#SHUHRA#AR: Abū al-Šayḫ al-Ḥāfiẓ al-Iṣbahānī
+20#AUTH#BORN#####: Jibal_RE, ISBAHAN_516E326N_S
+20#AUTH#DIED#####: URIs from Althurayya, comma separated
+20#AUTH#RESIDED##: URIs from Althurayya, comma separated
+20#AUTH#VISITED##: URIs from Althurayya, comma separated
+30#AUTH#BORN###AH: 0274-XXX-XX
+30#AUTH#DIED###AH: 0369-XXX-XX
+40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
+40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+70#AUTH#EXTID####: wikidata@Q20383638
+80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
+90#AUTH#COMMENT##: No EI2 entry. The information about him is taken from the introduction to his 0369AbuShaykhIsbahani.TabaqatMuhaddithin.
