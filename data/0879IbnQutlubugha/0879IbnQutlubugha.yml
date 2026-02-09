@@ -1,0 +1,18 @@
+00#AUTH#URI######: 0879IbnQutlubugha
+10#AUTH#ISM####AR: Qāsim
+10#AUTH#KUNYA##AR: Abū al-Fidāʾ
+10#AUTH#LAQAB##AR: Zayn al-dīn
+10#AUTH#NASAB##AR: b. Quṭlūbuġā
+10#AUTH#NISBA##AR: al-Sūdūnī, al-Ǧamālī, al-Ḥanafī
+10#AUTH#SHUHRA#AR: Ibn Quṭlūbuġā
+20#AUTH#BORN#####: Misr_RE
+20#AUTH#DIED#####: URIs from Althurayya, comma separated
+20#AUTH#RESIDED##: URIs from Althurayya, comma separated
+20#AUTH#VISITED##: URIs from Althurayya, comma separated
+30#AUTH#BORN###AH: 0802-MUH-XX
+30#AUTH#DIED###AH: 0879-XXX-XX
+40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
+40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+70#AUTH#EXTID####: wikidata@Q16126606
+80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
+90#AUTH#COMMENT##: EI2: "Ḳāsim b. Ḳuṭlūbug̲h̲ā al-Ḥanafī , Egyptian scholar in ḥadīt̲h̲ and religious law. He was born in Muḥarram 802/September 1399.": http://dx.doi.org/10.1163/1573-3912_islam_SIM_3266

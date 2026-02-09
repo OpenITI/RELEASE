@@ -1,0 +1,24 @@
+00#VERS#CLENGTH##: 401267
+00#VERS#LENGTH###: 95510
+00#VERS#URI######: 0748Dhahabi.MukhtasarMinDubaythi.JK009161-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/4771101714
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/4771369913
+80#VERS#LINKS####: https://waqfeya.net/book.php?bid=3392
+90#VERS#ANNOTATOR: Jonas Köpsel (Leipzig)
+90#VERS#COMMENT##: the text was tagged before; no proper YML file yet.
+    See, `README.md` for details.
+    NOTE OF THE REVIEWER (HRH): A few titles added in square brackets to show the
+    beginning of name categories. Levelling of the headers corrected. Untagged
+    headers tagged. The numbers of name entries checked through Peter’s script and
+    corrected manually. Women’s biographies tagged. 2- -The text consists of five
+    parts. This arrangement is for the original author. So, I tagged the end of each
+    part as PARATEXT, not editorial. 3- The digital text is published as an appendix
+    (volume 15) to Ḫaṭīb Baġdādī’s Tārīḫ Baġdād published by Dār al-Kutub al-
+    ʿIlmiyyaŧ. I used a different edition for collation.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0750AH/pre-clean/data/0748Dhahabi/0748Dhahabi.MukhtasarMinDubaythi/0748Dhahabi.MukhtasarMinDubaythi.JK009161-ara1.mARkdown
+90#VERS#DATE#####: YYYY-MM-DD
+90#VERS#ISSUES###: NO_MAJOR_ISSUES, PRIMARY_VERSION, CLEANED_VERSION

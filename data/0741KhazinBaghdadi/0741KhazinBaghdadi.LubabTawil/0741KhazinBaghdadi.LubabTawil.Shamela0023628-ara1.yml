@@ -1,0 +1,24 @@
+00#VERS#CLENGTH##: 4723836
+00#VERS#LENGTH###: 1134069
+00#VERS#URI######: 0741KhazinBaghdadi.LubabTawil.Shamela0023628-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/4770045543
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/4771294409
+80#VERS#LINKS####: https://k-tb.com/book/Quraan06567-تفسير-الخازن-المسمى-لباب-
+    التأويل-في-معاني-التنزيل
+90#VERS#ANNOTATOR: SP Loynes
+90#VERS#COMMENT##: The base and collated texts are both based upon the
+    1st edition, although the former refers to a 1st edition published in
+    1995, while I used an edition from 2004. The editions appear to be the
+    same. The text conforms very closely to the printed edition. The scribe
+    has added titles detailing the ayas under discussion, and I have kept
+    these as sub-section headings. Unfortunately, the quranic quotations are
+    no longer differentiated from the rest of the text by any markers.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0750AH/pre-
+    clean/data/0741KhazinBaghdadi/0741KhazinBaghdadi.LubabTawil/0741KhazinBaghdadi.LubabTawil.Shamela0023628-ara1.completed
+90#VERS#DATE#####: 2020-06-03
+90#VERS#ISSUES###: EDITORIAL_SECTIONS, HTML_TAGS, PRIMARY_VERSION,
+    CLEANED_VERSION

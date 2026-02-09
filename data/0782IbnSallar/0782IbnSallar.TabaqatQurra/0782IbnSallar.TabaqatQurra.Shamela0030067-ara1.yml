@@ -1,0 +1,18 @@
+00#VERS#CLENGTH##: 156341
+00#VERS#LENGTH###: 37751
+00#VERS#URI######: 0782IbnSallar.TabaqatQurra.Shamela0030067-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/57075937
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/57075937
+80#VERS#LINKS####: https://archive.org/details/taqusa
+90#VERS#ANNOTATOR: SP Loynes
+90#VERS#COMMENT##: Close correspondence to the printed edition with no
+    obvious errors. The hierarchy of the titles are somewhat unclear, so I
+    have left them all at the highest level.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0800AH/pre-
+    clean/data/0782IbnSallar/0782IbnSallar.TabaqatQurra/0782IbnSallar.TabaqatQurra.Shamela0030067-ara1.completed
+90#VERS#DATE#####: 2020-07-23
+90#VERS#ISSUES###: EDITORIAL_SECTIONS, PRIMARY_VERSION, CLEANED_VERSION

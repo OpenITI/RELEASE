@@ -1,0 +1,30 @@
+00#VERS#CLENGTH##: 8953855
+00#VERS#LENGTH###: 2154248
+00#VERS#URI######: 0710IbnRifca.Kifaya.Sham19Y0014325-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/643497684
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/643497684
+80#VERS#LINKS####: https://archive.org/details/waq110361/00_110361/
+90#VERS#ANNOTATOR: Gowaart Van Den Bossche
+90#VERS#COMMENT##: Text was pretagged by Peter's conversion, which has worked
+    perfectly due to the text's very systematic structure. I did not have to correct
+    any of the headers. Pagination also appears to be fine. I changed the , commas
+    to ، which looks better. Sometimes the text seems to skip pages, but this is
+    because of extensive footnotes taking up all the space in the edition. In a few
+    cases these empty pages were replaced by strings of "000", which I have deleted.
+    I have tagged the relatively few verses of poetry in the text, though I may have
+    missed some as this was not consistently formatted in the text, so I had to do
+    various searches for phrases typically introducing poetry or mentions of the
+    meter.
+    The edition contains an extra volume (volume 20) with a hashiya by IbnRifca's
+    student al-Isnawi. This has not been digitised, but may be worthwhile to
+    digitise as a separate text.
+    NB: check lines of poetry that seem too short: line numbers 243, 3466,
+    66717, 69558, 75523
+    NOTE OF THE REVIEWER (HRH): PARATEXT added.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0725AH/pre-clean/data/0710IbnRifca/0710IbnRifca.Kifaya/0710IbnRifca.Kifaya.Sham19Y0014325-ara1.mARkdown
+90#VERS#DATE#####: 2020-10-27
+90#VERS#ISSUES###: NO_MAJOR_ISSUES, PRIMARY_VERSION, CLEANED_VERSION

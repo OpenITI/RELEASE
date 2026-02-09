@@ -1,0 +1,17 @@
+00#VERS#CLENGTH##: 608853
+00#VERS#LENGTH###: 151830
+00#VERS#URI######: 0748Dhahabi.MucjamShuyukh.Shamela0012531-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/4771120821
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/4771120821
+80#VERS#LINKS####: https://archive.org/details/121581
+90#VERS#ANNOTATOR: Leonie Nückell (Leipzig)
+90#VERS#COMMENT##: the text was tagged before; no proper YML file yet.
+    See, `README.md` for details.
+    NOTE OF THE REVIEWER (HRH): Women’s biographies tagged. A few minor corrections in the levelling of the headers made. 2- Around 50 name entries were not tagged. since the entries are not numbered by the typist, the only way to locate them is to collate a lot of entries with the ones in the PDF, which is a very time-consuming process. I did it for 10 entries, but did not keep it up. So, there are still 40 untagged entries in the text. 3- PageV01P021-24 (the author’s introduction) is missing.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0750AH/pre-clean/data/0748Dhahabi/0748Dhahabi.MucjamShuyukh/0748Dhahabi.MucjamShuyukh.Shamela0012531-ara1.mARkdown
+90#VERS#DATE#####: YYYY-MM-DD
+90#VERS#ISSUES###: MISSING_PARTS, PRIMARY_VERSION, CLEANED_VERSION

@@ -1,0 +1,18 @@
+00#AUTH#URI######: 0747MuhyiDinYunini
+10#AUTH#ISM####AR: ʿAbd al-Qādir
+10#AUTH#KUNYA##AR: Abū Muḥammad
+10#AUTH#LAQAB##AR: Muḥyī al-dīn
+10#AUTH#NASAB##AR: b. ʿAlī b. Muḥammad
+10#AUTH#NISBA##AR: al-Yūnīnī al-Baʿlbakkī
+10#AUTH#SHUHRA#AR: al-Yūnīnī
+20#AUTH#BORN#####: URIs from Althurayya, comma separated
+20#AUTH#DIED#####: URIs from Althurayya, comma separated
+20#AUTH#RESIDED##: URIs from Althurayya, comma separated
+20#AUTH#VISITED##: URIs from Althurayya, comma separated
+30#AUTH#BORN###AH: 0682-XXX-XX
+30#AUTH#DIED###AH: 0747-XXX-XX
+40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
+40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+70#AUTH#EXTID####: viaf@id, wikidata@id, src@id
+80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
+90#AUTH#COMMENT##: No EI2 entry. Information about him is taken from the introduction to Mashyakha.

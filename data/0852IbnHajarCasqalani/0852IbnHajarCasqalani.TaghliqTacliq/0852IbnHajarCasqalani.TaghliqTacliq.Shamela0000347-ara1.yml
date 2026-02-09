@@ -1,0 +1,27 @@
+00#VERS#CLENGTH##: 1443314
+00#VERS#LENGTH###: 378056
+00#VERS#URI######: 0852IbnHajarCasqalani.TaghliqTacliq.Shamela0000347-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/4770051942
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/4770051942
+80#VERS#LINKS####: https://waqfeya.com/book.php?bid=1363
+90#VERS#ANNOTATOR: SP Loynes
+90#VERS#COMMENT##: Commentary on Sahih al-Bukhari.  Good correspondence
+    w/ printed edition.  The autotagging had tagged many subsections that
+    refer to the chapters of the original work.  While these are not
+    hierarchical markers per se, I have kept (and checked most of them)  as
+    they are useful for navigation and cross-referencing w/ the original
+    work.  It also seemed counterintuitive to remove them.  Occasionally,
+    page dividers out by a couple of lines (e.g. v3: 184/5).
+    NOTE OF THE REVIEWER (HRH): I agree with the annotator about keeping the second-
+    level auto-tagged headers. I realized that there are more cases that have not
+    been taken by the auto-tagging. So, I found and tagged more cases of this kind
+    by RegEx. However, the text probably needs to be read closely by a specialist
+    since there might still be more cases. 2- A few untagged first-level headers
+    tagged, and subsequent levelling changed accordingly.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0875AH/pre-clean/data/0852IbnHajarCasqalani/0852IbnHajarCasqalani.TaghliqTacliq/0852IbnHajarCasqalani.TaghliqTacliq.Shamela0000347-ara1.mARkdown
+90#VERS#DATE#####: 2020-09-30
+90#VERS#ISSUES###: HTML_TAGS, PRIMARY_VERSION, CLEANED_VERSION

@@ -1,0 +1,21 @@
+00#VERS#CLENGTH##: 219235
+00#VERS#LENGTH###: 51747
+00#VERS#URI######: 0714AhmadGhubrini.CunwanDiraya.Shamela0096611-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/929543375
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/929543375
+80#VERS#LINKS####: https://archive.org/details/ar101dzair09
+90#VERS#ANNOTATOR: SP Loynes
+90#VERS#COMMENT##: Very good digital edition conforming very closely to
+    the printed edition. The following HTML line runs throughout: <div
+    dir="rtl" id="book-container">, as well as some others.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0725AH/pre-
+    clean/data/0714AhmadGhibrini/0714AhmadGhibrini.CunwanDiraya/0714AhmadGhibrini.CunwanDiraya.Shamela0096611-ara1.completed
+    NOTE OF THE REVIEWER (HRH): Untagged headers tagged. 2. Pages 163-173 is an
+    index of Ibn Arabi’s writings produced by himself (see page 159) and should be
+    split off. I raised an issue for this.
+90#VERS#DATE#####: 2020-05-21
+90#VERS#ISSUES###: NO_MAJOR_ISSUES, PRIMARY_VERSION, CLEANED_VERSION

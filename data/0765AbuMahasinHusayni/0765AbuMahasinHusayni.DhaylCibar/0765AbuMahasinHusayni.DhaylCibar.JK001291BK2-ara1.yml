@@ -1,0 +1,22 @@
+00#VERS#CLENGTH##: 71707
+00#VERS#LENGTH###: 16078
+00#VERS#URI######: 0765AbuMahasinHusayni.DhaylCibar.JK001291BK2-ara1
+80#VERS#BASED####: https://search.worldcat.org/en/title/57767132
+80#VERS#COLLATED#: https://search.worldcat.org/en/title/57767132
+80#VERS#LINKS####: https://ia800303.us.archive.org/9/items/FP151041/06_151046.pdf
+90#VERS#ANNOTATOR: Jonas Köpsel (Leipzig), PV, HRH
+90#VERS#COMMENT##: This text was published with al-Dhahabī's dhayl; PV
+    split the two texts (see also 0748Dhahabi.DhaylCibar.JK001291BK1-ara1)
+    - 1st level is listed in the table of contents 2nd level isn't.
+    - all the headlines were marked already -> JK randomly checked if
+    everything is complete  and didn't find any missing or wrongly marked
+    headline
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0775AH/pre-
+    clean/data/0765AbuMahasinHusayni/0765AbuMahasinHusayni.DhaylCibar/0765AbuMahasinHusayni.DhaylCibar.JK001291BK2-ara1.completed
+   NOTE OF THE REVIEWER (HRH): All obituaries tagged, and blank headers added to signify the beginning of obituary sections.
+90#VERS#DATE#####: 2020-07-27
+90#VERS#ISSUES###: NO_MAJOR_ISSUES, PRIMARY_VERSION, CLEANED_VERSION

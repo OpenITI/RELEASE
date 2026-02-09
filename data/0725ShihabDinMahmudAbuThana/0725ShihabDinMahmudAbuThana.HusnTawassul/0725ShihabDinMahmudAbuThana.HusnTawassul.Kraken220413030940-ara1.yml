@@ -1,0 +1,26 @@
+00#VERS#CLENGTH##: 206371
+00#VERS#LENGTH###: 48651
+00#VERS#URI######: 0725ShihabDinMahmudAbuThana.HusnTawassul.Kraken220413030940-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/786379011
+80#VERS#COLLATED#: 
+80#VERS#LINKS####: https://www.noor-book.com/كتاب-حسن-التوسل-الي-صناعه-
+    الترسل-‪-pdf,‬
+    https://curiosity.lib.harvard.edu/islamic-heritage-
+    project/catalog/40-990046057730203941
+90#VERS#ANNOTATOR: 
+90#VERS#COMMENT##: OCRed through Kraken:
+    * Kraken version: 3.0.0.0b21.dev6
+    * segmentation model: DEFAULT
+    * OCR model: 12-24-2021_ArabPersGeneralized.mlmodel
+    Annotated and corrected by Gowaart.
+    OCR was largely successful but did skip some lines (or generated only nonsense
+    for some lines),
+    which I have corrected where I spotted it. Annotated according to textual logic
+    as evident from a superficial look.
+    Hierarchy is not self-evident from layout.
+    I have given header status to most words and phrases rendered between brackets
+    which clearly indicate new sections.
+    Most sections separated by an asterisk I have rendered on new paragraphs to
+    break the text into more manageable units.
+90#VERS#DATE#####: 2022-04-13
+90#VERS#ISSUES###: UNCORRECTED_OCR, PRIMARY_VERSION, CLEANED_VERSION

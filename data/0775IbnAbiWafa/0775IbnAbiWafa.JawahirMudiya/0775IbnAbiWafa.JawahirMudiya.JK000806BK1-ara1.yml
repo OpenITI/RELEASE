@@ -1,0 +1,25 @@
+00#VERS#CLENGTH##: 847857
+00#VERS#LENGTH###: 202750
+00#VERS#URI######: 0775IbnAbiWafa.JawahirMudiya.JK000806BK1-ara1
+80#VERS#BASED####: https://worldcat.org/en/title/4770140679
+80#VERS#COLLATED#: https://worldcat.org/en/title/4770140679
+80#VERS#LINKS####: https://archive.org/details/afaf8686_gmail_2/1/,
+    https://archive.org/details/afaf8686_gmail_2/2/
+90#VERS#ANNOTATOR: HRH
+90#VERS#COMMENT##:
+    1- From PageV02P417 to PageV02P449 the even pages were missing. I copied them
+    from JK009262.
+    2- In the PDF, PageV02P450 onwards is a dhayl by a different author.
+    I deleted this part in this version since it lacked the even pages and therefore
+    was incomplete,
+    and raised an issue to split it off in the other version JK009262 where it is
+    complete.
+    3- A different edition is accessible here:
+    https://archive.org/details/TabaghatHanafiya
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0775AH/pre-clean/data/0775IbnAbiWafa/0775IbnAbiWafa.JawahirMudiya/0775IbnAbiWafa.JawahirMudiya.JK000806BK1-ara1.completed
+90#VERS#DATE#####: 2022-12-12
+90#VERS#ISSUES###: HTML_TAGS, PRIMARY_VERSION, CLEANED_VERSION

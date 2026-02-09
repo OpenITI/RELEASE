@@ -1,0 +1,18 @@
+00#AUTH#URI######: 0711IbnIbrahimCimadDinWasiti
+10#AUTH#ISM####AR: Aḥmad
+10#AUTH#KUNYA##AR: Abū al-ʿAbbās
+10#AUTH#LAQAB##AR: ʿImād al-dīn
+10#AUTH#NASAB##AR: b. Ibrāhīm b. ʿAbd al-Raḥmān b. Masʿūd b. ʿUmar
+10#AUTH#NISBA##AR: al-Wāsiṭī al-Ḥazzāmī
+10#AUTH#SHUHRA#AR: al-Wāsiṭī, Ibn Šayḫ al-Ḥazzāmiyyaŧ, Ibn Šayḫ al-Ḥazzāmīn
+20#AUTH#BORN#####: Iraq_RE, WASIT_463E321N_S
+20#AUTH#DIED#####: URIs from Althurayya, comma separated
+20#AUTH#RESIDED##: URIs from Althurayya, comma separated
+20#AUTH#VISITED##: URIs from Althurayya, comma separated
+30#AUTH#BORN###AH: 0657-DHH-11
+30#AUTH#DIED###AH: 0711-RA2-16
+40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
+40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+70#AUTH#EXTID####: wikidata@Q25450868
+80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
+90#AUTH#COMMENT##: No EI2 entry. Information about him is taken from the introduction to Rihla.

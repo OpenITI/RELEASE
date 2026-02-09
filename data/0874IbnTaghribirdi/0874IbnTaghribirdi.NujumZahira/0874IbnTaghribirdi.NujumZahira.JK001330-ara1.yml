@@ -1,0 +1,23 @@
+00#VERS#CLENGTH##: 4903856
+00#VERS#LENGTH###: 1122603
+00#VERS#URI######: 0874IbnTaghribirdi.NujumZahira.JK001330-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/4771219847
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/4771219847
+80#VERS#LINKS####: https://archive.org/details/15-15_202011/01- النجوم الزاهرة
+    في ملوك مصر والقاهرة ج1
+90#VERS#ANNOTATOR: the name of the annotator (latin characters; please
+    use consistently)
+90#VERS#COMMENT##: the text was tagged before; no proper YML file yet.
+    See, `README.md` for details.
+    NOTE OF THE REVIEWER (HRH): Fixed the header tags that almost all had been
+    tagged incompletely. A lot of untagged headers tagged. The tags for Juz’
+    removed, and all tags moved up by one level. Corrections made in the levelling
+    of headers. A part of PageV03P159 which was duplicate removed. 2- A different
+    edition is accessible: https://archive.org/details/1505p.d.f1393
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0875AH/pre-clean/data/0874IbnTaghribirdi/0874IbnTaghribirdi.NujumZahira/0874IbnTaghribirdi.NujumZahira.JK001330-ara1.mARkdown
+90#VERS#DATE#####: YYYY-MM-DD
+90#VERS#ISSUES###: RANDOM_CHARS, PRIMARY_VERSION, CLEANED_VERSION

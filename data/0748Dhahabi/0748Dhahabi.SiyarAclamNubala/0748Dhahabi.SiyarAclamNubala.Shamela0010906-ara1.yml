@@ -1,0 +1,27 @@
+00#VERS#CLENGTH##: 8922699
+00#VERS#LENGTH###: 2186412
+00#VERS#URI######: 0748Dhahabi.SiyarAclamNubala.Shamela0010906-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/4770165184
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/4770894413
+80#VERS#LINKS####: https://archive.org/details/sanmfkod
+90#VERS#ANNOTATOR: Leonie  Nückell (Leipzig)
+90#VERS#COMMENT##: the text was tagged before; no proper YML file yet.
+    See, `README.md` for details.
+    NOTE OF THE REVIEWER (HRH): Levelling of the headers corrected. PARATEXT added.
+    Editorial sections removed. Women’s biographies tagged. The numbers of name
+    entries checked through Peter’s script and corrected manually (A few entry
+    numbers are outside the normal numbering. However, this is the numbering style
+    in the PDF, not a problem in the digital version. I showed them with an
+    asterisk: ### $ *). 2- I collated the first three volumes again and tagged a lot
+    of untagged headers. 3- The name section consists of 23 volumes and the numbers
+    restart from 1 in each volume. The volumes are not part of the structure, and I
+    removed their header tags. There is a PARATEXT section at the end of each volume
+    that can be used as a marker for the beginning of volumes. 4- A part of
+    PageV01P376 and PageV01P385 is missing.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0750AH/pre-clean/data/0748Dhahabi/0748Dhahabi.SiyarAclamNubala/0748Dhahabi.SiyarAclamNubala.Shamela0010906-ara1.mARkdown
+90#VERS#DATE#####: YYYY-MM-DD
+90#VERS#ISSUES###: PAGINATION (first 3 volumes), MISSING_PARTS, HTML_TAGS, PRIMARY_VERSION, CLEANED_VERSION

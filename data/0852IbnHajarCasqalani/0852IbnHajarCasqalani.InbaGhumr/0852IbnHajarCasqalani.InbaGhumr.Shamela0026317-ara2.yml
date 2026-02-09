@@ -1,0 +1,25 @@
+00#VERS#CLENGTH##: 1738901
+00#VERS#LENGTH###: 407063
+00#VERS#URI######: 0852IbnHajarCasqalani.InbaGhumr.Shamela0026317-ara2
+80#VERS#BASED####: http://www.worldcat.org/oclc/1049183702
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/1049183702
+80#VERS#LINKS####: https://archive.org/details/InbaAlghumur
+90#VERS#ANNOTATOR: SP Loynes
+90#VERS#COMMENT##: PARTIALLY TAGGED ONLY. I had to manually add all of the
+    biographical
+    entries, and I have also numbered them consistently w/ the printed edition
+    (this also helped ensure none were missed when tagging). Pages
+    occasionally out by a couple of lines. Texts varies occasionally from
+    printed edition w/ words omitted or added by scribe and/or small scribal
+    errors (e.g., fi rajab vs. fi shahr rajab, hassan vs. al-husayn). Volume
+    numbers are in wrong places (now marked as editorial). Occasionally the
+    order of the biographical entries is not entirely consistent w/ the
+    printed edition: in the case of additional entries, I have tagged but
+    not included any numbering. The odd bio entry is missing; increasingly from v2
+    onwards: For example, no. 40, 45
+    p271; part of bio 5 missing on p292; missing bio 36, p300; 14
+    is missing from p324. 22 is missing from v2:p28, textual variance on 27, 28
+    missing; v2:p29, 36 missing. These are marked with the new ### |MISSING| tag.
+    Raised a Text Quality issue.
+90#VERS#DATE#####: 2020-09-28
+90#VERS#ISSUES###: MISSING_PARTS

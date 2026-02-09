@@ -1,0 +1,53 @@
+00#VERS#CLENGTH##: 8944273
+00#VERS#LENGTH###: 2193224
+00#VERS#URI######: 0774IbnKathir.Bidaya.Shamela0004445-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/4770896261
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/4770896261
+80#VERS#LINKS####: https://waqfeya.com/book.php?bid=328
+90#VERS#ANNOTATOR: HRH
+90#VERS#COMMENT##: 1- The book’s table of contents is not accurate. For
+    example, in Vol 1 the chapter on the story of Adam (“باب ما ورد في خلق
+    آدم عليه السلام”) continues until the story of the descendants of
+    Ibrahim. Or in the second volume, the title “باب ذكر جماعة من أنبياء بني
+    إسرائيل بعد داود وسليمان وقبل زكريا ويحيى عليهم السلام” also includes
+    the stories of Zakariyya and Yahya! I made small corrections by
+    separating the stories relevant to each prophet to make the table of
+    contents more reasonable. Moreover, some titles in the text are missing
+    in the book’s table of contents (I have tagged them; so, Editpro text is
+    now more reliable than the PDF). 2- The main categorization of the book
+    is chronological. So, from PageV09P413 onwards (which is the beginning
+    of the government of the caliphs), I kept up this chronological
+    categorization and I avoided categorizing the titles according to the
+    reign of caliphs. It is not possible to enforce a dual categorization in
+    the text. We must adhere to one specific categorization; and here, the
+    chronological categorization is of priority (a lot of the information
+    presented under each year is just obituaries and has nothing to do with
+    the reign of the caliphs). 3- Most of the titles are repeated
+    redundantly, once in brackets and once without them. I kept one of them
+    (the one that seemed correct) and untagged the other one (but I didn’t
+    delete the redundant title; since I am not allowed to delete anything).
+    4- There is a part at the end of each year entitled “من توفي فيها من
+    الأعيان” which includes obituaries. I have tagged the names under this
+    section because they are part of structural annotation. There are also
+    some other obituaries in other parts of the text. I didn’t tag them
+    because they are inside the text without any specific title to separate
+    them and could not be considered as part of structural annotation. 5-The
+    title “[ما وقع فيها من الأحداث]” is copied in the beginning of each year
+    (probably by the typist, because it does not exist in the PDF); but in
+    many cases it is not a correct title (sometimes this first part is just
+    an introduction and no event is mentioned at all). 6- I just categorize
+    the text according to what can be inferred from the headers. A more
+    accurate categorization might be possible if someone reads the whole
+    text carefully. 7- NOTE ON “0774IbnKathir.Bidaya” FOLDER ON THE
+    REPOSITORY: there are two other books in this folder entitled “السيرة
+    النبوية” and “معجزات النبي”. These books are extracts from “البداية
+    والنهاية” which are published separately by other publishers. I checked
+    some parts of these texts. They were exactly the same as the original
+    text.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0775AH/pre-clean/data/0774IbnKathir/0774IbnKathir.Bidaya/0774IbnKathir.Bidaya.Shamela0004445-ara1.completed
+90#VERS#DATE#####: 2019-10-14
+90#VERS#ISSUES###: HTML_TAGS, EDITORIAL_SECTIONS, PRIMARY_VERSION, CLEANED_VERSION

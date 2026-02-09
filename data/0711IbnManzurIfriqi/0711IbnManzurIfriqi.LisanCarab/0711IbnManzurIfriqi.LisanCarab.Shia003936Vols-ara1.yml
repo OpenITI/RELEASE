@@ -1,0 +1,19 @@
+00#VERS#CLENGTH##: 13183050
+00#VERS#LENGTH###: 3103062
+00#VERS#URI######: 0711IbnManzurIfriqi.LisanCarab.Shia003936Vols-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/173667495
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/173667495
+80#VERS#LINKS####: https://k-tb.com/book/Arabi17735-لسان-العرب
+90#VERS#ANNOTATOR: SP Loynes
+90#VERS#COMMENT##: There is no publishing information in the shia file,
+    however, it is clearly based on the 1st edition published by Dar al-
+    Sadir. I choose this version over the shamela because, in spite of it
+    having no tags, it has preserved the subsections from the printed
+    edition which divide each letter entry. For example, 'fasl al-hamza,
+    fasl al-ba' al-muwahhada', etc. For some reason, these are omitted from
+    the other versions. It would be useful for the reader to have these
+    subdivision to be able to find roots easier. UPDATE: Only partially
+    tagged: this version was abandoned as the subsections are not
+    necessarily needed at this stage.
+90#VERS#DATE#####: 2020-05-22
+90#VERS#ISSUES###: formalized issues, separated with commas

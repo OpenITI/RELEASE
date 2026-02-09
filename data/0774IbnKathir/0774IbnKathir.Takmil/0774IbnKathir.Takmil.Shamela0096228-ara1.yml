@@ -1,0 +1,24 @@
+00#VERS#CLENGTH##: 938862
+00#VERS#LENGTH###: 244995
+00#VERS#URI######: 0774IbnKathir.Takmil.Shamela0096228-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/6993306312
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/6993306312
+80#VERS#LINKS####: https://waqfeya.com/book.php?bid=12266
+90#VERS#ANNOTATOR: SP Loynes
+90#VERS#COMMENT##: There is no record of this edition on worldcat. Good
+    correspondence between base and collated text.
+    NOTE OF THE ANNOTATOR (HRH): I just made a few corrections in levelling and
+    added a few blank header tags to separate the names when they change. 2- There
+    are a lot of names in the text (especially in the last volume) that do not have
+    numbers. They are either cress-references or, I think, could be references to
+    the names in the first part of this book (this book begins with the letter “m”)
+    or the names in the original book to which this book is a Takmila. In any case,
+    there is no information about these names and they expectedly have not been
+    tagged. They all begin with a hashtag and a dash (# -).
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0775AH/pre-clean/data/0774IbnKathir/0774IbnKathir.Takmil/0774IbnKathir.Takmil.Shamela0096228-ara1.mARkdown
+90#VERS#DATE#####: 2020-07-06
+90#VERS#ISSUES###: HTML_TAGS, PRIMARY_VERSION, CLEANED_VERSION

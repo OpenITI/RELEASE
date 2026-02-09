@@ -1,0 +1,20 @@
+00#VERS#CLENGTH##: 78574
+00#VERS#LENGTH###: 18527
+00#VERS#URI######: 0833Shaybi.Sharaf.MMS00005-ara1
+80#VERS#BASED####: NOT_FOUND
+80#VERS#COLLATED#: 
+80#VERS#LINKS####: 
+90#VERS#ANNOTATOR: HRH
+90#VERS#COMMENT##: Text provided by the ERC Project
+    "The Mamlukisation of the Mamluk Sultanate"
+    (MMS, PI: Jo Van Steenbergen).
+    OCR: Calfa
+    Text processed by Manhal Makhoul MMS-II.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0850AH/pre-clean/data/0833Shaybi/0833Shaybi.Sharaf/0833Shaybi.Sharaf.MMS00005-ara1
+   NOTE OF THE ANNOTATOR (HRH): I couldn’t find any PDF of this text, and tagged it based on structure (it’s a short text with an almost clear structure). A manuscript of the text is accessible here: https://ketabpedia.com/%D8%AA%D8%AD%D9%85%D9%8A%D9%84/%D9%85%D8%AE%D8%B7%D9%88%D8%B7%D8%A9-%D8%A7%D9%84%D8%B4%D8%B1%D9%81-%D8%A7%D9%84%D8%A7%D8%B9%D9%84%D9%89-%D9%81%D9%8A-%D8%B0%D9%83%D8%B1-%D9%82%D8%A8%D9%88%D8%B1-%D9%85%D9%82%D8%A8%D8%B1%D8%A9/
+90#VERS#DATE#####: 2023-12-11
+90#VERS#ISSUES###: NO_MAJOR_ISSUES, PRIMARY_VERSION, CLEANED_VERSION

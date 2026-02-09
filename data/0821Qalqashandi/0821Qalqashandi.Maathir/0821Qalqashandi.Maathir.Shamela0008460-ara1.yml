@@ -1,0 +1,17 @@
+00#VERS#CLENGTH##: 611369
+00#VERS#LENGTH###: 140484
+00#VERS#URI######: 0821Qalqashandi.Maathir.Shamela0008460-ara1
+80#VERS#BASED####: https://worldcat.org/en/title/1157726951
+80#VERS#COLLATED#: https://worldcat.org/en/title/1157726951
+80#VERS#LINKS####: https://archive.org/details/010300890
+90#VERS#ANNOTATOR: HRH
+90#VERS#COMMENT##: The text seemed to be typed carelessly. I see some pages that
+    are missing (PageV01P317, PageV03P002 for instance).
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0825AH/pre-
+    clean/data/0821Qalqashandi/0821Qalqashandi.Maathir/0821Qalqashandi.Maathir.Shamela0008460-ara1.completed
+90#VERS#DATE#####: 2023-03-17
+90#VERS#ISSUES###: MISSING_PARTS, PRIMARY_VERSION, CLEANED_VERSION

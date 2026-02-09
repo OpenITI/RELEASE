@@ -1,0 +1,28 @@
+00#VERS#CLENGTH##: 594728
+00#VERS#LENGTH###: 144743
+00#VERS#URI######: 0718AbuIshaqWatwat.GhurarKhasais.Shamela0001349-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/436156268
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/436156268
+80#VERS#LINKS####: https://archive.org/details/20191013_20191013_1700
+90#VERS#ANNOTATOR: Gowaart Van Den Bossche
+90#VERS#COMMENT##: Paragraph markers are not consistent in the text. I
+    have corrected a few in the introduction, but it would take too much
+    time to apply it throughout the text. Some mistagging in the
+    introduction's table of contents which I have also reformatted. I've
+    rendered every (sub)header onto one line. Poetry has been automatically
+    tagged, except incomplete bayts which only have the first hemistich,
+    these are generally buried in paragraphs. I have only corrected them
+    where I could spot them easily. The Arabic text seems to be of quite
+    high quality but does have typos (for example second word on line 5366
+    should be su'ila not mathala).
+    NB: check lines of poetry that seem too short: line numbers 2964, 3006
+    NB: check lines of poetry that seem too long: line numbers 590, 5377, 6912,
+    8006
+    NOTE OF THE REVIEWER (HRH): A few minor corrections in the levelling of the headers made.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0725AH/pre-clean/data/0718AbuIshaqWatwat/0718AbuIshaqWatwat.GhurarKhasais/0718AbuIshaqWatwat.GhurarKhasais.Shamela0001349-ara1.mARkdown
+90#VERS#DATE#####: 2020-04-27
+90#VERS#ISSUES###: NO_MAJOR_ISSUES, PRIMARY_VERSION, CLEANED_VERSION

@@ -1,0 +1,17 @@
+00#BOOK#URI######: 0786IbnMuhammadBabarti.SharhMukhtasarIbnHajib
+10#BOOK#GENRES###: src@keyword, src@keyword, src@keyword
+10#BOOK#TITLEA#AR: Kitāb al-Muʾallif
+10#BOOK#TITLEB#AR: Risālaŧ al-Muʾallif
+20#BOOK#WROTE####: URIs from Althurayya, comma separated
+30#BOOK#WROTE##AH: YEAR-MON-DA (X+ for unknown)
+40#BOOK#RELATED##: 0646IbnCumarIbnHajibKurdi.MukhtasarMuntaha (COMM.sharh)
+70#BOOK#EXTID####: viaf@id, wikidata@id, src@id
+80#BOOK#EDITIONS#: permalink, permalink, permalink
+80#BOOK#LINKS####: permalink, permalink, permalink
+80#BOOK#MSS######: permalink, permalink, permalink
+80#BOOK#STUDIES##: permalink, permalink, permalink
+80#BOOK#TRANSLAT#: permalink, permalink, permalink
+90#BOOK#COMMENT##: sharḥ by al-Bābartī of Ibn al-Ḥājib’s Mukhtaṣar al-Muntahā
+    al-uṣūlī = Mukhtaṣar Muntahā as-sūl wa-l-amal fī ʿilmay al-uṣūl wa-l-jadal,
+    which is a mukhtaṣar of his Muntahā al-uṣūlī = Muntahā as-sūl wa-l-amal fī
+    ʿilmay al-uṣūl wa-l-jadal

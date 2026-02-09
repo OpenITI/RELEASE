@@ -1,0 +1,17 @@
+00#BOOK#URI######: 0748Dhahabi.TadhkiratHuffaz
+10#BOOK#GENRES###: src@keyword, src@keyword, src@keyword
+10#BOOK#TITLEA#AR: Taḏkiraŧ al-ḥuffāẓ
+10#BOOK#TITLEB#AR: Risālaŧ al-Muʾallif
+20#BOOK#WROTE####: URIs from Althurayya, comma separated
+30#BOOK#WROTE##AH: YEAR-MON-DA (X+ for unknown)
+40#BOOK#RELATED##: URI of a book from OpenITI, or [Author's Title],
+    followed by abbreviation for relation type between brackets (see
+    book_relations repo). Only include relations with older books. Separate
+    related books with semicolon.
+70#BOOK#EXTID####: viaf@id, wikidata@id, src@id
+80#BOOK#EDITIONS#: permalink, permalink, permalink
+80#BOOK#LINKS####: permalink, permalink, permalink
+80#BOOK#MSS######: permalink, permalink, permalink
+80#BOOK#STUDIES##: permalink, permalink, permalink
+80#BOOK#TRANSLAT#: permalink, permalink, permalink
+90#BOOK#COMMENT##: JK000532 which is published by Dār al-kutub alʿilmiyyaŧ and Shia003279Vols which is published by Dār Iḥyāʾ al-Turāṯ have the same page numbers, and therefore one must be a reprint of another. Shamela0001583  and ShamAY0038192 Which are published by Dār al-kutub alʿilmiyyaŧ have the same page numbers but are different from JK000532.

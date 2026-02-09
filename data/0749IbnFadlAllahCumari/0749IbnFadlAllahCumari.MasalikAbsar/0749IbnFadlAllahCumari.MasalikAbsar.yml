@@ -1,0 +1,23 @@
+00#BOOK#URI######: 0749IbnFadlAllahCumari.MasalikAbsar
+10#BOOK#GENRES###: _BULDAN, _JUGHRAFIYA
+10#BOOK#TITLEA#AR: Masālik al-abṣār fī mamālik al-amṣār
+10#BOOK#TITLEB#AR: 
+20#BOOK#WROTE####: URIs from Althurayya, comma separated
+30#BOOK#WROTE##AH: YEAR-MON-DA (X+ for unknown)
+40#BOOK#RELATED##: URI of a book from OpenITI, or [Author's Title],
+    followed by abbreviation for relation type between brackets (see
+    book_relations repo). Only include relations with older books. Separate
+    related books with semicolon.
+70#BOOK#EXTID####: viaf@id, wikidata@id, src@id
+80#BOOK#EDITIONS#: permalink, permalink, permalink
+80#BOOK#LINKS####: permalink, permalink, permalink
+80#BOOK#MSS######: permalink, permalink, permalink
+80#BOOK#STUDIES##: permalink, permalink, permalink
+80#BOOK#TRANSLAT#: permalink, permalink, permalink
+90#BOOK#COMMENT##: A 27-volume geographical work.
+    Sezgin describes it in his Geschichte der arabischen Schrifttums (15.291):
+    "(al-ʿUmarī) constructed his book in two main parts: the first four volumes
+    treat purely geographical problems, the remaining 23 volumes the
+    inhabitants of the Earth (sukkān al-arḍ). (...) Ibn Faḍl Allāh has preserved
+    the world map and the first three clime maps of the Ma'mūn geography,
+    in addition to significant citations from the descriptive part of that work.
