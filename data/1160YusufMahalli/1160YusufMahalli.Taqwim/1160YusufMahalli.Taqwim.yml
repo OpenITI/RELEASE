@@ -1,0 +1,83 @@
+00#BOOK#URI######: 1160YusufMahalli.Taqwim
+10#BOOK#GENRES###: src@keyword, src@keyword, src@keyword
+10#BOOK#TITLEA#AR: Kitāb al-Taqwīm
+10#BOOK#TITLEB#AR: 
+20#BOOK#WROTE####: SANA_442E153N_S
+30#BOOK#WROTE##AH: 1145-10-XX
+40#BOOK#RELATED##: URI of a book from OpenITI, or [Author's Title],
+    followed by abbreviation for relation type between brackets (see
+    book_relations repo). Only include relations with older books. Separate
+    related books with semicolon.
+70#BOOK#EXTID####: viaf@id, wikidata@id, src@id
+80#BOOK#EDITIONS#: permalink, permalink, permalink
+80#BOOK#LINKS####:
+    http://www.filaha.org/almanac_yusuf_al_mahalli.html#ArabicText
+80#BOOK#MSS######: permalink, permalink, permalink
+80#BOOK#STUDIES##: permalink, permalink, permalink
+80#BOOK#TRANSLAT#: permalink, permalink, permalink
+90#BOOK#COMMENT##: An astronomical work, "compiled in Ṣanʿā’, Yemen
+    during the rule of the Zaydī imam al-Manṣūr bi-Allāh Ḥusayn ibn al-
+    Qāsim" (http://www.filaha.org/almanac_yusuf_al_mahalli.html). "The
+    introduction is mainly a justification for studying astronomy (...)
+    the
+    first six pages focus on judicial astrology (aḥkām) (...). This is
+    followed by a two page chart of what is beneficial in diet and
+    health
+    for each season of the year. This is standard seasonal lore not
+    directly
+    related to Yemen. Next are several page charts, including an
+    illustration of a lunar eclipse forecast for the month of Dhū al-
+    Ḥijja
+    in 1145 A.H., a discussion of the visibility of Sirius (al-shiʿrā)
+    in
+    Yemen and what that portends for the year, lucky and unlucky star
+    positions, and the movement of the sun. The last part of the text
+    (ff.
+    10b-22b) is an almanac chart (...). The almanac chart is constructed
+    day
+    by day on the basis of the Seleucid Christian solar calendar,
+    starting
+    with the vernal equinox. (...) Information in the almanac tables is
+    contained in charts (folios 10b-22b), with each folio spread
+    containing
+    28 columns.  The contents of these columns, from right to left, are
+    summarized below as given along the top of the first chart: 1.
+    aḥkām
+    al-mamāzijāt:  this section is written as a single column containing
+    generic predictions about events during the zodiacal month.  2.
+    tawqīʿāt:  This section records specific data about the seasons,
+    calendrical correlations, agricultural activities and the like, as
+    edited and translated below. 3.  asāmī ayyām al-usbūʿ:  Arabic names
+    of
+    the days of the week 4.  al-ʿadad min Shawwāl sannat 1145:  numbers
+    of
+    the days in the Hijri month of Shawwāl in 1145 A.H. 5.  al-ʿadad min
+    Baramhāt sannat 1449:  numbers of the days in the month of Baramhāt
+    in
+    1449 of the Coptic calendar. 6.  al-ʿadad min Ādhār Rūmī sannat
+    2044:
+    numbers of the days in the month of Ādhār in 2044 of the Seleucid
+    Christian solar calendar. 7.  al-ʿadad min Shahrīwarmāh sannat 1102:
+    numbers of the days in the month of Shahrīwarmāh in 1102 of the
+    Yazdigard reckoning of the Persian calendar. 8-15.  ḥarakāt al-
+    kawākib
+    fī al-burūj:  star movements in the zodiacal houses. 16.  ḍill al-
+    zawāl
+    aqdām wa-daqā’iq:  noon shadow length in feet and minutes. 17.
+    asāmī
+    ayyām al-usbūʿ: Arabic names of the days of the week, repeated here
+    because it is the first column of a new page. 18.  al-ʿadad min
+    Shawwāl:
+    numbers of the days in the Hijri month of Shawwāl 19.  manāzil al-
+    qamar:
+    stations of the moon (for each day). 20.  burūj al-qamar:  zodiacal
+    houses of the moon (for each day). 21-26.  ittiṣāl al-qamar bi-al-
+    kawākib:  conjunction of the moon with moving stars or planets. 27.
+    al-
+    mumāzzajāt: mixed fortunes 28.  al-ikhtiyārāt al-qamarīya:
+    recommended
+    acts based on the moon."
+    (http://www.filaha.org/almanac_yusuf_al_mahalli.html#Text) Only the
+    second column of the almanac chart has been edited, by Daniel
+    Varisco.
+    (http://www.filaha.org/almanac_yusuf_al_mahalli.html)

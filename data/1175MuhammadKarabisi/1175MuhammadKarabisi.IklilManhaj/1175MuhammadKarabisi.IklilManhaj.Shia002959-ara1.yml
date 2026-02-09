@@ -1,0 +1,20 @@
+00#VERS#CLENGTH##: 550189
+00#VERS#LENGTH###: 140929
+00#VERS#URI######: 1175MuhammadKarabisi.IklilManhaj.Shia002959-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/228100057
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/228100057
+80#VERS#LINKS####: http://alfeker.net/library.php?id=3268
+90#VERS#ANNOTATOR: HRH
+90#VERS#COMMENT##: The numbers are checked by Peter’s script. 2- As mentioned in
+    page 535, the second part of the text is an abridged version of “سير السلف” by
+    “الإمام إسماعيل بن محمد بن الفضل الطلحي التيمي الإصفهاني” (d. 535 AH; does not
+    exist in our corpus; find its PDF here:
+    https://ia902901.us.archive.org/20/items/fresh_soul2030_yahoo_20170306_1711/%D8%B3%D9%8A%D8%B1%20%D8%A7%D9%84%D8%B3%D9%84%D9%81%20%D8%A7%D9%84%D8%B5%D8%A7%D9%84%D8%AD%D9%8A%D9%86.pdf).
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/1175AH/pre-
+    clean/data/1175MuhammadKarabisi/1175MuhammadKarabisi.IklilManhaj/1175MuhammadKarabisi.IklilManhaj.Shia002959-ara1.completed
+90#VERS#DATE#####: 2020-12-13
+90#VERS#ISSUES###: EDITORIAL_SECTIONS, PRIMARY_VERSION, CLEANED_VERSION

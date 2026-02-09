@@ -1,0 +1,20 @@
+00#VERS#CLENGTH##: 217774
+00#VERS#LENGTH###: 56380
+00#VERS#URI######: 1191Kawkabani.IthafKhassa.Shamela0005858BK2-ara1
+80#VERS#BASED####: http://www.worldcat.org/oclc/1044649777
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/1044649777
+80#VERS#LINKS####: https://archive.org/details/WAQkttkkttk/mode/2up
+90#VERS#ANNOTATOR: Jonas Koepsel, PV
+90#VERS#COMMENT##: The original digital text contained
+    0923IbnCabdAllahKhazraji.KhulasatTadhhibTahdhibKamal
+    and a later commentary: 1191Kawkabani.IthafKhassa
+    (which in the paper edition was printed in the margins).
+    The comments are linked to the text with numbers between brackets.
+    PV split the commentary off from the main text.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/1200AH/pre-clean/data/1191Kawkabani/1191Kawkabani.IthafKhassa/1191Kawkabani.IthafKhassa.Shamela0005858BK2-ara1.completed
+90#VERS#DATE#####: YYYY-MM-DD
+90#VERS#ISSUES###: PRIMARY_VERSION, CLEANED_VERSION
